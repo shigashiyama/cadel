@@ -18,17 +18,15 @@ You can confirm them using the following commmand (with Python 3.8.0 or later). 
 - `python3 src/show_data_statistics.py -i data/json_split/train.json`
 
 |                              |Train   |Dev     |Test   |Total| 
-|--                            |--      |--      |--     |--   | 
+|--                            |--:     |--:     |--:    |--:  | 
 |Document                      |      39|      15|     31|   85| 
 |Subdocument                   |      74|      31|     55|  160| 
 |Sentence                      |   1,607|     636|  1,609|3,852| 
-|--                            |--      |--      |--     |     | 
 |Mention                       |   2,903|   1,354|  3,825|8,082| 
 |Mention w/ Wikidata link      |   2,123|   1,124|  3,215|6,462| 
 |Mention w/ Wikipedia_Ja link  |   2,087|   1,115|  3,032|6,234| 
 |Mention w/ OSM link	       |     613|     392|    974|1,979| 
 |Mention related to Japan      |   1,846|     889|  2,203|4,938| 
-|--                            |--      |--      |--     |--   | 
 |Entity                        |   1,472|     715|  1,852|4,039| 
 |Entity w/ Wikidata link       |   1,041|     581|  1,508|2,994| 
 |Entity w/ Wikipedia_Ja link   |   1,017|     572|  1,405|3,130| 
@@ -37,9 +35,10 @@ You can confirm them using the following commmand (with Python 3.8.0 or later). 
 
 The number of mentions for each entity type is as follows.
 The names of persons not found in Wikidata are masked with `■` symbols, and their spans are annotated with the `PER_MASKED` type.
+The `NOMINAL` type indicates non-named mentions, whereas the other types indicate named mentions.
 
 |Type      |Explanation         |Train|Dev|Test|Total|
-|--        |--                  |--   |-- |--  |--   |
+|--        |--                  |--:  |--:|--: |--:  |
 |PER       |Person              |   41| 55| 125|  221|
 |PER_MASKED|Person (masked)	|   44| 11|  31|   86|
 |LIV	   |Living thinkgs	|    6|	 0|   2|    8|
@@ -217,6 +216,10 @@ which focuses on geographic entity linking:
       ...
     }
     ~~~~
+
+## Specification
+
+- In each entity, null `ref_type` indicates an exact match link (一致リンク), while other values indicate non-exact match links (関連リンク) as defined in our paper.
 
 ## Copyright
 
