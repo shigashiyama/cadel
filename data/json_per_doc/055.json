@@ -1,0 +1,2543 @@
+{
+  "055-1": {
+    "metainfo": {
+      "src_date": "20230900",
+      "src_url": "https://www.maff.go.jp/kinki/pr/magazine/mini/attach/pdf/miniindex-5.pdf",
+      "src_parent_url": "https://www.maff.go.jp/kinki/pr/magazine/mini/miniindex.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "近畿農政局月刊情報紙「新鮮mini情報」2023年9月号",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "谷瀬の吊り橋(奈良県十津川村)",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "~スリル満天!空中散歩「谷瀬のつり橋」~",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "004": {
+        "text": "日本有数の長さを誇る鉄線のつり橋。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "005": {
+        "text": "長さは297メートル、高さは54メートルにもなり、生活用鉄線吊り橋としては長さ日本一。",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "006": {
+        "text": "周囲はそびえ立つ山々に囲まれ、眼下には清澄な熊野川(十津川)が流れています。",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      },
+      "007": {
+        "text": "まさに絶景を楽しめる最高のロケーションで、歩くたびにゆらゆらと揺れるつり橋はスリル満点!",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "まるで空中を散歩している気分。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "十津川村NO.1の観光スポットです。",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "010": {
+        "text": "すぐ下にはオートキャンプ場があり、夏はBBQや川遊び、また気候の良い秋キャンプを楽しむ人々でにぎわいます。",
+        "mention_ids": [
+          "M013"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          5
+        ],
+        "text": "近畿農政局",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          11,
+          19
+        ],
+        "text": "新鮮mini情報",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          6
+        ],
+        "text": "谷瀬の吊り橋",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          7,
+          10
+        ],
+        "text": "奈良県",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          10,
+          14
+        ],
+        "text": "十津川村",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          12,
+          18
+        ],
+        "text": "谷瀬のつり橋",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          13,
+          16
+        ],
+        "text": "つり橋",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          39,
+          41
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          22,
+          25
+        ],
+        "text": "熊野川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          26,
+          29
+        ],
+        "text": "十津川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          4
+        ],
+        "text": "十津川村",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "010",
+        "span": [
+          5,
+          13
+        ],
+        "text": "オートキャンプ場",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11638661",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E8%BE%B2%E6%94%BF%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.021944444",
+          "135.754444444"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/kinki/pr/magazine/mini/miniindex.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M006",
+          "M008"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11633037",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E7%80%AC%E3%81%AE%E5%90%8A%E3%82%8A%E6%A9%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.101291",
+          "135.763121"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q131287",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/358631",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.685194444",
+          "135.832944444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1202740",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E6%B4%A5%E5%B7%9D%E6%9D%91",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3253735",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.988444444",
+          "135.792555555"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1972071",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%86%8A%E9%87%8E%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13374556",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.7317",
+          "136.0"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11405127",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E6%B4%A5%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://totsukawa-web.com/tanise-autocamp/"
+        }
+      }
+    }
+  },
+  "055-2": {
+    "metainfo": {
+      "src_date": "20230900",
+      "src_url": "https://www.maff.go.jp/kinki/pr/magazine/mini/attach/pdf/miniindex-5.pdf",
+      "src_parent_url": "https://www.maff.go.jp/kinki/pr/magazine/mini/miniindex.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "和食がユネスコに登録されて10周年を迎えます!",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "~和食文化普及イベントを全国で開催~",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "003": {
+        "text": "農林水産省は、一般社団法人和食文化国民会議と連携し、和食のユネスコ無形文化遺産登録10周年を迎えることを契機とした、和食文化の普及イベントを開催します。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "004": {
+        "type": "heading",
+        "text": "1.概要",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "「和食;日本人の伝統的な食文化」がユネスコ無形文化遺産に登録されてから、本年12月4日(月曜日)に10周年を迎えます。",
+        "mention_ids": [
+          "M008",
+          "M009"
+        ]
+      },
+      "006": {
+        "text": "これを契機として、農林水産省および一般社団法人和食文化国民会議は、日本の伝統的な食文化を守り、和食文化を未来に伝えるため、和食文化の保護・継承に関するイベントを開催します。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "007": {
+        "text": "このイベントを含め、全国各地で行われる和食文化に関するイベントを通じ、和食文化の保護・継承活動が促進され、和食文化が着実に次世代へ継承されることを期待しています。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "2.開催日、開催場所及び主な内容",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "【農林水産省主催イベント】",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "010": {
+        "text": "「和食の「わ」」を広げるシンポジウム(大阪会場)",
+        "mention_ids": [
+          "M017",
+          "M018"
+        ]
+      },
+      "011": {
+        "text": "日時:令和5年9月30日(土曜日)11時00分から15時20分まで",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "012": {
+        "text": "場所:大阪府大阪市西区千代崎3丁目南2番59号　ハグミュージアム",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "013": {
+        "text": "内容:",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "・野﨑洋光氏(分とく山　総料理長)による和食の魅力を伝える調理実演・基調講演",
+        "mention_ids": [
+          "M024",
+          "M025"
+        ]
+      },
+      "015": {
+        "text": "・野﨑洋光氏、東洋大学准教授の露久保美夏氏、龍谷大学教授の山崎英恵氏及び武庫川女子大学准教授の藤本勇二氏による「伝え継ぎたい、家庭の和食文化(仮題)」をテーマとしたパネルディスカッション",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033"
+        ]
+      },
+      "016": {
+        "text": "・参加者同士の交流会",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "参加方法:オンライン参加(定員300名)",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "・対面参加(定員100名)",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "申込方法:令和5年8月1日(火曜日)から受付開始",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "020": {
+        "text": "共催:大阪ガスネットワーク株式会社",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "021": {
+        "text": "※イベント内容は、現段階のものであり、変更する場合があります。",
+        "mention_ids": [
+          "M036"
+        ]
+      },
+      "022": {
+        "text": "※　上記のほかにも【一般社団法人　和食文化国民会議主催イベント】など、各種イベントを予定しています。",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "023": {
+        "text": "詳細については、以下の農林水産省ホームページをご覧ください",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "024": {
+        "type": "heading",
+        "text": "ユネスコ無形文化遺産とは",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "025": {
+        "text": "・「無形文化遺産」とは、芸能や伝統工芸技術などの形のない文化であって、土地の歴史や生活風習などと密接に関わっているもののこと。",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "026": {
+        "text": "・ユネスコの「無形文化遺産保護条約」では、この無形文化遺産を保護し、相互に尊重する機運を高めるため、登録制度を実施。",
+        "mention_ids": [
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "027": {
+        "text": "・2010年には、「フランスの美食術」などの食に関する無形文化遺産が登録。",
+        "mention_ids": [
+          "M044",
+          "M045"
+        ]
+      },
+      "028": {
+        "type": "supplement:legend",
+        "text": "無形文化遺産の例",
+        "mention_ids": [
+          "M046"
+        ]
+      },
+      "029": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "無形文化遺産の例",
+        "text": "芸能(能楽)",
+        "mention_ids": [
+          "M047"
+        ]
+      },
+      "030": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "無形文化遺産の例",
+        "text": "伝統工芸技術 (結城紬)",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "031": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "無形文化遺産の例",
+        "text": "社会的慣習・行事 (日立風流物)",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "032": {
+        "type": "supplement:legend",
+        "text": "食に関する無形文化遺産の例",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "033": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "食に関する無形文化遺産の例",
+        "text": "フランスの美食術(2010年)",
+        "mention_ids": [
+          "M051"
+        ]
+      },
+      "034": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "食に関する無形文化遺産の例",
+        "text": "メキシコの伝統料理(2010年)",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "035": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "食に関する無形文化遺産の例",
+        "text": "地中海料理(2010年)　スペイン、ギリシャ、イタリア、モロッコ",
+        "mention_ids": [
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057"
+        ]
+      },
+      "036": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "食に関する無形文化遺産の例",
+        "text": "ケシケキの伝統(2011年)　トルコ",
+        "mention_ids": [
+          "M058",
+          "M059"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          3,
+          7
+        ],
+        "text": "ユネスコ",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "metonymic_entity_type": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          11
+        ],
+        "text": "和食文化普及イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          12,
+          14
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          7,
+          21
+        ],
+        "text": "一般社団法人和食文化国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          29,
+          39
+        ],
+        "text": "ユネスコ無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          65,
+          69
+        ],
+        "text": "イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          4,
+          7
+        ],
+        "text": "日本人",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          17,
+          27
+        ],
+        "text": "ユネスコ無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          9,
+          14
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          17,
+          31
+        ],
+        "text": "一般社団法人和食文化国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          33,
+          35
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "006",
+        "span": [
+          75,
+          79
+        ],
+        "text": "イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "007",
+        "span": [
+          2,
+          6
+        ],
+        "text": "イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "007",
+        "span": [
+          10,
+          12
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "009",
+        "span": [
+          1,
+          6
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          18
+        ],
+        "text": "「和食の「わ」」を広げるシンポジウム",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "010",
+        "span": [
+          19,
+          21
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "011",
+        "span": [
+          3,
+          5
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          6
+        ],
+        "text": "大阪府",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "012",
+        "span": [
+          6,
+          9
+        ],
+        "text": "大阪市",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "012",
+        "span": [
+          9,
+          23
+        ],
+        "text": "西区千代崎3丁目南2番59号",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "012",
+        "span": [
+          24,
+          32
+        ],
+        "text": "ハグミュージアム",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "014",
+        "span": [
+          1,
+          5
+        ],
+        "text": "野﨑洋光",
+        "entity_type": "PER",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "014",
+        "span": [
+          7,
+          11
+        ],
+        "text": "分とく山",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "015",
+        "span": [
+          1,
+          5
+        ],
+        "text": "野﨑洋光",
+        "entity_type": "PER",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          11
+        ],
+        "text": "東洋大学",
+        "entity_type": "FAC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "015",
+        "span": [
+          15,
+          20
+        ],
+        "text": "露久保美夏",
+        "entity_type": "PER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "015",
+        "span": [
+          22,
+          26
+        ],
+        "text": "龍谷大学",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "015",
+        "span": [
+          29,
+          33
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "015",
+        "span": [
+          36,
+          43
+        ],
+        "text": "武庫川女子大学",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "015",
+        "span": [
+          47,
+          51
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "015",
+        "span": [
+          56,
+          70
+        ],
+        "text": "伝え継ぎたい、家庭の和食文化",
+        "entity_type": "EVE",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "019",
+        "span": [
+          5,
+          7
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "020",
+        "span": [
+          3,
+          17
+        ],
+        "text": "大阪ガスネットワーク株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "021",
+        "span": [
+          1,
+          5
+        ],
+        "text": "イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "022",
+        "span": [
+          10,
+          25
+        ],
+        "text": "一般社団法人　和食文化国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "023",
+        "span": [
+          11,
+          16
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          10
+        ],
+        "text": "ユネスコ無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "025",
+        "span": [
+          2,
+          8
+        ],
+        "text": "無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "026",
+        "span": [
+          1,
+          5
+        ],
+        "text": "ユネスコ",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "026",
+        "span": [
+          7,
+          17
+        ],
+        "text": "無形文化遺産保護条約",
+        "entity_type": "PRO",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "026",
+        "span": [
+          23,
+          29
+        ],
+        "text": "無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "027",
+        "span": [
+          10,
+          18
+        ],
+        "text": "フランスの美食術",
+        "entity_type": "PRO",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "027",
+        "span": [
+          27,
+          33
+        ],
+        "text": "無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "028",
+        "span": [
+          0,
+          6
+        ],
+        "text": "無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "029",
+        "span": [
+          3,
+          5
+        ],
+        "text": "能楽",
+        "entity_type": "PRO",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "030",
+        "span": [
+          8,
+          11
+        ],
+        "text": "結城紬",
+        "entity_type": "PRO",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "031",
+        "span": [
+          10,
+          15
+        ],
+        "text": "日立風流物",
+        "entity_type": "PRO",
+        "entity_id": "E027",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "032",
+        "span": [
+          5,
+          11
+        ],
+        "text": "無形文化遺産",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "033",
+        "span": [
+          0,
+          8
+        ],
+        "text": "フランスの美食術",
+        "entity_type": "PRO",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "034",
+        "span": [
+          0,
+          9
+        ],
+        "text": "メキシコの伝統料理",
+        "entity_type": "PRO",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "035",
+        "span": [
+          0,
+          5
+        ],
+        "text": "地中海料理",
+        "entity_type": "PRO",
+        "entity_id": "E029",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "035",
+        "span": [
+          13,
+          17
+        ],
+        "text": "スペイン",
+        "entity_type": "LOC",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M055": {
+        "sentence_id": "035",
+        "span": [
+          18,
+          22
+        ],
+        "text": "ギリシャ",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "035",
+        "span": [
+          23,
+          27
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E032",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M057": {
+        "sentence_id": "035",
+        "span": [
+          28,
+          32
+        ],
+        "text": "モロッコ",
+        "entity_type": "LOC",
+        "entity_id": "E033",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M058": {
+        "sentence_id": "036",
+        "span": [
+          0,
+          7
+        ],
+        "text": "ケシケキの伝統",
+        "entity_type": "PRO",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "036",
+        "span": [
+          15,
+          18
+        ],
+        "text": "トルコ",
+        "entity_type": "LOC",
+        "entity_id": "E035",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M041"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7809",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E6%96%87%E5%8C%96%E6%A9%9F%E9%96%A2"
+        },
+        "coordinate": [
+          "48.85",
+          "2.30611111"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M007",
+          "M013",
+          "M014",
+          "M017",
+          "M036"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://washoku10th.com/osaka/seminar/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M012",
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M010",
+          "M016",
+          "M038"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M011",
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://washokujapan.jp/"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M009",
+          "M039",
+          "M040",
+          "M043",
+          "M045",
+          "M046",
+          "M050"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q84036549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%84%A1%E5%BD%A2%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q115861446",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M018",
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q35765",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/358674",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.69375",
+          "135.502111111"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M019",
+          "M034"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q122723",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/341906",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.686333333",
+          "135.519861111"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q65249606",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E4%BB%A3%E5%B4%8E",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.osakagas.co.jp/showroom/hug/index.html"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M024",
+          "M026"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11645403",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%B4%8E%E6%B4%8B%E5%85%89"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://waketoku.com/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1321655",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B4%8B%E5%A4%A7%E5%AD%A6",
+          "openstreetmap": "https://www.openstreetmap.org/node/9869311585",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.72324",
+          "139.75044"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q97180542",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9C%B2%E4%B9%85%E4%BF%9D%E7%BE%8E%E5%A4%8F"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1071862",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%BE%8D%E8%B0%B7%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.96429",
+          "135.76724"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6933577",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.7175",
+          "135.04277778"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q111852276",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E3%82%AC%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5166256",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%84%A1%E5%BD%A2%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E3%81%AE%E4%BF%9D%E8%AD%B7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M044",
+          "M051"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037119",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%83%BD%E6%A5%BD"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M048"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8062732",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%90%E5%9F%8E%E7%B4%AC"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://researchmap.jp/845?lang=en"
+        }
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q29",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1311341",
+          "wikidata_country": "http://www.wikidata.org/entity/Q29"
+        },
+        "coordinate": [
+          "40.2",
+          "-3.5"
+        ]
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q41",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3",
+          "openstreetmap": "https://www.openstreetmap.org/relation/192307",
+          "wikidata_country": "http://www.wikidata.org/entity/Q41"
+        },
+        "coordinate": [
+          "38.5",
+          "23.0"
+        ]
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/365331",
+          "wikidata_country": "http://www.wikidata.org/entity/Q38"
+        },
+        "coordinate": [
+          "42.5",
+          "12.5"
+        ]
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1028",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3630439",
+          "wikidata_country": "http://www.wikidata.org/entity/Q1028"
+        },
+        "coordinate": [
+          "32.0",
+          "-6.0"
+        ]
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M058"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3668429",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B7%E3%82%B1%E3%82%AD"
+        }
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q43",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3",
+          "openstreetmap": "https://www.openstreetmap.org/relation/174737",
+          "wikidata_country": "http://www.wikidata.org/entity/Q43"
+        },
+        "coordinate": [
+          "39.0",
+          "36.0"
+        ]
+      }
+    }
+  },
+  "055-3": {
+    "metainfo": {
+      "src_date": "20230900",
+      "src_url": "https://www.maff.go.jp/kinki/pr/magazine/mini/attach/pdf/miniindex-5.pdf",
+      "src_parent_url": "https://www.maff.go.jp/kinki/pr/magazine/mini/miniindex.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "あなたのサステナブルな取組を日本中、世界中に発信しませんか?",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "~「サステナアワード2023」募集開始~",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "農林水産省は、「みどりの食料システム戦略」の一環で、消費者庁、環境省と連携し、「あふの環(わ)2030プロジェクト」を実施しています。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "004": {
+        "text": "本プロジェクトにおいて、食や農林水産業に関わるサステナブルな取組動画を表彰する「サステナアワード2023」の募集を本日開始します。",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "005": {
+        "text": "特に優れた作品には、農林水産大臣賞、環境大臣賞及び消費者庁長官賞を授与します。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "1.サステナアワードとは",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "007": {
+        "text": "食や農林水産業に関わるサステナブルな消費、環境との調和、脱炭素、生物多様性、資源循環など、サステナブルな生産やサービス・商品を扱う地域・生産者・事業者の取組動画を募集します。",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "優秀な作品を表彰し、あふの環プロジェクトホームページや省公式YouTubeチャンネル(maffchannel)で紹介するとともに、農林水産省、消費者庁、環境省の様々なイベント等で発信します。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "009": {
+        "text": "特に優秀な作品は、英語版の動画を作成し、国際会議の場などを通じて世界に広く発信することにより、持続可能な生産・消費の拡大を目指します。",
+        "mention_ids": []
+      },
+      "010": {
+        "type": "heading",
+        "text": "2.募集内容",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "(1)応募テーマ",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "食や農林水産業に関する、持続可能な消費、環境との調和、脱炭素、生物多様性、資源循環などのサステナブルな取組((ア)とめよう温暖化、(イ)まもろういきもの、(ウ)まもろう水、(エ)へらそうごみ、(オ)みんなで支え合おう、(カ)まもろう土に関連するもの、詳細は下記農林水産省HP参照)。",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "013": {
+        "text": "【サステナアワードにおける「サステナブルな取組」の考え方】",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "014": {
+        "text": "食や農林水産業のサステナビリティに関する6つの項目について、○　少なくとも1つは考慮し、残りの項目に大きな悪影響を及ぼさないものであって、○　それが商品の場合、その内容について、ホームページなどに公表されている情報で確認ができること",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "(2)応募資格",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "食と農林水産業のサステナビリティに関心のある団体(個人は除く)。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "企業、学校、NPO、自治体、地域コミュニティなど、プロ、アマ、年齢等は問いません(応募者が未成年の場合は保護者等の了解を得た上で応募してください)。",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "動画は1団体3点まで応募可。",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "(3)応募期間",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "令和5年8月1日(火曜日)~令和5年11月30日(木曜日)",
+        "mention_ids": [
+          "M018",
+          "M019"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          14,
+          16
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          2,
+          14
+        ],
+        "text": "サステナアワード2023",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          26,
+          30
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          31,
+          34
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          40,
+          52
+        ],
+        "text": "サステナアワード2023",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          10,
+          17
+        ],
+        "text": "農林水産大臣賞",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          18,
+          23
+        ],
+        "text": "環境大臣賞",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          25,
+          32
+        ],
+        "text": "消費者庁長官賞",
+        "entity_type": "PRO",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          2,
+          10
+        ],
+        "text": "サステナアワード",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "008",
+        "span": [
+          10,
+          26
+        ],
+        "text": "あふの環プロジェクトホームページ",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          27,
+          55
+        ],
+        "text": "省公式YouTubeチャンネル(maffchannel)",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          65,
+          70
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          71,
+          75
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          76,
+          79
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          130,
+          137
+        ],
+        "text": "農林水産省HP",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "013",
+        "span": [
+          1,
+          9
+        ],
+        "text": "サステナアワード",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "020",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "020",
+        "span": [
+          14,
+          16
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M006",
+          "M010",
+          "M017"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/j/kanbo/kankyo/seisaku/being_sustainable/sa2023.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M013"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M014"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5164637",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B6%88%E8%B2%BB%E8%80%85%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M015"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1125558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/j/kanbo/kankyo/seisaku/being_sustainable/sustainable2030.html"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.youtube.com/channel/UCDrlZ0fFFrVkhaV4rFKba9w"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M018",
+          "M019"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  }
+}

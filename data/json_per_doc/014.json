@@ -1,0 +1,2307 @@
+{
+  "014-1": {
+    "metainfo": {
+      "src_date": "20220822",
+      "src_url": "https://www.mod.go.jp/j/publication/wp/wp2022/html/nd500000.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和四年版　防衛白書　日本の防衛　令和3年　自衛官たちの足跡",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "パシフィック・クラウン21への参加",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "003": {
+        "text": "2021年8月25日から28日までの間、護衛艦「いせ」、「あさひ」及び「てるづき」が、日本周辺海域において、英空母「クイーン・エリザベス」をはじめとする英・米・蘭海軍による空母打撃群と「自由で開かれたインド太平洋」の実現に向けて連携を強化すべく、パシフィック・クラウン21に参加し各種戦術訓練を実施しました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "004": {
+        "text": "英空母打撃群との共同訓練は、長い歴史と伝統のある日英防衛協力が、「新たな段階」に入ったことを象徴するものとなりました。",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "005": {
+        "text": "また、オランダ海軍の日本寄港は21年ぶりであり、海上自衛隊とオランダ海軍との関係強化につながりました。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "006": {
+        "type": "supplement:legend",
+        "text": "護衛艦いせ船務長(佐世保基地)2等海佐　磯部　洋平(いそべ　ようへい)",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "Interview",
+        "mention_ids": []
+      },
+      "008": {
+        "type": "heading",
+        "text": "本訓練において実施した業務を教えてください",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "009": {
+        "text": "いせ船務長として、艦の任務を遂行するとともに、共同訓練参加艦の動静を注視し、本艦にて訓練の指揮を執った第2護衛隊群司令と幕僚の補佐を行いました。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "業務において困難だった点を教えてください",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "新型コロナウイルスの影響もあり、訓練に参加した各国の士官とは、直接顔を合わせる機会はありませんでしたが、オンラインで交流を深め、円滑に訓練を行うことができました。",
+        "mention_ids": [
+          "M032",
+          "M033"
+        ]
+      },
+      "012": {
+        "text": "また、台風シーズンということもあり、荒天時は搭載航空機の飛行にも大きな影響が出るため天候にも絶えず注意を払いました。",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "幸いにも期間中は好天に恵まれ、絶好の訓練日和でした。",
+        "mention_ids": []
+      },
+      "014": {
+        "type": "supplement:legend",
+        "text": "訓練の進捗を確認する筆者(右)",
+        "mention_ids": [
+          "M034",
+          "M035"
+        ]
+      },
+      "015": {
+        "type": "heading",
+        "text": "業務においてやりがいを感じた点を教えてください",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "事前に対面せずとも、洋上で英米蘭各国の艦艇と会合した後は、まるで艦同士が旧知の友であるかのように、阿吽の呼吸で任務を遂行することができました。",
+        "mention_ids": [
+          "M036",
+          "M037",
+          "M038"
+        ]
+      },
+      "017": {
+        "text": "海上自衛隊と各国海軍が共通の価値観と不変のシーマンシップを共有していることを肌で感じ、その中の1人として、共に行動していることに大きな喜びを感じました。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "018": {
+        "type": "heading",
+        "text": "そのほか、現場で感じたことなどについて教えてください",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "英蘭海軍は遥々欧州から日本までやってきましたが、本訓練を通じて、改めて世界が海でつながっていることを強く意識しました。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "020": {
+        "text": "インド太平洋地域と国際社会の平和と安定の確保のため、関係国との連携を一層深化させ、海軍種間の強固な絆を維持することの重要性について、改めて考える機会となりました。",
+        "mention_ids": [
+          "M044"
+        ]
+      },
+      "021": {
+        "type": "supplement:legend",
+        "text": "入港時、艦橋にてタグボートを指揮する筆者",
+        "mention_ids": [
+          "M045"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          10
+        ],
+        "text": "令和四年版　防衛白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          11,
+          13
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          17,
+          19
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          13
+        ],
+        "text": "パシフィック・クラウン21",
+        "entity_type": "EVE",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          24,
+          26
+        ],
+        "text": "いせ",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          29,
+          32
+        ],
+        "text": "あさひ",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          36,
+          40
+        ],
+        "text": "てるづき",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          43,
+          45
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          54,
+          55
+        ],
+        "text": "英",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          58,
+          68
+        ],
+        "text": "クイーン・エリザベス",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          76,
+          83
+        ],
+        "text": "英・米・蘭海軍",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "feature": "Parallel_Modif",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "003",
+        "span": [
+          100,
+          106
+        ],
+        "text": "インド太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "003",
+        "span": [
+          123,
+          136
+        ],
+        "text": "パシフィック・クラウン21",
+        "entity_type": "EVE",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          1
+        ],
+        "text": "英",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          8,
+          12
+        ],
+        "text": "共同訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "004",
+        "span": [
+          24,
+          25
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "004",
+        "span": [
+          25,
+          26
+        ],
+        "text": "英",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          3,
+          9
+        ],
+        "text": "オランダ海軍",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          10,
+          12
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          24,
+          29
+        ],
+        "text": "海上自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "005",
+        "span": [
+          30,
+          36
+        ],
+        "text": "オランダ海軍",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          5
+        ],
+        "text": "いせ",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "006",
+        "span": [
+          9,
+          14
+        ],
+        "text": "佐世保基地",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "006",
+        "span": [
+          20,
+          35
+        ],
+        "text": "■■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          3
+        ],
+        "text": "本訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          2
+        ],
+        "text": "いせ",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          9,
+          10
+        ],
+        "text": "艦",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "009",
+        "span": [
+          23,
+          27
+        ],
+        "text": "共同訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "009",
+        "span": [
+          38,
+          40
+        ],
+        "text": "本艦",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "009",
+        "span": [
+          42,
+          44
+        ],
+        "text": "訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "009",
+        "span": [
+          51,
+          57
+        ],
+        "text": "第2護衛隊群",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "011",
+        "span": [
+          16,
+          18
+        ],
+        "text": "訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "011",
+        "span": [
+          67,
+          69
+        ],
+        "text": "訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          2
+        ],
+        "text": "訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "014",
+        "span": [
+          10,
+          12
+        ],
+        "text": "筆者",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "016",
+        "span": [
+          13,
+          14
+        ],
+        "text": "英",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "016",
+        "span": [
+          14,
+          15
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "016",
+        "span": [
+          15,
+          16
+        ],
+        "text": "蘭",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M039": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          5
+        ],
+        "text": "海上自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          4
+        ],
+        "text": "英蘭海軍",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "feature": "Parallel_Modif",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "019",
+        "span": [
+          7,
+          9
+        ],
+        "text": "欧州",
+        "entity_type": "LOC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "019",
+        "span": [
+          11,
+          13
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "019",
+        "span": [
+          24,
+          27
+        ],
+        "text": "本訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "020",
+        "span": [
+          0,
+          8
+        ],
+        "text": "インド太平洋地域",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "021",
+        "span": [
+          18,
+          20
+        ],
+        "text": "筆者",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M008",
+          "M019",
+          "M042"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M013",
+          "M015",
+          "M025",
+          "M028",
+          "M030",
+          "M032",
+          "M033",
+          "M034",
+          "M043"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://ajda.jp/publics/index/183/"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M022",
+          "M026",
+          "M027",
+          "M029"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q549341",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%9B_(%E8%AD%B7%E8%A1%9B%E8%89%A6)"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q27983112",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%95%E3%81%B2_(%E8%AD%B7%E8%A1%9B%E8%89%A6%E3%83%BB2%E4%BB%A3)"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11272692",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%A6%E3%82%8B%E3%81%A5%E3%81%8D_(%E8%AD%B7%E8%A1%9B%E8%89%A6%E3%83%BB2%E4%BB%A3)"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009",
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q172771",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%B5%B7%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q145"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1444474",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9_(%E7%A9%BA%E6%AF%8D)"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M011",
+          "M040"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M012",
+          "M044"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1547309",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E5%A4%AA%E5%B9%B3%E6%B4%8B"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6063",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q145"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018",
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q931281",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E6%B5%B7%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q55"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M020",
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q731647",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.311111111",
+          "139.636111111"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11382524",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BD%90%E4%B8%96%E4%BF%9D%E5%9F%BA%E5%9C%B0_(%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.162079",
+          "129.712354"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M024",
+          "M035",
+          "M045"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11600823",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC2%E8%AD%B7%E8%A1%9B%E9%9A%8A%E7%BE%A4",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/62149",
+          "wikidata_country": "http://www.wikidata.org/entity/Q145"
+        },
+        "coordinate": [
+          "54.6",
+          "-2.0"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/148838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "39.828175",
+          "-98.5795"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q55",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80",
+          "openstreetmap": "https://www.openstreetmap.org/relation/47796",
+          "wikidata_country": "http://www.wikidata.org/entity/Q29999"
+        },
+        "coordinate": [
+          "52.316666666",
+          "5.55"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "coordinate": [
+          "48.690959",
+          "9.14062"
+        ]
+      }
+    }
+  },
+  "014-2": {
+    "metainfo": {
+      "src_date": "20220822",
+      "src_url": "https://www.mod.go.jp/j/publication/wp/wp2022/html/nd500000.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "東京オリンピック開会式の支援に参加して",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "東京2020オリンピック開会式が2021年7月23日、国立競技場においてオリンピック憲章に基づき挙行されました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "003": {
+        "text": "防衛省・自衛隊は式典など大会運営への協力として、陸上自衛隊東部方面総監の下に「東京2020オリンピック・パラリンピック支援団」を陸上・海上・航空自衛官約8,500名をもって編成し、式典協力及び会場整理支援などの大会運営協力にかかる業務を行いました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "004": {
+        "text": "その中で私は、式典協力隊・開閉会式支援班に配置され、オリンピック旗の掲揚要員として参加しました。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "005": {
+        "type": "supplement:legend",
+        "text": "第1航空団(浜松基地)空曹長　山田　幸雄(やまだ　ゆきお)",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "Interview",
+        "mention_ids": []
+      },
+      "007": {
+        "type": "heading",
+        "text": "平素の業務と開会式で実施した業務について教えてください",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "008": {
+        "text": "平素は、部隊の訓練担当者として、各種訓練の計画、立案及び隊員に対する教育指導を行い、精強な部隊及び自衛官育成のための業務に邁進しています。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "開会式では、陸上・海上・航空自衛官の代表6名でフラッグベアラーからオリンピック旗を引継ぎステージ上の掲揚ポールまで運搬するとともに、オリンピック賛歌に合わせて掲揚を行いました。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "式典協力業務までどのような準備や訓練を実施したのかを教えてください",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "真夏の過酷な環境下における任務を想定し、酷暑の中、体力強化などの事前準備に万全を期しました。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "また、朝霞駐屯地において、陸上自衛隊第302保安警務中隊(特別儀じょう隊)から基本動作の教育指導を受け、練度向上を図りました。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "013": {
+        "type": "supplement:legend",
+        "text": "オリンピック開会式におけるオリンピック旗掲揚(旗の左手前を持ち、掲揚台を上がる筆者)【AFP=時事】",
+        "mention_ids": [
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "式典協力業務において困難だった点などを教えてください",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "陸上・海上・航空自衛隊における訓練内容の違いから、当初基本動作に違いがあり、斉一な動作の修得に時間を費やしましたが、オリンピックを成功させるという崇高な目的のため、隊員同士が相互に修正点を指摘するなど一致団結し、短期間で急成長を遂げることができました。",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "そのほか、現場で感じたことなどについて教えてください",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "リハーサル会場などでは、陸上・海上・航空自衛官の男女が制服を着用し、勢揃いするという精悍な光景に、一般市民の方々からいつも熱い視線を浴びていました。",
+        "mention_ids": [
+          "M037",
+          "M038",
+          "M039"
+        ]
+      },
+      "018": {
+        "text": "また、防衛省・自衛隊に対する注目度の高さを実感しました。",
+        "mention_ids": [
+          "M040",
+          "M041"
+        ]
+      },
+      "019": {
+        "type": "supplement:legend",
+        "text": "パラリンピック開会式における国旗掲揚(旗の左端を持つ筆者)【EPA=時事】",
+        "mention_ids": [
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          11
+        ],
+        "text": "東京オリンピック開会式",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          15
+        ],
+        "text": "東京2020オリンピック開会式",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          27,
+          32
+        ],
+        "text": "国立競技場",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          36,
+          44
+        ],
+        "text": "オリンピック憲章",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          3
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          4,
+          7
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          24,
+          29
+        ],
+        "text": "陸上自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          39,
+          62
+        ],
+        "text": "東京2020オリンピック・パラリンピック支援団",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          64,
+          66
+        ],
+        "text": "陸上",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          67,
+          69
+        ],
+        "text": "海上",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          70,
+          72
+        ],
+        "text": "航空",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          4,
+          5
+        ],
+        "text": "私",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          7,
+          12
+        ],
+        "text": "式典協力隊",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          13,
+          20
+        ],
+        "text": "開閉会式支援班",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          26,
+          33
+        ],
+        "text": "オリンピック旗",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          5
+        ],
+        "text": "第1航空団",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          10
+        ],
+        "text": "浜松基地",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          15,
+          29
+        ],
+        "text": "■■■■■■■■■■■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          6,
+          9
+        ],
+        "text": "開会式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          3
+        ],
+        "text": "開会式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          6,
+          8
+        ],
+        "text": "陸上",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          9,
+          11
+        ],
+        "text": "海上",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          12,
+          14
+        ],
+        "text": "航空",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          33,
+          40
+        ],
+        "text": "オリンピック旗",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          66,
+          74
+        ],
+        "text": "オリンピック賛歌",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          8
+        ],
+        "text": "朝霞駐屯地",
+        "entity_type": "FAC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "012",
+        "span": [
+          13,
+          28
+        ],
+        "text": "陸上自衛隊第302保安警務中隊",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "012",
+        "span": [
+          29,
+          36
+        ],
+        "text": "特別儀じょう隊",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          9
+        ],
+        "text": "オリンピック開会式",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "013",
+        "span": [
+          13,
+          22
+        ],
+        "text": "オリンピック旗掲揚",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "013",
+        "span": [
+          23,
+          24
+        ],
+        "text": "旗",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "013",
+        "span": [
+          39,
+          41
+        ],
+        "text": "筆者",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "013",
+        "span": [
+          43,
+          46
+        ],
+        "text": "AFP",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "013",
+        "span": [
+          47,
+          49
+        ],
+        "text": "時事",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          11
+        ],
+        "text": "陸上・海上・航空自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "feature": "Parallel_Modif",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "015",
+        "span": [
+          58,
+          64
+        ],
+        "text": "オリンピック",
+        "entity_type": "NOMINAL",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "017",
+        "span": [
+          12,
+          14
+        ],
+        "text": "陸上",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "017",
+        "span": [
+          15,
+          17
+        ],
+        "text": "海上",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "017",
+        "span": [
+          18,
+          20
+        ],
+        "text": "航空",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "018",
+        "span": [
+          3,
+          6
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "018",
+        "span": [
+          7,
+          10
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          10
+        ],
+        "text": "パラリンピック開会式",
+        "entity_type": "EVE",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "019",
+        "span": [
+          14,
+          18
+        ],
+        "text": "国旗掲揚",
+        "entity_type": "NOMINAL",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "019",
+        "span": [
+          19,
+          20
+        ],
+        "text": "旗",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "019",
+        "span": [
+          26,
+          28
+        ],
+        "text": "筆者",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "019",
+        "span": [
+          30,
+          33
+        ],
+        "text": "EPA",
+        "entity_type": "ORG",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "019",
+        "span": [
+          34,
+          36
+        ],
+        "text": "時事",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M019",
+          "M020",
+          "M029"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28153973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E9%96%8B%E4%BC%9A%E5%BC%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.67805556",
+          "139.71472222"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q14862239",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%AB%8B%E7%AB%B6%E6%8A%80%E5%A0%B4",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6778",
+          "139.7145"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q877541",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E6%86%B2%E7%AB%A0"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M040"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%B2%E8%A1%9B%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.693",
+          "139.728"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M041"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q275488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M009",
+          "M021",
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q889751",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008",
+          "M013",
+          "M014"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11292777",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E6%94%AF%E6%8F%B4%E9%9B%86%E5%9B%A3"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010",
+          "M022",
+          "M038"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q731647",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.311111111",
+          "139.636111111"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M011",
+          "M023",
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q830305",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012",
+          "M018",
+          "M032",
+          "M045"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015",
+          "M024",
+          "M031",
+          "M044"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q14624058"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11600481",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC1%E8%88%AA%E7%A9%BA%E5%9B%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q860035",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%9C%E6%9D%BE%E5%9F%BA%E5%9C%B0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.75027778",
+          "137.70305556"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q215484",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E8%B3%9B%E6%AD%8C"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4803412",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%9D%E9%9C%9E%E9%A7%90%E5%B1%AF%E5%9C%B0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.7833",
+          "139.5856"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q92621948"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q92621948"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28153973",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E9%96%8B%E4%BC%9A%E5%BC%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.67805556",
+          "139.71472222"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q40464",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%80%9A%E4%BF%A1%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M034",
+          "M047"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1688974",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%99%82%E4%BA%8B%E9%80%9A%E4%BF%A1%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q181278",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107570719",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E9%96%8B%E4%BC%9A%E5%BC%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.678055555",
+          "139.715"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M043"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107570719",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E9%96%8B%E4%BC%9A%E5%BC%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.678055555",
+          "139.715"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q40233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/EPA%E9%80%9A%E4%BF%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q183"
+        }
+      }
+    }
+  }
+}

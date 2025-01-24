@@ -1,0 +1,2989 @@
+{
+  "012-1": {
+    "metainfo": {
+      "src_date": "20220607",
+      "src_url": "https://www.env.go.jp/policy/hakusyo/r04/html/hj22010101.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "令和4年版環境・循環型社会・生物多様性白書　第1部　総合的な施策等に関する報告　第1章　1.5°Cに向けて",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "「気候危機」とも言われている気候変動問題は、私たち一人一人、この星に生きる全ての生き物に結びついた、避けることができない喫緊の課題です。",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "国連気候変動枠組条約第26回締約国会議(COP26)のグラスゴー気候合意では、「気候変動及び生物多様性の損失という相互に結びついた世界全体の危機、並びに自然及び生態系の保護、保全及び回復が、気候変動への適応及び緩和のための利益をもたらすにあたり重要な役割を果たす」と述べられています。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "世界的にも平均気温の上昇、雪氷の融解、海面水位の上昇が観測されており、我が国においても、平均気温の上昇、大雨、台風等による被害、農作物や生態系への影響等が観測されています。",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "005": {
+        "text": "2021年8月に公表された「気候変動に関する政府間パネル(IPCC)第6次評価報告書第I作業部会報告書政策決定者向け要約」によると、極端な高温、海洋熱波、大雨の頻度と強度の増加などを含む気候システムの多くの変化は、地球温暖化の進行に直接関係して拡大すると報告され、地球温暖化を抑えることが極めて重要であることが確認されました。",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "006": {
+        "text": "パリ協定で示された産業革命以前に比べて世界の平均気温の上昇を産業革命以前に比べて2°Cより十分低く保ち、1.5°Cに抑える努力をするという目標は、COP26のカバー決定にも盛り込まれました。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "007": {
+        "text": "IPCCの「1.5°C特別報告書」において、気温上昇を約1.5°Cに抑えるためには、2030年までに2010年比で世界全体のCO2排出量を約45%削減することが必要という知見が示されたため、世界各国は様々な問題に立ち向かいつつ、できるだけ早く、できるだけ大きく排出量を減らす取組を加速的に進めています。",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          21
+        ],
+        "text": "令和4年版環境・循環型社会・生物多様性白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          26
+        ],
+        "text": "国連気候変動枠組条約第26回締約国会議(COP26)",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          27,
+          36
+        ],
+        "text": "グラスゴー気候合意",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          35,
+          38
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "005",
+        "span": [
+          14,
+          51
+        ],
+        "text": "気候変動に関する政府間パネル(IPCC)第6次評価報告書第I作業部会報告書",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          4
+        ],
+        "text": "パリ協定",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          9,
+          13
+        ],
+        "text": "産業革命",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "006",
+        "span": [
+          30,
+          34
+        ],
+        "text": "産業革命",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          73,
+          78
+        ],
+        "text": "COP26",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          4
+        ],
+        "text": "IPCC",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          6,
+          16
+        ],
+        "text": "1.5°C特別報告書",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M009"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q68580968",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC26%E5%9B%9E%E6%B0%97%E5%80%99%E5%A4%89%E5%8B%95%E6%9E%A0%E7%B5%84%E6%9D%A1%E7%B4%84%E7%B7%A0%E7%B4%84%E5%9B%BD%E4%BC%9A%E8%AD%B0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q145"
+        },
+        "coordinate": [
+          "55.861111111",
+          "-4.288055555"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q109566978",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%B4%E3%83%BC%E6%B0%97%E5%80%99%E5%90%88%E6%84%8F"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q103843442",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPCC%E7%AC%AC6%E6%AC%A1%E8%A9%95%E4%BE%A1%E5%A0%B1%E5%91%8A%E6%9B%B8"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q21707860",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AA%E5%8D%94%E5%AE%9A_(%E6%B0%97%E5%80%99%E5%A4%89%E5%8B%95)"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M008"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2269",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E9%9D%A9%E5%91%BD"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q171183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%97%E5%80%99%E5%A4%89%E5%8B%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%94%BF%E5%BA%9C%E9%96%93%E3%83%91%E3%83%8D%E3%83%AB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q57077013",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IPCC1.5%E2%84%83%E7%89%B9%E5%88%A5%E5%A0%B1%E5%91%8A%E6%9B%B8"
+        }
+      }
+    }
+  },
+  "012-2": {
+    "metainfo": {
+      "src_date": "20220607",
+      "src_url": "https://www.env.go.jp/policy/hakusyo/r04/html/hj22010101.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "第1節　世界の気象災害・我が国の気象災害と経済的影響",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "heading",
+        "text": "1　近年の国内外の気象災害",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "個々の気象災害と地球温暖化との関係を明らかにすることは容易ではありませんが、地球温暖化の進行に伴い、今後、豪雨や猛暑のリスクが更に高まることが予想されます。",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "第1節では、近年の主な気象災害等の状況について振り返ります。",
+        "mention_ids": []
+      },
+      "005": {
+        "type": "heading",
+        "text": "(1)世界の気象災害",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "世界気象機関(WMO)や気象庁の報告によれば、2021年も世界各地で様々な気象災害が見られました。",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "007": {
+        "text": "米国やカナダでは6、7月に高温が続き、6月の米国本土の月平均気温は1895年以降で最も高くなりました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "008": {
+        "text": "また、米国やカナダでは多数の大規模な山火事が発生しました(写真1-1-1)。",
+        "mention_ids": [
+          "M008",
+          "M009"
+        ]
+      },
+      "009": {
+        "type": "supplement:legend",
+        "text": "写真1-1-1　米国カリフォルニア州の山火事",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      },
+      "010": {
+        "text": "欧州では、7月中旬の大雨により広範囲で洪水が発生しました。",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "011": {
+        "text": "ドイツ西部のリューデンシャイトでは、14日の1日間で、7月の平年の月降水量の約1.5倍に相当する降水量を観測しました。",
+        "mention_ids": [
+          "M013",
+          "M014"
+        ]
+      },
+      "012": {
+        "text": "多数の河川で極端な洪水が発生し、ドイツで179人、ベルギーで36人が死亡しました(写真1-1-2)。",
+        "mention_ids": [
+          "M015",
+          "M016"
+        ]
+      },
+      "013": {
+        "type": "supplement:legend",
+        "text": "写真1-1-2　欧州の大雨の洪水被害の様子",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "014": {
+        "type": "supplement:legend",
+        "supplement_id": "図1-1-1",
+        "text": "図1-1-1　2021年の世界各地の異常気象",
+        "mention_ids": []
+      },
+      "015": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "北米",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "森林火災",
+        "mention_ids": []
+      },
+      "017": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "北カリフォルニアでは、7月頃から森林火災が起こり、10月までに39万ヘクタールが焼失した。",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "018": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "高温",
+        "mention_ids": []
+      },
+      "019": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "カナダ西部のリットン (Lytton) では、 6月29日に49.6℃の日最高気温を観測し、カナダの国内最高記録を更新した。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "020": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "※リットンの6月の月平均気温 (平年値) は18.3℃。",
+        "mention_ids": [
+          "M024"
+        ]
+      },
+      "021": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "寒波",
+        "mention_ids": []
+      },
+      "022": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "米国中部~南部を中心に、2月中旬の寒波により合計220人以上が死亡し、240億米国ドルにのぼる経済被害が発生したと伝えられた。",
+        "mention_ids": [
+          "M025",
+          "M026"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "アジア",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "024": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "高温",
+        "mention_ids": []
+      },
+      "025": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "トルコ南東部のジズレでは、7月20日に49.1℃の日最高気温を観測し、トルコの国内最高記録を更新した。",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030",
+          "M031"
+        ]
+      },
+      "026": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "大雨",
+        "mention_ids": []
+      },
+      "027": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "中国中部では、7月中旬~下旬の大雨により300人以上が死亡したと伝えられた。",
+        "mention_ids": [
+          "M032"
+        ]
+      },
+      "028": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "オーストラリア付近",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "029": {
+        "type": "heading",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "熱帶低気圧",
+        "mention_ids": []
+      },
+      "030": {
+        "type": "line",
+        "in_figure": true,
+        "supplement_id": "図1-1-1",
+        "text": "4月、サイクロン (Seroja) がインドネシアの南で発生。インドネシアや東ティモール、 オーストラリアで272人が死亡したと伝えられた。",
+        "mention_ids": [
+          "M034",
+          "M035",
+          "M036",
+          "M037",
+          "M038"
+        ]
+      },
+      "031": {
+        "type": "supplement:legend",
+        "text": "1981-2010年の平均気温に対する2021年1月-9月の平均気温の偏差　資料:「WMO　Provisional　State　of　Global　Climate　in　2021」、　気象庁ホームページより環境省作成",
+        "mention_ids": [
+          "M039",
+          "M040",
+          "M041"
+        ]
+      },
+      "032": {
+        "type": "heading",
+        "text": "(2)我が国の気象災害",
+        "mention_ids": [
+          "M042"
+        ]
+      },
+      "033": {
+        "text": "2021年8月中旬から下旬には、日本付近に停滞している前線に向かって下層の暖かく湿った気流が流れ込み、前線の活動が非常に活発となった影響で、西日本から東日本の広い範囲で大雨となり、総降水量が多いところで1,400mmを超える記録的な大雨に見舞われました。",
+        "mention_ids": [
+          "M043",
+          "M044",
+          "M045"
+        ]
+      },
+      "034": {
+        "text": "特に8月12日から14日は九州北部地方と中国地方で線状降水帯が発生して記録的な大雨となりました。",
+        "mention_ids": [
+          "M046",
+          "M047"
+        ]
+      },
+      "035": {
+        "text": "また、西日本日本海側と西日本太平洋側では、1946年の統計開始以降、8月として最多月降水量記録を更新しました(写真1-1-3)。",
+        "mention_ids": [
+          "M048",
+          "M049",
+          "M050",
+          "M051"
+        ]
+      },
+      "036": {
+        "type": "supplement:legend",
+        "text": "写真1-1-3　令和3年8月の大雨の被害の様子",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "037": {
+        "text": "この大雨により12名が犠牲となり、388件の土砂災害、26水系67河川で氾濫・浸食による被害が発生するなど(2021年9月2日時点)、各地で多くの被害が発生しました。",
+        "mention_ids": []
+      },
+      "038": {
+        "text": "我が国では、長期的には極端な大雨の強さが増大する傾向が見られ、アメダス地点の年最大72時間降水量には、1976年以降、10年あたり3.7%の上昇傾向が見られます。",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "039": {
+        "text": "その背景要因として、地球温暖化による気温の長期的な上昇傾向に伴い、大気中の水蒸気量も長期的に増加傾向にあることが考えられています。",
+        "mention_ids": []
+      },
+      "040": {
+        "type": "heading",
+        "text": "2　気象災害による経済的影響",
+        "mention_ids": []
+      },
+      "041": {
+        "text": "気象災害は一たび起これば巨額の損害が発生する可能性があることから、気候変動問題は経済・金融のリスクと認識されるようになっています。",
+        "mention_ids": []
+      },
+      "042": {
+        "text": "国連防災機関(UNDRR)が2018年10月に発表した報告書(Economic　Losses,　Poverty　&amp;　DISASTERS　1998-2017)では、1998年から2017年の直近20年間の気候関連の災害による被害額は2兆2,450億ドル(全体の被害額2兆9,080億ドルの77%)と報告されていますが、これは、1978年から1997年の20年間に生じた気候関連の災害による被害額8,950億ドル(全体被害額1兆3,130億ドルの68%)に比べて約2.5倍です。",
+        "mention_ids": [
+          "M054",
+          "M055"
+        ]
+      },
+      "043": {
+        "text": "また、スイス・リー・インスティテュートの2021年第1号シグマ調査誌及び最新の公表値によると、世界の1970年から2021年にかけての保険損害額の推移のうち気象に関連する大災害による保険損害額は増大しています(図1-1-2)。",
+        "mention_ids": [
+          "M056",
+          "M057"
+        ]
+      },
+      "044": {
+        "text": "平均気温の上昇による熱波の長期化と頻度増加、山火事や干ばつ、より深刻な降雨などの2次的災害が顕著に現れ始めています。",
+        "mention_ids": []
+      },
+      "045": {
+        "text": "そして、災害による物的損害、事業中断、作物不足等が、保険金支払いの増加に影響が表れています。",
+        "mention_ids": []
+      },
+      "046": {
+        "type": "supplement:legend",
+        "text": "図1-1-2　世界の大災害による保険損害額の推移",
+        "mention_ids": []
+      },
+      "047": {
+        "text": "我が国においては、一般社団法人日本損害保険協会「近年の風水害等による支払保険金調査結果(見込み含む)」の調べによると、平成30年度に損害保険会社の主な自然災害の保険金支払額が、平成30年7月豪雨、平成30年台風第21号、平成30年台風第24号の自然災害によって過去最高額でした(図1-1-3)。",
+        "mention_ids": [
+          "M058",
+          "M059",
+          "M060",
+          "M061",
+          "M062",
+          "M063",
+          "M064"
+        ]
+      },
+      "048": {
+        "text": "平成30年7月豪雨では、九州北部、四国、中国、近畿、東海、北海道地方など多くの観測地点で24、48、72時間降水量の値が観測史上第1位となるなど、広い範囲における長時間の記録的な大雨となり、6,783件の全壊、1万1,342件の半壊など5万800件の住家被害が確認されています。",
+        "mention_ids": [
+          "M065",
+          "M066",
+          "M067",
+          "M068",
+          "M069",
+          "M070",
+          "M071"
+        ]
+      },
+      "049": {
+        "type": "supplement",
+        "text": "図1-1-3　我が国の近年の風水害等による支払保険金額",
+        "mention_ids": [
+          "M072"
+        ]
+      },
+      "050": {
+        "text": "風水災害等による過去の支払保険金の金額は、平成後半以降に起こった災害が上位を占めています。",
+        "mention_ids": [
+          "M073"
+        ]
+      },
+      "051": {
+        "type": "heading",
+        "text": "3　気候変動の状況とその影響",
+        "mention_ids": []
+      },
+      "052": {
+        "type": "heading",
+        "text": "(1)世界の温室効果ガス排出量",
+        "mention_ids": []
+      },
+      "053": {
+        "text": "国連環境計画(UNEP)の「Emissions　Gap　Report　2021」によると、2019年の世界の人為起源の温室効果ガスの総排出量は、全体でおよそ581億トン(図1-1-4)、2020年の世界の温室効果ガス全体の排出量のデータはレポート公表時点では存在しないものの、世界の化石燃料由来のCO2排出量は、新型コロナウイルス感染症の感染拡大の影響により、2020年には前年から5.4%と今までになく減少したとされています。",
+        "mention_ids": [
+          "M074",
+          "M075"
+        ]
+      },
+      "054": {
+        "text": "一方、2021年には強いリバウンド傾向が予測され、予備的な推計では、2019年よりわずかに少ない程度まで排出量が増加すると見られています。",
+        "mention_ids": []
+      },
+      "055": {
+        "text": "また、同報告書では、2020年は排出量が減少したものの、大気中の温室効果ガス濃度は上昇が続いていて、気候変動問題の解決のためには、速やかで持続的な排出削減が必要と述べています。",
+        "mention_ids": [
+          "M076"
+        ]
+      },
+      "056": {
+        "type": "supplement:legend",
+        "text": "図1-1-4　世界の温室効果ガス排出量",
+        "mention_ids": []
+      },
+      "057": {
+        "type": "heading",
+        "text": "(2)我が国の温室効果ガス排出量",
+        "mention_ids": [
+          "M077"
+        ]
+      },
+      "058": {
+        "text": "我が国の2020年度の温室効果ガス排出量(確報値)は、11億5,000万トン(CO2換算)であり、2014年度以降、7年連続で減少しています(図1-1-5)。",
+        "mention_ids": [
+          "M078"
+        ]
+      },
+      "059": {
+        "text": "その要因としては、エネルギー消費量の減少(省エネ等)や、電力の低炭素化(再エネ拡大、原発再稼働)等が挙げられます。",
+        "mention_ids": []
+      },
+      "060": {
+        "text": "また、前年度の総排出量(12億1,200万トンCO2)と比べて、5.1%(6,200万トンCO2)減少しており、その要因としては、新型コロナウイルス感染症の感染拡大に伴うエネルギー消費量の減少が示唆されます。",
+        "mention_ids": []
+      },
+      "061": {
+        "text": "2020年度の森林等吸収源によるCO2の吸収量は約4,450万トンCO2で、森林等吸収源を引くと、11億600万トンCO2で、2013年度の総排出量(14億900万トンCO2)と比べて、21.5%減少となりました。",
+        "mention_ids": []
+      },
+      "062": {
+        "type": "supplement:legend",
+        "text": "図1-1-5　7年連続で減少している我が国の温室効果ガス排出量",
+        "mention_ids": [
+          "M079"
+        ]
+      },
+      "063": {
+        "text": "我が国の温室効果ガス排出量を生産ベースで見ると、主な家計関連に関する排出量の内訳は、冷暖房・給湯、家電の使用等の家庭におけるエネルギー消費によるものが中心となり、我が国全体の排出量のうち家計関連の占める割合は小さくなります(図1-1-6)。",
+        "mention_ids": [
+          "M080",
+          "M081"
+        ]
+      },
+      "064": {
+        "text": "なお、生産ベースとは、日本国内で発生した排出量を指しており、発電や熱の生産に伴う排出量については、その電力や熱の消費者からの排出として算定した電気・熱配分後の排出量を指します。",
+        "mention_ids": [
+          "M082"
+        ]
+      },
+      "065": {
+        "type": "supplement:legend",
+        "text": "図1-1-6　生産ベースから見た我が国の温室効果ガス排出源の内訳",
+        "mention_ids": [
+          "M083"
+        ]
+      },
+      "066": {
+        "type": "heading",
+        "text": "4　気候変動及び気象災害を発端とする農林水産業への影響",
+        "mention_ids": []
+      },
+      "067": {
+        "text": "近年、農産物や水産物などの高温による生育障害や品質低下、観測記録を塗り替える高温、豪雨、大雪による大きな災害が、我が国の農林水産業・農山漁村の生産や生活の基盤を揺るがしかねない状況となっています。",
+        "mention_ids": [
+          "M084"
+        ]
+      },
+      "068": {
+        "text": "気候変動は、作物の生育や栽培適地の変化、病害虫・雑草の発生量や分布域の拡大、家畜の成長や繁殖、人工林の成長、水産資源の分布や生残に影響を及ぼし、食料や木材の供給や農林水産業に従事する人々の収入や生産方法に影響を及ぼします。",
+        "mention_ids": []
+      },
+      "069": {
+        "text": "このような影響は、気温や水温、CO2濃度の上昇といった直接的な原因によるものと、水資源量の変化や自然生態系の変化を介した間接的な原因によるものがあります。",
+        "mention_ids": []
+      },
+      "070": {
+        "text": "また、農林水産分野における気候変動の影響は、商業、流通業、国際貿易等にも波及することから、経済活動に及ぼす影響は大きいものとされています。",
+        "mention_ids": []
+      },
+      "071": {
+        "text": "農林水産省の「令和2年度食料・農業・農村白書」(2021年5月閣議決定)によると、我が国は近年、異常気象に伴う大規模な災害が多発し、2020年7月に発生した「令和2年7月豪雨」により、広範囲で河川の氾濫による被害が発生し、農林水産関係の被害額は、2,208億円でした。",
+        "mention_ids": [
+          "M085",
+          "M086",
+          "M087",
+          "M088",
+          "M089"
+        ]
+      },
+      "072": {
+        "text": "さらに、台風等による被害が発生したことから2020年発生の主な気象災害による農林水産関係の被害額は、2,473億円でした。",
+        "mention_ids": []
+      },
+      "073": {
+        "text": "このように気象災害は、農林水産業に大きな影響を与えていることがわかります。",
+        "mention_ids": []
+      },
+      "074": {
+        "type": "heading",
+        "text": "コラム:私たちの生活への影響",
+        "mention_ids": []
+      },
+      "075": {
+        "text": "農林水産業は気候変動の影響を受けやすく、近年温暖化による農産物や水産物の生育障害や品質低下等の影響が顕在化しています。",
+        "mention_ids": []
+      },
+      "076": {
+        "text": "「農林水産省気候変動適応計画」(2021年10月農林水産省策定)によると、水産業においては高水温によるホタテ貝の大量へい死、高水温かつ少雨傾向の年におけるカキのへい死が報告されています。",
+        "mention_ids": [
+          "M090",
+          "M091"
+        ]
+      },
+      "077": {
+        "text": "養殖ノリでは、秋季の高水温により種付け開始時期が遅れ、年間収穫量が各地で減少し、魚類による食害も報告されています。",
+        "mention_ids": []
+      },
+      "078": {
+        "text": "また、同計画に基づく取組の一環として、「令和2年地球温暖化影響調査レポート」(2021年8月農林水産省公表)では、各都道府県の協力を得て、地球温暖化の影響と考えられる農業生産現場での高温障害等の影響、その適応策等を取りまとめています。",
+        "mention_ids": [
+          "M092",
+          "M093"
+        ]
+      },
+      "079": {
+        "text": "一部、現時点で必ずしも地球温暖化の影響と断定できないものもありますが、将来、地球温暖化が進行すれば、これらの影響が頻発する可能性があることからレポートの対象として取り上げています。",
+        "mention_ids": []
+      },
+      "080": {
+        "text": "コラムでは、例年から影響発生の報告が多い、農畜産物を紹介します。",
+        "mention_ids": []
+      },
+      "081": {
+        "text": "私たちが普段口にする身近な野菜や果物等へ影響することがわかります。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          12,
+          15
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          5,
+          6
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          11
+        ],
+        "text": "世界気象機関(WMO)",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "006",
+        "span": [
+          12,
+          15
+        ],
+        "text": "気象庁",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          2
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "007",
+        "span": [
+          3,
+          6
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "007",
+        "span": [
+          22,
+          24
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "008",
+        "span": [
+          3,
+          5
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "008",
+        "span": [
+          6,
+          9
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          10
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "009",
+        "span": [
+          10,
+          18
+        ],
+        "text": "カリフォルニア州",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          2
+        ],
+        "text": "欧州",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          3
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "011",
+        "span": [
+          6,
+          15
+        ],
+        "text": "リューデンシャイト",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "012",
+        "span": [
+          16,
+          19
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          25,
+          29
+        ],
+        "text": "ベルギー",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "013",
+        "span": [
+          8,
+          10
+        ],
+        "text": "欧州",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          2
+        ],
+        "text": "北米",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          8
+        ],
+        "text": "北カリフォルニア",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          3
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "019",
+        "span": [
+          6,
+          19
+        ],
+        "text": "リットン (Lytton)",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "019",
+        "span": [
+          46,
+          49
+        ],
+        "text": "カナダ",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "019",
+        "span": [
+          50,
+          51
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "020",
+        "span": [
+          1,
+          5
+        ],
+        "text": "リットン",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          2
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "022",
+        "span": [
+          39,
+          41
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "023",
+        "span": [
+          0,
+          3
+        ],
+        "text": "アジア",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          3
+        ],
+        "text": "トルコ",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "025",
+        "span": [
+          7,
+          10
+        ],
+        "text": "ジズレ",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "025",
+        "span": [
+          35,
+          38
+        ],
+        "text": "トルコ",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "025",
+        "span": [
+          39,
+          40
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "027",
+        "span": [
+          0,
+          2
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "028",
+        "span": [
+          0,
+          7
+        ],
+        "text": "オーストラリア",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "030",
+        "span": [
+          3,
+          17
+        ],
+        "text": "サイクロン (Seroja)",
+        "entity_type": "EVE",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "030",
+        "span": [
+          19,
+          25
+        ],
+        "text": "インドネシア",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "030",
+        "span": [
+          31,
+          37
+        ],
+        "text": "インドネシア",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "030",
+        "span": [
+          38,
+          44
+        ],
+        "text": "東ティモール",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "030",
+        "span": [
+          46,
+          53
+        ],
+        "text": "オーストラリア",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M039": {
+        "sentence_id": "031",
+        "span": [
+          42,
+          89
+        ],
+        "text": "WMO　Provisional　State　of　Global　Climate　in　2021",
+        "entity_type": "PRO",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "031",
+        "span": [
+          92,
+          95
+        ],
+        "text": "気象庁",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "031",
+        "span": [
+          103,
+          106
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "032",
+        "span": [
+          3,
+          6
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "033",
+        "span": [
+          16,
+          18
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M044": {
+        "sentence_id": "033",
+        "span": [
+          70,
+          73
+        ],
+        "text": "西日本",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "033",
+        "span": [
+          75,
+          78
+        ],
+        "text": "東日本",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "034",
+        "span": [
+          13,
+          19
+        ],
+        "text": "九州北部地方",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "034",
+        "span": [
+          20,
+          24
+        ],
+        "text": "中国地方",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "035",
+        "span": [
+          3,
+          6
+        ],
+        "text": "西日本",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "035",
+        "span": [
+          6,
+          9
+        ],
+        "text": "日本海",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "035",
+        "span": [
+          11,
+          14
+        ],
+        "text": "西日本",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "035",
+        "span": [
+          14,
+          17
+        ],
+        "text": "太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "036",
+        "span": [
+          8,
+          10
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "038",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M054": {
+        "sentence_id": "042",
+        "span": [
+          0,
+          13
+        ],
+        "text": "国連防災機関(UNDRR)",
+        "entity_type": "ORG",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "042",
+        "span": [
+          31,
+          81
+        ],
+        "text": "Economic　Losses,　Poverty　&amp;　DISASTERS　1998-2017",
+        "entity_type": "PRO",
+        "entity_id": "E032",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "043",
+        "span": [
+          3,
+          19
+        ],
+        "text": "スイス・リー・インスティテュート",
+        "entity_type": "ORG",
+        "entity_id": "E033",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "043",
+        "span": [
+          28,
+          34
+        ],
+        "text": "シグマ調査誌",
+        "entity_type": "PRO",
+        "entity_id": "E034",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "047",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M059": {
+        "sentence_id": "047",
+        "span": [
+          9,
+          23
+        ],
+        "text": "一般社団法人日本損害保険協会",
+        "entity_type": "ORG",
+        "entity_id": "E035",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "047",
+        "span": [
+          24,
+          50
+        ],
+        "text": "近年の風水害等による支払保険金調査結果(見込み含む)",
+        "entity_type": "PRO",
+        "entity_id": "E036",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "047",
+        "span": [
+          59,
+          61
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E037",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "047",
+        "span": [
+          88,
+          97
+        ],
+        "text": "平成30年7月豪雨",
+        "entity_type": "EVE",
+        "entity_id": "E038",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "047",
+        "span": [
+          98,
+          109
+        ],
+        "text": "平成30年台風第21号",
+        "entity_type": "EVE",
+        "entity_id": "E039",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "047",
+        "span": [
+          110,
+          121
+        ],
+        "text": "平成30年台風第24号",
+        "entity_type": "EVE",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M065": {
+        "sentence_id": "048",
+        "span": [
+          0,
+          9
+        ],
+        "text": "平成30年7月豪雨",
+        "entity_type": "EVE",
+        "entity_id": "E038",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M066": {
+        "sentence_id": "048",
+        "span": [
+          12,
+          14
+        ],
+        "text": "九州",
+        "entity_type": "LOC",
+        "entity_id": "E041",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M067": {
+        "sentence_id": "048",
+        "span": [
+          17,
+          19
+        ],
+        "text": "四国",
+        "entity_type": "LOC",
+        "entity_id": "E042",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M068": {
+        "sentence_id": "048",
+        "span": [
+          20,
+          22
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M069": {
+        "sentence_id": "048",
+        "span": [
+          23,
+          25
+        ],
+        "text": "近畿",
+        "entity_type": "LOC",
+        "entity_id": "E043",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M070": {
+        "sentence_id": "048",
+        "span": [
+          26,
+          28
+        ],
+        "text": "東海",
+        "entity_type": "LOC",
+        "entity_id": "E044",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "048",
+        "span": [
+          29,
+          34
+        ],
+        "text": "北海道地方",
+        "entity_type": "LOC",
+        "entity_id": "E045",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M072": {
+        "sentence_id": "049",
+        "span": [
+          7,
+          10
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M073": {
+        "sentence_id": "050",
+        "span": [
+          21,
+          23
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E037",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "053",
+        "span": [
+          0,
+          12
+        ],
+        "text": "国連環境計画(UNEP)",
+        "entity_type": "ORG",
+        "entity_id": "E046",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "053",
+        "span": [
+          14,
+          39
+        ],
+        "text": "Emissions　Gap　Report　2021",
+        "entity_type": "PRO",
+        "entity_id": "E047",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M076": {
+        "sentence_id": "055",
+        "span": [
+          3,
+          7
+        ],
+        "text": "同報告書",
+        "entity_type": "NOMINAL",
+        "entity_id": "E047",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M077": {
+        "sentence_id": "057",
+        "span": [
+          3,
+          6
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M078": {
+        "sentence_id": "058",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M079": {
+        "sentence_id": "062",
+        "span": [
+          18,
+          21
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M080": {
+        "sentence_id": "063",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M081": {
+        "sentence_id": "063",
+        "span": [
+          81,
+          84
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M082": {
+        "sentence_id": "064",
+        "span": [
+          11,
+          13
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M083": {
+        "sentence_id": "065",
+        "span": [
+          16,
+          19
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M084": {
+        "sentence_id": "067",
+        "span": [
+          56,
+          59
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M085": {
+        "sentence_id": "071",
+        "span": [
+          0,
+          5
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E048",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M086": {
+        "sentence_id": "071",
+        "span": [
+          7,
+          22
+        ],
+        "text": "令和2年度食料・農業・農村白書",
+        "entity_type": "PRO",
+        "entity_id": "E049",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M087": {
+        "sentence_id": "071",
+        "span": [
+          31,
+          33
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E050",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M088": {
+        "sentence_id": "071",
+        "span": [
+          41,
+          44
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M089": {
+        "sentence_id": "071",
+        "span": [
+          79,
+          87
+        ],
+        "text": "令和2年7月豪雨",
+        "entity_type": "EVE",
+        "entity_id": "E051",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M090": {
+        "sentence_id": "076",
+        "span": [
+          1,
+          6
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E048",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M091": {
+        "sentence_id": "076",
+        "span": [
+          24,
+          29
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E048",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M092": {
+        "sentence_id": "078",
+        "span": [
+          20,
+          37
+        ],
+        "text": "令和2年地球温暖化影響調査レポート",
+        "entity_type": "PRO",
+        "entity_id": "E052",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M093": {
+        "sentence_id": "078",
+        "span": [
+          46,
+          51
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E048",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M042",
+          "M043",
+          "M053",
+          "M058",
+          "M072",
+          "M077",
+          "M078",
+          "M079",
+          "M080",
+          "M081",
+          "M082",
+          "M083",
+          "M084",
+          "M088"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q170424",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%B0%97%E8%B1%A1%E6%A9%9F%E9%96%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M040"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q860935",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%97%E8%B1%A1%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.665833333",
+          "139.745833333"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M007",
+          "M008",
+          "M010",
+          "M025",
+          "M026"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/148838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "39.828175",
+          "-98.5795"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M009",
+          "M020",
+          "M022",
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q16",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1428125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q16"
+        },
+        "coordinate": [
+          "56.0",
+          "-109.0"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q99",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E",
+          "openstreetmap": "https://www.openstreetmap.org/relation/165475",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "37.0",
+          "-120.0"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M012",
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "coordinate": [
+          "48.690959",
+          "9.14062"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M013",
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84",
+          "openstreetmap": "https://www.openstreetmap.org/relation/51477",
+          "wikidata_country": "http://www.wikidata.org/entity/Q183"
+        },
+        "coordinate": [
+          "51.0",
+          "10.0"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3893",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%87%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%88",
+          "openstreetmap": "https://www.openstreetmap.org/relation/168563",
+          "wikidata_country": "http://www.wikidata.org/entity/Q183"
+        },
+        "coordinate": [
+          "51.21977",
+          "7.6273"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q31",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/52411",
+          "wikidata_country": "http://www.wikidata.org/entity/Q31"
+        },
+        "coordinate": [
+          "50.641111111",
+          "4.668055555"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q49",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB",
+          "openstreetmap": "https://www.openstreetmap.org/node/36966063"
+        },
+        "coordinate": [
+          "47.0",
+          "-105.0"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1066807",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "38.2813",
+          "-120.905"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M021",
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2957125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%83%88%E3%83%B3_(%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E)",
+          "openstreetmap": "https://www.openstreetmap.org/relation/7905985",
+          "wikidata_country": "http://www.wikidata.org/entity/Q16"
+        },
+        "coordinate": [
+          "50.225",
+          "-121.576666666"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "coordinate": [
+          "43.681111111",
+          "87.331111111"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M028",
+          "M030",
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q43",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%82%B3",
+          "openstreetmap": "https://www.openstreetmap.org/relation/174737",
+          "wikidata_country": "http://www.wikidata.org/entity/Q43"
+        },
+        "coordinate": [
+          "39.0",
+          "36.0"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q821363",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%BA%E3%83%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1751838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q43"
+        },
+        "coordinate": [
+          "37.33024",
+          "42.18484"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/270056",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "35.844722222",
+          "103.451944444"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M033",
+          "M038"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q408",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/80500",
+          "wikidata_country": "http://www.wikidata.org/entity/Q408"
+        },
+        "coordinate": [
+          "-25.0",
+          "133.0"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q106368325",
+          "wikidata_country": "http://www.wikidata.org/entity/Q408"
+        },
+        "coordinate": [
+          "-11.1",
+          "121.3"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M035",
+          "M036"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/304751",
+          "wikidata_country": "http://www.wikidata.org/entity/Q252"
+        },
+        "coordinate": [
+          "-2.0",
+          "118.0"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%AB",
+          "openstreetmap": "https://www.openstreetmap.org/relation/305142",
+          "wikidata_country": "http://www.wikidata.org/entity/Q574"
+        },
+        "coordinate": [
+          "-8.966667",
+          "125.75"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1125558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M044",
+          "M048",
+          "M050"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1063946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M045"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1063689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q397703",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%83%A8%E4%B9%9D%E5%B7%9E",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M047",
+          "M068"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127864",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.05",
+          "134.066666666"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q27092",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.0",
+          "135.0"
+        ]
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q98",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B",
+          "openstreetmap": "https://www.openstreetmap.org/node/305640005"
+        },
+        "coordinate": [
+          "0.0",
+          "-160.0"
+        ]
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7888446",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%80%A3%E9%98%B2%E7%81%BD%E6%A9%9F%E9%96%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q605565",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11508145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%90%8D%E5%AE%B3%E4%BF%9D%E9%99%BA%E5%8D%94%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.688134",
+          "139.755248"
+        ]
+      },
+      "E036": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E037": {
+        "member_mention_ids": [
+          "M061",
+          "M073"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E038": {
+        "member_mention_ids": [
+          "M062",
+          "M065"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q55410283",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%9030%E5%B9%B47%E6%9C%88%E8%B1%AA%E9%9B%A8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E039": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q56273160",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%9030%E5%B9%B4%E5%8F%B0%E9%A2%A8%E7%AC%AC21%E5%8F%B7"
+        }
+      },
+      "E040": {
+        "member_mention_ids": [
+          "M064"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q56698478",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%9030%E5%B9%B4%E5%8F%B0%E9%A2%A8%E7%AC%AC24%E5%8F%B7"
+        }
+      },
+      "E041": {
+        "member_mention_ids": [
+          "M066"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q13393883",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1842245",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.0",
+          "131.0"
+        ]
+      },
+      "E042": {
+        "member_mention_ids": [
+          "M067"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q60213044",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1847663",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E043": {
+        "member_mention_ids": [
+          "M069"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q164256",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "135.0"
+        ]
+      },
+      "E044": {
+        "member_mention_ids": [
+          "M070"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q398989",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.26666667",
+          "137.05"
+        ]
+      },
+      "E045": {
+        "member_mention_ids": [
+          "M071"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q23774089",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E046": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q182016",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E7%92%B0%E5%A2%83%E8%A8%88%E7%94%BB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q114"
+        }
+      },
+      "E047": {
+        "member_mention_ids": [
+          "M075",
+          "M076"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q60982793"
+        }
+      },
+      "E048": {
+        "member_mention_ids": [
+          "M085",
+          "M090",
+          "M091",
+          "M093"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E049": {
+        "member_mention_ids": [
+          "M086"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E050": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E051": {
+        "member_mention_ids": [
+          "M089"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q96981356",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C2%E5%B9%B47%E6%9C%88%E8%B1%AA%E9%9B%A8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E052": {
+        "member_mention_ids": [
+          "M092"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  }
+}

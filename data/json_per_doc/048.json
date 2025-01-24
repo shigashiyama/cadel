@@ -1,0 +1,1374 @@
+{
+  "048-1": {
+    "metainfo": {
+      "src_date": "20230800",
+      "src_url": "https://www.rinya.maff.go.jp/chubu/koho/koho_si/attach/pdf/index-69.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/chubu/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "中部の森林　2023/No.233",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "森林土木分野における「新技術・新工法」の技術プレゼンテーション",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "【治山課・森林整備課】",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "004": {
+        "text": "　中部森林管理局管内で実施している森林土木工事は、山間奥地の厳しい現場条件に加え、建設業の担い手不足や高齢化、建設業における働き方改革が本格化するなど、工事の安全性の向上や施工の省力化・効率化が今後の課題となっています。",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "005": {
+        "text": "　このような中、令和五年度における当局の新たな取組として、六月三十日に「森林土木分野における『新技術・新工法』の技術プレゼンテーション」を開催しました。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "006": {
+        "text": "　この技術プレゼンテーションは、こうした課題の解決に資する新技術等について、テーマを設定のうえ募集を行い、応募いただいた企業から提案をいただくものです。",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "007": {
+        "text": "　当局が募集したテーマは、「ICT」、「治山ダム等に関する新工法」及び「省力化・軽量化に資する工事用資材」とし、募集に当たっては、局ホームページに掲載しました。",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      },
+      "008": {
+        "text": "　募集の結果、二十一社からの応募があるなど、想定を上回る反響があったことから、プレゼンテーションは局大会議室と研修室の二会場による対面とWEB参加のハイブリッド形式で実施しました。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "009": {
+        "text": "また、林野庁業務課の企画官をはじめ、富山県、長野県、愛知県、(一社)長野林業土木協会、(一社)名古屋林業土木協会にオブザーバーとして参加していただきました。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "010": {
+        "text": "　各企業からのプレゼンテーションは、実演や動画による説明など工夫が凝らされており、特徴やメリット等について分かりやすく説明していただきました。",
+        "mention_ids": [
+          "M023"
+        ]
+      },
+      "011": {
+        "text": "説明を受けた参加者からは多くの質問が寄せられ、提案いただいた企業からは「このような機会を設けていただいたことは大変ありがたい」とのコメントをいただくなど、大変有意義なものとなりました。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "　提案いただいた内容は当局のみならず、他の森林管理局や都道府県等の民有林部局への展開も期待されることから、発表内容等については、局ホームページに掲載しますので多くの方にご覧いただきたいと思います。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026",
+          "M027"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          5
+        ],
+        "text": "中部の森林",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          31
+        ],
+        "text": "森林土木分野における「新技術・新工法」の技術プレゼンテーション",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          1,
+          4
+        ],
+        "text": "治山課",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          5,
+          10
+        ],
+        "text": "森林整備課",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          1,
+          8
+        ],
+        "text": "中部森林管理局",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          8,
+          10
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          17,
+          19
+        ],
+        "text": "当局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          36,
+          67
+        ],
+        "text": "森林土木分野における『新技術・新工法』の技術プレゼンテーション",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          14
+        ],
+        "text": "技術プレゼンテーション",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "007",
+        "span": [
+          1,
+          3
+        ],
+        "text": "当局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          65,
+          66
+        ],
+        "text": "局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          39,
+          48
+        ],
+        "text": "プレゼンテーション",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          49,
+          50
+        ],
+        "text": "局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          50,
+          54
+        ],
+        "text": "大会議室",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          55,
+          58
+        ],
+        "text": "研修室",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "009",
+        "span": [
+          3,
+          6
+        ],
+        "text": "林野庁",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          6,
+          9
+        ],
+        "text": "業務課",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          18,
+          21
+        ],
+        "text": "富山県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "009",
+        "span": [
+          22,
+          25
+        ],
+        "text": "長野県",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          26,
+          29
+        ],
+        "text": "愛知県",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          30,
+          42
+        ],
+        "text": "(一社)長野林業土木協会",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          43,
+          56
+        ],
+        "text": "(一社)名古屋林業土木協会",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "010",
+        "span": [
+          7,
+          16
+        ],
+        "text": "プレゼンテーション",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "012",
+        "span": [
+          11,
+          13
+        ],
+        "text": "当局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "012",
+        "span": [
+          21,
+          26
+        ],
+        "text": "森林管理局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "012",
+        "span": [
+          33,
+          38
+        ],
+        "text": "民有林部局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "012",
+        "span": [
+          64,
+          65
+        ],
+        "text": "局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M008",
+          "M009",
+          "M012",
+          "M023"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/chubu/press/kouhou/230823.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M004",
+          "M014",
+          "M015"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11367313",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M007",
+          "M010",
+          "M011",
+          "M013",
+          "M024",
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11367313",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q54419115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9E%97%E9%87%8E%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q54419115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9E%97%E9%87%8E%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132929",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3793529",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.695305555",
+          "137.211305555"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127877",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3560284",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.651277777",
+          "138.180944444"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80434",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3560336",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.180166666",
+          "136.906416666"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://rindoren.or.jp/nagano.html"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://mori-mori.co.jp/"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11539889",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  },
+  "048-2": {
+    "metainfo": {
+      "src_date": "20230800",
+      "src_url": "https://www.rinya.maff.go.jp/chubu/koho/koho_si/attach/pdf/index-69.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/chubu/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "有害鳥獣捕獲の職場内研修を実施",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "【愛知森林管理事務所】",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "text": "　六月二十一日、当所会議室と北設楽郡設楽町の段戸国有林において、有害鳥獣捕獲の職場内研修を実施し、職員十八名が参加しました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "004": {
+        "text": "　ニホンジカ等の増加による植栽木の食害等により、当所管内においても造林地育成への負担が増加しており、平成三十年度から有害鳥獣の捕獲に取り組んでいます。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "005": {
+        "text": "　鳥獣による農林水産業や生態系に係る被害の防止を図ることを目的として、地元設楽町猟友会への委託及び協定による捕獲のほか、数年前からは当所職員が国有林野内で有害鳥獣を捕獲する「職員捕獲」を実施しています。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "006": {
+        "text": "　職員捕獲を実施するための職場内研修は、これまで狩猟に精通した職員が講師となり、捕獲業務に従事する予定の職員への説明等を行ってきましたが、近年の鳥獣行政を学ぶため、今回は愛知県新城設楽振興事務所の加藤主任を講師にお迎えし、法制度を中心に分かりやすくご講義いただきました。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "007": {
+        "text": "続いて、くくりワナの設置や動画によるニホンジカの特性等について学んだ後、段戸国有林に移動し、くくりワナ設置の実技講習を実施しました。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "008": {
+        "text": "　今後、捕獲許可を得て、職員捕獲に取り組むこととなりますが、くくりワナを設置する場所の選定や手法等、様々な意見を取り入れながら取り組んでいきたいと思います。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          10
+        ],
+        "text": "愛知森林管理事務所",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          8,
+          10
+        ],
+        "text": "当所",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          13
+        ],
+        "text": "会議室",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          14,
+          18
+        ],
+        "text": "北設楽郡",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          18,
+          21
+        ],
+        "text": "設楽町",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          22,
+          27
+        ],
+        "text": "段戸国有林",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          24,
+          26
+        ],
+        "text": "当所",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          50,
+          52
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          37,
+          43
+        ],
+        "text": "設楽町猟友会",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          66,
+          68
+        ],
+        "text": "当所",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          71,
+          75
+        ],
+        "text": "国有林野",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          85,
+          88
+        ],
+        "text": "愛知県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "006",
+        "span": [
+          88,
+          97
+        ],
+        "text": "新城設楽振興事務所",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          98,
+          100
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "007",
+        "span": [
+          36,
+          41
+        ],
+        "text": "段戸国有林",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M007",
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11367313",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/chubu/aiti/hp/aitioya.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q605134",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%A8%AD%E6%A5%BD%E9%83%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.133333333",
+          "137.65"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1346777",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A8%AD%E6%A5%BD%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.097222222",
+          "137.571388888"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M011",
+          "M015"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17175784",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B7%B9%E3%83%8E%E5%B7%A3%E5%B1%B1_(%E6%84%9B%E7%9F%A5%E7%9C%8C)",
+          "openstreetmap": "https://www.openstreetmap.org/node/3259303480",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.1525",
+          "137.495"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80434",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3560336",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.180166666",
+          "136.906416666"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.pref.aichi.jp/soshiki/shinshiroshitara/"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  },
+  "048-3": {
+    "metainfo": {
+      "src_date": "20230800",
+      "src_url": "https://www.rinya.maff.go.jp/chubu/koho/koho_si/attach/pdf/index-69.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/chubu/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "鳥獣保護及び狩猟に関する講習会を開催",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "【南信森林管理署】",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "text": "　六月二十八日、鳥獣保護及び狩猟に関する講習会を開催し、当署職員と木曽森林ふれあい推進センターの職員、総勢二十四名が参加しました。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "　当署管内の国有林では、職員捕獲をはじめ、くくりワナ(以下「ワナ」)の貸出や地元猟友会との協定、各種協議会などの協力、「ついで見回り・通報」の取組により、昨年度は令和三年度の一、八五五頭を七九二頭上回る、二、六四七頭を捕獲しました。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "005": {
+        "text": "　本年度も鳥獣の保護や狩猟に関する知識の向上を図るとともに、獣害対策に専門的な知識を有する職員の育成に資することを目的に講習会を企画し、午前は上伊那地域振興局及び南信州地域振興局の鳥獣対策専門員を講師に、法令や鳥獣の生態、特性について学び、午後は手良沢山国有林において、地元伊那市猟友会員三名より、ワナの仕組み、設置場所の選定、設置する際の注意事項、獣がワナに掛かった後の対応等の説明を受けた後、三班に分かれ実際にワナの設置を行いました。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "006": {
+        "text": "　今回初めてワナを設置した職員からは、「女性でもコツをつかめば割と簡単に設置できる」「作動したワナが思ったよりも外れないことに驚いた」「ワナを設置する穴が浅いと感じ、その分、カモフラージュに力を入れた」などの声がありました。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "　講義や実技で学んだことを活かし、引き続き、地元猟友会、関係機関及び各協議会等と連携し、積極的に有害鳥獣被害対策に取り組みます。",
+        "mention_ids": [
+          "M011"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          8
+        ],
+        "text": "南信森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          28,
+          30
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          33,
+          47
+        ],
+        "text": "木曽森林ふれあい推進センター",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          1,
+          3
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          40,
+          43
+        ],
+        "text": "猟友会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          81,
+          83
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          71,
+          79
+        ],
+        "text": "上伊那地域振興局",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          81,
+          89
+        ],
+        "text": "南信州地域振興局",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          123,
+          130
+        ],
+        "text": "手良沢山国有林",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          137,
+          143
+        ],
+        "text": "伊那市猟友会",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          24,
+          27
+        ],
+        "text": "猟友会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11367313",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M005",
+          "M010",
+          "M011"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M007",
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127877",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3560284",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.651277777",
+          "138.180944444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  }
+}

@@ -1,0 +1,1752 @@
+{
+  "043-1": {
+    "metainfo": {
+      "src_date": "20220729",
+      "src_url": "https://www.mod.go.jp/j/press/wp/wp2022/pdf/wp2022_JP_Full_01.pdf",
+      "src_parent_url": "https://www.mod.go.jp/j/press/wp/wp2022/w2022_00.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和4年版防衛白書　日本の防衛　第IV部　第6章　地域社会や環境との共生に関する取組　第1節　地域社会や環境との調和にかかる施策",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "6　東京2020オリンピック・パラリンピック競技大会への取組",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "1　セキュリティ確保に伴う警戒監視など",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "防衛省・自衛隊は、政府のセキュリティ幹事会において決定された「2020年東京オリンピック競技大会・東京パラリンピック競技大会に向けたセキュリティ基本戦略」を踏まえ、競技会場周辺を含むわが国上空の警戒監視などの各種任務に従事し、大会の安全・円滑な準備及び運営並びに継続性の確保に貢献した。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "2　自衛官アスリートの活躍",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "防衛省・自衛隊は、従来から選手を育成してきた9種目(レスリング、ボクシング、柔道、射撃、ウエイトリフティング、アーチェリー、陸上、水泳、近代五種)に加えて、2017年度から女子ラグビー及びカヌーを特別体育課程として設置し、11種目の選手育成・強化を行い、東京2020大会に向けた自衛官アスリートの育成を推進してきた。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "007": {
+        "text": "その結果、自衛隊体育学校から10種目に17名の隊員がオリンピック競技大会に出場し、同校過去最多となる5個のメダル(金3、銀1、銅1)を獲得した。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "3　式典等大会運営への協力",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "防衛省・自衛隊は、東京オリンピック・パラリンピック競技大会組織委員会から依頼を受け、大会に先立ち、聖火到着式におけるブルーインパルスによる展示飛行及び音楽隊による演奏、同組織委員会のサイバーセキュリティ対策にかかる協力、陸上自衛隊朝霞訓練場をはじめとした自衛隊施設の無償提供を行った。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "010": {
+        "text": "大会時においては、約8,500名の隊員により、国旗等掲揚、射撃競技会場における医療サービス、自転車競技における救急搬送、セーリング競技における海上救護、会場内外の整理及び競技(アーチェリー、射撃、近代五種)における運営協力を行った。",
+        "mention_ids": [
+          "M026"
+        ]
+      },
+      "011": {
+        "text": "また、東京2020オリンピック・パラリンピック競技大会の各開会日において、ブルーインパルスによる展示飛行を実施した。",
+        "mention_ids": [
+          "M027",
+          "M028"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          9
+        ],
+        "text": "令和4年版防衛白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          10,
+          12
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          2,
+          26
+        ],
+        "text": "東京2020オリンピック・パラリンピック競技大会",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          4,
+          7
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          9,
+          11
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          12,
+          21
+        ],
+        "text": "セキュリティ幹事会",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          31,
+          62
+        ],
+        "text": "2020年東京オリンピック競技大会・東京パラリンピック競技大会",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          91,
+          94
+        ],
+        "text": "わが国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          4,
+          7
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          127,
+          135
+        ],
+        "text": "東京2020大会",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          5,
+          12
+        ],
+        "text": "自衛隊体育学校",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "007",
+        "span": [
+          26,
+          36
+        ],
+        "text": "オリンピック競技大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "007",
+        "span": [
+          41,
+          43
+        ],
+        "text": "同校",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          3
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          4,
+          7
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          9,
+          34
+        ],
+        "text": "東京オリンピック・パラリンピック競技大会組織委員会",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "009",
+        "span": [
+          42,
+          44
+        ],
+        "text": "大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          49,
+          54
+        ],
+        "text": "聖火到着式",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          58,
+          66
+        ],
+        "text": "ブルーインパルス",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          75,
+          78
+        ],
+        "text": "音楽隊",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          84,
+          90
+        ],
+        "text": "同組織委員会",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          110,
+          120
+        ],
+        "text": "陸上自衛隊朝霞訓練場",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          127,
+          130
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          2
+        ],
+        "text": "大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "011",
+        "span": [
+          3,
+          27
+        ],
+        "text": "東京2020オリンピック・パラリンピック競技大会",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "011",
+        "span": [
+          37,
+          45
+        ],
+        "text": "ブルーインパルス",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M008",
+          "M012",
+          "M019",
+          "M026",
+          "M027"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107258726",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M010",
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%B2%E8%A1%9B%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.693",
+          "139.728"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M011",
+          "M017",
+          "M025"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q275488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.kantei.go.jp/jp/singi/tokyo2020_suishin_honbu/kankeikaigi/dai2/siryou2.pdf"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M013",
+          "M015"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11613049",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A%E4%BD%93%E8%82%B2%E5%AD%A6%E6%A0%A1"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q181278",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M018",
+          "M023"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q15882575",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A%E7%B5%84%E7%B9%94%E5%A7%94%E5%93%A1%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107258726",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M021",
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2505817",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11664287",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%A5%BD%E9%9A%8A_(%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q75149896",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.7798",
+          "139.5802"
+        ]
+      }
+    }
+  },
+  "043-2": {
+    "metainfo": {
+      "src_date": "20220729",
+      "src_url": "https://www.mod.go.jp/j/press/wp/wp2022/pdf/wp2022_JP_Full_01.pdf",
+      "src_parent_url": "https://www.mod.go.jp/j/press/wp/wp2022/w2022_00.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "7　南極地域観測に対する支援",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "自衛隊は、文部科学省が行う南極地域における科学的調査に対し、南極地域観測が再開された1965年から砕氷艦「ふじ」を、1983年以降は砕氷艦「しらせ」を、2009年以降は砕氷艦「しらせ」(2代目)をもって人員・物資の輸送及びその他の協力を行っている。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "003": {
+        "text": "2021年11月から2022年3月の第63次南極地域観測協力においては、のべ135名の人員輸送、約1,140tの物資輸送、艦上観測支援、野外観測支援及び基地設営支援を実施した。",
+        "mention_ids": [
+          "M009"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          2,
+          6
+        ],
+        "text": "南極地域",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          3
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          5,
+          10
+        ],
+        "text": "文部科学省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          13,
+          17
+        ],
+        "text": "南極地域",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          30,
+          34
+        ],
+        "text": "南極地域",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          49,
+          56
+        ],
+        "text": "砕氷艦「ふじ」",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "002",
+        "span": [
+          66,
+          74
+        ],
+        "text": "砕氷艦「しらせ」",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "002",
+        "span": [
+          84,
+          97
+        ],
+        "text": "砕氷艦「しらせ」(2代目)",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          18,
+          30
+        ],
+        "text": "第63次南極地域観測協力",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1555938",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5"
+        },
+        "coordinate": [
+          "-90.0",
+          "0.0"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q275488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1054379",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11277051",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%98_(%E7%A0%95%E6%B0%B7%E8%89%A6)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.090658",
+          "136.880507"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6158738",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%89%E3%81%9B_(%E7%A0%95%E6%B0%B7%E8%89%A6%E3%83%BB%E5%88%9D%E4%BB%A3)"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6158746",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%97%E3%82%89%E3%81%9B_(%E7%A0%95%E6%B0%B7%E8%89%A6%E3%83%BB2%E4%BB%A3)"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mod.go.jp/msdf/operation/antarctic/nankyoku63/"
+        }
+      }
+    }
+  },
+  "043-3": {
+    "metainfo": {
+      "src_date": "20220729",
+      "src_url": "https://www.mod.go.jp/j/press/wp/wp2022/pdf/wp2022_JP_Full_01.pdf",
+      "src_parent_url": "https://www.mod.go.jp/j/press/wp/wp2022/w2022_00.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "9　その他の取組",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "1　自衛隊機・米軍機に対するレーザー照射や凧揚げによる妨害事案への対応",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "飛行中の自衛隊機・米軍機に対するレーザー照射や凧揚げによる妨害事案が多発している。",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "004": {
+        "text": "これらは、パイロットの操縦への障害につながり、墜落などの大惨事をもたらしかねない大変危険で悪質な行為である。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "そのため関係する地方公共団体の協力を得て、ポスターの掲示などにより、地域住民にこのような行為の危険性などについて周知するとともに、警察への通報について協力を依頼している。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "また、2016年12月に航空法施行規則が改正され、このような行為が規制対象とされるとともに、罰金などが科せられることとなった。",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "2　防衛施設の上空及びその周辺における小型無人機等の飛行への対応",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "近年、民生用を含むドローンを用いたテロ事案やテロ未遂事案が各国で発生しており、それらの中には軍事施設を対象としたものも含まれている。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "わが国においても自衛隊の施設や在日米軍の施設・区域に対するドローンを用いたテロ攻撃が発生する可能性があるが、これらの施設に対する危険が生じれば、わが国を防衛するための基盤としての機能に重大な支障をきたしかねない。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "010": {
+        "text": "このため、2019年6月13日、改正小型無人機等飛行禁止法が施行され、防衛大臣が指定する自衛隊の施設や在日米軍の施設・区域の上空及びその周辺における小型無人機等の飛行が禁止されることとなった。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "011": {
+        "text": "2022年3月末現在、主要部隊司令部などが所在する149の自衛隊の施設及び30の在日米軍施設・区域が対象施設に指定されている。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "3　重要土地等調査法に関する対応",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "013": {
+        "text": "防衛省は、2013年12月に策定された「国家安全保障戦略」において、安全保障の観点からの防衛施設周辺における土地利用等の在り方について検討することとされたことを踏まえ、2013年度から防衛施設に隣接する土地所有の状況について、計画的に把握するための調査を行っている。",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "014": {
+        "text": "2020年7月17日に、政府は、「経済財政運営と改革の基本方針2020について」(いわゆる「骨太の方針2020」)を閣議決定し、その中で、「安全保障等の観点から、関係府省による情報収集など土地所有の状況把握に努め、土地利用・管理等の在り方について検討し、所要の措置を講ずる」とされたことを受け、内閣官房において、「国土利用の実態把握等に関する有識者会議」からの提言などを踏まえながら検討がなされ、2021年3月26日に、政府は、「重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律案(いわゆる「重要土地等調査法案」)」を閣議決定し、第204回国会に提出した。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "015": {
+        "text": "同年6月16日に、本法案は可決・成立し、同月23日に公布された。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "本法は、安全保障環境が厳しさと不確実性を増す中、重要施設の周辺や国境離島などにおいて、その機能を阻害する土地などの利用を防止するため、内閣総理大臣が区域指定を行い、当該区域内の土地などについての利用状況の調査や利用規制などの措置を行うことについて定めるものである。",
+        "mention_ids": [
+          "M025",
+          "M026"
+        ]
+      },
+      "017": {
+        "text": "本法は、国防上の基盤である防衛施設の機能発揮を万全にする観点からも、大きな意義がある。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "018": {
+        "text": "同月18日に閣議決定された「経済財政運営と改革の基本方針2021について」(いわゆる「骨太の方針2021」)において、「重要土地等調査法の執行体制を早期に整備し、同法施行後、速やかかつ着実に土地等利用状況調査等を進める」旨明記されており、防衛省としては、内閣府が行う土地等利用状況調査等への協力体制を整備したうえで適切に対応していくこととしている。",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          2,
+          5
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          7,
+          9
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          4,
+          7
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          9,
+          11
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "006",
+        "span": [
+          12,
+          15
+        ],
+        "text": "航空法",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          3
+        ],
+        "text": "わが国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          11
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "009",
+        "span": [
+          15,
+          19
+        ],
+        "text": "在日米軍",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "009",
+        "span": [
+          72,
+          75
+        ],
+        "text": "わが国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "010",
+        "span": [
+          16,
+          29
+        ],
+        "text": "改正小型無人機等飛行禁止法",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "010",
+        "span": [
+          35,
+          37
+        ],
+        "text": "防衛",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "010",
+        "span": [
+          44,
+          47
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "010",
+        "span": [
+          51,
+          55
+        ],
+        "text": "在日米軍",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "011",
+        "span": [
+          29,
+          32
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "011",
+        "span": [
+          40,
+          44
+        ],
+        "text": "在日米軍",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          2,
+          10
+        ],
+        "text": "重要土地等調査法",
+        "entity_type": "PRO",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          3
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "014",
+        "span": [
+          12,
+          14
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "014",
+        "span": [
+          58,
+          60
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "014",
+        "span": [
+          147,
+          151
+        ],
+        "text": "内閣官房",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "014",
+        "span": [
+          157,
+          176
+        ],
+        "text": "国土利用の実態把握等に関する有識者会議",
+        "entity_type": "EVE",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "014",
+        "span": [
+          210,
+          212
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "014",
+        "span": [
+          277,
+          279
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "014",
+        "span": [
+          283,
+          290
+        ],
+        "text": "第204回国会",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "016",
+        "span": [
+          0,
+          2
+        ],
+        "text": "本法",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "016",
+        "span": [
+          67,
+          69
+        ],
+        "text": "内閣",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          2
+        ],
+        "text": "本法",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "018",
+        "span": [
+          6,
+          8
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "018",
+        "span": [
+          60,
+          68
+        ],
+        "text": "重要土地等調査法",
+        "entity_type": "PRO",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "018",
+        "span": [
+          81,
+          83
+        ],
+        "text": "同法",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "018",
+        "span": [
+          119,
+          122
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "018",
+        "span": [
+          127,
+          130
+        ],
+        "text": "内閣府",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M007",
+          "M012",
+          "M014"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q275488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11211",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11613896",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006",
+          "M009"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008",
+          "M013",
+          "M015"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062935",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E7%B1%B3%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.npa.go.jp/bureau/security/kogatamujinki/kouhou.html"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M011",
+          "M017",
+          "M031"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%B2%E8%A1%9B%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.693",
+          "139.728"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M016",
+          "M025",
+          "M027",
+          "M029",
+          "M030"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q110638082",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8D%E8%A6%81%E6%96%BD%E8%A8%AD%E5%91%A8%E8%BE%BA%E5%8F%8A%E3%81%B3%E5%9B%BD%E5%A2%83%E9%9B%A2%E5%B3%B6%E7%AD%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9C%9F%E5%9C%B0%E7%AD%89%E3%81%AE%E5%88%A9%E7%94%A8%E7%8A%B6%E6%B3%81%E3%81%AE%E8%AA%BF%E6%9F%BB%E5%8F%8A%E3%81%B3%E5%88%A9%E7%94%A8%E3%81%AE%E8%A6%8F%E5%88%B6%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M018",
+          "M022"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M019",
+          "M023",
+          "M028"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1142254",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%AE%98%E6%88%BF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/seisaku/kokudoriyou_jittai/index.html"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q104764833",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC204%E5%9B%9E%E5%9B%BD%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q529012",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2327 @@
+{
+  "021-1": {
+    "metainfo": {
+      "src_date": "00000000",
+      "src_url": "https://www.thr.mlit.go.jp/iwaki/jigyo/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "道路事業の紹介",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "title",
+        "text": "道路事業の紹介",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "heading",
+        "text": "連携・交流を促進し、地域を活性化する道づくり",
+        "mention_ids": []
+      },
+      "004": {
+        "type": "heading",
+        "text": "【一般国道6号】",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "勿来バイパス",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "006": {
+        "text": "国道6号の茨城・福島県境における津波浸水区間の回避と渋滞緩和等を目的として、いわき市勿来町関田関山から同市勿来町四沢鍵田までの延長2.5kmの道路を整備します。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "常磐バイパス",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "008": {
+        "text": "いわき市内の交通混雑の緩和と主要幹線道路機能の強化を目的として、いわき市勿来町四沢から同市平下神谷までの延長27.7kmの4車線整備を進めていた常磐パイパスは、平成30年3月30日に全線4車線開通となりました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "009": {
+        "type": "heading",
+        "text": "久之浜バイパス",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "010": {
+        "text": "国道6号の茨城・福島県境における津波浸水区間の回避と渋滞緩和等を目的として、いわき市勿来町関田関山から同市勿来町四沢鍵田までの延長2.5kmの道路を整備します。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "【一般国道49号】",
+        "mention_ids": [
+          "M026"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "北好間改良",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "013": {
+        "text": "いわき中央IC入口交差点の渋滞緩和と、急勾配・急カーブの続く区間の交通事故の削減を目的として、いわき市好間町北好間に延長2.2kmの道路を整備します。",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "平バイパス",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "015": {
+        "text": "平バイパスは、平成7年度に暫定2車線での全線供用後、番匠地交差点や上谷田交差点の立体化などを経て平成29年3月28日に4車線全線開通となりました。",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "【東北中央自動車道】",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "017": {
+        "type": "heading",
+        "text": "東北中央自動車道(相馬~福島)【復興支援道路】",
+        "mention_ids": [
+          "M038",
+          "M039",
+          "M040"
+        ]
+      },
+      "018": {
+        "text": "常磐自動車道と東北自動車道を結ぶ約45kmの自動車専用道路であり、東日本大震災からの早期復興を図るリーディングプロジェクトとして、被災地と内陸部の連携強化と復興支援を目的に整備を進めてきた、東北中央自動車道(相馬~福島)は令和3年4月24日に全線開通しました。",
+        "mention_ids": [
+          "M041",
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047"
+        ]
+      },
+      "019": {
+        "type": "heading",
+        "text": "阿武隈東道路",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "020": {
+        "text": "線形不良区間や通行規制区間の解消を目的として整備を進めてきた阿武隈東道路は、平成29年3月26日に相馬福島道路の中で初めての開通を迎えました。",
+        "mention_ids": [
+          "M049",
+          "M050",
+          "M051"
+        ]
+      },
+      "021": {
+        "type": "heading",
+        "text": "相馬西道路",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "022": {
+        "text": "相双地方から中通り地方へのアクセス向上を目的として、整備を進めてきた相馬西道路は、令和元年12月22日に相馬IC~相馬山上ICまでの6km区間が開通しました。",
+        "mention_ids": [
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057",
+          "M058"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "text": "【一般国道399号】",
+        "mention_ids": [
+          "M059"
+        ]
+      },
+      "024": {
+        "type": "heading",
+        "text": "十文字改良",
+        "mention_ids": [
+          "M060"
+        ]
+      },
+      "025": {
+        "text": "一般国道399号いわき市小川町の十文字工区(全延長6.2km)のうちトンネルを含む3.3km区間について、道路管理者である福島県に変わり国土交通省が事業を進めていた工事が完了し、令和4年9月17日に開通しました。",
+        "mention_ids": [
+          "M061",
+          "M062",
+          "M063",
+          "M064",
+          "M065",
+          "M066",
+          "M067"
+        ]
+      },
+      "026": {
+        "text": "(直轄権限代行事業)",
+        "mention_ids": []
+      },
+      "027": {
+        "type": "heading",
+        "text": "安全な暮らしと命を守る道づくり",
+        "mention_ids": []
+      },
+      "028": {
+        "type": "heading",
+        "text": "【一般国道6号】",
+        "mention_ids": [
+          "M068"
+        ]
+      },
+      "029": {
+        "type": "heading",
+        "text": "小浜交差点改良",
+        "mention_ids": [
+          "M069"
+        ]
+      },
+      "030": {
+        "text": "右折車両と直進車の追突・対向車の衝突事故を減少させるため、右折車線セパレート化などの交差点改良を実施します。",
+        "mention_ids": []
+      },
+      "031": {
+        "type": "heading",
+        "text": "草野・出口交差点改良",
+        "mention_ids": [
+          "M070"
+        ]
+      },
+      "032": {
+        "text": "右左折車両の直進車の通行阻害や渋滞、追突事故を減少させるため、右折レーン設置などの交差点改良を実施します。",
+        "mention_ids": []
+      },
+      "033": {
+        "type": "heading",
+        "text": "四倉駅入口交差点改良",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "034": {
+        "text": "右折車両の直進車への通行阻害や追突事故を減少させるため、右折レーン設置などの交差点改良を実施します。",
+        "mention_ids": []
+      },
+      "035": {
+        "type": "heading",
+        "text": "双葉地区事故対策",
+        "mention_ids": [
+          "M072"
+        ]
+      },
+      "036": {
+        "text": "復興作業による大型車交通量の増加により発生している正面衝突事故を減少させるため、付加車線整備や歩道整備などを実施します。",
+        "mention_ids": []
+      },
+      "037": {
+        "type": "heading",
+        "text": "下高平地区交差点改良",
+        "mention_ids": [
+          "M073"
+        ]
+      },
+      "038": {
+        "text": "右折車両と直進車への通行阻害や追突事故を減少させるため、右折レーン設置などの交差点改良を実施します。",
+        "mention_ids": []
+      },
+      "039": {
+        "type": "heading",
+        "text": "津波情報板",
+        "mention_ids": []
+      },
+      "040": {
+        "text": "東日本大震災における津波浸水区間とその周辺(7区間)に、津波情報版を設置しています。",
+        "mention_ids": [
+          "M074"
+        ]
+      },
+      "041": {
+        "type": "heading",
+        "text": "【一般国道49号】",
+        "mention_ids": [
+          "M075"
+        ]
+      },
+      "042": {
+        "type": "heading",
+        "text": "向町田交差点改良",
+        "mention_ids": [
+          "M076"
+        ]
+      },
+      "043": {
+        "text": "右左折車両の直進車の通行阻害や渋滞、追突事故を減少させるため、左折レーン設置などの交差点改良を実施します。",
+        "mention_ids": []
+      },
+      "044": {
+        "type": "heading",
+        "text": "好間地区歩道整備",
+        "mention_ids": [
+          "M077"
+        ]
+      },
+      "045": {
+        "text": "通学児童等歩行者の安全を確保する事を目的として、新たな歩道を設置します。",
+        "mention_ids": []
+      },
+      "046": {
+        "type": "heading",
+        "text": "快適で豊かな暮らしをもたらす道づくり",
+        "mention_ids": []
+      },
+      "047": {
+        "type": "heading",
+        "text": "【一般国道6号】",
+        "mention_ids": [
+          "M078"
+        ]
+      },
+      "048": {
+        "type": "heading",
+        "text": "双葉地区事故対策",
+        "mention_ids": [
+          "M079"
+        ]
+      },
+      "049": {
+        "text": "歩行者や自転車利用の安全を確保するため、各事業と合わせて歩道の整備を推進します。",
+        "mention_ids": []
+      },
+      "050": {
+        "type": "heading",
+        "text": "日々の暮らしを支える道づくり",
+        "mention_ids": []
+      },
+      "051": {
+        "type": "heading",
+        "text": "道路構造物の予防保全",
+        "mention_ids": []
+      },
+      "052": {
+        "text": "橋梁やトンネルなどの道路構造物について、定期的な点検と計画的な補修・補強を実施することで構造物の長寿命化を推進します。",
+        "mention_ids": []
+      },
+      "053": {
+        "type": "heading",
+        "text": "道路管理",
+        "mention_ids": []
+      },
+      "054": {
+        "text": "パトロールカーや徒歩により道路の巡回を行い、道路を安全に利用できるように経常的な維持や道路施設の修繕を実施します。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "004",
+        "span": [
+          1,
+          7
+        ],
+        "text": "一般国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          6
+        ],
+        "text": "勿来バイパス",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          4
+        ],
+        "text": "国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "006",
+        "span": [
+          5,
+          7
+        ],
+        "text": "茨城",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "006",
+        "span": [
+          8,
+          10
+        ],
+        "text": "福島",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          38,
+          42
+        ],
+        "text": "いわき市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          42,
+          49
+        ],
+        "text": "勿来町関田関山",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "006",
+        "span": [
+          51,
+          53
+        ],
+        "text": "同市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          53,
+          60
+        ],
+        "text": "勿来町四沢鍵田",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          6
+        ],
+        "text": "常磐バイパス",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          4
+        ],
+        "text": "いわき市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          32,
+          36
+        ],
+        "text": "いわき市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          36,
+          41
+        ],
+        "text": "勿来町四沢",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          43,
+          45
+        ],
+        "text": "同市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          45,
+          49
+        ],
+        "text": "平下神谷",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "008",
+        "span": [
+          72,
+          78
+        ],
+        "text": "常磐パイパス",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          80,
+          82
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          7
+        ],
+        "text": "久之浜バイパス",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          4
+        ],
+        "text": "国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "010",
+        "span": [
+          5,
+          7
+        ],
+        "text": "茨城",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "010",
+        "span": [
+          8,
+          10
+        ],
+        "text": "福島",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "010",
+        "span": [
+          38,
+          42
+        ],
+        "text": "いわき市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "010",
+        "span": [
+          42,
+          49
+        ],
+        "text": "勿来町関田関山",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "010",
+        "span": [
+          51,
+          53
+        ],
+        "text": "同市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "010",
+        "span": [
+          53,
+          60
+        ],
+        "text": "勿来町四沢鍵田",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "011",
+        "span": [
+          1,
+          8
+        ],
+        "text": "一般国道49号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          3
+        ],
+        "text": "北好間",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          12
+        ],
+        "text": "いわき中央IC入口交差点",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "013",
+        "span": [
+          47,
+          51
+        ],
+        "text": "いわき市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "013",
+        "span": [
+          51,
+          57
+        ],
+        "text": "好間町北好間",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          5
+        ],
+        "text": "平バイパス",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          5
+        ],
+        "text": "平バイパス",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          9
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "015",
+        "span": [
+          26,
+          32
+        ],
+        "text": "番匠地交差点",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "015",
+        "span": [
+          33,
+          39
+        ],
+        "text": "上谷田交差点",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "015",
+        "span": [
+          48,
+          50
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "016",
+        "span": [
+          1,
+          9
+        ],
+        "text": "東北中央自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          8
+        ],
+        "text": "東北中央自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M039": {
+        "sentence_id": "017",
+        "span": [
+          9,
+          11
+        ],
+        "text": "相馬",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "017",
+        "span": [
+          12,
+          14
+        ],
+        "text": "福島",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M041": {
+        "sentence_id": "018",
+        "span": [
+          0,
+          6
+        ],
+        "text": "常磐自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "018",
+        "span": [
+          7,
+          13
+        ],
+        "text": "東北自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "018",
+        "span": [
+          33,
+          39
+        ],
+        "text": "東日本大震災",
+        "entity_type": "EVE",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "018",
+        "span": [
+          95,
+          103
+        ],
+        "text": "東北中央自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M045": {
+        "sentence_id": "018",
+        "span": [
+          104,
+          106
+        ],
+        "text": "相馬",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M046": {
+        "sentence_id": "018",
+        "span": [
+          107,
+          109
+        ],
+        "text": "福島",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "018",
+        "span": [
+          111,
+          113
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          6
+        ],
+        "text": "阿武隈東道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "020",
+        "span": [
+          30,
+          36
+        ],
+        "text": "阿武隈東道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M050": {
+        "sentence_id": "020",
+        "span": [
+          38,
+          40
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "020",
+        "span": [
+          49,
+          55
+        ],
+        "text": "相馬福島道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "021",
+        "span": [
+          0,
+          5
+        ],
+        "text": "相馬西道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          4
+        ],
+        "text": "相双地方",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "022",
+        "span": [
+          6,
+          11
+        ],
+        "text": "中通り地方",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "022",
+        "span": [
+          34,
+          39
+        ],
+        "text": "相馬西道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "022",
+        "span": [
+          41,
+          43
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "022",
+        "span": [
+          52,
+          56
+        ],
+        "text": "相馬IC",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "022",
+        "span": [
+          57,
+          63
+        ],
+        "text": "相馬山上IC",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "023",
+        "span": [
+          1,
+          9
+        ],
+        "text": "一般国道399号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M060": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          3
+        ],
+        "text": "十文字",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M061": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          8
+        ],
+        "text": "一般国道399号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M062": {
+        "sentence_id": "025",
+        "span": [
+          8,
+          12
+        ],
+        "text": "いわき市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M063": {
+        "sentence_id": "025",
+        "span": [
+          12,
+          15
+        ],
+        "text": "小川町",
+        "entity_type": "LOC",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "025",
+        "span": [
+          16,
+          21
+        ],
+        "text": "十文字工区",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M065": {
+        "sentence_id": "025",
+        "span": [
+          61,
+          64
+        ],
+        "text": "福島県",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M066": {
+        "sentence_id": "025",
+        "span": [
+          68,
+          73
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "025",
+        "span": [
+          89,
+          91
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "028",
+        "span": [
+          1,
+          7
+        ],
+        "text": "一般国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M069": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          5
+        ],
+        "text": "小浜交差点",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M070": {
+        "sentence_id": "031",
+        "span": [
+          0,
+          8
+        ],
+        "text": "草野・出口交差点",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "feature": "Parallel_Modif",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M071": {
+        "sentence_id": "033",
+        "span": [
+          0,
+          8
+        ],
+        "text": "四倉駅入口交差点",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M072": {
+        "sentence_id": "035",
+        "span": [
+          0,
+          4
+        ],
+        "text": "双葉地区",
+        "entity_type": "LOC",
+        "entity_id": "E032",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "037",
+        "span": [
+          0,
+          8
+        ],
+        "text": "下高平地区交差点",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M074": {
+        "sentence_id": "040",
+        "span": [
+          0,
+          6
+        ],
+        "text": "東日本大震災",
+        "entity_type": "EVE",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "041",
+        "span": [
+          1,
+          8
+        ],
+        "text": "一般国道49号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M076": {
+        "sentence_id": "042",
+        "span": [
+          0,
+          6
+        ],
+        "text": "向町田交差点",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M077": {
+        "sentence_id": "044",
+        "span": [
+          0,
+          4
+        ],
+        "text": "好間地区",
+        "entity_type": "LOC",
+        "entity_id": "E033",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M078": {
+        "sentence_id": "047",
+        "span": [
+          1,
+          7
+        ],
+        "text": "一般国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M079": {
+        "sentence_id": "048",
+        "span": [
+          0,
+          4
+        ],
+        "text": "双葉地区",
+        "entity_type": "LOC",
+        "entity_id": "E032",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M019",
+          "M068",
+          "M078"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1038714",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%936%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1521225",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.684111111",
+          "139.774472222"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q18335436",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8B%BF%E6%9D%A5%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q83273",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2682940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.341722222",
+          "140.446833333"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M021",
+          "M065"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q71707",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1800608",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.750277777",
+          "140.46775"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M008",
+          "M011",
+          "M012",
+          "M014",
+          "M022",
+          "M024",
+          "M029",
+          "M062"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q274384",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4196695",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.0505",
+          "140.887722222"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M009",
+          "M013",
+          "M015",
+          "M023",
+          "M025",
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q274384",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4196695",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.0505",
+          "140.887722222"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010",
+          "M016"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11481556",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2068958",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M017",
+          "M033",
+          "M036",
+          "M050"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11368921",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%85%E4%B9%8B%E6%B5%9C%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2068956",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M026",
+          "M075"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11421473",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%9349%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2939533",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.918588888",
+          "139.069547222"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M028",
+          "M030",
+          "M076"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11421473",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%9349%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2939533",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.918588888",
+          "139.069547222"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M031",
+          "M032"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11481927",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9315179",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M034",
+          "M035"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11481927",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E3%83%90%E3%82%A4%E3%83%91%E3%82%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9315179",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M037",
+          "M038",
+          "M044"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7862657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E4%B8%AD%E5%A4%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4063140",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M039",
+          "M045"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q696456",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4174875",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.796666666",
+          "140.919638888"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M040",
+          "M046"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q161176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4137581",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.760805555",
+          "140.474722222"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1059875",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1485270",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q428428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9770315",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.893284",
+          "139.720522"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M043",
+          "M074"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1136168",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M047",
+          "M056",
+          "M067"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M048",
+          "M049",
+          "M051"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11582528",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E7%A6%8F%E5%B3%B6%E9%81%93%E8%B7%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9043484",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M052",
+          "M055"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E7%A6%8F%E5%B3%B6%E9%81%93%E8%B7%AF#%E7%9B%B8%E9%A6%AC%E8%A5%BF%E9%81%93%E8%B7%AF"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.pref.fukushima.lg.jp/sec/01260a/sousouchiiki-gaiyo.html"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5367907",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%80%9A%E3%82%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.55",
+          "140.39"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11582466",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.7815",
+          "140.894778"
+        ]
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M058"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30927660",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E5%B1%B1%E4%B8%8A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.768916666",
+          "140.84725"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M059",
+          "M061"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6157443",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93399%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6594184",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.053627777",
+          "140.892872222"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M060",
+          "M064"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6157443",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93399%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6594184",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.053627777",
+          "140.892872222"
+        ]
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11460546",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E7%94%BA_(%E7%A6%8F%E5%B3%B6%E7%9C%8C)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.127333333",
+          "140.861027777"
+        ]
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M066"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M069",
+          "M070",
+          "M071",
+          "M073"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1038714",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%936%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1521225",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.684111111",
+          "139.774472222"
+        ]
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M072",
+          "M079"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1023949",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%8C%E8%91%89%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.449138888",
+          "141.012333333"
+        ]
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.iwaki.lg.jp/www/genre/1000100000710/index.html"
+        }
+      }
+    }
+  },
+  "021-2": {
+    "metainfo": {
+      "src_date": "00000000",
+      "src_url": "https://www.thr.mlit.go.jp/iwaki/jigyo/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "heading",
+        "text": "TDM施策「通勤ルート変更」のお知らせ",
+        "mention_ids": []
+      },
+      "002": {
+        "text": "みんなで取り組もう!渋滞対策",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "連郷~広野町役場前・聖下~高見町交差点の渋滞緩和のため、通勤ルート変更の推奨による渋滞対策に取り組んでみませんか?",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "004": {
+        "type": "supplement:legend",
+        "text": "TDM施策(連郷~広野町役場前・聖下~高見町交差点渋滞対策)「通勤ルート変更」のお知らせ",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "005": {
+        "text": "福島県渋滞対策連絡協議会(福島河川国道事務所)",
+        "mention_ids": [
+          "M009",
+          "M010"
+        ]
+      },
+      "006": {
+        "text": "福島県・宮城県渋滞対策連絡協議会浜通り地区ワーキンググループ",
+        "mention_ids": [
+          "M011"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "連郷",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          3,
+          9
+        ],
+        "text": "広野町役場前",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          12
+        ],
+        "text": "聖下",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          13,
+          19
+        ],
+        "text": "高見町交差点",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          6,
+          8
+        ],
+        "text": "連郷",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          9,
+          15
+        ],
+        "text": "広野町役場前",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          16,
+          18
+        ],
+        "text": "聖下",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          19,
+          25
+        ],
+        "text": "高見町交差点",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          12
+        ],
+        "text": "福島県渋滞対策連絡協議会",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          13,
+          22
+        ],
+        "text": "福島河川国道事務所",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          30
+        ],
+        "text": "福島県・宮城県渋滞対策連絡協議会浜通り地区ワーキンググループ",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q274384",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4196695",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.0505",
+          "140.887722222"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M004",
+          "M007",
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1038714",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%936%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1521225",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.684111111",
+          "139.774472222"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.thr.mlit.go.jp/fukushima/antenna/jutai_taisaku.html"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.thr.mlit.go.jp/fukushima/index.htm"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.thr.mlit.go.jp/iwaki/jigyo/wg/index.html"
+        }
+      }
+    }
+  }
+}

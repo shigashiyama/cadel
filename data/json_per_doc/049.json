@@ -1,0 +1,2426 @@
+{
+  "049-1": {
+    "metainfo": {
+      "src_date": "20230700",
+      "src_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/attach/pdf/index-7.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "広報誌「みどりの東北」　令和5年7月　vol.232　地域発NEWS",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "ヤマメのための森林づくり",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "秋田森林管理署湯沢支署",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "004": {
+        "type": "supplement:header",
+        "text": "秋田",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "005": {
+        "text": "皆さんはヤマメという魚をご存じですか?パーマークと呼ばれる模様がとても美しく、「渓流の女王」とも呼ばれている渓流魚です。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "さて、当支署管内には、地元の役内・雄物川漁協と「社会貢献の森[*1]」の協定を締結した「山女(やまめ)の森」があります。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "007": {
+        "text": "山女の森では、ブナを中心とした広葉樹が植えられ、毎年、補植や下刈などを行うイベントが行われています。",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "008": {
+        "text": "今年度は6月3日に各種団体から総勢約30名が参加し、4年ぶりの通常開催となりました。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "事前に主催者から、「マンネリ化を感じる」「森の成長に合わせ作業を見直したい」と相談を受けたことから、当支署では、弱った木や枝の除去を提案したほか、「ヤマメと森林の関係」をテーマにした紙芝居を上演することにしました。",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "010": {
+        "text": "若手職員が苦心して作り上げた紙芝居は、釣りの話を取り入れたことで、とても好評でした。",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "また、見直した作業により、山女の森に光が差し込み、「きれいになった」「今後の成長が期待できる」と、こちらも好評でした。",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "012": {
+        "text": "当支署では、今後も山女の森の成長に合わせて、イベントも成長していくように活動を支援していきたいと考えています。",
+        "mention_ids": [
+          "M011",
+          "M012"
+        ]
+      },
+      "013": {
+        "type": "supplement:footnote",
+        "text": "*1　企業やNPO等が行う地球温暖化対策等への貢献として社会的責任(CSR)活動などを目的とした森林整備・保全活動へのフィールドを提供している。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          4,
+          10
+        ],
+        "text": "みどりの東北",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          12,
+          14
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          11
+        ],
+        "text": "秋田森林管理署湯沢支署",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "秋田",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          6
+        ],
+        "text": "当支署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          14,
+          22
+        ],
+        "text": "役内・雄物川漁協",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          44,
+          53
+        ],
+        "text": "山女(やまめ)の森",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          4
+        ],
+        "text": "山女の森",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "009",
+        "span": [
+          50,
+          53
+        ],
+        "text": "当支署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "011",
+        "span": [
+          13,
+          17
+        ],
+        "text": "山女の森",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          3
+        ],
+        "text": "当支署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "012",
+        "span": [
+          9,
+          13
+        ],
+        "text": "山女の森",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M005",
+          "M009",
+          "M011"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/akita/"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q81863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3791413",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.718611111",
+          "140.1025"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.yakunai.com/"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M008",
+          "M010",
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  },
+  "049-2": {
+    "metainfo": {
+      "src_date": "20230700",
+      "src_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/attach/pdf/index-7.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "治山事業の効果について",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "岩手南部森林管理署",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "岩手",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "山地災害の記録として後世に引き継がなければならないものの一つに、平成20年6月14日に当署管内を震源地として発生した岩手・宮城内陸地震があり、東北森林管理局管内では、大規模な地すべりや山腹崩壊箇所が2,322箇所発生しました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "005": {
+        "text": "一方、当署管内においては、昭和44年度から民有林直轄治山事業として磐井川地区において、直轄地すべり防止事業を実施しており、地すべりが起こる原因とされている地下水を排除するための「集水井工(集水する井戸)」や「排水トンネル工」等を数多く施工してきました。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "006": {
+        "text": "岩手・宮城内陸地震の際には、周辺地域で大きな地すべり等が発生した一方、工事を施工した区域においては被害がほとんど発生せず、地すべり防止対策の効果が発揮されたものと考えられています。",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "007": {
+        "text": "民有林直轄治山事業は平成30年度で終了しましたが、その上流流域である国有林内の産女川では工事が続いています。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "008": {
+        "text": "地すべり等による下流域への被害を防止するため、地震から15年たった現在も、地震により荒廃した渓流を落ち着かせるための「谷止工」や「床固工」を実施しています。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "009": {
+        "text": "今後も効果的な治山事業の実施により地域の安全と安心を守っていきます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          9
+        ],
+        "text": "岩手南部森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "岩手",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          32,
+          34
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          43,
+          45
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          58,
+          67
+        ],
+        "text": "岩手・宮城内陸地震",
+        "entity_type": "EVE",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          71,
+          78
+        ],
+        "text": "東北森林管理局",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          3,
+          5
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          13,
+          15
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          33,
+          36
+        ],
+        "text": "磐井川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          9
+        ],
+        "text": "岩手・宮城内陸地震",
+        "entity_type": "EVE",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          10,
+          12
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "007",
+        "span": [
+          27,
+          31
+        ],
+        "text": "上流流域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          39,
+          42
+        ],
+        "text": "産女川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          8,
+          11
+        ],
+        "text": "下流域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          23,
+          25
+        ],
+        "text": "地震",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M007"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/iwatenanbu/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48326",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3792412",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.7035",
+          "141.152722222"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M011"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M010",
+          "M015"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q748301",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E3%83%BB%E5%AE%AE%E5%9F%8E%E5%86%85%E9%99%B8%E5%9C%B0%E9%9C%87",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.028333333",
+          "140.88"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11526216",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q327567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11587850",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A3%90%E4%BA%95%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13636399",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012",
+          "M014"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11587850",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A3%90%E4%BA%95%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13636399",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11587850",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A3%90%E4%BA%95%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13636399",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "049-3": {
+    "metainfo": {
+      "src_date": "20230700",
+      "src_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/attach/pdf/index-7.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "ボランティアによる国有林巡視の取組",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "三陸北部森林管理署久慈支署",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "岩手",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "国有林の森林保全管理に協力を希望する地元住民により平成12年に「森林巡視協力員の会」が組織され、当支署では毎年「森林巡視協力員」として委嘱することで、ボランティア活動を後押ししています。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "005": {
+        "text": "主な活動内容は、入林者への山火事防止や高山植物等保護の指導、啓発活動、不法投棄防止パトロールや山地災害の早期発見など幅広く活動を行っています。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "会が組織された経緯は、森林レクリエーション利用等により国有林、民有林問わず入林者が増えたことで、ゴミのポイ捨てや不法投棄、高山植物の盗採等が深刻となったことから、地元住民が対応に苦慮し、当時の久慈営林署に相談したことがきっかけとなっています。",
+        "mention_ids": [
+          "M006",
+          "M007"
+        ]
+      },
+      "007": {
+        "text": "今年度は、地元住民を中心とした25名に協力員を委嘱し、管内で入林者の多い平庭岳や安家森、遠別岳、遠島山等で巡視活動を行っています。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "008": {
+        "text": "会の発足時を知る協力員からは、「今では、不法投棄も無くなり、ゴミもほとんど落ちていない。」と活動の成果を称える声も聞かれます。",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "009": {
+        "text": "今後も協力員と連携して国有林を適切に管理していきます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          13
+        ],
+        "text": "三陸北部森林管理署久慈支署",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "岩手",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          25,
+          27
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          32,
+          41
+        ],
+        "text": "森林巡視協力員の会",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          48,
+          51
+        ],
+        "text": "当支署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          1
+        ],
+        "text": "会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          96,
+          101
+        ],
+        "text": "久慈営林署",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          36,
+          39
+        ],
+        "text": "平庭岳",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "007",
+        "span": [
+          40,
+          43
+        ],
+        "text": "安家森",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "007",
+        "span": [
+          44,
+          47
+        ],
+        "text": "遠別岳",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          48,
+          51
+        ],
+        "text": "遠島山",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          1
+        ],
+        "text": "会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M005"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/sanrikuhokubu/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48326",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3792412",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.7035",
+          "141.152722222"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M006",
+          "M012"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/sanrikuhokubu/"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q695911",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%85%E6%85%88%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.190472222",
+          "141.775666666"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q31486414",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.033333333",
+          "141.533333333"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q31477889",
+          "openstreetmap": "https://www.openstreetmap.org/node/3259131473",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.016666666",
+          "141.633333333"
+        ]
+      }
+    }
+  },
+  "049-4": {
+    "metainfo": {
+      "src_date": "20230700",
+      "src_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/attach/pdf/index-7.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "八甲田山の自然を守り楽しむために",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "青森森林管理署",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "青森",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "当署管内の青森市南側には、十和田八幡平国立公園に指定された八甲田山があり、登山やスキーのために訪れる人が多くいます。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "005": {
+        "text": "また、八甲田山の一部は自然状態が十分に保存された天然林を主体とする森林が広く分布し、地域固有の生物群集がまとまりを持って存在する区域であることから、生物群集保護林等にも設定されています。",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "006": {
+        "text": "八甲田山には、毛無岱、仙人岱、田茂萢等の数多くの高原湿地があり、厳しい環境の中で貴重な草花、樹木が見られます。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "007": {
+        "text": "その貴重な湿原や高山植物の保護を目的として、例年7月上旬に「高山植物等盗掘防止合同パトロール」が開催されます。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "008": {
+        "text": "令和4年度は13の機関や団体から、総勢32名が参加し、パトロールを行いました。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "009": {
+        "text": "当署からは5名が参加し、萱野茶屋、酸ヶ湯等の観光施設や睡蓮沼、田代湿原等の観光スポットを回り、登山者に自然環境の保護について周知するためのリーフレットを配布して盗掘防止を呼びかけました。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "010": {
+        "text": "また、当署では、小中学生対象の森林教室を八甲田山系ほか管内各地で行って自然の大切さを伝える取組をしており、今後も日々の業務を通じて自然保護に努めていきます。",
+        "mention_ids": [
+          "M021",
+          "M022"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          4
+        ],
+        "text": "八甲田山",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          7
+        ],
+        "text": "青森森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "青森",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          5,
+          8
+        ],
+        "text": "青森市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          13,
+          23
+        ],
+        "text": "十和田八幡平国立公園",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          29,
+          33
+        ],
+        "text": "八甲田山",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          3,
+          7
+        ],
+        "text": "八甲田山",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          4
+        ],
+        "text": "八甲田山",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          7,
+          10
+        ],
+        "text": "毛無岱",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          11,
+          14
+        ],
+        "text": "仙人岱",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          15,
+          18
+        ],
+        "text": "田茂萢",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          30,
+          46
+        ],
+        "text": "高山植物等盗掘防止合同パトロール",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          27,
+          32
+        ],
+        "text": "パトロール",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          2
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          12,
+          16
+        ],
+        "text": "萱野茶屋",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          17,
+          20
+        ],
+        "text": "酸ヶ湯",
+        "entity_type": "FAC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "009",
+        "span": [
+          27,
+          30
+        ],
+        "text": "睡蓮沼",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          31,
+          35
+        ],
+        "text": "田代湿原",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "010",
+        "span": [
+          3,
+          5
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "010",
+        "span": [
+          20,
+          25
+        ],
+        "text": "八甲田山系",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M007",
+          "M008",
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3047571",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%94%B2%E7%94%B0%E5%B1%B1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.658888888",
+          "140.877222222"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004",
+          "M016",
+          "M021"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/aomori/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q71699",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1834655",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.824611111",
+          "140.740555555"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q146790",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4107337",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.822777777",
+          "140.746944444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1155842",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%92%8C%E7%94%B0%E5%85%AB%E5%B9%A1%E5%B9%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "40.3333",
+          "140.833"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3047571",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%94%B2%E7%94%B0%E5%B1%B1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.658888888",
+          "140.877222222"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_SERIES_OF",
+        "ref_urls": {
+          "other": "https://www.pref.aomori.lg.jp/release/2022/71027.html"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.pref.aomori.lg.jp/release/2022/71027.html"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q146790",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4107337",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.822777777",
+          "140.746944444"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7635737",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%85%B8%E3%83%B6%E6%B9%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.650277777",
+          "140.851666666"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11576154",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%BB%A3%E5%B9%B3%E6%B9%BF%E5%8E%9F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3047571",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E7%94%B2%E7%94%B0%E5%B1%B1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.658888888",
+          "140.877222222"
+        ]
+      }
+    }
+  },
+  "049-5": {
+    "metainfo": {
+      "src_date": "20230700",
+      "src_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/attach/pdf/index-7.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "ブランド材「前森スギ」の供給開始",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "山形森林管理署最上支署",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "山形",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "前森山の裾野に、前森団地(真室川町字及位)と呼ばれる区域面積1,000haにも及ぶ広大な森林があり、団地内では、昭和の初め頃にスギが約500ha植林されました。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "005": {
+        "text": "これまで100年を超える大木を始めとする多様なスギの木材を安定的に供給できる団地の育成を目的に森林の手入れがされてきました。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "現在、前森団地のスギは高樹齢で大木が多く生育しており、毎年計画的に間伐を行うことで、高樹齢のスギを安定供給することが可能となりました。",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "007": {
+        "text": "そのため、東北森林管理局が新たに制定した高品質材ブランド規格を満たした6m以上のスギ長尺材を、令和4年度から「高齢級国有林高品質材前森スギ」として供給を開始しました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "008": {
+        "text": "出荷にあたっては、伐採・寸法取りの指示、ブランド規格を厳正にチェックし、市場に供給しています。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "ブランド材の売れ行きは良く、購入者からは「今後も高品質材の出材を続けて欲しい」との声もありました。",
+        "mention_ids": []
+      },
+      "010": {
+        "text": "今後はブランド材の知名度が増し、林業や地域の活性化につながるようPRすると共に、木材の安定供給に取り組んでいきます。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          6,
+          10
+        ],
+        "text": "前森スギ",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          11
+        ],
+        "text": "山形森林管理署最上支署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "山形",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "前森山",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          8,
+          12
+        ],
+        "text": "前森団地",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          13,
+          17
+        ],
+        "text": "真室川町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          17,
+          20
+        ],
+        "text": "字及位",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          50,
+          52
+        ],
+        "text": "団地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          56,
+          58
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          7
+        ],
+        "text": "前森団地",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          5,
+          12
+        ],
+        "text": "東北森林管理局",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "007",
+        "span": [
+          47,
+          49
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          55,
+          69
+        ],
+        "text": "高齢級国有林高品質材前森スギ",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M013"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/apply/publicsale/wood/rinsanbutu/brandmaemorisugi.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/yamagata/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q125863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3790869",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.240444444",
+          "140.363555555"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M005",
+          "M007",
+          "M008",
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1349021",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.857888888",
+          "140.252305555"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1349021",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%AE%A4%E5%B7%9D%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.857888888",
+          "140.252305555"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q327567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11526216",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "049-6": {
+    "metainfo": {
+      "src_date": "20230700",
+      "src_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/attach/pdf/index-7.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/tohoku/koho/koho_si/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "外来種「ツヤハダゴマダラカミキリ」",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "仙台森林管理署",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "宮城",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "宮城県では、令和3年から、国際自然保護連合により「世界の侵略的外来種ワースト100」に指定され、海外では幅広い樹種の樹木に激甚な被害を及ぼしている外来生物、「ツヤハダゴマダラカミキリ」による食害が、主に公園や街路樹等で発見されるようになりました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "005": {
+        "text": "幼虫が樹木の内部を食い荒らすため、被害が進行すると樹木は枯死してしまうことから、特に都市近郊に森林を多く抱える当署では、被害が国有林に及んでいないかパトロールを強化してきました。",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "006": {
+        "text": "令和4年6月、管内をパトロール中の森林官が仙台市太白区内の国有林で被害にあったとみられる樹木を発見しました。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "007": {
+        "text": "その樹木を根元から防虫ネットで覆い、モニタリングを開始したところ、同年7月には「ツヤハダゴマダラカミキリ」の成虫が樹木から出てきたため、捕殺・薬剤注入を行い、被害にあった樹木については伐採し、破砕処理しました。",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "現在、当署における被害についてはこの1件、1本だけですが、今後、宮城県内外での被害拡大、農林業への影響も懸念されることから、今後も情報収集とパトロールを継続し、森林・林業に影響が出ないよう注視していきたいと思います。",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          7
+        ],
+        "text": "仙台森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "宮城",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "宮城県",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          6,
+          8
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          13,
+          21
+        ],
+        "text": "国際自然保護連合",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          55,
+          57
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "006",
+        "span": [
+          21,
+          24
+        ],
+        "text": "仙台市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          24,
+          27
+        ],
+        "text": "太白区",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "008",
+        "span": [
+          3,
+          5
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "008",
+        "span": [
+          32,
+          35
+        ],
+        "text": "宮城県",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M006",
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/tohoku/syo/sendai/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q47896",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%9F%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3790801",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.268583333",
+          "140.872027777"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M007"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%87%AA%E7%84%B6%E4%BF%9D%E8%AD%B7%E9%80%A3%E5%90%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q46747",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4135014",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.268222222",
+          "140.869416666"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1043331",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%99%BD%E5%8C%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.224444444",
+          "140.877222222"
+        ]
+      }
+    }
+  }
+}

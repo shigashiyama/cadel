@@ -1,0 +1,1368 @@
+{
+  "072-1": {
+    "metainfo": {
+      "src_date": "20231100",
+      "src_url": "https://www.rinya.maff.go.jp/kinki/koho/koho_si/morinohiroba/pdf/no1172.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/kinki/koho/koho_si/morinohiroba/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "フォレスト・ニュース　森のひろば　NO.1172　令和5年　11月号",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "トピックス「水都おおさか森林(もり)の市2023」",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "【技術普及課】",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "004": {
+        "text": "10月22日(日)、さわやかな秋晴れの下、大阪市北区の桜ノ宮合同庁舎及び周辺の毛馬桜之宮公園で、「水都おおさか森林(もり)の市2023」を開催しました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "005": {
+        "text": "大阪は、「水の都」と呼ばれ、江戸時代以降琵琶湖の水を利用した水運交易により発展してきました。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "006": {
+        "text": "琵琶湖がたたえる豊かな水は、森林の恩恵であると考えられます。",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "007": {
+        "text": "「森林の市」では一般の方に木材やきのこなどの森林の恵みに触れていただくことで、森林と人とのつながりを実感し、森林・林業・木材産業の果たす役割や木材利用の意義、農山村の現状について理解を深め、豊かな森林資源を次世代に引き継いでいくことを目的として実施しています。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "008": {
+        "text": "また、「森林の市」は、今年で35回目を数え、近畿中国森林管理局のほか、環境省近畿地方環境事務所、(一社)大阪府木材連合会など15団体で構成される水都おおさか森林づくり・木づかい実行委員会が主催しています。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "009": {
+        "text": "今年は、「森林の木づかい、知って、学んで、楽しもう!」をテーマに近畿圏内をはじめ中四国などから54団体が出展し、ジビエ料理、柿や梨、干しシイタケなどの食品のほか、木製品・地域の特産品等の販売、木工クラフトや苔テラリウムなどのワークショップ、森林セラピー体験や測量体験、木のおもちゃで遊べるキッズコーナー、各団体の取組紹介など様々な内容で、訪れたお子さんから大人までとても楽しんでいました。",
+        "mention_ids": [
+          "M022",
+          "M023"
+        ]
+      },
+      "010": {
+        "text": "オープニングセレモニーには、島根県の森のしずくの妖精“みーもくん”が応援に駆けつけ、来場者の皆さんに「今日一日楽しんでね」と声をかけ、会場を盛り上げていただきました。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "011": {
+        "text": "また、キッズコーナーにも紙芝居の上映に合わせ登場し、小さなお子さんと記念写真を撮るなど人気者となっていました。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "また、会場内に設置した森林に関するクイズ5問に答えると参加賞がもらえるクイズラリーを開催しました。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "013": {
+        "text": "木のおもちゃや大きな松ぼっくり、竹炭など森林や木にまつわる参加賞を手に入れようと、幅広い年齢層の方々が参加され、クイズを解きながら森林や木に興味や関心を持っていただきました。",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "来場者からは、「クラフト体験が楽しかった」「木のぬくもりを実感できた」「木の良さが伝わる」「自然について、見て触れてとても勉強になった」「来年もまた来たい」など、たくさんの声が聞かれ、盛況のうちに終了しました。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          16
+        ],
+        "text": "フォレスト・ニュース　森のひろば",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          25,
+          27
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          6,
+          24
+        ],
+        "text": "水都おおさか森林(もり)の市2023",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          1,
+          6
+        ],
+        "text": "技術普及課",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          21,
+          24
+        ],
+        "text": "大阪市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          24,
+          26
+        ],
+        "text": "北区",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          27,
+          34
+        ],
+        "text": "桜ノ宮合同庁舎",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          39,
+          46
+        ],
+        "text": "毛馬桜之宮公園",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          49,
+          67
+        ],
+        "text": "水都おおさか森林(もり)の市2023",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          2
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          5,
+          8
+        ],
+        "text": "水の都",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          14,
+          18
+        ],
+        "text": "江戸時代",
+        "entity_type": "TIME",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          20,
+          23
+        ],
+        "text": "琵琶湖",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "琵琶湖",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "007",
+        "span": [
+          1,
+          5
+        ],
+        "text": "森林の市",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "008",
+        "span": [
+          4,
+          8
+        ],
+        "text": "森林の市",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          22,
+          31
+        ],
+        "text": "近畿中国森林管理局",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "008",
+        "span": [
+          35,
+          38
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "008",
+        "span": [
+          38,
+          47
+        ],
+        "text": "近畿地方環境事務所",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          48,
+          60
+        ],
+        "text": "(一社)大阪府木材連合会",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "008",
+        "span": [
+          72,
+          93
+        ],
+        "text": "水都おおさか森林づくり・木づかい実行委員会",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          32,
+          35
+        ],
+        "text": "近畿圏",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          40,
+          43
+        ],
+        "text": "中四国",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          11
+        ],
+        "text": "オープニングセレモニー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "010",
+        "span": [
+          14,
+          17
+        ],
+        "text": "島根県",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "010",
+        "span": [
+          27,
+          32
+        ],
+        "text": "みーもくん",
+        "entity_type": "PRO",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "012",
+        "span": [
+          35,
+          41
+        ],
+        "text": "クイズラリー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M009"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/kinki/koho/event/morinoichi/index.html"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11638582",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E4%B8%AD%E5%9B%BD%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M010",
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q35765",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/358674",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.69375",
+          "135.502111111"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1207746",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%8C%BA_(%E5%A4%A7%E9%98%AA%E5%B8%82)",
+          "openstreetmap": "https://www.openstreetmap.org/relation/358681",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.705555555",
+          "135.51"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q118141622",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AF%9B%E9%A6%AC%E6%A1%9C%E4%B9%8B%E5%AE%AE%E5%85%AC%E5%9C%92",
+          "openstreetmap": "https://www.openstreetmap.org/way/356695441",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q184963",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M013",
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q200239",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%90%B5%E7%90%B6%E6%B9%96",
+          "openstreetmap": "https://www.openstreetmap.org/relation/63499",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.255",
+          "136.08"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015",
+          "M016"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_SERIES_OF",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/kinki/koho/event/morinoichi/index.html"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11638582",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E4%B8%AD%E5%9B%BD%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1125558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11638604",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9%E7%92%B0%E5%A2%83%E4%BA%8B%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mokuzai.or.jp/"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/kinki/koho/event/morinoichi/index.html"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q164256",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "135.0"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5358181",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E3%83%BB%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M024",
+          "M027"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/kinki/koho/event/morinoichi/index.html"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132751",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%A0%B9%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3346137",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.472222222",
+          "133.050277777"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.pref.shimane.lg.jp/industry/norin/ringyo/mizumori/mizumori/mi-mo_kun/"
+        }
+      }
+    }
+  },
+  "072-2": {
+    "metainfo": {
+      "src_date": "20231100",
+      "src_url": "https://www.rinya.maff.go.jp/kinki/koho/koho_si/morinohiroba/pdf/no1172.pdf",
+      "src_parent_url": "https://www.rinya.maff.go.jp/kinki/koho/koho_si/morinohiroba/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "ニュース",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "安宅小学校と地域住民の方と協働で松葉かきを実施しました。",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "【石川森林管理署】",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "10月13日(金)、安宅小学校と「遊々の森」の協定を締結している安宅林国有林(安宅林風景林)において、松葉かき[*1]を行いました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "005": {
+        "text": "当日は、安宅小学校5年生45名、引率教諭3名、地域住民の安宅住吉会9名及び石川森林管理署10名の合計67名が参加しました。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "006": {
+        "text": "石川森林管理署長及び安宅住吉会代表の開会挨拶の後、当署職員による海岸林の説明と松葉かき作業の実演の後、参加者は10班に分かれて、約1時間、それぞれの場所で協力しながら松葉かきを行い、約930kgの松葉を取り除きました。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "007": {
+        "text": "参加した小学生からは、「少ない時間だったけど、みんなで協力してきれいにすることができて楽しかった」「最初は簡単そうだと思ったけど松葉を集めるのは難しかった」などの感想が聞かれました。",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "石川森林管理署では今後も、安宅小学校の「遊々の森」を活用した体験活動や保全活動などへ積極的に協力するとともに、地域の皆様にもっと海岸防災林の大切さを知っていただけるような活動を行っていきたいと思っております。",
+        "mention_ids": [
+          "M012",
+          "M013"
+        ]
+      },
+      "009": {
+        "text": "*1　松葉かきとは、健全な松林を育てることを目的としたもので、林内に堆積した松葉を取り除くことにより、松の生育に適した貧栄養状態の土壌を維持する作業のことです。",
+        "mention_ids": []
+      },
+      "010": {
+        "type": "heading",
+        "text": "今年も「さんべ祭」に参加しました。",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "【島根森林管理署】",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "012": {
+        "text": "10月15日(日)、第43回「第43回さんべ祭SUNSUNビレッジ2023」(さんべ祭実行委員会・国立三瓶青少年交流の家が主催)が開催され、島根森林管理署は森林とのふれあいブースを出展しました。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "013": {
+        "text": "当署のブースにも、たくさんの親子連れの方等が訪れ、森林クイズのコーナーでは景品の木工クラフト獲得をめざし会場内に設置されたクイズに挑戦していました。",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "014": {
+        "text": "午後からは、インドネシアに生育するアルソミトラ・マクロカルパ(和名:瓢箪かずら)の種子の模型を用いた種子(たね)飛ばし体験を行いました。",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "015": {
+        "text": "実際の種子は重さが3分の1グラムで、全翼長15cm程の透明な弾性のある後退翼がついており、数十メートルの高さの枝からまるでグライダーのように滑空し、数百メートルも飛ぶことができます。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "この種子模型は誰でも簡単に作ることができ、子ども達は完成した模型を楽しそうに飛ばし、生存競争の厳しい自然界で子孫を残すために独自に進化した樹木の不思議を体験していました。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "島根森林管理署では、今後も地域のイベントに参加し、自然とのふれあいの楽しさを広めたいと考えています。",
+        "mention_ids": [
+          "M023"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          5
+        ],
+        "text": "安宅小学校",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          1,
+          8
+        ],
+        "text": "石川森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          10,
+          15
+        ],
+        "text": "安宅小学校",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          32,
+          38
+        ],
+        "text": "安宅林国有林",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          39,
+          45
+        ],
+        "text": "安宅林風景林",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          4,
+          9
+        ],
+        "text": "安宅小学校",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          28,
+          33
+        ],
+        "text": "安宅住吉会",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          37,
+          44
+        ],
+        "text": "石川森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          7
+        ],
+        "text": "石川森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          10,
+          15
+        ],
+        "text": "安宅住吉会",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          25,
+          27
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          7
+        ],
+        "text": "石川森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          13,
+          18
+        ],
+        "text": "安宅小学校",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "010",
+        "span": [
+          4,
+          8
+        ],
+        "text": "さんべ祭",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "011",
+        "span": [
+          1,
+          8
+        ],
+        "text": "島根森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          15,
+          23
+        ],
+        "text": "第43回さんべ祭",
+        "entity_type": "EVE",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "012",
+        "span": [
+          23,
+          37
+        ],
+        "text": "SUNSUNビレッジ2023",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "012",
+        "span": [
+          39,
+          48
+        ],
+        "text": "さんべ祭実行委員会",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "012",
+        "span": [
+          49,
+          60
+        ],
+        "text": "国立三瓶青少年交流の家",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "012",
+        "span": [
+          70,
+          77
+        ],
+        "text": "島根森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          2
+        ],
+        "text": "当署",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "014",
+        "span": [
+          6,
+          12
+        ],
+        "text": "インドネシア",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          7
+        ],
+        "text": "島根森林管理署",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M006",
+          "M013"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11461150",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9D%BE%E5%B8%82%E7%AB%8B%E5%AE%89%E5%AE%85%E5%B0%8F%E5%AD%A6%E6%A0%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.416389",
+          "136.421111"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M008",
+          "M009",
+          "M011",
+          "M012",
+          "M015",
+          "M020",
+          "M021",
+          "M023"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11638582",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E4%B8%AD%E5%9B%BD%E6%A3%AE%E6%9E%97%E7%AE%A1%E7%90%86%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M005"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.rinya.maff.go.jp/j/kokuyu_rinya/kokumin_mori/katuyo/reku/rekumori/ataka.html"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M007",
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_SERIES_OF",
+        "ref_urls": {
+          "other": "https://www.sanbesan.jp/news/6216/"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.sanbesan.jp/news/6216/"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.sanbesan.jp/news/6216/"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "other": "https://www.sanbesan.jp/news/6216/"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://sanbe.niye.go.jp/"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/304751",
+          "wikidata_country": "http://www.wikidata.org/entity/Q252"
+        },
+        "coordinate": [
+          "-2.0",
+          "118.0"
+        ]
+      }
+    }
+  }
+}

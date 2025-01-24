@@ -1,0 +1,2765 @@
+{
+  "027-1": {
+    "metainfo": {
+      "src_date": "20230600",
+      "src_url": "https://www.mlit.go.jp/sogoseisaku/transport/content/001613614.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000154.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和5年版交通政策白書　第1部　第3章　各交通モードの動向　第2節　鉄道交通",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "(2)幹線鉄道",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "　新幹線は、我が国の基幹的な高速輸送体系であり、地域間の移動時間を大幅に短縮させ、地域社会の振興や経済活性化に大きな効果をもたらす。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "また、新幹線は安全(1964年の東海道新幹線の開業以来、鉄道事業者の過失による乗客の死亡事故はゼロ)かつ環境にもやさしい(鉄道の二酸化炭素排出原単位(g-CO2/人キロ)は航空機の1/5、自家用車の1/6)という優れた特性を持っている。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "a.新幹線の旅客輸送量",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "006": {
+        "text": "　新幹線の旅客輸送量は、1964年の東海道新幹線の開業以降、路線の延伸にしたがって増加しており、1970年代後半からの運賃・料金の値上げや、2008年のリーマンショックの影響により一時的に減少を見せたものの、それ以外は概ね一貫して増加傾向にあった。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "007": {
+        "text": "他方、2020年度の輸送量は、新型コロナウイルス感染症の影響により、人ベースで1.7億人程度へと減少した。",
+        "mention_ids": []
+      },
+      "008": {
+        "type": "heading",
+        "text": "b.新幹線ネットワークの整備の動向",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "009": {
+        "text": "1　整備新幹線",
+        "mention_ids": [
+          "M011"
+        ]
+      },
+      "010": {
+        "text": "　全国新幹線鉄道整備法(昭和45年法律第71号)に基づき、1973年に整備計画が定められた、いわゆる整備新幹線については、1997年10月の北陸新幹線(高崎・長野間)の開業を皮切りに、東北新幹線、九州新幹線、北陸新幹線、北海道新幹線が順次開業してきており、2022年9月には九州新幹線(武雄温泉・長崎間)が開業した。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "011": {
+        "text": "北海道新幹線(新函館北斗・札幌間)については、北海道新幹線(新函館北斗・札幌間)の整備に関する有識者会議において、2022年12月に、事業費が6,445億円増加するとの試算を含めたとりまとめがなされたところであり、引き続き、必要な財源を確保し、着実に整備を進める。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "012": {
+        "text": "青函共用走行区間のうち、青函トンネル内では、2020年より貨物列車の本数が少ない特定時期において、新幹線列車と貨物列車の走行時間帯を区分し、新幹線の210km/h高速走行を実施している。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028",
+          "M029"
+        ]
+      },
+      "013": {
+        "text": "引き続き、安全の確保に万全を期しつつ、新幹線の高速化と鉄道貨物輸送との両立について、検討を進める。",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "014": {
+        "text": "　北陸新幹線(金沢・敦賀間)については、工期・事業費ともに見直し後の計画の範囲内で順調に進捗しており、引き続き、着実に整備を進める。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "015": {
+        "text": "　未着工区間である北陸新幹線(敦賀・新大阪間)については、従来、工事実施計画の認可後に行っていた調査も含め、施工上の課題を解決するための調査を、先行的・集中的に実施していく。",
+        "mention_ids": [
+          "M033",
+          "M034"
+        ]
+      },
+      "016": {
+        "text": "　また、九州新幹線(西九州ルート)については、九州地域、西日本地域の未来にとってどのような整備の在り方が望ましいか議論を積み重ねることが重要と考えており、関係者との間でしっかりと協議を進めている。",
+        "mention_ids": [
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "017": {
+        "text": "　その他、全国新幹線鉄道整備法では、四国新幹線、四国横断新幹線等の計11路線が、いわゆる基本計画路線に位置づけられている。",
+        "mention_ids": [
+          "M038",
+          "M039",
+          "M040"
+        ]
+      },
+      "018": {
+        "text": "2017年度よりこれら基本計画路線を含む「幹線鉄道ネットワーク等のあり方に関する調査」を行っており、具体的には、新幹線整備が社会・経済に与える効果の検証や、効果的・効率的な新幹線の整備・運行手法の研究等に取り組んでいる。",
+        "mention_ids": [
+          "M041",
+          "M042"
+        ]
+      },
+      "019": {
+        "text": "2　中央新幹線",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "020": {
+        "text": "　中央新幹線は、東京・名古屋間を約40分、東京・大阪間を約1時間で結び、全線が開業することで三大都市が1時間圏内となり、人口7千万人を超える巨大な都市圏が形成されることとなる。",
+        "mention_ids": [
+          "M044",
+          "M045",
+          "M046",
+          "M047"
+        ]
+      },
+      "021": {
+        "text": "これにより、我が国の国土構造が大きく変革され、国際競争力の向上が図られるとともに、その成長力が全国に波及し、日本経済全体を発展させるものである。",
+        "mention_ids": [
+          "M048",
+          "M049"
+        ]
+      },
+      "022": {
+        "text": "　全線開業の時期については、2016年に独立行政法人鉄道建設・運輸施設整備支援機構法(平成14年法律第180号)の改正を行い、財政投融資(3兆円)を活用することにより、当初2045年であった大阪までの全線開業を最大8年間前倒すことを可能としたところである。",
+        "mention_ids": [
+          "M050",
+          "M051"
+        ]
+      },
+      "023": {
+        "text": "　現在、国土交通大臣が認可した「中央新幹線品川・名古屋駅間工事実施計画(その1)及び(その2)」に従い、JR東海において品川・名古屋間の早期開業に向け、工事等を進めているところである。",
+        "mention_ids": [
+          "M052",
+          "M053",
+          "M054",
+          "M055",
+          "M056"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          11
+        ],
+        "text": "令和5年版交通政策白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          1,
+          4
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          6,
+          9
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          3,
+          6
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          16,
+          22
+        ],
+        "text": "東海道新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          2,
+          5
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          1,
+          4
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "006",
+        "span": [
+          18,
+          24
+        ],
+        "text": "東海道新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          76,
+          84
+        ],
+        "text": "リーマンショック",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "008",
+        "span": [
+          2,
+          5
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "009",
+        "span": [
+          2,
+          7
+        ],
+        "text": "整備新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "010",
+        "span": [
+          1,
+          24
+        ],
+        "text": "全国新幹線鉄道整備法(昭和45年法律第71号)",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "010",
+        "span": [
+          50,
+          55
+        ],
+        "text": "整備新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "010",
+        "span": [
+          70,
+          75
+        ],
+        "text": "北陸新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "010",
+        "span": [
+          76,
+          81
+        ],
+        "text": "高崎・長野",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "010",
+        "span": [
+          92,
+          97
+        ],
+        "text": "東北新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "010",
+        "span": [
+          98,
+          103
+        ],
+        "text": "九州新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "010",
+        "span": [
+          104,
+          109
+        ],
+        "text": "北陸新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "010",
+        "span": [
+          110,
+          116
+        ],
+        "text": "北海道新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "010",
+        "span": [
+          137,
+          142
+        ],
+        "text": "九州新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "010",
+        "span": [
+          143,
+          150
+        ],
+        "text": "武雄温泉・長崎",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          6
+        ],
+        "text": "北海道新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "011",
+        "span": [
+          7,
+          15
+        ],
+        "text": "新函館北斗・札幌",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "011",
+        "span": [
+          23,
+          29
+        ],
+        "text": "北海道新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "011",
+        "span": [
+          30,
+          38
+        ],
+        "text": "新函館北斗・札幌",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          2
+        ],
+        "text": "青函",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "012",
+        "span": [
+          12,
+          18
+        ],
+        "text": "青函トンネル",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "012",
+        "span": [
+          49,
+          52
+        ],
+        "text": "新幹線",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "012",
+        "span": [
+          70,
+          73
+        ],
+        "text": "新幹線",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "013",
+        "span": [
+          19,
+          22
+        ],
+        "text": "新幹線",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "014",
+        "span": [
+          1,
+          6
+        ],
+        "text": "北陸新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "014",
+        "span": [
+          7,
+          12
+        ],
+        "text": "金沢・敦賀",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "015",
+        "span": [
+          9,
+          14
+        ],
+        "text": "北陸新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "015",
+        "span": [
+          15,
+          21
+        ],
+        "text": "敦賀・新大阪",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "016",
+        "span": [
+          4,
+          17
+        ],
+        "text": "九州新幹線(西九州ルート)",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "016",
+        "span": [
+          23,
+          27
+        ],
+        "text": "九州地域",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "016",
+        "span": [
+          28,
+          33
+        ],
+        "text": "西日本地域",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "017",
+        "span": [
+          5,
+          15
+        ],
+        "text": "全国新幹線鉄道整備法",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "017",
+        "span": [
+          18,
+          23
+        ],
+        "text": "四国新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "017",
+        "span": [
+          24,
+          31
+        ],
+        "text": "四国横断新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "018",
+        "span": [
+          56,
+          59
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "018",
+        "span": [
+          86,
+          89
+        ],
+        "text": "新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "019",
+        "span": [
+          2,
+          7
+        ],
+        "text": "中央新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "020",
+        "span": [
+          1,
+          6
+        ],
+        "text": "中央新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "020",
+        "span": [
+          8,
+          14
+        ],
+        "text": "東京・名古屋",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "020",
+        "span": [
+          21,
+          26
+        ],
+        "text": "東京・大阪",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "020",
+        "span": [
+          46,
+          50
+        ],
+        "text": "三大都市",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "021",
+        "span": [
+          6,
+          9
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "021",
+        "span": [
+          54,
+          56
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M050": {
+        "sentence_id": "022",
+        "span": [
+          20,
+          56
+        ],
+        "text": "独立行政法人鉄道建設・運輸施設整備支援機構法(平成14年法律第180号)",
+        "entity_type": "PRO",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "022",
+        "span": [
+          95,
+          97
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "023",
+        "span": [
+          4,
+          8
+        ],
+        "text": "国土交通",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "023",
+        "span": [
+          16,
+          21
+        ],
+        "text": "中央新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "023",
+        "span": [
+          21,
+          28
+        ],
+        "text": "品川・名古屋駅",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "023",
+        "span": [
+          52,
+          56
+        ],
+        "text": "JR東海",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "023",
+        "span": [
+          60,
+          66
+        ],
+        "text": "品川・名古屋",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004",
+          "M006",
+          "M007",
+          "M010",
+          "M028",
+          "M029",
+          "M030",
+          "M041",
+          "M042"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q164338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M048",
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M008"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q660895",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/5263977",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3269580",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M011",
+          "M013"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11499649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%95%B4%E5%82%99%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M012",
+          "M038"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11389391",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E6%96%B0%E5%B9%B9%E7%B7%9A%E9%89%84%E9%81%93%E6%95%B4%E5%82%99%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M014",
+          "M018",
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037409",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E9%99%B8%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1926393",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015",
+          "M021",
+          "M023",
+          "M025",
+          "M026",
+          "M032",
+          "M034",
+          "M045",
+          "M046",
+          "M054",
+          "M056"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q900665",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9349298",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q935099",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A_(%E6%95%B4%E5%82%99%E6%96%B0%E5%B9%B9%E7%B7%9A)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019",
+          "M022",
+          "M024"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1364115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/5947648",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M020",
+          "M035"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11370252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/7356208",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q99250",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB",
+          "openstreetmap": "https://www.openstreetmap.org/relation/5458271",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.3157",
+          "140.3351"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q13393883",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1842245",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.0",
+          "131.0"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1063946",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M039",
+          "M040"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q10924621",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%9B%BD%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M043",
+          "M044",
+          "M053"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q876490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.5827",
+          "138.927"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q10865718",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E9%83%BD%E5%B8%82%E5%9C%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://elaws.e-gov.go.jp/document?lawid=414AC0000000180_20231001_505AC0000000018"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q35765",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/358674",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.69375",
+          "135.502111111"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q513679",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "027-2": {
+    "metainfo": {
+      "src_date": "20230600",
+      "src_url": "https://www.mlit.go.jp/sogoseisaku/transport/content/001613614.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000154.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "(3)都市鉄道",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "a.都市鉄道ネットワークの整備の動向",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "　都市鉄道については、運輸政策審議会(現交通政策審議会)の答申等を踏まえて整備されてきており、都市・地域交通年報によると、2018年3月末時点でJR、私鉄、地下鉄の路線延長の合計は、東京圏では約2,459キロメートル、大阪圏では約1,504キロメートル、名古屋圏では約982キロメートルとなっている。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "004": {
+        "text": "ここ5年程度の整備状況について見ると、2019年3月にはJR西日本の「おおさか東線」が全線開業し、また、都市鉄道等利便増進法(平成17年法律第41号)を活用し、整備を進めていた神奈川東部方面線(相鉄・JR直通線、相鉄・東急直通線)については、2019年11月に相鉄・JR直通線(西谷~羽沢横浜国大)が、2023年3月に相鉄・東急直通線(羽沢横浜国大~日吉)が開業した。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "005": {
+        "text": "さらに、同年3月には、福岡市地下鉄七隈線(天神南~博多)が開業した。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "006": {
+        "text": "　一方、2016年4月には、交通政策審議会答申「東京圏における今後の都市鉄道のあり方について」がとりまとめられた。",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "007": {
+        "text": "同答申では、(1)国際競争力の強化に資する都市鉄道、(2)豊かな国民生活に資する都市鉄道、(3)まちづくりと連携した持続可能な都市鉄道、(4)駅空間の質的進化~次世代ステーションの創造~、(5)信頼と安心の都市鉄道、(6)災害対策の強力な推進と取組の「見える化」の6つの東京圏の都市鉄道が目指すべき姿と、これを実現する上で意義のある路線と駅に関するプロジェクトが記載された。",
+        "mention_ids": [
+          "M022",
+          "M023"
+        ]
+      },
+      "008": {
+        "text": "　また、2021年7月には、交通政策審議会答申「東京圏における今後の地下鉄ネットワークのあり方等について」がとりまとめられた。",
+        "mention_ids": [
+          "M024"
+        ]
+      },
+      "009": {
+        "text": "同答申では、東京圏における今後の地下鉄ネットワークの在り方、東京メトロが果たすべき役割を踏まえた株式売却の在り方についてそれぞれ提言がなされるとともに、これらの実現に向けて必要となる取組が示された。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "b.都市鉄道の課題",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "　都市鉄道のネットワークが拡大されてきたものの、シームレス化、遅延対策といった課題は依然として残っている。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "1　シームレス化",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "　シームレス化を図るため、複数の鉄道会社間で相互に相手の路線に乗り入れる相互直通運転の実施が図られている。",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "　代表例として東京圏の状況を見ると、現在、東京都心部の地下鉄のうち、銀座線、丸ノ内線及び大江戸線を除く全ての路線で、郊外鉄道との直通運転が実施されており、東京圏の相互直通路線延長は約958キロメートルと、東京圏の鉄道総延長の約39%を占めている。",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "015": {
+        "text": "　また、交通系ICカードの普及など、サービス面でのシームレス化も進められている。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "2　遅延の「見える化」",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "　遅延対策について、鉄道事業者に対して更なる改善の取組を求めるとともに、鉄道利用者に対しても理解と協力を求めていくため、遅延の現状と改善の状況を分かりやすく「見える化」する等の取組が進められている。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "003",
+        "span": [
+          11,
+          18
+        ],
+        "text": "運輸政策審議会",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          19,
+          27
+        ],
+        "text": "現交通政策審議会",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          47,
+          56
+        ],
+        "text": "都市・地域交通年報",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          72,
+          74
+        ],
+        "text": "JR",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          91,
+          94
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          109,
+          112
+        ],
+        "text": "大阪圏",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          127,
+          131
+        ],
+        "text": "名古屋圏",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          28,
+          33
+        ],
+        "text": "JR西日本",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          35,
+          41
+        ],
+        "text": "おおさか東線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          52,
+          75
+        ],
+        "text": "都市鉄道等利便増進法(平成17年法律第41号)",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          88,
+          96
+        ],
+        "text": "神奈川東部方面線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          97,
+          105
+        ],
+        "text": "相鉄・JR直通線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          106,
+          114
+        ],
+        "text": "相鉄・東急直通線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          130,
+          138
+        ],
+        "text": "相鉄・JR直通線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          139,
+          148
+        ],
+        "text": "西谷~羽沢横浜国大",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "004",
+        "span": [
+          159,
+          167
+        ],
+        "text": "相鉄・東急直通線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "004",
+        "span": [
+          168,
+          177
+        ],
+        "text": "羽沢横浜国大~日吉",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          11,
+          17
+        ],
+        "text": "福岡市地下鉄",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          17,
+          20
+        ],
+        "text": "七隈線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          21,
+          27
+        ],
+        "text": "天神南~博多",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "006",
+        "span": [
+          14,
+          47
+        ],
+        "text": "交通政策審議会答申「東京圏における今後の都市鉄道のあり方について」",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          3
+        ],
+        "text": "同答申",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "007",
+        "span": [
+          135,
+          138
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "008",
+        "span": [
+          14,
+          53
+        ],
+        "text": "交通政策審議会答申「東京圏における今後の地下鉄ネットワークのあり方等について」",
+        "entity_type": "PRO",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          3
+        ],
+        "text": "同答申",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          6,
+          9
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          30,
+          35
+        ],
+        "text": "東京メトロ",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "014",
+        "span": [
+          7,
+          10
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "014",
+        "span": [
+          21,
+          26
+        ],
+        "text": "東京都心部",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "014",
+        "span": [
+          34,
+          37
+        ],
+        "text": "銀座線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "014",
+        "span": [
+          38,
+          42
+        ],
+        "text": "丸ノ内線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "014",
+        "span": [
+          44,
+          48
+        ],
+        "text": "大江戸線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "014",
+        "span": [
+          77,
+          80
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "014",
+        "span": [
+          102,
+          105
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11640489",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%81%8B%E8%BC%B8%E6%94%BF%E7%AD%96%E5%AF%A9%E8%AD%B0%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11374005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96%E5%AF%A9%E8%AD%B0%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.jttri.or.jp/publish/nenpou_book.html"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q864495",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/JR",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M023",
+          "M026",
+          "M028",
+          "M033",
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689722222",
+          "139.691666666"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11441649",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E9%83%BD%E5%B8%82%E5%9C%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.7",
+          "135.5"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24901650",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%83%BD%E5%B8%82%E5%9C%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.166666666",
+          "136.9"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q502125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6050653",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1067370",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%8A%E3%81%95%E3%81%8B%E6%9D%B1%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11818368",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11643701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E9%89%84%E9%81%93%E7%AD%89%E5%88%A9%E4%BE%BF%E5%A2%97%E9%80%B2%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M011",
+          "M013",
+          "M016"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11588916",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E6%9D%B1%E9%83%A8%E6%96%B9%E9%9D%A2%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M012",
+          "M014"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q74129268",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%89%84%E3%83%BBJR%E7%9B%B4%E9%80%9A%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M015",
+          "M017",
+          "M020"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q289242",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.59",
+          "130.401666666"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1039166",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%9C%B0%E4%B8%8B%E9%89%84%E4%B8%83%E9%9A%88%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/7734239",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M021",
+          "M022"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24867787",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96%E5%AF%A9%E8%AD%B0%E4%BC%9A%E7%AD%94%E7%94%B3%E7%AC%AC198%E5%8F%B7"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M024",
+          "M025"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q108860536",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96%E5%AF%A9%E8%AD%B0%E4%BC%9A%E7%AD%94%E7%94%B3%E7%AC%AC371%E5%8F%B7"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q682894",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11382519",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q308891",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%BA%E9%83%A8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.676666666",
+          "139.764722222"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1073046",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E9%8A%80%E5%BA%A7%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/8026077",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1147028",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E4%B8%B8%E3%83%8E%E5%86%85%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/8015940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q384862",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%96%B6%E5%9C%B0%E4%B8%8B%E9%89%84%E5%A4%A7%E6%B1%9F%E6%88%B8%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/8019893",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "027-3": {
+    "metainfo": {
+      "src_date": "20230600",
+      "src_url": "https://www.mlit.go.jp/sogoseisaku/transport/content/001613614.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000154.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "(4)地域鉄道・LRT",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "a.地域鉄道の現況",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "　地域鉄道の輸送人員については、1991年度をピークに、2002年度頃まで減少傾向となり、その後は下げ止まったものの、2019年度はピーク時の1991年度と比較すると約22%の減少となっている。",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "　さらに、2021年度は、前年度に引き続き、新型コロナウイルス感染症による影響を受けた結果、2019年度と比較すると約24%の減少となった。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "　また、経営状況についても、2019年度は事業者の78%が経常収支赤字であったが、2021年度は事業者の96%が経常収支赤字となるなど、より一層厳しい状態となっている。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "そのような状況の中、車両、トンネル、橋りょう等の老朽化が進行しており、それらの更新費用の確保や、高齢化社会の進展に伴うバリアフリー化への対応など、多くの課題を抱えている。",
+        "mention_ids": []
+      },
+      "007": {
+        "type": "heading",
+        "text": "b.維持が困難な鉄道路線の状況",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "　地方部においては、路線の廃止の動きも見られる。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "　JR西日本の三江線(江津駅~三次駅、108.1km)は、2018年4月1日に廃止されたが、それに先立つ2017年12月、沿線2県6市町は、交通事業者や地域住民と協議の上、三江線廃止後の新たな交通体系を決定した。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "010": {
+        "text": "これに基づき、三江線の代替交通手段となるバスの新設や、重複する市民バスやスクールバスの見直しがなされ、効率的な交通ネットワークへ再編された。",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "011": {
+        "text": "　また、JR北海道は、2016年11月に、単独では維持困難な線区を公表し、各線区の置かれた状況や、地域にとってより効率的で利便性の高い交通サービスの在り方などについて、地域の関係者への説明・協議を行っている。",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "012": {
+        "text": "なお、同社が鉄道事業廃止に向けて協議を行っていた石勝線の新夕張駅~夕張駅間(16.1km)は2019年4月1日に、札沼線の北海道医療大学駅~新十津川駅間(47.6km)は2020年5月7日に、日高線の鵡川駅~様似駅間(116.0km)は2021年4月1日に、留萌線の石狩沼田駅~留萌駅間(35.7km)は2023年4月1日に、それぞれ廃止された。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "013": {
+        "text": "　これらの廃線された線区においては、新たな交通体系としてバス路線が整備され、病院や商業施設への立ち寄りや増便など、実際に利用する地域住民のニーズにきめ細かく対応している。",
+        "mention_ids": []
+      },
+      "014": {
+        "type": "heading",
+        "text": "c.路面電車・LRT",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "　地域における鉄軌道系の公共交通システムとして注目されるLRT(Light　Rail　Transit)は、従来の路面電車よりも走行空間の機能、車両の性能を向上させるとともに、道路空間、鉄道敷等の既存インフラも有効活用し、高い速達性、定時性、輸送力を持った、人や環境に優しい公共交通システムである。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "バリアフリーや環境への配慮、さらに中心市街地の活性化による都市・地域の再生等に寄与するものとして、各都市で導入が検討されている。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "　現在、国内では18社の軌道事業者が路面電車やLRTを運営している。",
+        "mention_ids": [
+          "M019"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "009",
+        "span": [
+          1,
+          6
+        ],
+        "text": "JR西日本",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "009",
+        "span": [
+          7,
+          10
+        ],
+        "text": "三江線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "009",
+        "span": [
+          11,
+          18
+        ],
+        "text": "江津駅~三次駅",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "009",
+        "span": [
+          63,
+          65
+        ],
+        "text": "2県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "009",
+        "span": [
+          65,
+          68
+        ],
+        "text": "6市町",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "009",
+        "span": [
+          76,
+          78
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "009",
+        "span": [
+          86,
+          89
+        ],
+        "text": "三江線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "010",
+        "span": [
+          7,
+          10
+        ],
+        "text": "三江線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "011",
+        "span": [
+          4,
+          9
+        ],
+        "text": "JR北海道",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          5
+        ],
+        "text": "同社",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "012",
+        "span": [
+          24,
+          27
+        ],
+        "text": "石勝線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "012",
+        "span": [
+          28,
+          36
+        ],
+        "text": "新夕張駅~夕張駅",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "012",
+        "span": [
+          57,
+          60
+        ],
+        "text": "札沼線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "012",
+        "span": [
+          61,
+          75
+        ],
+        "text": "北海道医療大学駅~新十津川駅",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "012",
+        "span": [
+          96,
+          99
+        ],
+        "text": "日高線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          100,
+          107
+        ],
+        "text": "鵡川駅~様似駅",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "012",
+        "span": [
+          129,
+          132
+        ],
+        "text": "留萌線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "012",
+        "span": [
+          133,
+          142
+        ],
+        "text": "石狩沼田駅~留萌駅",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "017",
+        "span": [
+          4,
+          5
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q502125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6050653",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M007",
+          "M008"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q899080",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B1%9F%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1839595",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M012",
+          "M014",
+          "M016",
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M009",
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q498930",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6147236",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.07097222",
+          "141.33219444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1136178",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8B%9D%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1821709",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1074233",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E6%B2%BC%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6145843",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q673965",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E6%9C%AC%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1827941",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1138959",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%95%99%E8%90%8C%E6%9C%AC%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1827938",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      }
+    }
+  }
+}

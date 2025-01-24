@@ -1,0 +1,936 @@
+{
+  "020": {
+    "metainfo": {
+      "src_date": "20210715",
+      "src_url": "https://www.mlit.go.jp/policy/shingikai/content/001414998.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/policy/shingikai/tetsudo01_sg_000315.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "東京圏における今後の地下鉄ネットワークのあり方等について　(答申)",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "○　諮問の背景",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "東京地下鉄株式会社(以下「東京メトロ」という。)は、特殊法人等整理合理化計画(平成13年12月19日閣議決定)において、東京メトロの前身である帝都高速度交通営団について、完全民営化に向けた第一段階として、当時建設中であった11号線(半蔵門線)の水天宮前から押上までの区間が開業した時点から概ね1年後に特殊会社化することとされたことを踏まえ、東京地下鉄株式会社法(平成14年法律第188号)に基づき平成16年4月1日に設立された。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "004": {
+        "text": "同法附則第2条において国と東京都は、特殊法人等整理合理化計画の趣旨を踏まえ、できる限り速やかに東京地下鉄株式会社法の廃止、その保有する株式の売却その他の必要な措置を講ずることとされているところである。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "005": {
+        "text": "このような状況の中、令和2年6月に成立した復興庁設置法等の一部を改正する法律(令和2年法律第46号)により、東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法(平成23年法律第117号)(以下「復興財源確保法」という。)に規定される国が保有する東京メトロ株式の売却益の復興債償還への充当期限が令和9年度末に設定されたことを踏まえ、当該株式の売却に先立って、その売却のあり方について検討する必要があるところである。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "006": {
+        "text": "当該株式の売却のあり方の検討に当たっては、東京メトロに関するこれまでの閣議決定等との関係性から、東京圏における地下鉄ネットワークについて今日的視点から検証を行い、今後の地下鉄ネットワークのあり方について議論した上で、東京メトロが果たすべき役割及びその役割を踏まえた株式売却のあり方について議論する必要がある。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030"
+        ]
+      },
+      "007": {
+        "text": "以上のような状況を踏まえ、令和2年12月に国土交通大臣から交通政策審議会に対して、東京圏における今後の地下鉄ネットワークのあり方等について諮問がなされた。",
+        "mention_ids": [
+          "M031",
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "008": {
+        "text": "それを受け、令和3年1月以降、同審議会陸上交通分科会鉄道部会の下に設置された東京圏における今後の地下鉄ネットワークのあり方等に関する小委員会で5回にわたり審議を重ね、本答申をとりまとめた。",
+        "mention_ids": [
+          "M035",
+          "M036",
+          "M037"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          3
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          9
+        ],
+        "text": "東京地下鉄株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          13,
+          18
+        ],
+        "text": "東京メトロ",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          50,
+          52
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          60,
+          65
+        ],
+        "text": "東京メトロ",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          71,
+          80
+        ],
+        "text": "帝都高速度交通営団",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          111,
+          115
+        ],
+        "text": "11号線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          116,
+          120
+        ],
+        "text": "半蔵門線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          122,
+          126
+        ],
+        "text": "水天宮前",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          128,
+          130
+        ],
+        "text": "押上",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          170,
+          194
+        ],
+        "text": "東京地下鉄株式会社法(平成14年法律第188号)",
+        "entity_type": "PRO",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "003",
+        "span": [
+          198,
+          200
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          7
+        ],
+        "text": "同法附則第2条",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          11,
+          12
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          13,
+          16
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "004",
+        "span": [
+          47,
+          57
+        ],
+        "text": "東京地下鉄株式会社法",
+        "entity_type": "PRO",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          10,
+          12
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          21,
+          50
+        ],
+        "text": "復興庁設置法等の一部を改正する法律(令和2年法律第46号)",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          54,
+          110
+        ],
+        "text": "東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法(平成23年法律第117号)",
+        "entity_type": "PRO",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          114,
+          121
+        ],
+        "text": "復興財源確保法",
+        "entity_type": "PRO",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "005",
+        "span": [
+          133,
+          134
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "005",
+        "span": [
+          139,
+          146
+        ],
+        "text": "東京メトロ株式",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "005",
+        "span": [
+          151,
+          154
+        ],
+        "text": "復興債",
+        "entity_type": "PRO",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "005",
+        "span": [
+          163,
+          165
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "005",
+        "span": [
+          182,
+          186
+        ],
+        "text": "当該株式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          4
+        ],
+        "text": "当該株式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "006",
+        "span": [
+          21,
+          26
+        ],
+        "text": "東京メトロ",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "006",
+        "span": [
+          35,
+          37
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "006",
+        "span": [
+          48,
+          51
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "006",
+        "span": [
+          108,
+          113
+        ],
+        "text": "東京メトロ",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "007",
+        "span": [
+          13,
+          15
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "007",
+        "span": [
+          21,
+          25
+        ],
+        "text": "国土交通",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "007",
+        "span": [
+          29,
+          36
+        ],
+        "text": "交通政策審議会",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "007",
+        "span": [
+          41,
+          44
+        ],
+        "text": "東京圏",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "008",
+        "span": [
+          6,
+          8
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "008",
+        "span": [
+          15,
+          30
+        ],
+        "text": "同審議会陸上交通分科会鉄道部会",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "008",
+        "span": [
+          38,
+          70
+        ],
+        "text": "東京圏における今後の地下鉄ネットワークのあり方等に関する小委員会",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M029",
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689722222",
+          "139.691666666"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M005",
+          "M027",
+          "M030"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q682894",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11382519",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8017040",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%9D%E9%83%BD%E9%AB%98%E9%80%9F%E5%BA%A6%E4%BA%A4%E9%80%9A%E5%96%B6%E5%9B%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007",
+          "M008"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376030",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A1%E3%83%88%E3%83%AD%E5%8D%8A%E8%94%B5%E9%96%80%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/8026157",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80546",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%A4%A9%E5%AE%AE%E5%89%8D%E9%A7%85",
+          "openstreetmap": "https://www.openstreetmap.org/node/6353024187",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6826",
+          "139.7852"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80545",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%8A%BC%E4%B8%8A%E9%A7%85",
+          "openstreetmap": "https://www.openstreetmap.org/node/3666792383",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.710611111",
+          "139.813194444"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011",
+          "M016"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11524631",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11524631",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M014",
+          "M021"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017",
+          "M024",
+          "M031",
+          "M035"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://elaws.e-gov.go.jp/document?lawid=423AC0000000125"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019",
+          "M020"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17223646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%89%E3%81%AE%E5%BE%A9%E8%88%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%BD%E7%AD%96%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E8%B2%A1%E6%BA%90%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%89%B9%E5%88%A5%E6%8E%AA%E7%BD%AE%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M022",
+          "M025",
+          "M026"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q682894",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9C%B0%E4%B8%8B%E9%89%84",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11382519",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.smd-am.co.jp/glossary/YST2308/"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11374005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96%E5%AF%A9%E8%AD%B0%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M036",
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11374005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96%E5%AF%A9%E8%AD%B0%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  }
+}

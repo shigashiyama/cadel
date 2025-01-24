@@ -1,0 +1,2947 @@
+{
+  "033-1": {
+    "metainfo": {
+      "src_date": "20230600",
+      "src_url": "https://www.enecho.meti.go.jp/about/whitepaper/2023/pdf/3_4.pdf",
+      "src_parent_url": "https://www.enecho.meti.go.jp/about/whitepaper/2023/pdf/"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和4年度エネルギーに関する年次報告　(エネルギー白書2023)　第3部　第4章「原子力政策の展開」　第4節　対策を将来へ先送りせず、着実に進める取組",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "1.高レベル放射性廃棄物等の最終処分に向けた取組",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "heading",
+        "text": "(1)最終処分に向けた取組の見直し",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "高レベル放射性廃棄物等の最終処分について、日本では、原子力発電で使い終えた燃料を再処理してウランやプルトニウムを取り出し、再び燃料として使うことにしており、この過程で残った廃液をガラス固化したもの(ガラス固化体)及びあわせて発生するTRU廃棄物の一部を、人間の生活環境から長期間にわたり隔離するために、深い安定した岩盤中に処分する、すなわち地層処分することにしています(第344-1-1)。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "005": {
+        "text": "2000年に制定された「特定放射性廃棄物の最終処分に関する法律(平成12年法律第117号)」(以下「最終処分法」という。)に基づいて、高レベル放射性廃棄物等の最終処分の実施主体であるNUMOが設立されるとともに、文献調査・概要調査・精密調査の段階的な調査が定められました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "006": {
+        "text": "2013年12月、最終処分関係閣僚会議を設置し、見直しの方向性を議論するとともに、総合資源エネルギー調査会電力・ガス事業分科会原子力小委員会の放射性廃棄物ワーキンググループ及び地層処分技術ワーキンググループにおいて専門家による議論を重ね、2015年5月、最終処分法に基づく基本方針を改定(閣議決定)しました。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "007": {
+        "text": "自治体からの応募を待つといったこれまでの方式を改め、地層処分に関する国民の関心や理解を深めるため、科学的により適性が高いと考えられる地域を提示する等、国が前面に立って取り組むこととし、2020年11月、北海道寿都町及び神恵内村で文献調査が開始されました。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "008": {
+        "text": "その後、経済産業省を中心に、様々な取組を進めてきましたが、最終処分事業に関心を持つ地域はいまだに限定的であり、北海道内の2自治体以外に調査実施自治体は出てきていません。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "009": {
+        "text": "こうした中、最終処分の実現に向け、政府を挙げて取組を進める旨の総理の発言を受け、2022年12月に、構成員を拡充して最終処分関係閣僚会議を開催し、2023年2月には、取組の強化策を、「特定放射性廃棄物の最終処分に関する基本方針」の改定案という形で取りまとめました。",
+        "mention_ids": [
+          "M020",
+          "M021"
+        ]
+      },
+      "010": {
+        "text": "(改定案のポイント)",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "●国、NUMO、事業者で体制を強化し、全国のできるだけ多く、少なくとも100以上の自治体に最終処分事業に関心を持ってもらうよう掘り起こしに取り組むこと",
+        "mention_ids": [
+          "M022",
+          "M023"
+        ]
+      },
+      "012": {
+        "text": "●関心や問題意識を有する自治体の首長等との協議の場を設置し、最終処分をはじめ原子力をめぐる課題と対応について、国と地域でともに議論・検討すること",
+        "mention_ids": [
+          "M024"
+        ]
+      },
+      "013": {
+        "text": "●従来の公募方式と市町村長への調査実施の申し入れに加え、手挙げを待つのではなく、自治体の調査受け入れの前段階から、地元の経済団体、議会等に対し、国から、様々なレベルで段階的に、理解活動の実施や調査の検討等を申し入れること",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "014": {
+        "text": "●文献調査の受け入れ自治体や関心を持つ自治体に対して、政府一丸となった支援体制を構築すること",
+        "mention_ids": [
+          "M026"
+        ]
+      },
+      "015": {
+        "type": "heading",
+        "text": "(3)対話活動の取組と文献調査の開始",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "地層処分という処分方法の仕組みや日本の地下環境等に関する国民の皆さまの理解を深めていただくため、科学的特性マップを活用した全国各地での説明会の開催等、対話活動に取り組んでいます。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "017": {
+        "text": "新型コロナ禍を踏まえ、消毒、換気、人と人との距離を十分にとった席配置等、感染症の感染拡大防止対策を実施しながら、対話活動に取り組んでいます(第344-1-2)。",
+        "mention_ids": [
+          "M028"
+        ]
+      },
+      "018": {
+        "text": "2019年に取りまとめた「複数地域での文献調査に向けた当面の取組方針」に沿って対話活動を進めていく中で、地層処分事業をより深く知りたいと考える、経済団体、大学・教育関係者、NPO等の関心のあるグループが、全国で約160団体(2022年12月末時点)に増え、勉強会や情報発信等の多様な取組が活発に行われてきています。",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "そして、2020年11月には北海道寿都町及び神恵内村で文献調査が開始されました。",
+        "mention_ids": [
+          "M029",
+          "M030",
+          "M031"
+        ]
+      },
+      "020": {
+        "text": "文献調査は、全国規模の文献やデータに加えて、より地域に即した地域固有の文献やデータを調査・分析して情報提供を行い、理解の促進を図るものであり、いわば対話活動の一環と考えています。",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "2021年に両町村にそれぞれ設置された「対話の場」を始めとして、地層処分事業や文献調査の進捗状況等について、地域住民の皆さまと対話し、議論を積み重ねてきていただき、北海道幌延町の深地層研究センターや青森県六ヶ所村のサイクル関連施設への視察や、まちの将来に向けた勉強会等の活動も始まっています。",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036",
+          "M037",
+          "M038"
+        ]
+      },
+      "022": {
+        "text": "今後も引き続き、この事業やこの事業が地域に与える影響等について議論を深めていただけるよう、地域の声も踏まえて積極的に説明や情報提供を行っていきます。",
+        "mention_ids": []
+      },
+      "023": {
+        "text": "また、全国のできるだけ多くの地域で、最終処分事業に関心を持っていただき、文献調査を受け入れていただけるよう、引き続き取り組んでいきます(第344-1-3)。",
+        "mention_ids": []
+      },
+      "024": {
+        "type": "heading",
+        "text": "(4)研究開発や国際連携の取組",
+        "mention_ids": []
+      },
+      "025": {
+        "text": "1研究開発に関する取組",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "2018年3月に取りまとめ、2020年3月に改訂した「地層処分研究開発に関する全体計画」に基づき、処分場閉鎖後に坑道が水みちにならないように埋め戻す技術開発、地下の断層の分布や地下水の流れの状態を把握するための調査手法の開発、廃棄体の回収可能性を確保する技術開発、数十km地下のマグマの分布を把握するための技術開発等を継続しました。",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "こうした研究開発や技術開発の進捗等を基に、有識者も交えた議論・検討の上で、2023年4月以降の全体計画について取りまとめました。",
+        "mention_ids": []
+      },
+      "028": {
+        "text": "1999年に核燃料サイクル開発機構(現在の日本原子力研究開発機構(以下「JAEA」という。))が公表した「地層処分研究開発第2次取りまとめ」では、日本においても地層処分を事業化の段階に進めるための信頼性ある技術基盤が整備されたことが示されました。",
+        "mention_ids": [
+          "M039",
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "029": {
+        "text": "その後も引き続き、事業の技術的信頼性のさらなる向上を図るための技術開発を行ってきており、2018年11月にNUMOが、どのようにサイト選定の調査を進め、安全な処分場の設計・建設・操業を行い、閉鎖後の長期にわたる安全性を確保しようとしているのかについて、これまでに蓄積されてきた科学的知見や技術を統合して包括的に説明し、事業者の立場から技術的取組の最新状況を示すことを目的として、「包括的技術報告書(レビュー版)」を公表しました。",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "030": {
+        "text": "その後、2019年12月に公表された日本原子力学会の「NUMO包括的技術報告書レビュー特別専門委員会」によるレビュー結果を受けて、NUMOは2021年2月に包括的技術報告書の改訂版を公表しました。",
+        "mention_ids": [
+          "M045",
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "031": {
+        "text": "さらに、2021年11月からは、同時期に公表された包括的技術報告書本編の英語版に対して経済協力開発機構原子力機関(以下「OECD/NEA」という。)による国際レビューが行われ、2023年1月にその結果が公表されました。",
+        "mention_ids": [
+          "M049",
+          "M050",
+          "M051"
+        ]
+      },
+      "032": {
+        "text": "2国際連携に関する取組",
+        "mention_ids": []
+      },
+      "033": {
+        "text": "最終処分の実現は、原子力を利用する全ての国の共通の課題であり、長い年月をかけて地層処分に取り組む各国政府との国際協力を強化することが重要です。",
+        "mention_ids": []
+      },
+      "034": {
+        "text": "このような観点から、2019年6月のG20軽井沢大臣会合において、世界の原子力主要国政府が参加する初めての「国際ラウンドテーブル」を立ち上げることについて合意しました。",
+        "mention_ids": [
+          "M052",
+          "M053"
+        ]
+      },
+      "035": {
+        "text": "2019年10月と2020年2月には、「最終処分に関する政府間国際ラウンドテーブル」が開催され、最終処分に関連する政府の役割、国民理解活動、研究開発、各国が重視する考え方やベストプラクティス、国際協力を強化すべき分野等について、活発な議論が行われました(第344-1-4)。",
+        "mention_ids": [
+          "M054"
+        ]
+      },
+      "036": {
+        "text": "国際ラウンドテーブルの報告書において掲げられた、国際協力を強化すべき分野の具体化に向けた議論をする場として、2022年11月に、国際ワークショップを幌延深地層研究センターで開催しました。",
+        "mention_ids": [
+          "M055",
+          "M056",
+          "M057"
+        ]
+      },
+      "037": {
+        "text": "このワークショップでは、各国の現状の情報交換に加え、地下研究所を活用した協力体制のあり方についてパネルディスカッション及びグループ討議を通じて議論しました。",
+        "mention_ids": [
+          "M058",
+          "M059",
+          "M060"
+        ]
+      },
+      "038": {
+        "text": "こうした議論と並行して、JAEAは、OECD/NEAの協力を得て、幌延深地層研究センターを活用した国際共同プロジェクトの実施に向け、国内外の複数の機関とともに具体的な実施内容等について議論するための準備会合を開催し、2023年2月に協定書が発効されました。",
+        "mention_ids": [
+          "M061",
+          "M062",
+          "M063"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          32
+        ],
+        "text": "令和4年度エネルギーに関する年次報告　(エネルギー白書2023)",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "004",
+        "span": [
+          21,
+          23
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "005",
+        "span": [
+          12,
+          45
+        ],
+        "text": "特定放射性廃棄物の最終処分に関する法律(平成12年法律第117号)",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "005",
+        "span": [
+          50,
+          55
+        ],
+        "text": "最終処分法",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "005",
+        "span": [
+          91,
+          95
+        ],
+        "text": "NUMO",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          9,
+          19
+        ],
+        "text": "最終処分関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          41,
+          63
+        ],
+        "text": "総合資源エネルギー調査会電力・ガス事業分科会",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "006",
+        "span": [
+          63,
+          70
+        ],
+        "text": "原子力小委員会",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          71,
+          86
+        ],
+        "text": "放射性廃棄物ワーキンググループ",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          88,
+          103
+        ],
+        "text": "地層処分技術ワーキンググループ",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          127,
+          132
+        ],
+        "text": "最終処分法",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          144,
+          146
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          75,
+          76
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "007",
+        "span": [
+          101,
+          104
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "007",
+        "span": [
+          104,
+          107
+        ],
+        "text": "寿都町",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "007",
+        "span": [
+          109,
+          113
+        ],
+        "text": "神恵内村",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          4,
+          9
+        ],
+        "text": "経済産業省",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "008",
+        "span": [
+          55,
+          58
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "008",
+        "span": [
+          60,
+          64
+        ],
+        "text": "2自治体",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          17,
+          19
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          58,
+          68
+        ],
+        "text": "最終処分関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "011",
+        "span": [
+          1,
+          2
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "011",
+        "span": [
+          3,
+          7
+        ],
+        "text": "NUMO",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "012",
+        "span": [
+          55,
+          56
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "013",
+        "span": [
+          72,
+          73
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "014",
+        "span": [
+          27,
+          29
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "016",
+        "span": [
+          16,
+          18
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          6
+        ],
+        "text": "新型コロナ禍",
+        "entity_type": "EVE",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "019",
+        "span": [
+          14,
+          17
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "019",
+        "span": [
+          17,
+          20
+        ],
+        "text": "寿都町",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "019",
+        "span": [
+          22,
+          26
+        ],
+        "text": "神恵内村",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "021",
+        "span": [
+          6,
+          9
+        ],
+        "text": "両町村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "021",
+        "span": [
+          20,
+          24
+        ],
+        "text": "対話の場",
+        "entity_type": "EVE",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "021",
+        "span": [
+          82,
+          85
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "021",
+        "span": [
+          85,
+          88
+        ],
+        "text": "幌延町",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "021",
+        "span": [
+          89,
+          98
+        ],
+        "text": "深地層研究センター",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "021",
+        "span": [
+          99,
+          102
+        ],
+        "text": "青森県",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "021",
+        "span": [
+          102,
+          106
+        ],
+        "text": "六ヶ所村",
+        "entity_type": "LOC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "028",
+        "span": [
+          6,
+          17
+        ],
+        "text": "核燃料サイクル開発機構",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "028",
+        "span": [
+          21,
+          32
+        ],
+        "text": "日本原子力研究開発機構",
+        "entity_type": "ORG",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "028",
+        "span": [
+          36,
+          40
+        ],
+        "text": "JAEA",
+        "entity_type": "ORG",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "028",
+        "span": [
+          73,
+          75
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "029",
+        "span": [
+          53,
+          57
+        ],
+        "text": "NUMO",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "029",
+        "span": [
+          190,
+          205
+        ],
+        "text": "包括的技術報告書(レビュー版)",
+        "entity_type": "PRO",
+        "entity_id": "E025",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "030",
+        "span": [
+          18,
+          25
+        ],
+        "text": "日本原子力学会",
+        "entity_type": "ORG",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "030",
+        "span": [
+          27,
+          50
+        ],
+        "text": "NUMO包括的技術報告書レビュー特別専門委員会",
+        "entity_type": "ORG",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "030",
+        "span": [
+          65,
+          69
+        ],
+        "text": "NUMO",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "030",
+        "span": [
+          78,
+          86
+        ],
+        "text": "包括的技術報告書",
+        "entity_type": "NOMINAL",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "031",
+        "span": [
+          25,
+          33
+        ],
+        "text": "包括的技術報告書",
+        "entity_type": "NOMINAL",
+        "entity_id": "E029",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "031",
+        "span": [
+          43,
+          56
+        ],
+        "text": "経済協力開発機構原子力機関",
+        "entity_type": "ORG",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "031",
+        "span": [
+          60,
+          68
+        ],
+        "text": "OECD/NEA",
+        "entity_type": "ORG",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "034",
+        "span": [
+          18,
+          28
+        ],
+        "text": "G20軽井沢大臣会合",
+        "entity_type": "EVE",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "034",
+        "span": [
+          54,
+          64
+        ],
+        "text": "国際ラウンドテーブル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E032",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "035",
+        "span": [
+          20,
+          41
+        ],
+        "text": "最終処分に関する政府間国際ラウンドテーブル",
+        "entity_type": "EVE",
+        "entity_id": "E033",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "036",
+        "span": [
+          0,
+          10
+        ],
+        "text": "国際ラウンドテーブル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E034",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "036",
+        "span": [
+          64,
+          73
+        ],
+        "text": "国際ワークショップ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E035",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "036",
+        "span": [
+          74,
+          85
+        ],
+        "text": "幌延深地層研究センター",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "037",
+        "span": [
+          2,
+          9
+        ],
+        "text": "ワークショップ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E036",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "037",
+        "span": [
+          48,
+          59
+        ],
+        "text": "パネルディスカッション",
+        "entity_type": "NOMINAL",
+        "entity_id": "E037",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "037",
+        "span": [
+          61,
+          67
+        ],
+        "text": "グループ討議",
+        "entity_type": "NOMINAL",
+        "entity_id": "E038",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "038",
+        "span": [
+          12,
+          16
+        ],
+        "text": "JAEA",
+        "entity_type": "ORG",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "038",
+        "span": [
+          18,
+          26
+        ],
+        "text": "OECD/NEA",
+        "entity_type": "ORG",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "038",
+        "span": [
+          33,
+          44
+        ],
+        "text": "幌延深地層研究センター",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M027",
+          "M042"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M004",
+          "M011"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11570888",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%AE%9A%E6%94%BE%E5%B0%84%E6%80%A7%E5%BB%83%E6%A3%84%E7%89%A9%E3%81%AE%E6%9C%80%E7%B5%82%E5%87%A6%E5%88%86%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M023",
+          "M043",
+          "M047"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11409536",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M021"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/seisaku/saisyu_syobun_kaigi/index.html"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/index.html"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/index.html"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/hoshasei_haikibutsu/index.html"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/shingikai/enecho/denryoku_gas/genshiryoku/chiso_shobun/index.html"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M013",
+          "M020",
+          "M022",
+          "M024",
+          "M025",
+          "M026"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M014",
+          "M018",
+          "M029",
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M015",
+          "M030"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1355602",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AF%BF%E9%83%BD%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.791027777",
+          "140.228805555"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M016",
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q644751",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%81%B5%E5%86%85%E6%9D%91",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.143472222",
+          "140.430694444"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1197264",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M019",
+          "M032"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q97311638",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.numo.or.jp/chisoushobun/survey_status/kamoenai/taiwa.html"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q955532",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%BB%B6%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "45.017972222",
+          "141.849694444"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M036",
+          "M057",
+          "M063"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11481769",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%8C%E5%BB%B6%E6%B7%B1%E5%9C%B0%E5%B1%A4%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+        },
+        "coordinate": [
+          "45.043333",
+          "141.861111"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q71699",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%A3%AE%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1834655",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.824611111",
+          "140.740555555"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1362335",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AD%E3%83%B6%E6%89%80%E6%9D%91",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.967305555",
+          "141.374527777"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3152215",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A0%B8%E7%87%83%E6%96%99%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M040",
+          "M041",
+          "M061"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1300624",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.442694",
+          "140.595861"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M045"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3488448",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E5%AD%A6%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11409536",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E7%92%B0%E5%A2%83%E6%95%B4%E5%82%99%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M048"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M050",
+          "M051",
+          "M062"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q369760",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E5%8D%94%E5%8A%9B%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B%E5%8E%9F%E5%AD%90%E5%8A%9B%E6%A9%9F%E9%96%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        }
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q33038474",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC14%E5%9B%9E20%E3%81%8B%E5%9B%BD%E3%83%BB%E5%9C%B0%E5%9F%9F%E9%A6%96%E8%84%B3%E4%BC%9A%E5%90%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E036": {
+        "member_mention_ids": [
+          "M058"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E037": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E038": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  },
+  "033-2": {
+    "metainfo": {
+      "src_date": "20230600",
+      "src_url": "https://www.enecho.meti.go.jp/about/whitepaper/2023/pdf/3_4.pdf",
+      "src_parent_url": "https://www.enecho.meti.go.jp/about/whitepaper/2023/pdf/"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "2.核燃料サイクル政策の推進",
+        "mention_ids": []
+      },
+      "002": {
+        "text": "エネルギー基本計画でも示されているとおり、日本は、資源の有効利用、高レベル放射性廃棄物の減容化・有害度低減等の観点から、使用済燃料を再処理し、回収されるプルトニウム等を有効利用する核燃料サイクルの推進を基本的方針としています。",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "text": "核燃料サイクルに関する諸課題は、短期的に解決するものではなく、中長期的な対応を必要とします。",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "また、技術の動向、エネルギー需給、国際情勢等の様々な不確実性に対応する必要があることから、対応の柔軟性を持たせることが重要です。",
+        "mention_ids": []
+      },
+      "005": {
+        "type": "heading",
+        "text": "〈具体的な主要施策〉",
+        "mention_ids": []
+      },
+      "006": {
+        "type": "heading",
+        "text": "(1)放射性廃棄物の減容化に向けたガラス固化技術の基盤研究事業",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "　　【2022年度当初:10.0億円】",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "2024年度までに、MOX燃料を含む様々な種類の使用済燃料の再処理により発生する放射性廃液を、安定的かつ効率的にガラス固化する技術を確立することを目指し、ガラス原料の基礎特性の評価やガラス溶融炉のモニタリングの開発等を実施しました。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "さらに、使用済MOX燃料を安全・安定的に処理するため、施設の安全性向上や処理性能向上を図るための基盤技術の開発にも取り組んでいます。",
+        "mention_ids": []
+      },
+      "010": {
+        "type": "heading",
+        "text": "(2)高速炉に係る共通基盤のための技術開発",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "　　【2022年度当初:43.5億円】",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "高速炉等の共通課題に向けた基盤整備と安全性向上に関わる要素技術開発の拡充を中心に行うとともに、日米・日仏の高速炉協力も活用して、基盤整備の効率化等を図りました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "013": {
+        "type": "heading",
+        "text": "(3)高速炉サイクル技術の研究開発",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "　　【2022年度当初:252.1億円】",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "高速炉サイクル技術の研究開発として、放射性廃棄物の減容化・有害度低減に資するため、マイナーアクチノイドの分離技術やマイナーアクチノイド含有燃料製造技術等の基盤的な研究開発に取り組みました。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "また、これまでの高速増殖原型炉もんじゅ(以下「もんじゅ」という。)の研究開発で得られた知見を生かし、GIF等の多国間協力や米国やフランス等との二国間協力による国際協力を進め、シビアアクシデント発生時の高速炉の安全性向上に向けた研究開発等に取り組みました(「もんじゅ」「常陽」については、次項に記載)。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "017": {
+        "type": "heading",
+        "text": "(4)高速炉開発をめぐる状況",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "日本は、核燃料サイクルの有効性をより高める高速炉について、その研究開発に取り組むこととしています。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "019": {
+        "text": "2016年12月の原子力関係閣僚会議において決定された「高速炉開発の方針」に基づいて、高速炉開発会議の下で「戦略ワーキンググループ」が開催され、「戦略ロードマップ」の検討が行われました。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "020": {
+        "text": "その上で、2018年12月の高速炉開発会議を経た後、同年12月の原子力関係閣僚会議において、「戦略ロードマップ」が決定されました。",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "021": {
+        "text": "本ロードマップにおいては、資源の有効利用に加え、高レベル放射性廃棄物の減容化・有害度低減といった、高速炉開発が持つ意義を改めて示した上で、高速炉開発の実施に当たっては、柔軟性を持って研究開発を行っていくことが必要であること、多様な高速炉技術を追求する方針であること等、新たな高速炉開発の考え方を提示しました。",
+        "mention_ids": []
+      },
+      "022": {
+        "text": "2019年からは、「戦略ロードマップ」に基づいて、国際協力を活用し、多様な高速炉概念に幅広く適用できる共通基盤技術の整備、自然循環による除熱等の安全性向上技術の開発等が進められています。",
+        "mention_ids": []
+      },
+      "023": {
+        "text": "また、原子力オプションの確保を視野に、民間活力を活用した多様な高速炉の技術開発が進められています。",
+        "mention_ids": []
+      },
+      "024": {
+        "text": "2022年12月の原子力関係閣僚会議では、「戦略ロードマップ」が改訂され、今後実証炉の概念設計を行っていくに当たって「ナトリウム冷却高速炉」を最有望と評価した上で、開発目標をより具体化しつつ、2024年以降の開発のあり方について具体的な開発マイルストーンを設定し、関係者の役割をより明確にしました。",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "025": {
+        "text": "「もんじゅ」については、廃止措置計画に基づき、2018年度より概ね30年間の廃止措置が進められています。",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "026": {
+        "text": "廃止措置計画の第一段階においては、2022年10月までに、燃料体を炉心から燃料池に取り出す作業を終了し、2023年2月に廃止措置計画変更認可申請について認可を受け、2023年度からの第二段階においては、水・蒸気系等発電設備の解体作業等に着手することとしました。",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "引き続き「もんじゅ」の廃止措置を、地元の声にしっかりと向き合いながら、安全、着実かつ計画的に進めていくこととしています。",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "028": {
+        "text": "また、高速実験炉「常陽」については、運転再開に向けた準備等を進め、革新的な原子力技術開発に必要な研究開発基盤の維持・発展に取り組んでいます。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "029": {
+        "type": "heading",
+        "text": "(5)日米・日仏高速炉協力",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "030": {
+        "text": "日米間の高速炉協力については、米国が建設を検討するVTR(多目的試験炉)計画への研究協力に関する覚書に、2019年6月に署名(日本:経済産業省、文部科学省、米国:エネルギー省)し、安全に関する研究開発等を開始しました。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032"
+        ]
+      },
+      "031": {
+        "text": "また、米国エネルギー省の先進的原子力設計の実証プログラム(ARDP)の中で、ナトリウム冷却高速炉「Natrium」を開発している米国テラパワー社と、ナトリウム冷却高速炉技術に関する覚書が、2022年1月に署名(日本:JAEA、三菱重工業、三菱FBRシステムズ、米国:テラパワー社)され、協議が実施されています。",
+        "mention_ids": [
+          "M033",
+          "M034",
+          "M035",
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "032": {
+        "text": "日仏間の高速炉協力については、2019年6月に、2020年から2024年までの研究開発協力の枠組みについて定めた新たな取決めを締結(日本:経済産業省、文部科学省、フランス:原子力・代替エネルギー庁)し、2020年1月から、本取決めの下で、シミュレーションや実験等に基づく研究開発協力が進められています。",
+        "mention_ids": [
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047",
+          "M048",
+          "M049"
+        ]
+      },
+      "033": {
+        "type": "heading",
+        "text": "(6)使用済燃料対策",
+        "mention_ids": []
+      },
+      "034": {
+        "text": "原子力発電所の再稼働や廃炉が進展する状況において、使用済燃料対策は原子力政策の重要課題です。",
+        "mention_ids": []
+      },
+      "035": {
+        "text": "このため、2015年10月の最終処分関係閣僚会議において、「使用済燃料対策に関するアクションプラン」を策定しました。",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "036": {
+        "text": "本プランに基づき、電力事業者は「使用済燃料対策推進計画」を策定し、2020年代半ばに計4,000トン程度、2030年頃に計6,000トン程度の使用済燃料の貯蔵容量を確保することを目指しています(2015年11月計画策定、2021年5月改定)。",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "2021年5月には、第6回使用済燃料対策推進協議会を開催し、梶山経済産業大臣から事業者に対して使用済燃料対策等について要請を行いました。",
+        "mention_ids": [
+          "M051",
+          "M052",
+          "M053"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          21,
+          23
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "012",
+        "span": [
+          47,
+          48
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "012",
+        "span": [
+          48,
+          49
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "012",
+        "span": [
+          50,
+          51
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "012",
+        "span": [
+          51,
+          52
+        ],
+        "text": "仏",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "016",
+        "span": [
+          8,
+          19
+        ],
+        "text": "高速増殖原型炉もんじゅ",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "016",
+        "span": [
+          23,
+          27
+        ],
+        "text": "もんじゅ",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "016",
+        "span": [
+          50,
+          53
+        ],
+        "text": "GIF",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "016",
+        "span": [
+          61,
+          63
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "016",
+        "span": [
+          64,
+          68
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "016",
+        "span": [
+          128,
+          132
+        ],
+        "text": "もんじゅ",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "016",
+        "span": [
+          134,
+          136
+        ],
+        "text": "常陽",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "018",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "019",
+        "span": [
+          9,
+          18
+        ],
+        "text": "原子力関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "019",
+        "span": [
+          54,
+          65
+        ],
+        "text": "戦略ワーキンググループ",
+        "entity_type": "EVE",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "020",
+        "span": [
+          32,
+          41
+        ],
+        "text": "原子力関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "024",
+        "span": [
+          9,
+          18
+        ],
+        "text": "原子力関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "025",
+        "span": [
+          1,
+          5
+        ],
+        "text": "もんじゅ",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "027",
+        "span": [
+          5,
+          9
+        ],
+        "text": "もんじゅ",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "028",
+        "span": [
+          9,
+          11
+        ],
+        "text": "常陽",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "029",
+        "span": [
+          3,
+          4
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "029",
+        "span": [
+          4,
+          5
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "029",
+        "span": [
+          6,
+          7
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "029",
+        "span": [
+          7,
+          8
+        ],
+        "text": "仏",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          1
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "030",
+        "span": [
+          1,
+          2
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "030",
+        "span": [
+          15,
+          17
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "030",
+        "span": [
+          63,
+          65
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "030",
+        "span": [
+          66,
+          71
+        ],
+        "text": "経済産業省",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "030",
+        "span": [
+          72,
+          77
+        ],
+        "text": "文部科学省",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "030",
+        "span": [
+          78,
+          80
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "030",
+        "span": [
+          81,
+          87
+        ],
+        "text": "エネルギー省",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "031",
+        "span": [
+          3,
+          5
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "031",
+        "span": [
+          5,
+          11
+        ],
+        "text": "エネルギー省",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "031",
+        "span": [
+          64,
+          66
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "031",
+        "span": [
+          66,
+          72
+        ],
+        "text": "テラパワー社",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "031",
+        "span": [
+          105,
+          107
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "031",
+        "span": [
+          108,
+          112
+        ],
+        "text": "JAEA",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "031",
+        "span": [
+          113,
+          118
+        ],
+        "text": "三菱重工業",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "031",
+        "span": [
+          119,
+          129
+        ],
+        "text": "三菱FBRシステムズ",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "031",
+        "span": [
+          130,
+          132
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "031",
+        "span": [
+          133,
+          139
+        ],
+        "text": "テラパワー社",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "032",
+        "span": [
+          0,
+          1
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "032",
+        "span": [
+          1,
+          2
+        ],
+        "text": "仏",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "032",
+        "span": [
+          66,
+          68
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "032",
+        "span": [
+          69,
+          74
+        ],
+        "text": "経済産業省",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "032",
+        "span": [
+          75,
+          80
+        ],
+        "text": "文部科学省",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "032",
+        "span": [
+          81,
+          85
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "032",
+        "span": [
+          86,
+          98
+        ],
+        "text": "原子力・代替エネルギー庁",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "035",
+        "span": [
+          14,
+          24
+        ],
+        "text": "最終処分関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "037",
+        "span": [
+          10,
+          25
+        ],
+        "text": "第6回使用済燃料対策推進協議会",
+        "entity_type": "EVE",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "037",
+        "span": [
+          30,
+          32
+        ],
+        "text": "梶山",
+        "entity_type": "PER",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "037",
+        "span": [
+          32,
+          36
+        ],
+        "text": "経済産業",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M004",
+          "M013",
+          "M021",
+          "M023",
+          "M025",
+          "M028",
+          "M043",
+          "M045"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M003",
+          "M009",
+          "M022",
+          "M026",
+          "M027",
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48525",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M005",
+          "M010",
+          "M024",
+          "M044",
+          "M048"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1450662",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%94%BF%E5%BA%9C_(%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E7%AC%AC%E4%BA%94%E5%85%B1%E5%92%8C%E6%94%BF)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006",
+          "M007",
+          "M011",
+          "M018",
+          "M019"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1331046",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%82%E3%82%93%E3%81%98%E3%82%85",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.74027778",
+          "135.98805556"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1123284"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M012",
+          "M020"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3931176",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E9%99%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.268039",
+          "140.554093"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M014",
+          "M016",
+          "M017"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/seisaku/genshiryoku_kakuryo_kaigi/index.html"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/shingikai/energy_environment/kosokuro_kaihatsu/kosokuro_kaihatsu_wg/index.html"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M029",
+          "M046",
+          "M053"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1197264",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M030",
+          "M047"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1054379",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%87%E9%83%A8%E7%A7%91%E5%AD%A6%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M032",
+          "M034"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q217810",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "38.8863",
+          "-77.02661"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M035",
+          "M041"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/148838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "39.828175",
+          "-98.5795"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M036",
+          "M042"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4050859",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%A9%E3%83%91%E3%83%AF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1300624",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.442694",
+          "140.595861"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q648280",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q648280",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1023249",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/seisaku/saisyu_syobun_kaigi/index.html"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/shingikai/energy_environment/shiyozumi_nenryo/006.html"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5770884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E5%B1%B1%E5%BC%98%E5%BF%97"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1355 @@
+{
+  "009": {
+    "metainfo": {
+      "src_date": "20220303",
+      "src_url": "https://www.mlit.go.jp/common/001237082.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/kankocho/shisaku/kankochi/ikiiki.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "第六章　災害からの観光復興",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "title",
+        "text": "在住の外国人留学生を活用したインバウンド向け商品造成・海外PRの支援体制の構築",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:legend",
+        "text": "山形県酒田市・由良海岸モニターツアー(韓国・インドネシア・中国・ベトナム・ロシア)",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "004": {
+        "type": "heading",
+        "text": "東北の観光復興",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "ポイント",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "地域の在住者であるとともに外国人の目線を持った留学生を多面的に活用",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "外国人目線での動画・SNSを用いた情報発信の仕組み作り及び旅行商品の開発",
+        "mention_ids": []
+      },
+      "008": {
+        "type": "heading",
+        "text": "取組の概要",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "東北においては、東日本大震災以降、外国を中心に根強い風評被害の影響が残るなど、全国的なインバウンド急増の効果を享受できない状況にある。",
+        "mention_ids": [
+          "M008",
+          "M009"
+        ]
+      },
+      "010": {
+        "text": "根強い風評被害を払拭するには、情報発信だけではなく、個々の外国人に東北を体験してもらうことで、東北の情報を拡散させ、東北　6県への外国人の交流人口を拡大させる必要がある。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "011": {
+        "text": "そこで、東北在住の留学生(約170　名、28　か国程度)による「東北アンバサダークラブ」を組織し、仙台放送の監修のもと観光　PR　動画作成や　SNS　記事投稿による情報発信の仕組みを構築した。",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "012": {
+        "text": "また、国内旅行会社のインバウンド向けの商品の企画アドバイス及び　PRに活用事例を創出することで、外国人消費者目線を組み込んだ商品造成のプラットフォームを整備した。",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "013": {
+        "type": "heading",
+        "text": "課題とマネジメント体制",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "東北　6　県の外国人観光客数が全国の1%程度と極端に低い数字に止まっている現状について、外国人観光客に対する東北の認知度やブランド力の低さを課題と捉え、解決に向けて外国人目線を取り入れた観光資源の評価及びプロモーションが必要であると考えた。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "015": {
+        "text": "仙台放送社内に事務局を設置。東北在住の留学生による「東北アンバサダークラブ」を組織し、国内大手旅行会社、地元旅行会社、地方自治体等と連携することで旅行商品の開発、観光プロモーションに取り組み、風評被害の払拭及び認知度の向上を図った。",
+        "mention_ids": [
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "成功要因",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "外国人目線を持ち、かつ　SNS　などを駆使する発信力が高く感性に優れた、在住外国人の留学生という人材をプロモーションの媒体として活用できたことが、取組成功の大きな要因に挙げられる。",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "留学生は居住している東北地方に貢献したいという強い動機も兼ね備えており、積極的にプロジェクトに参加してくれた姿勢も成功の背景にあった。",
+        "mention_ids": [
+          "M028"
+        ]
+      },
+      "019": {
+        "text": "また、実際に現地に居住している発信者であるために、継続的な発信が可能になったことも大きなプラスと言える。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "020": {
+        "type": "heading",
+        "text": "取組の成果",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "留学生によるモニターツアーを東北　6　県で実施。",
+        "mention_ids": [
+          "M030",
+          "M031",
+          "M032"
+        ]
+      },
+      "022": {
+        "text": "留学生が東北　6　県の観光スポットを楽しむ様子を動画にまとめ、口コミとともに　SNS　やYouTube　により発信することで、母国における東北観光の認知度向上と風評被害の払拭、東北の復興の加速化に貢献した。",
+        "mention_ids": [
+          "M033",
+          "M034",
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "text": "活用した支援策や資金調達方法",
+        "mention_ids": []
+      },
+      "024": {
+        "text": "復興庁　平成　28　年度「新しい東北」交流拡大モデル事業",
+        "mention_ids": [
+          "M038",
+          "M039",
+          "M040"
+        ]
+      },
+      "025": {
+        "type": "heading",
+        "text": "今後の展望",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "更なる東北のファンを獲得するため、引き続き留学生を活用し、東北の「暮らし」そのものに興味や関心を抱かせるような動画制作等のプロモーションに取り組む。",
+        "mention_ids": [
+          "M041",
+          "M042"
+        ]
+      },
+      "027": {
+        "type": "supplement:legend",
+        "text": "宮城県蔵王町(蔵王大釜)モニターツアー(ガーナ・インドネシア・ロシア・台湾・中国)",
+        "mention_ids": [
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "028": {
+        "type": "supplement:legend",
+        "text": "秋田県羽後町(農家体験)モニターツアー(ベトナム・インド・韓国)",
+        "mention_ids": [
+          "M049",
+          "M050",
+          "M051",
+          "M052"
+        ]
+      },
+      "029": {
+        "type": "supplement:legend",
+        "text": "青森県黒石市モニターツアー(ベトナム・インドネシア・台湾・ドイツ)",
+        "mention_ids": [
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          18
+        ],
+        "text": "山形県酒田市・由良海岸モニターツアー",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          19,
+          21
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          22,
+          28
+        ],
+        "text": "インドネシア",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          29,
+          31
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          32,
+          36
+        ],
+        "text": "ベトナム",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          37,
+          40
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          2
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          14
+        ],
+        "text": "東日本大震災",
+        "entity_type": "EVE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "010",
+        "span": [
+          33,
+          35
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "010",
+        "span": [
+          47,
+          49
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "010",
+        "span": [
+          58,
+          60
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "010",
+        "span": [
+          61,
+          63
+        ],
+        "text": "6県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "011",
+        "span": [
+          4,
+          6
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "011",
+        "span": [
+          20,
+          25
+        ],
+        "text": "28　か国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "011",
+        "span": [
+          32,
+          43
+        ],
+        "text": "東北アンバサダークラブ",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "011",
+        "span": [
+          49,
+          53
+        ],
+        "text": "仙台放送",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          4
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          2
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "014",
+        "span": [
+          3,
+          6
+        ],
+        "text": "6　県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "014",
+        "span": [
+          15,
+          17
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "014",
+        "span": [
+          54,
+          56
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          4
+        ],
+        "text": "仙台放送",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          10
+        ],
+        "text": "事務局",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "015",
+        "span": [
+          14,
+          16
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "015",
+        "span": [
+          26,
+          37
+        ],
+        "text": "東北アンバサダークラブ",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "015",
+        "span": [
+          43,
+          44
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "018",
+        "span": [
+          10,
+          14
+        ],
+        "text": "東北地方",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "019",
+        "span": [
+          6,
+          8
+        ],
+        "text": "現地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "021",
+        "span": [
+          6,
+          13
+        ],
+        "text": "モニターツアー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "021",
+        "span": [
+          14,
+          16
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "021",
+        "span": [
+          17,
+          20
+        ],
+        "text": "6　県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "022",
+        "span": [
+          4,
+          6
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "022",
+        "span": [
+          7,
+          10
+        ],
+        "text": "6　県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "022",
+        "span": [
+          44,
+          51
+        ],
+        "text": "YouTube",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "022",
+        "span": [
+          69,
+          71
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "022",
+        "span": [
+          88,
+          90
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          3
+        ],
+        "text": "復興庁",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "024",
+        "span": [
+          4,
+          6
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "024",
+        "span": [
+          16,
+          18
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "026",
+        "span": [
+          3,
+          5
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "026",
+        "span": [
+          29,
+          31
+        ],
+        "text": "東北",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "027",
+        "span": [
+          0,
+          19
+        ],
+        "text": "宮城県蔵王町(蔵王大釜)モニターツアー",
+        "entity_type": "EVE",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "027",
+        "span": [
+          20,
+          23
+        ],
+        "text": "ガーナ",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M045": {
+        "sentence_id": "027",
+        "span": [
+          24,
+          30
+        ],
+        "text": "インドネシア",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M046": {
+        "sentence_id": "027",
+        "span": [
+          31,
+          34
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "027",
+        "span": [
+          35,
+          37
+        ],
+        "text": "台湾",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "027",
+        "span": [
+          38,
+          40
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "028",
+        "span": [
+          0,
+          19
+        ],
+        "text": "秋田県羽後町(農家体験)モニターツアー",
+        "entity_type": "EVE",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "028",
+        "span": [
+          20,
+          24
+        ],
+        "text": "ベトナム",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M051": {
+        "sentence_id": "028",
+        "span": [
+          25,
+          28
+        ],
+        "text": "インド",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "028",
+        "span": [
+          29,
+          31
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M053": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          13
+        ],
+        "text": "青森県黒石市モニターツアー",
+        "entity_type": "EVE",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "029",
+        "span": [
+          14,
+          18
+        ],
+        "text": "ベトナム",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M055": {
+        "sentence_id": "029",
+        "span": [
+          19,
+          25
+        ],
+        "text": "インドネシア",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "029",
+        "span": [
+          26,
+          28
+        ],
+        "text": "台湾",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M057": {
+        "sentence_id": "029",
+        "span": [
+          29,
+          32
+        ],
+        "text": "ドイツ",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M052"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/307756",
+          "wikidata_country": "http://www.wikidata.org/entity/Q884"
+        },
+        "coordinate": [
+          "36.0",
+          "128.0"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M045",
+          "M055"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q252",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/304751",
+          "wikidata_country": "http://www.wikidata.org/entity/Q252"
+        },
+        "coordinate": [
+          "-2.0",
+          "118.0"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M048"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/270056",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "35.844722222",
+          "103.451944444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M050",
+          "M054"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q881",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0",
+          "openstreetmap": "https://www.openstreetmap.org/relation/49915",
+          "wikidata_country": "http://www.wikidata.org/entity/Q881"
+        },
+        "coordinate": [
+          "16.0",
+          "108.0"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M046"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q159",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/60189",
+          "wikidata_country": "http://www.wikidata.org/entity/Q159"
+        },
+        "coordinate": [
+          "66.416666666",
+          "94.25"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M008",
+          "M010",
+          "M011",
+          "M012",
+          "M014",
+          "M019",
+          "M022",
+          "M025",
+          "M028",
+          "M029",
+          "M031",
+          "M033",
+          "M036",
+          "M037",
+          "M040",
+          "M041",
+          "M042"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q129465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.9",
+          "140.67"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1136168",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013",
+          "M015",
+          "M020",
+          "M030",
+          "M032",
+          "M034"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M016",
+          "M026"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M017",
+          "M023"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q843347",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E6%94%BE%E9%80%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M018",
+          "M021",
+          "M027"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q866",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/YouTube",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1056221",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BE%A9%E8%88%88%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M043"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q117",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%8A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/192781",
+          "wikidata_country": "http://www.wikidata.org/entity/Q117"
+        },
+        "coordinate": [
+          "8.03",
+          "-1.08"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M047",
+          "M056"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/449220",
+          "wikidata_country": "http://www.wikidata.org/entity/Q865"
+        },
+        "coordinate": [
+          "24.0",
+          "121.0"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89",
+          "openstreetmap": "https://www.openstreetmap.org/relation/304716",
+          "wikidata_country": "http://www.wikidata.org/entity/Q668"
+        },
+        "coordinate": [
+          "22.8",
+          "83.0"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q183",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A4%E3%83%84",
+          "openstreetmap": "https://www.openstreetmap.org/relation/51477",
+          "wikidata_country": "http://www.wikidata.org/entity/Q183"
+        },
+        "coordinate": [
+          "51.0",
+          "10.0"
+        ]
+      }
+    }
+  }
+}

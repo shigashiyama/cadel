@@ -1,0 +1,2302 @@
+{
+  "024": {
+    "metainfo": {
+      "src_date": "00000000",
+      "src_url": "https://www.pa.cgr.mlit.go.jp/hiroshima/kyosoryoku/hiroshimako.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "競争力のある港づくり　広島港　Hiroshima　Port",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "中国地方の政治、経済、文化の交流拠点。　世界に開かれた国際港湾都市の玄関口。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "広島港は、一級河川太田川河口デルタの先端に位置し、海上に点在する島々や半島により年間を通じて波静かな天然の良港として知られており、瀬戸内海における海上交通の要衝として発展してきました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "004": {
+        "text": "歴史的には、16世紀末、毛利輝元が城を築き、城下町をつくりあげたのが始まりで、1884年(明治17年)より、時の県令千田貞暁が宇品築港事業を敢行し難工事の末1889年(明治22年)に竣工し近代港湾としての機能を整えました。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "005": {
+        "text": "その後、日清戦争から第二次世界大戦が終わるまでの間、旧陸軍の補給基地として栄えました。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "006": {
+        "text": "コンテナ化の進展等に対応した施設の整備が進み、並行して諸外国との航路網が形成されていることにより、中国地方のグローバルゲートとしての地位が高まっています。",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "007": {
+        "text": "このような状況の中、1992年に全国で21番目の特定重要港湾の指定を受け、2011年3月の港湾法改正により国際拠点港湾として認定されました。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "008": {
+        "text": "中国地方の政治、経済、文化の交流拠点として、また、世界に開かれた国際港湾都市の玄関口として大きく期待されています。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "009": {
+        "type": "heading",
+        "text": "直轄事業　広島港出島地区国際コンテナターミナル整備事業",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "010": {
+        "text": "現在、広島港出島地区には台湾、香港と南アジアに直行便が就航しているものの、東南アジアには直行便がなく、東南アジア向けの輸出貨物は、釜山などを経由して輸出されています。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031"
+        ]
+      },
+      "011": {
+        "text": "この事業により、新たなバースが整備されることで荷主、物流業者が切望している東南アジア航路を誘致することができるようになり、物流の定時性確保やコスト削減が期待されます。",
+        "mention_ids": [
+          "M032"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "直轄事業　広島港ふ頭再編改良事業・老朽化対策事業",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "013": {
+        "text": "広島港において、PCC船[*1]対応の施設や機能が不足しており、沖待ちの発生や船舶の大型化に対応できていないため、非効率な輸送を強いられています。",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "014": {
+        "text": "また、RORO船[*2]対応のターミナルが無いため、コンテナ貨物が逼迫する海田地区のコンテナターミナルで取り扱っています。",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "015": {
+        "text": "そこで、岸壁の老朽化とふ頭用地の不足により低利用になっている既存の宇品外貿岸壁を有効活用し、船舶大型化にも対応した水深12mの岸壁として改良を行うことで、PCC船やRORO船に対応できるよう港湾機能の強化を行っています。",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "016": {
+        "type": "supplement:footnote",
+        "text": "*1　PCC船:自動車専用船",
+        "mention_ids": []
+      },
+      "017": {
+        "type": "supplement:footnote",
+        "text": "*2　RORO船:貨物を積んだトラックやシャーシ(荷台)ごと輸送する船",
+        "mention_ids": []
+      },
+      "018": {
+        "type": "heading",
+        "text": "直轄事業　広島港廿日市地区　航路・泊地整備事業",
+        "mention_ids": [
+          "M038",
+          "M039"
+        ]
+      },
+      "019": {
+        "text": "広島港廿日市地区において、エネルギー港湾制度を活用した官民による産業投資(航路・泊地の整備)により、標準LNG船の活用によるLNGの安定的かつ安価な供給を実現することで、LNGを利用する各種製造業の国際競争力の強化を図り、以て我が国全体の経済社会の発展、雇用の確保に寄与します。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "020": {
+        "text": "(※LNG:液化天然ガス)",
+        "mention_ids": []
+      },
+      "021": {
+        "type": "heading",
+        "text": "海田地区",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "022": {
+        "text": "海田コンテナターミナルは、5千DWT級(500TEU積級)のコンテナ船に対応した広島港で最初のコンテナターミナルとして1988年に岸壁(-7.5m)2バースで竣工しました。",
+        "mention_ids": [
+          "M044",
+          "M045"
+        ]
+      },
+      "023": {
+        "text": "韓国、台湾や中国などへのダイレクト輸送や神戸港へのフィーダーサービスが行われています。",
+        "mention_ids": [
+          "M046",
+          "M047",
+          "M048",
+          "M049"
+        ]
+      },
+      "024": {
+        "text": "宇品地区と海田地区を結ぶ海田大橋は、整備中である広島南道路と直結し、広島港東部の港湾貨物の円滑な流通と都市交通の緩和を図るために建設された長大橋で、1990年12月に完成しました。",
+        "mention_ids": [
+          "M050",
+          "M051",
+          "M052",
+          "M053",
+          "M054"
+        ]
+      },
+      "025": {
+        "text": "安芸の宮島の大鳥居をモチーフに周囲の景観に溶け込み、落ち着いた雰囲気で夜の広島湾に彩りを添えるようライトアップされています。",
+        "mention_ids": [
+          "M055",
+          "M056",
+          "M057"
+        ]
+      },
+      "026": {
+        "type": "heading",
+        "text": "宇品地区",
+        "mention_ids": [
+          "M058"
+        ]
+      },
+      "027": {
+        "text": "広島港宇品旅客ターミナルは、瀬戸内海における海上旅客交通の拠点として、江田島や能美島等の島しょ部をはじめ、四国地方への定期航路のほか、瀬戸内海のクルーズ船の発着場として利用されています。",
+        "mention_ids": [
+          "M059",
+          "M060",
+          "M061",
+          "M062",
+          "M063",
+          "M064"
+        ]
+      },
+      "028": {
+        "text": "隣接する旧ターミナルには、フェリー待合所のほか、広島県の土産物や海の幸、山の幸が揃った観光物産館が入っています。",
+        "mention_ids": [
+          "M065",
+          "M066",
+          "M067",
+          "M068"
+        ]
+      },
+      "029": {
+        "text": "ターミナルの北側に位置する約10haの「広島みなと公園」には、ピクニック広場やランニングコース、グランド、休憩所等数多くの施設があります。",
+        "mention_ids": [
+          "M069",
+          "M070"
+        ]
+      },
+      "030": {
+        "text": "憩いの場であるとともに、震災時の避難場所やヘリポート等の防災拠点でもあります。",
+        "mention_ids": []
+      },
+      "031": {
+        "type": "heading",
+        "text": "出島地区",
+        "mention_ids": [
+          "M071"
+        ]
+      },
+      "032": {
+        "text": "出島地区にある広島港国際コンテナターミナルは、5万DWT級(4,000TEU積)の大型コンテナ船に対応した水深14mの岸壁やガントリークレーン等を有する中四国最大のコンテナターミナルとして平成15年3月から供用が開始されました。",
+        "mention_ids": [
+          "M072",
+          "M073",
+          "M074",
+          "M075"
+        ]
+      },
+      "033": {
+        "text": "中国や韓国、東南アジアをはじめとする各国との貿易拠点であり、中国地方の地域経済を支えています。",
+        "mention_ids": [
+          "M076",
+          "M077",
+          "M078",
+          "M079"
+        ]
+      },
+      "034": {
+        "text": "また、この地区の東側では出島廃棄物処分場の整備が広島県によって平成15年8月から進められており、平成26年3月末に整備工事が完了し、平成26年6月から産業廃棄物等を受け入れています。",
+        "mention_ids": [
+          "M080",
+          "M081",
+          "M082",
+          "M083",
+          "M084",
+          "M085"
+        ]
+      },
+      "035": {
+        "type": "heading",
+        "text": "五日市地区",
+        "mention_ids": [
+          "M086"
+        ]
+      },
+      "036": {
+        "text": "八幡川の河口西側沖合に、広島都市圏の物流拠点として3万トン級の貨物船の入港が可能な水深12mをはじめとする外貿岸壁を整備しています。",
+        "mention_ids": [
+          "M087",
+          "M088"
+        ]
+      },
+      "037": {
+        "text": "また、本地区背後では教育、住宅、公共施設などの用地や、市民の憩いの場となる公園・野鳥園なども整備されつつあり、潤いのある豊かな港湾空間が創出されます。",
+        "mention_ids": [
+          "M089"
+        ]
+      },
+      "038": {
+        "type": "heading",
+        "text": "廿日市地区",
+        "mention_ids": [
+          "M090"
+        ]
+      },
+      "039": {
+        "text": "広島港最西部に位置する廿日市地区は、広島港における輸入貨物の約5割を占めるLNG(都市ガスの主原料となる液化天然ガス)約80万トンを取り扱っており、近年、各種製造業のエネルギー源として注目されているLNGの一大輸入拠点となっています。",
+        "mention_ids": [
+          "M091",
+          "M092",
+          "M093"
+        ]
+      },
+      "040": {
+        "text": "また、国内でも珍しい水面貯木場としての機能も有しており、原木の取扱等に利用されています。",
+        "mention_ids": [
+          "M094"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          11,
+          14
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          4
+        ],
+        "text": "中国地方",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          3
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          9,
+          17
+        ],
+        "text": "太田川河口デルタ",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          65,
+          69
+        ],
+        "text": "瀬戸内海",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          12,
+          16
+        ],
+        "text": "毛利輝元",
+        "entity_type": "PER",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          17,
+          18
+        ],
+        "text": "城",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          22,
+          25
+        ],
+        "text": "城下町",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          45,
+          47
+        ],
+        "text": "明治",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          58,
+          62
+        ],
+        "text": "千田貞暁",
+        "entity_type": "PER",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          63,
+          69
+        ],
+        "text": "宇品築港事業",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          84,
+          86
+        ],
+        "text": "明治",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          4,
+          8
+        ],
+        "text": "日清戦争",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          10,
+          17
+        ],
+        "text": "第二次世界大戦",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          26,
+          29
+        ],
+        "text": "旧陸軍",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          49,
+          53
+        ],
+        "text": "中国地方",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "007",
+        "span": [
+          16,
+          18
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "007",
+        "span": [
+          45,
+          48
+        ],
+        "text": "港湾法",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          53,
+          59
+        ],
+        "text": "国際拠点港湾",
+        "entity_type": "PRO",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          4
+        ],
+        "text": "中国地方",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          5,
+          8
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          12
+        ],
+        "text": "出島地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          12,
+          23
+        ],
+        "text": "国際コンテナターミナル",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "010",
+        "span": [
+          3,
+          6
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "010",
+        "span": [
+          6,
+          10
+        ],
+        "text": "出島地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "010",
+        "span": [
+          12,
+          14
+        ],
+        "text": "台湾",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "010",
+        "span": [
+          15,
+          17
+        ],
+        "text": "香港",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "010",
+        "span": [
+          18,
+          22
+        ],
+        "text": "南アジア",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "010",
+        "span": [
+          37,
+          42
+        ],
+        "text": "東南アジア",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "010",
+        "span": [
+          51,
+          56
+        ],
+        "text": "東南アジア",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "010",
+        "span": [
+          65,
+          67
+        ],
+        "text": "釜山",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "011",
+        "span": [
+          37,
+          44
+        ],
+        "text": "東南アジア航路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "012",
+        "span": [
+          5,
+          8
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          3
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "014",
+        "span": [
+          37,
+          41
+        ],
+        "text": "海田地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "014",
+        "span": [
+          42,
+          51
+        ],
+        "text": "コンテナターミナル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "015",
+        "span": [
+          33,
+          39
+        ],
+        "text": "宇品外貿岸壁",
+        "entity_type": "FAC",
+        "entity_id": "E023",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "018",
+        "span": [
+          5,
+          8
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "018",
+        "span": [
+          8,
+          13
+        ],
+        "text": "廿日市地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          3
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "019",
+        "span": [
+          3,
+          8
+        ],
+        "text": "廿日市地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "019",
+        "span": [
+          113,
+          116
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "021",
+        "span": [
+          0,
+          4
+        ],
+        "text": "海田地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          11
+        ],
+        "text": "海田コンテナターミナル",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "022",
+        "span": [
+          40,
+          43
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "023",
+        "span": [
+          0,
+          2
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "023",
+        "span": [
+          3,
+          5
+        ],
+        "text": "台湾",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "023",
+        "span": [
+          6,
+          8
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "023",
+        "span": [
+          20,
+          23
+        ],
+        "text": "神戸港",
+        "entity_type": "FAC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          4
+        ],
+        "text": "宇品地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "024",
+        "span": [
+          5,
+          9
+        ],
+        "text": "海田地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "024",
+        "span": [
+          12,
+          16
+        ],
+        "text": "海田大橋",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "024",
+        "span": [
+          24,
+          29
+        ],
+        "text": "広島南道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "024",
+        "span": [
+          34,
+          37
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          5
+        ],
+        "text": "安芸の宮島",
+        "entity_type": "LOC",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "025",
+        "span": [
+          6,
+          9
+        ],
+        "text": "大鳥居",
+        "entity_type": "FAC",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "025",
+        "span": [
+          37,
+          40
+        ],
+        "text": "広島湾",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M058": {
+        "sentence_id": "026",
+        "span": [
+          0,
+          4
+        ],
+        "text": "宇品地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "027",
+        "span": [
+          0,
+          12
+        ],
+        "text": "広島港宇品旅客ターミナル",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "027",
+        "span": [
+          14,
+          18
+        ],
+        "text": "瀬戸内海",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M061": {
+        "sentence_id": "027",
+        "span": [
+          35,
+          38
+        ],
+        "text": "江田島",
+        "entity_type": "LOC",
+        "entity_id": "E032",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "027",
+        "span": [
+          39,
+          42
+        ],
+        "text": "能美島",
+        "entity_type": "LOC",
+        "entity_id": "E033",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M063": {
+        "sentence_id": "027",
+        "span": [
+          53,
+          57
+        ],
+        "text": "四国地方",
+        "entity_type": "LOC",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M064": {
+        "sentence_id": "027",
+        "span": [
+          67,
+          71
+        ],
+        "text": "瀬戸内海",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M065": {
+        "sentence_id": "028",
+        "span": [
+          4,
+          10
+        ],
+        "text": "旧ターミナル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M066": {
+        "sentence_id": "028",
+        "span": [
+          13,
+          20
+        ],
+        "text": "フェリー待合所",
+        "entity_type": "NOMINAL",
+        "entity_id": "E035",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "028",
+        "span": [
+          24,
+          27
+        ],
+        "text": "広島県",
+        "entity_type": "LOC",
+        "entity_id": "E036",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M068": {
+        "sentence_id": "028",
+        "span": [
+          43,
+          48
+        ],
+        "text": "観光物産館",
+        "entity_type": "FAC",
+        "entity_id": "E037",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M069": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ターミナル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M070": {
+        "sentence_id": "029",
+        "span": [
+          20,
+          27
+        ],
+        "text": "広島みなと公園",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "031",
+        "span": [
+          0,
+          4
+        ],
+        "text": "出島地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M072": {
+        "sentence_id": "032",
+        "span": [
+          0,
+          4
+        ],
+        "text": "出島地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "032",
+        "span": [
+          7,
+          21
+        ],
+        "text": "広島港国際コンテナターミナル",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "032",
+        "span": [
+          76,
+          79
+        ],
+        "text": "中四国",
+        "entity_type": "LOC",
+        "entity_id": "E038",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "032",
+        "span": [
+          94,
+          96
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E039",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M076": {
+        "sentence_id": "033",
+        "span": [
+          0,
+          2
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M077": {
+        "sentence_id": "033",
+        "span": [
+          3,
+          5
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M078": {
+        "sentence_id": "033",
+        "span": [
+          6,
+          11
+        ],
+        "text": "東南アジア",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M079": {
+        "sentence_id": "033",
+        "span": [
+          30,
+          34
+        ],
+        "text": "中国地方",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M080": {
+        "sentence_id": "034",
+        "span": [
+          5,
+          7
+        ],
+        "text": "地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M081": {
+        "sentence_id": "034",
+        "span": [
+          12,
+          20
+        ],
+        "text": "出島廃棄物処分場",
+        "entity_type": "FAC",
+        "entity_id": "E040",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M082": {
+        "sentence_id": "034",
+        "span": [
+          24,
+          27
+        ],
+        "text": "広島県",
+        "entity_type": "LOC",
+        "entity_id": "E036",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M083": {
+        "sentence_id": "034",
+        "span": [
+          31,
+          33
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E039",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M084": {
+        "sentence_id": "034",
+        "span": [
+          48,
+          50
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E039",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M085": {
+        "sentence_id": "034",
+        "span": [
+          66,
+          68
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E039",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M086": {
+        "sentence_id": "035",
+        "span": [
+          0,
+          5
+        ],
+        "text": "五日市地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M087": {
+        "sentence_id": "036",
+        "span": [
+          0,
+          3
+        ],
+        "text": "八幡川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E041",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M088": {
+        "sentence_id": "036",
+        "span": [
+          12,
+          17
+        ],
+        "text": "広島都市圏",
+        "entity_type": "LOC",
+        "entity_id": "E042",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M089": {
+        "sentence_id": "037",
+        "span": [
+          3,
+          6
+        ],
+        "text": "本地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M090": {
+        "sentence_id": "038",
+        "span": [
+          0,
+          5
+        ],
+        "text": "廿日市地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M091": {
+        "sentence_id": "039",
+        "span": [
+          0,
+          3
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M092": {
+        "sentence_id": "039",
+        "span": [
+          11,
+          16
+        ],
+        "text": "廿日市地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M093": {
+        "sentence_id": "039",
+        "span": [
+          18,
+          21
+        ],
+        "text": "広島港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M094": {
+        "sentence_id": "040",
+        "span": [
+          3,
+          4
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M021",
+          "M024",
+          "M033",
+          "M034",
+          "M038",
+          "M040",
+          "M045",
+          "M054",
+          "M091",
+          "M093"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11064584",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.352167",
+          "132.455119"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M016",
+          "M020",
+          "M079"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127864",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.05",
+          "134.066666666"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11484669",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B9%B3%E9%87%8E",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M060",
+          "M064"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q231312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11588962",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.166666666",
+          "133.333333333"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1142657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AF%9B%E5%88%A9%E8%BC%9D%E5%85%83"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q41977",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%9F%8E",
+          "openstreetmap": "https://www.openstreetmap.org/node/1423635794",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.402727777",
+          "132.459047222"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q34664",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4097196",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.38525",
+          "132.455305555"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009",
+          "M012"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3125096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q799813",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E7%94%B0%E8%B2%9E%E6%9A%81"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M011",
+          "M013"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://library.jsce.or.jp/Image_DB/human/furuichi/lib06.html"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q362",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q276535",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%97%A5%E6%9C%AC%E5%B8%9D%E5%9B%BD%E9%99%B8%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017",
+          "M042",
+          "M094"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11563087",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B8%AF%E6%B9%BE%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11422440",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%8B%A0%E7%82%B9%E6%B8%AF%E6%B9%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M022",
+          "M023",
+          "M025",
+          "M035",
+          "M036",
+          "M039",
+          "M041",
+          "M043",
+          "M044",
+          "M050",
+          "M051",
+          "M058",
+          "M059",
+          "M065",
+          "M069",
+          "M070",
+          "M071",
+          "M072",
+          "M073",
+          "M080",
+          "M086",
+          "M089",
+          "M090",
+          "M092"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11064584",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.352167",
+          "132.455119"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M026",
+          "M047"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/449220",
+          "wikidata_country": "http://www.wikidata.org/entity/Q865"
+        },
+        "coordinate": [
+          "24.0",
+          "121.0"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/913110",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "22.278333333",
+          "114.158611111"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q771405",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "coordinate": [
+          "26.9",
+          "72.2"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M029",
+          "M030",
+          "M078"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11708",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q819"
+        },
+        "coordinate": [
+          "12.0",
+          "105.1"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q16520",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%9C%E5%B1%B1%E5%BA%83%E5%9F%9F%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2396450",
+          "wikidata_country": "http://www.wikidata.org/entity/Q884"
+        },
+        "coordinate": [
+          "35.18",
+          "129.075"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.hiroshima-minato.jp/west_ujina.html"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M046",
+          "M077"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/307756",
+          "wikidata_country": "http://www.wikidata.org/entity/Q884"
+        },
+        "coordinate": [
+          "36.0",
+          "128.0"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M048",
+          "M076"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/270056",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "35.844722222",
+          "103.451944444"
+        ]
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1336906",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.6775",
+          "135.22694444"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11559074",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E7%94%B0%E5%A4%A7%E6%A9%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.353167",
+          "132.504861"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11484478",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%8D%97%E9%81%93%E8%B7%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q875301",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8E%B3%E5%B3%B6",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4830304",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.275555555",
+          "132.307777777"
+        ]
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q191763",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8E%B3%E5%B3%B6%E7%A5%9E%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.295833333",
+          "132.319722222"
+        ]
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q114575",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E6%B9%BE",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9431276",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.2",
+          "132.35"
+        ]
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M061"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q169589",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E7%94%B0%E5%B3%B6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.246375",
+          "132.477961111"
+        ]
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M062"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17215469",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%BE%8E%E5%B3%B6",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4830306",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.216666666",
+          "132.45"
+        ]
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q60213044",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1847663",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M066"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E036": {
+        "member_mention_ids": [
+          "M067",
+          "M082"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q617375",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3218753",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.396388888",
+          "132.459722222"
+        ]
+      },
+      "E037": {
+        "member_mention_ids": [
+          "M068"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.facebook.com/sankaikun/?locale=ja_JP"
+        }
+      },
+      "E038": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5358181",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E3%83%BB%E5%9B%9B%E5%9B%BD%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E039": {
+        "member_mention_ids": [
+          "M075",
+          "M083",
+          "M084",
+          "M085"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E040": {
+        "member_mention_ids": [
+          "M081"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.pref.hiroshima.lg.jp/site/eco/i-i2-dejima-dejima-top.html"
+        }
+      },
+      "E041": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11390967",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E5%B7%9D_(%E5%BA%83%E5%B3%B6%E5%B8%82%E4%BD%90%E4%BC%AF%E5%8C%BA)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E042": {
+        "member_mention_ids": [
+          "M088"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11485286",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E9%83%BD%E5%B8%82%E5%9C%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.4",
+          "132.466666666"
+        ]
+      }
+    }
+  }
+}

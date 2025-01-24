@@ -1,0 +1,2213 @@
+{
+  "064-1": {
+    "metainfo": {
+      "src_date": "20230831",
+      "src_url": "https://wwwtb.mlit.go.jp/hokkaido/kakusyu/kouhoushi/hokuto7/05_08_00001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "北海道運輸局広報誌『北斗七星』第252号(令和5年8月31日発行)",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "首都圏の教育関係者等が“北海道(胆振)ならでは”の新たな学びを体験",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "~令和5年度教育旅行モニターツアーを開催~",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "004": {
+        "type": "supplement:header",
+        "text": "室蘭運輸支局",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "005": {
+        "text": "北海道運輸局室蘭運輸支局では、教育旅行の誘致による旅客フェリーの利用促進と、海事・物流産業の重要性等を広く発信することを目的に、首都圏私学の教育関係者等を対象にした「教育旅行モニターツアー」を令和5年8月2日~5日の日程で実施しました。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "006": {
+        "text": "教育旅行誘致のコンセプトは、“北海道(胆振)ならでは”の新たな学びのスタイルの提案で、モニターツアーでは、当局が所管する海事・物流産業事業者の施設見学と船長や通関士等の講話に加え、北海道大学苫小牧研究林が行っている研究への参加による新たな学びの提案を行いました。",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "007": {
+        "text": "モニターツアーには、埼玉、千葉両県の教員3名と旅行ガイドブック出版社2名の計5名をお招きして、初日(8月2日)は、教育旅行に大人気のエスコンフィールドHOKKAIDOで、ファイターズガールによるスタジアムガイドツアーに参加等し、2日目は、白老町の民族共生象徴空間「ウポポイ」等を見学し、その後、今回の提案コンテンツの第1弾となる日本工学院北海道専門学校(登別市)を訪問し、学生間交流(当日は夏季休暇等の関係で教員が対応)を視野に入れたコンテンツとして、専用のアプリを用いてロボットを動かすプログラミングの模擬授業を体験しました。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029"
+        ]
+      },
+      "008": {
+        "type": "supplement:legend",
+        "text": "【1日目/エスコンフィールドHOKKAIDO】",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "009": {
+        "type": "supplement:legend",
+        "text": "【2日目/大倉山・札幌オリンピックミュージアム】",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "010": {
+        "type": "supplement:legend",
+        "text": "【2日目/ウポポイ(民族共生象徴空間)】",
+        "mention_ids": [
+          "M033",
+          "M034"
+        ]
+      },
+      "011": {
+        "type": "supplement:legend",
+        "text": "【2日目/登別市グリーンスローモビリティ(通称:オニスロ)】",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "012": {
+        "text": "3日目は、今回の提案コンテンツの目玉となる、海事・物流産業施設見学と船長等の講話に加え、北海道大学苫小牧研究林のフィールドを活用した学びの提案を行いました。",
+        "mention_ids": [
+          "M037",
+          "M038"
+        ]
+      },
+      "013": {
+        "text": "施設見学では、始めに苫小牧栗林運輸(株)より、商品が生産者から消費者に届く一連の流れである「物流」や、物流における「海上・陸上輸送の重要性」と「港」についての説明をしていただき、RORO船(トレーラや商品車を自走で船まで直接積載できる貨物船)の見学では、様々な商品はどのようにして私たちの手元に届くのかを、船内でトラクタとトレーラを切り離し、素早く車両を並べる迫力ある荷役作業の見学から学んでいただきました。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "014": {
+        "text": "また、北海道大学苫小牧研究林では、研究林内に生息する野ネズミと魚の生態調査の研究に参加し、その捕獲方法や雌雄判別方法等を解説いただきました。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "015": {
+        "text": "3日目はこのほかに、新たな学びの提案素材として、物流倉庫見学、船長と通関士による講話を実施し、海事・物流産業の果たす役割等の説明を行いました。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "4日目は、大洗へ向けたフェリー船内で船員、アテンダントクルーの講話とブリッジ見学を行って大洗港で解散となりました。",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "017": {
+        "type": "supplement:legend",
+        "text": "【3日目/倉庫見学】",
+        "mention_ids": []
+      },
+      "018": {
+        "type": "supplement:legend",
+        "text": "【3日目/RORO船「神加丸」の見学】",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "019": {
+        "type": "supplement:legend",
+        "text": "【3日目/北海道大学苫小牧研究林】",
+        "mention_ids": [
+          "M046",
+          "M047"
+        ]
+      },
+      "020": {
+        "type": "supplement:legend",
+        "text": "【復路に利用した「さんふらわあ　ふらの」】/苫小牧~大洗",
+        "mention_ids": [
+          "M048",
+          "M049",
+          "M050"
+        ]
+      },
+      "021": {
+        "text": "参加者のアンケートからは、「実際の現場を見て話を聞く、こうした学びがあることがまさに修学旅行だと感じた。」、「温泉、スキーだけでない学びを構築できそう。」、「日常の生活では想像も体験もできない内容で、生徒に是非体験させたい内容だった。」等の意見が寄せられました。",
+        "mention_ids": []
+      },
+      "022": {
+        "text": "室蘭運輸支局では、今後も魅力的な教育コンテンツの提案による教育旅行の誘致を図り、旅客フェリーの利用促進と所管事業等に対する理解醸成の取組を実施して参ります。",
+        "mention_ids": [
+          "M051"
+        ]
+      },
+      "023": {
+        "text": "なお、第2回目のモニターツアーは、9月6日(水曜日)~8日(金曜日)の日程で実施します。",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "024": {
+        "text": "最後に、本事業にご協力いただきました関係者の皆様に、この場をお借りして厚くお礼申し上げます。",
+        "mention_ids": [
+          "M053"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          6
+        ],
+        "text": "北海道運輸局",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          10,
+          14
+        ],
+        "text": "北斗七星",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          21,
+          23
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          3
+        ],
+        "text": "首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          12,
+          15
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          16,
+          18
+        ],
+        "text": "胆振",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          1,
+          17
+        ],
+        "text": "令和5年度教育旅行モニターツアー",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          6
+        ],
+        "text": "室蘭運輸支局",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          6
+        ],
+        "text": "北海道運輸局",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          12
+        ],
+        "text": "室蘭運輸支局",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          64,
+          67
+        ],
+        "text": "首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          83,
+          94
+        ],
+        "text": "教育旅行モニターツアー",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          96,
+          98
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          15,
+          18
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "006",
+        "span": [
+          19,
+          21
+        ],
+        "text": "胆振",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          43,
+          50
+        ],
+        "text": "モニターツアー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "006",
+        "span": [
+          53,
+          55
+        ],
+        "text": "当局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "006",
+        "span": [
+          90,
+          95
+        ],
+        "text": "北海道大学",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "006",
+        "span": [
+          95,
+          101
+        ],
+        "text": "苫小牧研究林",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          7
+        ],
+        "text": "モニターツアー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "007",
+        "span": [
+          10,
+          17
+        ],
+        "text": "埼玉、千葉両県",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "feature": "Parallel_Modif",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "007",
+        "span": [
+          66,
+          83
+        ],
+        "text": "エスコンフィールドHOKKAIDO",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "007",
+        "span": [
+          85,
+          94
+        ],
+        "text": "ファイターズガール",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "007",
+        "span": [
+          97,
+          108
+        ],
+        "text": "スタジアムガイドツアー",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "007",
+        "span": [
+          119,
+          122
+        ],
+        "text": "白老町",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "007",
+        "span": [
+          123,
+          131
+        ],
+        "text": "民族共生象徴空間",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "007",
+        "span": [
+          132,
+          136
+        ],
+        "text": "ウポポイ",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "007",
+        "span": [
+          164,
+          176
+        ],
+        "text": "日本工学院北海道専門学校",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "007",
+        "span": [
+          177,
+          180
+        ],
+        "text": "登別市",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "008",
+        "span": [
+          5,
+          22
+        ],
+        "text": "エスコンフィールドHOKKAIDO",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "009",
+        "span": [
+          5,
+          8
+        ],
+        "text": "大倉山",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "009",
+        "span": [
+          9,
+          23
+        ],
+        "text": "札幌オリンピックミュージアム",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "010",
+        "span": [
+          5,
+          9
+        ],
+        "text": "ウポポイ",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "010",
+        "span": [
+          10,
+          18
+        ],
+        "text": "民族共生象徴空間",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "011",
+        "span": [
+          5,
+          20
+        ],
+        "text": "登別市グリーンスローモビリティ",
+        "entity_type": "PRO",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "011",
+        "span": [
+          24,
+          28
+        ],
+        "text": "オニスロ",
+        "entity_type": "PRO",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "012",
+        "span": [
+          44,
+          49
+        ],
+        "text": "北海道大学",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "012",
+        "span": [
+          49,
+          55
+        ],
+        "text": "苫小牧研究林",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "013",
+        "span": [
+          10,
+          20
+        ],
+        "text": "苫小牧栗林運輸(株)",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "014",
+        "span": [
+          3,
+          8
+        ],
+        "text": "北海道大学",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "014",
+        "span": [
+          8,
+          14
+        ],
+        "text": "苫小牧研究林",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "014",
+        "span": [
+          17,
+          20
+        ],
+        "text": "研究林",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "016",
+        "span": [
+          5,
+          7
+        ],
+        "text": "大洗",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "016",
+        "span": [
+          44,
+          47
+        ],
+        "text": "大洗港",
+        "entity_type": "FAC",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "018",
+        "span": [
+          11,
+          14
+        ],
+        "text": "神加丸",
+        "entity_type": "PRO",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "019",
+        "span": [
+          5,
+          10
+        ],
+        "text": "北海道大学",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "019",
+        "span": [
+          10,
+          16
+        ],
+        "text": "苫小牧研究林",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "020",
+        "span": [
+          9,
+          19
+        ],
+        "text": "さんふらわあ　ふらの",
+        "entity_type": "PRO",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "020",
+        "span": [
+          22,
+          25
+        ],
+        "text": "苫小牧",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "020",
+        "span": [
+          26,
+          28
+        ],
+        "text": "大洗",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          6
+        ],
+        "text": "室蘭運輸支局",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "023",
+        "span": [
+          8,
+          15
+        ],
+        "text": "モニターツアー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E027",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "024",
+        "span": [
+          4,
+          7
+        ],
+        "text": "本事業",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M009"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11403081",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%8B%E8%BC%B8%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M013"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689722222",
+          "139.691666666"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1063868",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%83%86%E6%8C%AF%E5%9B%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M012",
+          "M016",
+          "M020",
+          "M053"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://wwwtb.mlit.go.jp/hokkaido/muroran//top/press/20230728.pdf"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008",
+          "M010",
+          "M017",
+          "M051"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11453098",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AE%A4%E8%98%AD%E9%81%8B%E8%BC%B8%E6%94%AF%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M018",
+          "M037",
+          "M040",
+          "M046"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1057199",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.074722222",
+          "141.340833333"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M019",
+          "M038",
+          "M041",
+          "M042",
+          "M047"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1057199",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.074722222",
+          "141.340833333"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M022",
+          "M030"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q96395338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89HOKKAIDO",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.991791",
+          "141.550204"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11331842",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA%E3%82%AC%E3%83%BC%E3%83%AB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.fighters.co.jp/expansion/2023/stadiumtour/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1348760",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%99%BD%E8%80%81%E7%94%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4085805",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.551222222",
+          "141.355888888"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M026",
+          "M027",
+          "M033",
+          "M034"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q76283211",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9D%E3%83%9D%E3%82%A4",
+          "openstreetmap": "https://www.openstreetmap.org/way/1106753828",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.560277777",
+          "141.365527777"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11507996",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%8C%97%E6%B5%B7%E9%81%93%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q428989",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%99%BB%E5%88%A5%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.41275",
+          "141.106583333"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q21652600",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%80%89%E5%B1%B1_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.05061111",
+          "141.28561111"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q85881092",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M035",
+          "M036"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://oni-slo.com/"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.kurinet.co.jp/tomakuri/"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M043",
+          "M044",
+          "M050"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11437229",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B4%97%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.30612",
+          "140.57151"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M045"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.kuribayashishosen.com/ship/"
+        }
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M048"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q27983098",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%95%E3%82%93%E3%81%B5%E3%82%89%E3%82%8F%E3%81%82_%E3%81%B5%E3%82%89%E3%81%AE"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11616831",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8B%AB%E5%B0%8F%E7%89%A7%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.628333333",
+          "141.627222222"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://wwwtb.mlit.go.jp/hokkaido/muroran//top/press/20230728.pdf"
+        }
+      }
+    }
+  },
+  "064-2": {
+    "metainfo": {
+      "src_date": "20230831",
+      "src_url": "https://wwwtb.mlit.go.jp/hokkaido/kakusyu/kouhoushi/hokuto7/05_08_00001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "『飛んでクルーズ・北海道』18年目の船出",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "海事振興部　旅客・船舶産業課",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "003": {
+        "text": "商船三井クルーズ(株)が運航する「にっぽん丸」による夏の定番人気商品であるフライ&クルーズ『飛んでクルーズ・北海道』が、8月28日から運航開始されました。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "004": {
+        "text": "今年も昨年同様に小樽~利尻~羅臼~小樽のコースを9月12日までに計5回運航するスケジュールで、日本百名山の一つ「利尻富士」がそびえる利尻島や、世界遺産の知床の大自然を思う存分感じることが出来るツアーとなっています。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "005": {
+        "text": "また、船内では北海道の旬の味覚を取り揃えた食事も用意されており、きっと多くのお客様に北海道の魅力を愉しんでいただけるものと期待しております。",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "006": {
+        "text": "運航初日の8月28日には出発式が盛大に開催され、小樽市長をはじめ北海道クルーズ振興協議会の会長である川路次長が、歓迎の挨拶を述べるとともに「にっぽん丸」船長へ花束と記念品を贈呈しました。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "007": {
+        "text": "「にっぽん丸」船長からは、今年も大自然の北海道へ来ることができ関係各機関に対し感謝の言葉を述べられるとともに、5コースすべて満席となっているとの報告があり、この商品が人気の商品であることが再認識させられました。",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "008": {
+        "text": "この時期に小樽に来ると「にっぽん丸」が停泊している景色が定番となることを願っております。",
+        "mention_ids": [
+          "M025",
+          "M026"
+        ]
+      },
+      "009": {
+        "text": "恒例の見送りでは、「小樽潮太鼓」により盛大なお見送りを出港にあわせて行い、乗船客も大変喜んでいたようです。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "010": {
+        "text": "今年で18年目を迎える『飛んでクルーズ・北海道』も着実に知名度を上げており、今後も「定期・定点クルーズ」に向け、北海道クルーズ振興協議会としても関係各機関と調整を図り、支援していきたいと考えています。",
+        "mention_ids": [
+          "M028",
+          "M029"
+        ]
+      },
+      "011": {
+        "type": "supplement:legend",
+        "text": "【商船三井クルーズ(株)が運航する「にっぽん丸」】",
+        "mention_ids": [
+          "M030",
+          "M031"
+        ]
+      },
+      "012": {
+        "type": "supplement:legend",
+        "text": "【おたるコンシェルジュから「にっぽん丸」船長へ花束贈呈】",
+        "mention_ids": [
+          "M032",
+          "M033"
+        ]
+      },
+      "013": {
+        "type": "supplement:legend",
+        "text": "【迫力ある「小樽潮太鼓」を見るために多くの乗船客が船上デッキに集まっていました】",
+        "mention_ids": [
+          "M034",
+          "M035"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          1,
+          12
+        ],
+        "text": "飛んでクルーズ・北海道",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          5
+        ],
+        "text": "海事振興部",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          6,
+          14
+        ],
+        "text": "旅客・船舶産業課",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          11
+        ],
+        "text": "商船三井クルーズ(株)",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          17,
+          22
+        ],
+        "text": "にっぽん丸",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          46,
+          57
+        ],
+        "text": "飛んでクルーズ・北海道",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          8,
+          10
+        ],
+        "text": "小樽",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          11,
+          13
+        ],
+        "text": "利尻",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          14,
+          16
+        ],
+        "text": "羅臼",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          17,
+          19
+        ],
+        "text": "小樽",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          47,
+          52
+        ],
+        "text": "日本百名山",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          56,
+          60
+        ],
+        "text": "利尻富士",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          66,
+          69
+        ],
+        "text": "利尻島",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          71,
+          75
+        ],
+        "text": "世界遺産",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          76,
+          78
+        ],
+        "text": "知床",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          7,
+          10
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          42,
+          45
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "006",
+        "span": [
+          12,
+          15
+        ],
+        "text": "出発式",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "006",
+        "span": [
+          24,
+          27
+        ],
+        "text": "小樽市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "006",
+        "span": [
+          32,
+          44
+        ],
+        "text": "北海道クルーズ振興協議会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "006",
+        "span": [
+          50,
+          52
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "006",
+        "span": [
+          70,
+          75
+        ],
+        "text": "にっぽん丸",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "007",
+        "span": [
+          1,
+          6
+        ],
+        "text": "にっぽん丸",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "007",
+        "span": [
+          20,
+          23
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "008",
+        "span": [
+          5,
+          7
+        ],
+        "text": "小樽",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "008",
+        "span": [
+          12,
+          17
+        ],
+        "text": "にっぽん丸",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          10,
+          15
+        ],
+        "text": "小樽潮太鼓",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "010",
+        "span": [
+          12,
+          23
+        ],
+        "text": "飛んでクルーズ・北海道",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "010",
+        "span": [
+          56,
+          68
+        ],
+        "text": "北海道クルーズ振興協議会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "011",
+        "span": [
+          1,
+          12
+        ],
+        "text": "商船三井クルーズ(株)",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "011",
+        "span": [
+          18,
+          23
+        ],
+        "text": "にっぽん丸",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "012",
+        "span": [
+          1,
+          11
+        ],
+        "text": "おたるコンシェルジュ",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "012",
+        "span": [
+          14,
+          19
+        ],
+        "text": "にっぽん丸",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "013",
+        "span": [
+          6,
+          11
+        ],
+        "text": "小樽潮太鼓",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "013",
+        "span": [
+          25,
+          30
+        ],
+        "text": "船上デッキ",
+        "entity_type": "FAC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M006",
+          "M028"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.nipponmaru.jp/cruise/20230828/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11403081",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E9%81%8B%E8%BC%B8%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M030"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1778084",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%95%86%E8%88%B9%E4%B8%89%E4%BA%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M022",
+          "M023",
+          "M026",
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11274805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E4%B8%B8"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007",
+          "M010",
+          "M019",
+          "M025"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q242108",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%A8%BD%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4085754",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.190722222",
+          "140.994361111"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q495476",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B0%BB%E5%B3%B6",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4094780",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "45.191944444",
+          "141.2225"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1208391",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%BE%85%E8%87%BC%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "44.021944444",
+          "145.189722222"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1156761",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%99%BE%E5%90%8D%E5%B1%B1"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2154758",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%88%A9%E5%B0%BB%E5%B1%B1",
+          "openstreetmap": "https://www.openstreetmap.org/node/1366603241",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "45.17865",
+          "141.241922222"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q9259",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17208861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A_(%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3)",
+          "openstreetmap": "https://www.openstreetmap.org/node/2479710251",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.933333333",
+          "144.95"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016",
+          "M017",
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M020",
+          "M029"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://wwwtb.mlit.go.jp/hokkaido/bunyabetsu/kaiun/cruise/cruise1.html"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M027",
+          "M034"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "other": "http://www.otaru-usiodaiko.com/"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.instagram.com/otaru_concierge/"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11274805",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%AB%E3%81%A3%E3%81%BD%E3%82%93%E4%B8%B8"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,892 @@
+{
+  "058": {
+    "metainfo": {
+      "src_date": "20231016",
+      "src_url": "https://www.meti.go.jp/press/2023/10/20231016001/20231016001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "令和5年度産業標準化事業表彰の受賞者を発表します",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "経済産業省では、毎年10月の「産業標準化推進月間」に、産業標準化推進活動に優れた功績を有する方を表彰する「産業標準化事業表彰」を実施しております。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "003": {
+        "text": "この度、今年度の受賞者を決定しました。",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "表彰式は10月17日(火曜日)に開催します。",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "I.産業標準化事業表彰",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "1.表彰制度の概要",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "007": {
+        "text": "国際標準や日本産業規格(JIS)の作成等に率先して取り組まれ、顕著な功績のあった個人や組織を顕彰するもので、毎年10月の「産業標準化推進月間」に表彰式を開催しています。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "008": {
+        "text": "功績に応じて、内閣総理大臣表彰、経済産業大臣表彰及び産業技術環境局長表彰を行います。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "009": {
+        "text": "企業や業界団体だけでなく、アカデミアや消費者・消費者団体などの多様な立場から我が国の標準化活動に貢献された方々やその所属組織、さらには、今後の一層の貢献が期待できる若手の方々を表彰しており、この表彰を通じて、様々な標準化活動への理解・認識の向上、標準化を企業戦略に生かせる人材育成の強化を目指します。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "010": {
+        "text": "(1)内閣総理大臣表彰",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "011": {
+        "text": "国際標準化機構(ISO)や国際電気標準会議(IEC)といった国際的な標準化機関における要職での活動や日本発の国際標準化の実現等、我が国の国際標準化に極めて顕著な功績があった者に対する表彰です。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "012": {
+        "text": "(2)経済産業大臣表彰",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "013": {
+        "text": "標準(JIS、ISO/IEC)の策定や適合性評価活動(製品やサービスが標準に適合していることを評価する活動)等、産業標準化に顕著な功績があった方及び組織に対する表彰です。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "014": {
+        "text": "(3)産業技術環境局長表彰",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "015": {
+        "text": "標準(JIS、ISO/IEC)の策定や適合性評価活動(製品やサービスが標準に適合していることを評価する活動)等に貢献のあった方及び組織、並びに国際標準化活動に関与し、今後の貢献(継続的な活動)が一層期待できる方に対する表彰です。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "2.受賞者数",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "内閣総理大臣表彰:1名",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "018": {
+        "text": "経済産業大臣表彰:20名、5組織",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "019": {
+        "text": "産業技術環境局長表彰:30名、2組織",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "020": {
+        "type": "heading",
+        "text": "II.国際電気標準会議(IEC)による表彰",
+        "mention_ids": [
+          "M032"
+        ]
+      },
+      "021": {
+        "text": "産業標準化事業表彰式に併せて、IECによる表彰についても実施致します。",
+        "mention_ids": [
+          "M033",
+          "M034"
+        ]
+      },
+      "022": {
+        "type": "heading",
+        "text": "1.IECトーマス・エジソン賞及びIEC1906賞の概要",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "023": {
+        "text": "(1)IECトーマス・エジソン賞",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "024": {
+        "text": "国際議長、国際幹事等の役職に就き、専門委員会や認証システムの運営に関して、顕著な成果、貢献の高かった方に対する表彰です。",
+        "mention_ids": []
+      },
+      "025": {
+        "text": "(2)IEC1906賞",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "026": {
+        "text": "電気・電子技術の標準化及びその関連活動に大きく貢献した方に対する表彰です。",
+        "mention_ids": []
+      },
+      "027": {
+        "type": "heading",
+        "text": "2.受賞者数",
+        "mention_ids": []
+      },
+      "028": {
+        "text": "IECトーマス・エジソン賞:1名",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "029": {
+        "text": "IEC　1906賞:27名",
+        "mention_ids": [
+          "M040"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          14
+        ],
+        "text": "令和5年度産業標準化事業表彰",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          5
+        ],
+        "text": "経済産業省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          15,
+          24
+        ],
+        "text": "産業標準化推進月間",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          53,
+          62
+        ],
+        "text": "産業標準化事業表彰",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "表彰式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          2,
+          11
+        ],
+        "text": "産業標準化事業表彰",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          2,
+          4
+        ],
+        "text": "表彰",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          5,
+          16
+        ],
+        "text": "日本産業規格(JIS)",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "007",
+        "span": [
+          61,
+          70
+        ],
+        "text": "産業標準化推進月間",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "007",
+        "span": [
+          72,
+          75
+        ],
+        "text": "表彰式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "008",
+        "span": [
+          7,
+          15
+        ],
+        "text": "内閣総理大臣表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          16,
+          24
+        ],
+        "text": "経済産業大臣表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          26,
+          36
+        ],
+        "text": "産業技術環境局長表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "009",
+        "span": [
+          38,
+          41
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "009",
+        "span": [
+          97,
+          99
+        ],
+        "text": "表彰",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "010",
+        "span": [
+          3,
+          11
+        ],
+        "text": "内閣総理大臣表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          12
+        ],
+        "text": "国際標準化機構(ISO)",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "011",
+        "span": [
+          13,
+          26
+        ],
+        "text": "国際電気標準会議(IEC)",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "011",
+        "span": [
+          50,
+          52
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "011",
+        "span": [
+          64,
+          67
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          11
+        ],
+        "text": "経済産業大臣表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "013",
+        "span": [
+          3,
+          6
+        ],
+        "text": "JIS",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "013",
+        "span": [
+          7,
+          10
+        ],
+        "text": "ISO",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "013",
+        "span": [
+          11,
+          14
+        ],
+        "text": "IEC",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "014",
+        "span": [
+          3,
+          13
+        ],
+        "text": "産業技術環境局長表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "015",
+        "span": [
+          3,
+          6
+        ],
+        "text": "JIS",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          10
+        ],
+        "text": "ISO",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "015",
+        "span": [
+          11,
+          14
+        ],
+        "text": "IEC",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          8
+        ],
+        "text": "内閣総理大臣表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "018",
+        "span": [
+          0,
+          8
+        ],
+        "text": "経済産業大臣表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          10
+        ],
+        "text": "産業技術環境局長表彰",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "020",
+        "span": [
+          3,
+          16
+        ],
+        "text": "国際電気標準会議(IEC)",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "021",
+        "span": [
+          0,
+          10
+        ],
+        "text": "産業標準化事業表彰式",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "021",
+        "span": [
+          15,
+          18
+        ],
+        "text": "IEC",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "022",
+        "span": [
+          2,
+          15
+        ],
+        "text": "IECトーマス・エジソン賞",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "022",
+        "span": [
+          17,
+          25
+        ],
+        "text": "IEC1906賞",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "023",
+        "span": [
+          3,
+          16
+        ],
+        "text": "IECトーマス・エジソン賞",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "025",
+        "span": [
+          3,
+          11
+        ],
+        "text": "IEC1906賞",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "028",
+        "span": [
+          0,
+          13
+        ],
+        "text": "IECトーマス・エジソン賞",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          9
+        ],
+        "text": "IEC　1906賞",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M010",
+          "M015",
+          "M033"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/policy/economy/hyojun-kijun/keihatsu/hyosho/index.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1197264",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M009"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/policy/economy/hyojun-kijun/keihatsu/gekkan/index.html"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M008",
+          "M022",
+          "M026"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q774901",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%94%A3%E6%A5%AD%E8%A6%8F%E6%A0%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M016",
+          "M021",
+          "M025",
+          "M029",
+          "M030",
+          "M031"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/policy/economy/hyojun-kijun/keihatsu/hyosho/index.html"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M014",
+          "M019",
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M017",
+          "M023",
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q15028",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%A8%99%E6%BA%96%E5%8C%96%E6%A9%9F%E6%A7%8B"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M018",
+          "M024",
+          "M028",
+          "M032",
+          "M034"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q193858",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%9B%BB%E6%B0%97%E6%A8%99%E6%BA%96%E4%BC%9A%E8%AD%B0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M035",
+          "M037",
+          "M039"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://criepi.denken.or.jp/press/pressrelease/2023/11_28.html"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M036",
+          "M038",
+          "M040"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  }
+}

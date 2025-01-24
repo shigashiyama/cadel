@@ -1,0 +1,2327 @@
+{
+  "070": {
+    "metainfo": {
+      "src_date": "20220700",
+      "src_url": "https://www.bousai.go.jp/kohou/kouhoubousai/r04/104/special_01.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "特集　風水害に備える　カスリーン台風から75年　~水害対策は「流域治水」の時代へ~",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "heading",
+        "text": "戦後間もない日本を襲ったカスリーン台風",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "003": {
+        "text": "今から75年前の昭和22(1947)年9月、まだ戦後復興もままならない関東地方と東北地方を、カスリーン台風が襲いました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "004": {
+        "text": "台風による豪雨は、関東北部では土石流などの土砂災害を、東北地方と関東南部では河川の氾濫による大規模な浸水被害をもたらし、全国で死者1,077人、行方不明者853人、負傷者1,547人、住宅損壊9,298棟、浸水384,743棟(いずれも理科年表より)、罹災者の数40万人以上という甚大な被害を記録しています。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "005": {
+        "text": "首都圏でも、埼玉県東部から東京都の足立区・葛飾区・江戸川区にかけて広範囲の浸水に見舞われました。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "006": {
+        "text": "埼玉県川辺村(現加須市)では最高水位5.5mを記録し、湛水期間は1ヶ月にも及んだほか、東京都内でも葛飾区などで浸水深3m、湛水期間が半月に達した地域もあったほどです。",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "007": {
+        "text": "氾濫の起点となったのは、埼玉県東村(現加須市)での利根川の決壊でした。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028",
+          "M029"
+        ]
+      },
+      "008": {
+        "text": "なぜ東京から離れた利根川の氾濫が首都圏にこれほどの被害をもたらしたのでしょうか。",
+        "mention_ids": [
+          "M030",
+          "M031",
+          "M032"
+        ]
+      },
+      "009": {
+        "text": "そこには、この地域の土地の成り立ちが関係しています。",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "氾濫流はかつての利根川の流路をたどった",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "011": {
+        "text": "今から約6000年前、東京湾の海岸線は現在の利根川近くまで入り込んでいました。",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "012": {
+        "text": "東京の下町低地や埼玉県の東部はその時海の底にあり、その後陸化したものの、大部分は低地の湿地帯でした。",
+        "mention_ids": [
+          "M037",
+          "M038",
+          "M039"
+        ]
+      },
+      "013": {
+        "text": "現在は千葉・茨城県境を太平洋へと流れる利根川や、その支流となっている渡良瀬川も、江戸時代以前はこの低湿地帯を流れて東京湾に注いでいました。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046"
+        ]
+      },
+      "014": {
+        "text": "江戸幕府が、江戸の町の洪水対策と舟運のために「東遷」と呼ばれる付け替えを行った結果、現在の流路となったのです。",
+        "mention_ids": [
+          "M047",
+          "M048"
+        ]
+      },
+      "015": {
+        "text": "またこれにともない、かつて利根川の支流だった荒川も、東京湾に注ぐ流路に付け替えられています。",
+        "mention_ids": [
+          "M049",
+          "M050",
+          "M051"
+        ]
+      },
+      "016": {
+        "text": "利根川の東遷事業により、かつての湿地帯は水田地帯に変わりました。",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "017": {
+        "text": "多くの新田が開発され、食料が増産されたことで、当時世界一とされた江戸の人口を支えることができたのです。",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "018": {
+        "text": "その後も幕府は江戸の町を守るためにさまざまな治水対策を行っていきます。",
+        "mention_ids": [
+          "M054",
+          "M055"
+        ]
+      },
+      "019": {
+        "text": "そのひとつが中条堤の建設です。",
+        "mention_ids": [
+          "M056"
+        ]
+      },
+      "020": {
+        "text": "利根川の右岸、やや離れた位置に6500mに及ぶ堤をつくることで、遊水地を設け、氾濫流が江戸側へ向かうのを防ぐ仕組みで、大きな効果を発揮しました。",
+        "mention_ids": [
+          "M057",
+          "M058"
+        ]
+      },
+      "021": {
+        "text": "しかし明治43(1910)年の関東大水害では中条堤も決壊、氾濫流が東京の下町まで流れ込んだことをきっかけに、堤防による治水が本格化し、荒川放水路(現荒川)の建設が始まります。",
+        "mention_ids": [
+          "M059",
+          "M060",
+          "M061",
+          "M062",
+          "M063",
+          "M064",
+          "M065"
+        ]
+      },
+      "022": {
+        "text": "幾度となく水害が繰り返された旧利根川沿いの低地ですが、広大な平地であり、交通の利便性も高いことから、その後の国土の有効利用政策により、集中的に開発が行われてきました。",
+        "mention_ids": [
+          "M066"
+        ]
+      },
+      "023": {
+        "text": "そしてカスリーン台風では、まさにこの低地がそっくりそのまま大水害の舞台となったのです。",
+        "mention_ids": [
+          "M067"
+        ]
+      },
+      "024": {
+        "text": "氾濫流は決壊地点から、自然の理に従って低い土地へと流れていきました。",
+        "mention_ids": []
+      },
+      "025": {
+        "text": "それはあたかもかつての利根川の流れを再現するかの如く、埼玉県東部を南下していったのです。",
+        "mention_ids": [
+          "M068",
+          "M069"
+        ]
+      },
+      "026": {
+        "text": "この地域は古利根川をはじめ、権現堂川、庄内古川、中川、元荒川など多くの河川や水路が網の目状に流れる低湿地帯で、これら河川の堤防も各所で決壊し、氾濫はどんどん拡大していき、多くの家屋が浸水しました。",
+        "mention_ids": [
+          "M070",
+          "M071",
+          "M072",
+          "M073",
+          "M074"
+        ]
+      },
+      "027": {
+        "text": "氾濫流は、埼玉県と東京都の境界にある小合溜と呼ばれる遊水地に沿った堤防「桜堤」に阻まれて一旦食い止められました。",
+        "mention_ids": [
+          "M075",
+          "M076",
+          "M077",
+          "M078"
+        ]
+      },
+      "028": {
+        "text": "利根川の決壊から二日後のことです。",
+        "mention_ids": [
+          "M079"
+        ]
+      },
+      "029": {
+        "text": "ここが決壊した場合、氾濫流が東京の下町に流れ込むため、東側の江戸川の堤防を爆破することで氾濫流を江戸川に排水することを試みたものの、失敗に終わります。",
+        "mention_ids": [
+          "M080",
+          "M081",
+          "M082",
+          "M083"
+        ]
+      },
+      "030": {
+        "text": "翌日未明、ついに桜堤は崩れて濁流が東京の下町を襲います。",
+        "mention_ids": [
+          "M084",
+          "M085",
+          "M086"
+        ]
+      },
+      "031": {
+        "text": "葛飾区はそれまでも何度となく水害に悩まされていましたが、カスリーン台風では浸水家屋54,128棟、罹災者218,251人(葛飾区資料より)という甚大な被害になりました。",
+        "mention_ids": [
+          "M087",
+          "M088",
+          "M089"
+        ]
+      },
+      "032": {
+        "text": "足立区では東部の低地が水没、また江戸川区もほぼ全域が浸水に見舞われています。",
+        "mention_ids": [
+          "M090",
+          "M091"
+        ]
+      },
+      "033": {
+        "text": "最終的にカスリーン台風による浸水は、決壊した利根川から東京にまで広がり、氾濫の流下距離は60キロに達しました。",
+        "mention_ids": [
+          "M092",
+          "M093",
+          "M094"
+        ]
+      },
+      "034": {
+        "text": "葛飾区や江戸川区の荒川沿いの地域はもともと水はけの悪い低湿地であったことに加えて、地盤沈下の進行で標高が海面下であり、排水はなかなか進まず、この地域では湛水期間が半月を越えました。",
+        "mention_ids": [
+          "M095",
+          "M096",
+          "M097"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          11,
+          18
+        ],
+        "text": "カスリーン台風",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          2
+        ],
+        "text": "戦後",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          6,
+          8
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          12,
+          19
+        ],
+        "text": "カスリーン台風",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          8,
+          10
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          24,
+          26
+        ],
+        "text": "戦後",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          35,
+          39
+        ],
+        "text": "関東地方",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          40,
+          44
+        ],
+        "text": "東北地方",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          46,
+          53
+        ],
+        "text": "カスリーン台風",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "台風",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          9,
+          11
+        ],
+        "text": "関東",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          27,
+          31
+        ],
+        "text": "東北地方",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          32,
+          34
+        ],
+        "text": "関東",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          60,
+          62
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          3
+        ],
+        "text": "首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          9
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          13,
+          16
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          17,
+          20
+        ],
+        "text": "足立区",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          21,
+          24
+        ],
+        "text": "葛飾区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          25,
+          29
+        ],
+        "text": "江戸川区",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          6
+        ],
+        "text": "川辺村",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "006",
+        "span": [
+          8,
+          11
+        ],
+        "text": "加須市",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "006",
+        "span": [
+          43,
+          46
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "006",
+        "span": [
+          49,
+          52
+        ],
+        "text": "葛飾区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "007",
+        "span": [
+          12,
+          15
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "007",
+        "span": [
+          15,
+          17
+        ],
+        "text": "東村",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "007",
+        "span": [
+          19,
+          22
+        ],
+        "text": "加須市",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "007",
+        "span": [
+          25,
+          28
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "008",
+        "span": [
+          2,
+          4
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "008",
+        "span": [
+          9,
+          12
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "008",
+        "span": [
+          16,
+          19
+        ],
+        "text": "首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "009",
+        "span": [
+          7,
+          9
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "010",
+        "span": [
+          8,
+          11
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "011",
+        "span": [
+          11,
+          14
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "011",
+        "span": [
+          22,
+          25
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          2
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          7
+        ],
+        "text": "下町低地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "012",
+        "span": [
+          8,
+          11
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "013",
+        "span": [
+          3,
+          5
+        ],
+        "text": "千葉",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M041": {
+        "sentence_id": "013",
+        "span": [
+          6,
+          8
+        ],
+        "text": "茨城",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "013",
+        "span": [
+          11,
+          14
+        ],
+        "text": "太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "013",
+        "span": [
+          19,
+          22
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M044": {
+        "sentence_id": "013",
+        "span": [
+          34,
+          38
+        ],
+        "text": "渡良瀬川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M045": {
+        "sentence_id": "013",
+        "span": [
+          40,
+          46
+        ],
+        "text": "江戸時代以前",
+        "entity_type": "TIME",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "013",
+        "span": [
+          57,
+          60
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          4
+        ],
+        "text": "江戸幕府",
+        "entity_type": "ORG",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "014",
+        "span": [
+          6,
+          8
+        ],
+        "text": "江戸",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "015",
+        "span": [
+          13,
+          16
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M050": {
+        "sentence_id": "015",
+        "span": [
+          22,
+          24
+        ],
+        "text": "荒川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M051": {
+        "sentence_id": "015",
+        "span": [
+          26,
+          29
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "016",
+        "span": [
+          0,
+          3
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M053": {
+        "sentence_id": "017",
+        "span": [
+          32,
+          34
+        ],
+        "text": "江戸",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "018",
+        "span": [
+          4,
+          6
+        ],
+        "text": "幕府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "018",
+        "span": [
+          7,
+          9
+        ],
+        "text": "江戸",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "019",
+        "span": [
+          6,
+          9
+        ],
+        "text": "中条堤",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "020",
+        "span": [
+          0,
+          3
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M058": {
+        "sentence_id": "020",
+        "span": [
+          43,
+          45
+        ],
+        "text": "江戸",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "021",
+        "span": [
+          3,
+          5
+        ],
+        "text": "明治",
+        "entity_type": "TIME",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "021",
+        "span": [
+          15,
+          20
+        ],
+        "text": "関東大水害",
+        "entity_type": "EVE",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "021",
+        "span": [
+          22,
+          25
+        ],
+        "text": "中条堤",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "021",
+        "span": [
+          33,
+          35
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M063": {
+        "sentence_id": "021",
+        "span": [
+          36,
+          38
+        ],
+        "text": "下町",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "021",
+        "span": [
+          67,
+          72
+        ],
+        "text": "荒川放水路",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M065": {
+        "sentence_id": "021",
+        "span": [
+          74,
+          76
+        ],
+        "text": "荒川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M066": {
+        "sentence_id": "022",
+        "span": [
+          14,
+          20
+        ],
+        "text": "旧利根川沿い",
+        "entity_type": "LOC",
+        "entity_id": "E032",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "023",
+        "span": [
+          3,
+          10
+        ],
+        "text": "カスリーン台風",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "025",
+        "span": [
+          11,
+          14
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M069": {
+        "sentence_id": "025",
+        "span": [
+          27,
+          30
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M070": {
+        "sentence_id": "026",
+        "span": [
+          5,
+          9
+        ],
+        "text": "古利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E033",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "026",
+        "span": [
+          14,
+          18
+        ],
+        "text": "権現堂川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M072": {
+        "sentence_id": "026",
+        "span": [
+          19,
+          23
+        ],
+        "text": "庄内古川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E035",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "026",
+        "span": [
+          24,
+          26
+        ],
+        "text": "中川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E036",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "026",
+        "span": [
+          27,
+          30
+        ],
+        "text": "元荒川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E037",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "027",
+        "span": [
+          5,
+          8
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M076": {
+        "sentence_id": "027",
+        "span": [
+          9,
+          12
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M077": {
+        "sentence_id": "027",
+        "span": [
+          18,
+          21
+        ],
+        "text": "小合溜",
+        "entity_type": "LOC",
+        "entity_id": "E038",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M078": {
+        "sentence_id": "027",
+        "span": [
+          36,
+          38
+        ],
+        "text": "桜堤",
+        "entity_type": "LOC",
+        "entity_id": "E039",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M079": {
+        "sentence_id": "028",
+        "span": [
+          0,
+          3
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M080": {
+        "sentence_id": "029",
+        "span": [
+          14,
+          16
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M081": {
+        "sentence_id": "029",
+        "span": [
+          17,
+          19
+        ],
+        "text": "下町",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M082": {
+        "sentence_id": "029",
+        "span": [
+          30,
+          33
+        ],
+        "text": "江戸川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M083": {
+        "sentence_id": "029",
+        "span": [
+          48,
+          51
+        ],
+        "text": "江戸川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M084": {
+        "sentence_id": "030",
+        "span": [
+          8,
+          10
+        ],
+        "text": "桜堤",
+        "entity_type": "LOC",
+        "entity_id": "E039",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M085": {
+        "sentence_id": "030",
+        "span": [
+          17,
+          19
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M086": {
+        "sentence_id": "030",
+        "span": [
+          20,
+          22
+        ],
+        "text": "下町",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M087": {
+        "sentence_id": "031",
+        "span": [
+          0,
+          3
+        ],
+        "text": "葛飾区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M088": {
+        "sentence_id": "031",
+        "span": [
+          28,
+          35
+        ],
+        "text": "カスリーン台風",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M089": {
+        "sentence_id": "031",
+        "span": [
+          61,
+          64
+        ],
+        "text": "葛飾区",
+        "entity_type": "LOC",
+        "entity_id": "E041",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M090": {
+        "sentence_id": "032",
+        "span": [
+          0,
+          3
+        ],
+        "text": "足立区",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M091": {
+        "sentence_id": "032",
+        "span": [
+          16,
+          20
+        ],
+        "text": "江戸川区",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M092": {
+        "sentence_id": "033",
+        "span": [
+          4,
+          11
+        ],
+        "text": "カスリーン台風",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M093": {
+        "sentence_id": "033",
+        "span": [
+          22,
+          25
+        ],
+        "text": "利根川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M094": {
+        "sentence_id": "033",
+        "span": [
+          27,
+          29
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M095": {
+        "sentence_id": "034",
+        "span": [
+          0,
+          3
+        ],
+        "text": "葛飾区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M096": {
+        "sentence_id": "034",
+        "span": [
+          4,
+          8
+        ],
+        "text": "江戸川区",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M097": {
+        "sentence_id": "034",
+        "span": [
+          9,
+          11
+        ],
+        "text": "荒川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M009",
+          "M010",
+          "M067",
+          "M088",
+          "M092"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q98241393",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%B3%E5%8F%B0%E9%A2%A8"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M006"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1046461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%80%A3%E5%90%88%E5%9B%BD%E8%BB%8D%E5%8D%A0%E9%A0%98%E6%9C%9F%E5%BE%8C%E3%81%AE%E6%97%A5%E6%9C%AC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q327567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007",
+          "M011",
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132480",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1803923",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.166666666",
+          "139.783333333"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q129465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.9",
+          "140.67"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M015",
+          "M032"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689722222",
+          "139.691666666"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M016",
+          "M021",
+          "M026",
+          "M039",
+          "M069",
+          "M075"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q128186",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1768185",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.857166666",
+          "139.649194444"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M017",
+          "M024",
+          "M030",
+          "M037",
+          "M062",
+          "M076",
+          "M080",
+          "M085",
+          "M094"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M018",
+          "M090"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q213464",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%AB%8B%E5%8C%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1760124",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.774944444",
+          "139.804361111"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M019",
+          "M025",
+          "M087",
+          "M095"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q232628",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%91%9B%E9%A3%BE%E5%8C%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1761718",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.743444444",
+          "139.847166666"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M020",
+          "M091",
+          "M096"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q214056",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.706638888",
+          "139.868277777"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11479299",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%BE%BA%E6%9D%91_(%E5%9F%BC%E7%8E%89%E7%9C%8C%E5%8C%97%E5%9F%BC%E7%8E%89%E9%83%A1)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.191583333",
+          "139.673638888"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M023",
+          "M028"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q851680",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E9%A0%88%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.131444444",
+          "139.601777777"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11527284",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9D%91_(%E5%9F%BC%E7%8E%89%E7%9C%8C)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.156583333",
+          "139.677666666"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M029",
+          "M031",
+          "M034",
+          "M036",
+          "M043",
+          "M049",
+          "M052",
+          "M057",
+          "M068",
+          "M079",
+          "M093"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q177452",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%88%A9%E6%A0%B9%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2771133",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.054416666",
+          "139.1015"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11527284",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%9D%91_(%E5%9F%BC%E7%8E%89%E7%9C%8C)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.156583333",
+          "139.677666666"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M035",
+          "M046",
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q141017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B9%BE",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13904308",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.416666666",
+          "139.783333333"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M038",
+          "M063",
+          "M081",
+          "M086"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E7%94%BA#%E6%9D%B1%E4%BA%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%8B%E7%94%BA"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80011",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2679957",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.604583333",
+          "140.123194444"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q83273",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2682940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.341722222",
+          "140.446833333"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q98",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B",
+          "openstreetmap": "https://www.openstreetmap.org/node/305640005"
+        },
+        "coordinate": [
+          "0.0",
+          "-160.0"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3566607",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%89%AF%E7%80%AC%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13291470",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.6852",
+          "139.3535"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M045"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M047",
+          "M054"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q205662",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B9%95%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M048",
+          "M053",
+          "M055",
+          "M058"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q215646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.683888888",
+          "139.774444444"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M050",
+          "M065",
+          "M097"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q625465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D_(%E9%96%A2%E6%9D%B1)",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3922416",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.136111111",
+          "139.368333333"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M056",
+          "M061"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17214338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%A1%E5%A0%A4"
+        }
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3125096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q18339554",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB43%E5%B9%B4%E3%81%AE%E5%A4%A7%E6%B0%B4%E5%AE%B3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M064"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q625465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%9D_(%E9%96%A2%E6%9D%B1)",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3922416",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.136111111",
+          "139.368333333"
+        ]
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M066"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M070"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11438690",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%90%BD%E5%8F%A4%E5%88%A9%E6%A0%B9%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.72251",
+          "139.84337"
+        ]
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M071"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q15622750",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%A9%E7%8F%BE%E5%A0%82%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M072"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2613967",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6613",
+          "139.85"
+        ]
+      },
+      "E036": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2613967",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6613",
+          "139.85"
+        ]
+      },
+      "E037": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11388047",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%83%E8%8D%92%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E038": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q21653007",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%90%88%E6%BA%9C%E4%BA%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.788059",
+          "139.871074"
+        ]
+      },
+      "E039": {
+        "member_mention_ids": [
+          "M078",
+          "M084"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://tokyo-trip.org/spot/visiting/tk0811/"
+        }
+      },
+      "E040": {
+        "member_mention_ids": [
+          "M082",
+          "M083"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1194505",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B7%9D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.108888888",
+          "139.775277777"
+        ]
+      },
+      "E041": {
+        "member_mention_ids": [
+          "M089"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11621056",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%91%9B%E9%A3%BE%E5%8C%BA%E5%BD%B9%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.743472222",
+          "139.847166666"
+        ]
+      }
+    }
+  }
+}

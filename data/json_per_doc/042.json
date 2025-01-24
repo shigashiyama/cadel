@@ -1,0 +1,1214 @@
+{
+  "042": {
+    "metainfo": {
+      "src_date": "20220500",
+      "src_url": "https://www.kaiho.mlit.go.jp/info/books/report2022/html/honpen/6_03_chap2.htmlhttps://www.kaiho.mlit.go.jp/info/books/report2022/html/honpen/6_05_chap4.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "6　海上交通の安全を守る",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "title",
+        "text": "CHAPTER　II.　ふくそう海域・港内等の安全対策",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "海上保安庁では、海上交通の安全確保を図るため、海上交通ルールを遵守するように指導を行っており、特に、ふくそう海域における航路を閉塞するような社会的影響が著しい大規模海難の事故発生数を「ゼロ」とすることを目標として、海上交通センターにおいて24時間体制で的確な情報提供や航行管制を行い、船舶事故の未然防止に努めています。",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "004": {
+        "type": "heading",
+        "text": "令和3年の現況",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "005": {
+        "text": "船舶交通がふくそうする東京湾・伊勢湾・名古屋港・大阪湾・備讃瀬戸・来島海峡及び関門海峡での船舶海難隻数は745隻[*1]と、船舶海難全体の約4割を占めております。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "006": {
+        "text": "これらの海域で事故が発生した場合には、尊い人命や財産が失われるとともに、航路の閉塞や交通の制限により物資輸送が滞ることで、国際貨物輸送の99%以上(重量ベース)を海上輸送に頼る我が国の経済活動に大きな影響を及ぼすこととなります。",
+        "mention_ids": [
+          "M010",
+          "M011"
+        ]
+      },
+      "007": {
+        "text": "海上保安庁では、ふくそう海域等での海上交通の安全を確保するため、次の取組を実施しています。",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "008": {
+        "type": "supplement:footnote",
+        "text": "*1　民間救助機関等が対応した海難隻数を除く",
+        "mention_ids": []
+      },
+      "009": {
+        "type": "heading",
+        "text": "1　海域毎の交通ルール及び安全対策",
+        "mention_ids": []
+      },
+      "010": {
+        "text": "海上の交通ルールには、基本的なルールを定めた「海上衝突予防法」のほか、特別なルールとして東京湾・伊勢湾・大阪湾を含む瀬戸内海に適用される「海上交通安全法」、法令で定める港に適用される「港則法」があります。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "011": {
+        "text": "海上保安庁では、これらの法令を適切に運用することで、海上交通の安全確保を図っています。",
+        "mention_ids": [
+          "M020",
+          "M021"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "ふくそう海域における安全対策",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "海上交通の要衝となっている東京湾・伊勢湾・名古屋港・大阪湾・備讃瀬戸・来島海峡及び関門海峡には、海上交通センターを設置して、船舶の動静を把握し、航行の安全に必要な情報の提供や、大型船舶の航路入航間隔の調整を行うとともに、巡視船艇との連携により、通航方式に従わない船舶への指導等を実施しています。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "港内における安全対策",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "港則法に基づき、全国の87港を特定港に指定し、船舶の入出港状況の把握、危険物荷役の許可、停泊場所等の指定を行っており、また、一部の港においては船舶の出入港管制を行っております。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "沿岸における安全対策",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "AISを活用した航行安全システムを運用し、日本沿岸において乗揚げや走錨のおそれのあるAIS搭載船に対して注意喚起や各種航行安全情報を提供しています。",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "018": {
+        "type": "heading",
+        "text": "2　海上交通安全法等の一部を改正する法律",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "019": {
+        "text": "近年の台風等の異常気象が頻発化・激甚化する状況を踏まえ、さらなる事故防止対策の強化のため、令和3年7月1日に施行された海上交通安全法等の一部を改正する法律により、●異常な気象・海象が予想される場合の勧告・命令制度　●海上交通センターによる情報提供、危険回避措置の勧告制度　などが創設されました。",
+        "mention_ids": [
+          "M032",
+          "M033"
+        ]
+      },
+      "020": {
+        "text": "これにより、特に勢力の強い台風などが東京湾、伊勢湾、大阪湾を含む瀬戸内海を直撃すると予想される場合、大型船等の一定の船舶に対し、湾外などの安全な海域への避難を勧告することなどができるようになりました。",
+        "mention_ids": [
+          "M034",
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "021": {
+        "text": "また、それぞれの海域に、海上保安庁、行政機関、海域利用者等からなる協議会が設置され、勧告の対象となる台風の規模など具体的な運用ルールをあらかじめ策定し、台風が実際に直撃した際に円滑かつ迅速に対応できる体制を整えました。",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "022": {
+        "text": "昨年は、東京湾などにおいて湾外への避難を勧告するような台風の来襲はありませんでしたが、引き続き、本年の台風シーズンに向け、適切に制度を運用し、船舶交通の安全確保に努めてまいります。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "text": "潮流信号所の高機能化",
+        "mention_ids": []
+      },
+      "024": {
+        "text": "関門海峡及び来島海峡は、屈曲した狭い水道であることに加え、潮流も速いため、古くから海上交通の難所として知られています。",
+        "mention_ids": [
+          "M040",
+          "M041"
+        ]
+      },
+      "025": {
+        "text": "これら2カ所の海峡には、潮流の状況を示す潮流信号所が設置されており、海上交通センターが運用しています。",
+        "mention_ids": [
+          "M042"
+        ]
+      },
+      "026": {
+        "text": "潮流信号所には、大きなものでは縦12m、横9mもある電光表示板が設置されていて、60個以上の白熱電球を点滅させ、文字や矢印などで潮流の向きや強さ等を航行中の船舶へ知らせています。",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "船舶はこの情報を基に速力や進路を決定していますが、例えば、大型タンカーでは、時速約30kmから停止するまでに約15分間、距離にして約4kmも進んでしまうため、早めの操船判断を支援するには、電光表示板には遠方の船舶まで信号を届けられる十分な光力(明るさ)が必要とされます。",
+        "mention_ids": []
+      },
+      "028": {
+        "text": "これまでの電光表示板の白熱電球は一般的な電球と同様に、しばしば断芯(いわゆる球切れ)することがあり、海上交通センターの職員が定期的に電球を交換する必要があるほか、消費電力も大きく費用もかかるというのが悩みの種でした。",
+        "mention_ids": []
+      },
+      "029": {
+        "text": "海上保安庁ではこれまで、この白熱電球に代わるものとして、省エネ、長寿命に加え、応答性にも優れているLEDの利用を検討していましたが、十分な光力を得られるものがありませんでした。",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "030": {
+        "text": "しかし、近年では、白熱電球を上回る光力を持つ高輝度LEDが開発・実用化され、普及が進んできたことから、潮流信号所等にもLEDの導入を進め、電光表示板の視認性及び視認距離を向上させることで、船舶交通の安全性をより高めるとともに、費用や環境負荷の低減にも取り組んでいるところです。",
+        "mention_ids": []
+      },
+      "031": {
+        "type": "heading",
+        "text": "今後の取組",
+        "mention_ids": []
+      },
+      "032": {
+        "type": "heading",
+        "text": "海域の監視・情報提供体制の強化",
+        "mention_ids": []
+      },
+      "033": {
+        "text": "船舶事故の未然防止を図るため、レーダーや監視カメラ等、海域の監視体制を強化するとともに、船舶に対して、自然災害や海域の状況に関する、より正確な情報を提供していきます。",
+        "mention_ids": []
+      },
+      "034": {
+        "type": "heading",
+        "text": "船舶の航行安全のための技術開発",
+        "mention_ids": []
+      },
+      "035": {
+        "text": "航行管制業務において、船舶の衝突、乗揚げ、走錨等の危険を回避するための新たな技術開発を推進するほか、カメラ画像から船舶の位置を把握する技術を開発し、船舶の航行安全の向上を図ることとしています。",
+        "mention_ids": []
+      },
+      "036": {
+        "type": "heading",
+        "text": "自動運航船に係る検討の実施",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "近年、世界的に自動運航船に対する関心が高まってきており、我が国においても令和7年までの実用化を目指し、技術開発等が進められています。",
+        "mention_ids": [
+          "M044",
+          "M045"
+        ]
+      },
+      "038": {
+        "text": "このような状況をふまえ、海上保安庁では、国際海事機関(IMO)や関係国の海事機関等による自動運航船関連の会議に参加しているほか、国内では関係省庁や海事関係者が集まる会議に参加するなどして、自動運航船の実用化を見据えた海上交通ルールに関する検討を行っています。",
+        "mention_ids": [
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "039": {
+        "text": "引き続き、国内外の技術開発の動向を把握しつつ、必要な課題について検討を行っていきます。",
+        "mention_ids": [
+          "M049"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "005",
+        "span": [
+          11,
+          14
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "005",
+        "span": [
+          15,
+          18
+        ],
+        "text": "伊勢湾",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "005",
+        "span": [
+          19,
+          23
+        ],
+        "text": "名古屋港",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          24,
+          27
+        ],
+        "text": "大阪湾",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          28,
+          32
+        ],
+        "text": "備讃瀬戸",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          33,
+          37
+        ],
+        "text": "来島海峡",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          39,
+          43
+        ],
+        "text": "関門海峡",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          4,
+          6
+        ],
+        "text": "海域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          88,
+          91
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          5
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "010",
+        "span": [
+          23,
+          30
+        ],
+        "text": "海上衝突予防法",
+        "entity_type": "PRO",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "010",
+        "span": [
+          44,
+          47
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "010",
+        "span": [
+          48,
+          51
+        ],
+        "text": "伊勢湾",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "010",
+        "span": [
+          52,
+          55
+        ],
+        "text": "大阪湾",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "010",
+        "span": [
+          58,
+          62
+        ],
+        "text": "瀬戸内海",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "010",
+        "span": [
+          69,
+          76
+        ],
+        "text": "海上交通安全法",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "010",
+        "span": [
+          92,
+          95
+        ],
+        "text": "港則法",
+        "entity_type": "PRO",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          5
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "011",
+        "span": [
+          12,
+          14
+        ],
+        "text": "法令",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "013",
+        "span": [
+          13,
+          16
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "013",
+        "span": [
+          17,
+          20
+        ],
+        "text": "伊勢湾",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "013",
+        "span": [
+          21,
+          25
+        ],
+        "text": "名古屋港",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "013",
+        "span": [
+          26,
+          29
+        ],
+        "text": "大阪湾",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "013",
+        "span": [
+          30,
+          34
+        ],
+        "text": "備讃瀬戸",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "013",
+        "span": [
+          35,
+          39
+        ],
+        "text": "来島海峡",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "013",
+        "span": [
+          41,
+          45
+        ],
+        "text": "関門海峡",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          3
+        ],
+        "text": "港則法",
+        "entity_type": "PRO",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "017",
+        "span": [
+          21,
+          23
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "018",
+        "span": [
+          2,
+          20
+        ],
+        "text": "海上交通安全法等の一部を改正する法律",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "019",
+        "span": [
+          45,
+          47
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "019",
+        "span": [
+          59,
+          77
+        ],
+        "text": "海上交通安全法等の一部を改正する法律",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "020",
+        "span": [
+          18,
+          21
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "020",
+        "span": [
+          22,
+          25
+        ],
+        "text": "伊勢湾",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "020",
+        "span": [
+          26,
+          29
+        ],
+        "text": "大阪湾",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "020",
+        "span": [
+          32,
+          36
+        ],
+        "text": "瀬戸内海",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "021",
+        "span": [
+          12,
+          17
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "022",
+        "span": [
+          4,
+          7
+        ],
+        "text": "東京湾",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          4
+        ],
+        "text": "関門海峡",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "024",
+        "span": [
+          6,
+          10
+        ],
+        "text": "来島海峡",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "025",
+        "span": [
+          7,
+          9
+        ],
+        "text": "海峡",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          5
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "037",
+        "span": [
+          28,
+          31
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M045": {
+        "sentence_id": "037",
+        "span": [
+          36,
+          38
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "038",
+        "span": [
+          12,
+          17
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "038",
+        "span": [
+          20,
+          31
+        ],
+        "text": "国際海事機関(IMO)",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "038",
+        "span": [
+          64,
+          65
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "039",
+        "span": [
+          5,
+          6
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M012",
+          "M020",
+          "M038",
+          "M043",
+          "M046"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q565418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M032",
+          "M045"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M014",
+          "M022",
+          "M034",
+          "M039"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q141017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B9%BE",
+          "openstreetmap": "https://www.openstreetmap.org/relation/13904308",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.416666666",
+          "139.783333333"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M015",
+          "M023",
+          "M035"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1368308",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E6%B9%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.75",
+          "136.75"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M024"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1189542",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.03333333",
+          "136.85"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M016",
+          "M025",
+          "M036"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q999162",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E6%B9%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.5",
+          "135.3"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M026"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11387383",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%82%99%E8%AE%83%E7%80%AC%E6%88%B8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.405556",
+          "133.894444"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008",
+          "M027",
+          "M041"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8843313",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%A5%E5%B3%B6%E6%B5%B7%E5%B3%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.116666666",
+          "133.0"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009",
+          "M028",
+          "M040"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q494894",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E9%96%80%E6%B5%B7%E5%B3%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.946944444",
+          "130.946666666"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010",
+          "M021",
+          "M042"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M011",
+          "M030",
+          "M044",
+          "M048",
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11558717",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E8%A1%9D%E7%AA%81%E4%BA%88%E9%98%B2%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017",
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q231312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11588962",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.166666666",
+          "133.333333333"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11558667",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019",
+          "M029"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11563023",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B8%AF%E5%89%87%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11558667",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%AE%89%E5%85%A8%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q201054",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%B5%B7%E4%BA%8B%E6%A9%9F%E9%96%A2"
+        }
+      }
+    }
+  }
+}

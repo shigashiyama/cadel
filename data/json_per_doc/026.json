@@ -1,0 +1,1071 @@
+{
+  "026": {
+    "metainfo": {
+      "src_date": "20230602",
+      "src_url": "https://www.jfa.maff.go.jp/j/kikaku/wpaper/r04_h/trend/1/t1_1_4.html#u"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和4年度水産白書　第1部　第1章　我が国の水産物の需給・消費をめぐる動き　(4)水産物貿易の動向",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "ウ　水産物輸出の拡大に向けた取組",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "heading",
+        "text": "〈水産物輸出目標は、令和12(2030)年までに1.2兆円〉",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "国内の水産物市場が縮小する一方で、世界の水産物市場はアジアを中心に拡大しています。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "005": {
+        "text": "このため、我が国の漁業者等の所得向上を図り、水産業が持続的に発展していくためには、水産物の輸出の大幅な拡大を図り、世界の食市場を獲得していくことが不可欠です。",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "006": {
+        "text": "このような中で、「農林水産物・食品輸出プロジェクト(GFP)」により、輸出診断、ビジネスマッチング、輸出事業者のレベルに応じたサポートが行われているほか、新たに輸出に取り組む輸出スタートアップを増やしていくため、現場に密着したサポート体制を強化することとしています。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "このほか、独立行政法人日本貿易振興機構(にほんぼうえきしんこうきこう)(JETRO)による輸出総合サポート、日本食品海外(にほんしょくひんかいがい)プロモーションセンター(JFOODO)による戦略的プロモーションや民間団体・民間事業者等によるPR・販売促進活動等が行われています。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "008": {
+        "text": "また、香港や米国等の主要な輸出先国・地域において、現地発の情報・戦略に基づき輸出事業者を専門的・継続的に支援するため、在外公館、JETRO海外事務所、JFOODO海外駐在員を主要な構成員とする輸出支援プラットフォームが設立されました。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "009": {
+        "text": "さらに、海外現地法人を設立し、設備投資等を行う場合の資金供給を促進するとともに、投資円滑化法[*1]に基づき、民間の投資主体による輸出に取り組む事業者への資金供給の促進に取り組んでいます。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "010": {
+        "text": "くわえて、輸出先国・地域の衛生基準等に適合した輸出環境を整備するため、政府は、欧米への輸出時に必要とされる水産加工施設等のHACCP[*2]対応や、輸出増大が見込まれる漁港における高度な衛生管理体制の構築、海外の規制・ニーズに対応した輸出産地形成の取組等を進めています。",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "011": {
+        "text": "令和2(2020)年4月に施行された農林水産物及び食品の輸出の促進に関する法律[*3](以下「輸出促進法」といいます。)は、我が国で生産された農林水産物・食品の輸出の促進を図り、農林水産業・食品産業の持続的な発展に寄与することを目的としており、本法に基づき、同月に「農林水産物・食品輸出本部」を農林水産省に創設しました。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "012": {
+        "text": "この本部においては、輸出を戦略的かつ効率的に促進するための基本方針や実行計画(工程表)を策定し、進捗管理を行うとともに、関係省庁が一丸となって、輸出先国に対する輸入規制等の撤廃に向けた協議、輸出証明書発行や施設認定等の輸出を円滑化するための環境整備、輸出に取り組む事業者の支援等を実施しています。",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "013": {
+        "text": "また、同年3月6日に開催された「農林水産物・食品の輸出拡大のための輸入国規制への対応等に関する関係閣僚会議」において、令和12(2030)年までに農林水産物・食品の輸出額を5兆円とする新たな目標が示され、同月31日に閣議決定された「食料・農業・農村基本計画」において同目標が位置付けられました。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "014": {
+        "text": "この目標の中で、水産物の輸出額は1.2兆円とされています。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "さらに、令和2(2020)年12月に「農林水産業・地域の活力創造本部」において、マーケットインで輸出に取り組む体制を整備するため、「農林水産物・食品の輸出拡大実行戦略」を決定するとともに、令和4(2022)年12月には「食料安定供給・農林水産業基盤強化本部」において同戦略を改訂し、令和5(2023)年度に実施する施策及び令和6(2024)年度以降に実施すべき施策の方向を決定しました。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030"
+        ]
+      },
+      "016": {
+        "text": "同戦略では、海外で評価される我が国の強みがあり、輸出拡大の余地が大きく、関係者が一体になった輸出促進活動が効果的な品目として、29品目[*4]の輸出重点品目(水産物では、ぶり、たい、ホタテ貝、真珠及び錦鯉の5品目)を選定して、これらの品目について、主として輸出向けの生産を行う輸出産地をリスト化することとしており、水産物については、延べ21産地(令和4(2022)年12月時点)が掲載されています。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "017": {
+        "text": "そして、令和4(2022)年10月には輸出促進法が改正され、輸出重点品目についてオールジャパンによる輸出促進活動を行う体制を備えた農林水産物・食品輸出促進団体(以下「品目団体」といいます。)の認定制度や、株式会社日本政策金融公庫(にっぽんせいさくきんゆうこうこ)による貸付制度である農林水産物・食品輸出基盤強化資金が創設されました。",
+        "mention_ids": [
+          "M033",
+          "M034",
+          "M035"
+        ]
+      },
+      "018": {
+        "text": "このうち品目団体については、令和4(2022)年度末時点で、真珠、錦鯉等17品目9団体を認定しています。",
+        "mention_ids": [
+          "M036"
+        ]
+      },
+      "019": {
+        "text": "このような取組により、令和4(2022)年の水産物の輸出額は前年比28.5%増の3,873億円となり、農林水産物・食品の輸出額は、前年比14.3%増の1兆4,148億円となりました。",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "020": {
+        "type": "supplement:footnote",
+        "text": "*1　正式名称:農林漁業法人等に対する投資の円滑化に関する特別措置法(平成14年法律第52号)",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "021": {
+        "type": "supplement:footnote",
+        "text": "*2　Hazard　Analysis　and　Critical　Control　Point:危害要因分析・重要管理点。原材料の受入れから最終製品に至るまでの工程ごとに、微生物による汚染や金属の混入等の食品の製造工程で発生するおそれのある危害要因をあらかじめ分析(HA)し、危害の防止につながる特に重要な工程を重要管理点(CCP)として継続的に監視・記録する工程管理システム。FAOと世界保健機関(WHO)の合同機関である食品規格(コーデックス)委員会がガイドラインを策定して各国にその採用を推奨している。",
+        "mention_ids": [
+          "M039",
+          "M040",
+          "M041"
+        ]
+      },
+      "022": {
+        "type": "supplement:footnote",
+        "text": "*3　令和元年法律第57号",
+        "mention_ids": [
+          "M042"
+        ]
+      },
+      "023": {
+        "type": "supplement:footnote",
+        "text": "*4　牛肉、豚肉、鶏肉、鶏卵、牛乳・乳製品、果樹(りんご)、果樹(ぶどう)、果樹(もも)、果樹(かんきつ)、果樹(かき・かき加工品)、野菜(いちご)、野菜(かんしょ等)、切り花、茶、コメ・パックご飯・米粉及び米粉製品、製材、合板、ぶり、たい、ホタテ貝、真珠、錦鯉、清涼飲料水、菓子、ソース混合調味料、味噌・醤油、清酒(日本酒)、ウイスキー、本格焼酎・泡盛。",
+        "mention_ids": [
+          "M043"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          9
+        ],
+        "text": "令和4年度水産白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          18,
+          21
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          12
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          1
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          26,
+          29
+        ],
+        "text": "アジア",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          5,
+          8
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "007",
+        "span": [
+          5,
+          42
+        ],
+        "text": "独立行政法人日本貿易振興機構(にほんぼうえきしんこうきこう)(JETRO)",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          54,
+          93
+        ],
+        "text": "日本食品海外(にほんしょくひんかいがい)プロモーションセンター(JFOODO)",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "008",
+        "span": [
+          3,
+          5
+        ],
+        "text": "香港",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "008",
+        "span": [
+          6,
+          8
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "008",
+        "span": [
+          64,
+          69
+        ],
+        "text": "JETRO",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          75,
+          81
+        ],
+        "text": "JFOODO",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "009",
+        "span": [
+          40,
+          46
+        ],
+        "text": "投資円滑化法",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "010",
+        "span": [
+          39,
+          41
+        ],
+        "text": "欧米",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "011",
+        "span": [
+          18,
+          39
+        ],
+        "text": "農林水産物及び食品の輸出の促進に関する法律",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "011",
+        "span": [
+          47,
+          52
+        ],
+        "text": "輸出促進法",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "011",
+        "span": [
+          62,
+          65
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "011",
+        "span": [
+          133,
+          145
+        ],
+        "text": "農林水産物・食品輸出本部",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "011",
+        "span": [
+          147,
+          152
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "012",
+        "span": [
+          2,
+          4
+        ],
+        "text": "本部",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "013",
+        "span": [
+          16,
+          53
+        ],
+        "text": "農林水産物・食品の輸出拡大のための輸入国規制への対応等に関する関係閣僚会議",
+        "entity_type": "EVE",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "013",
+        "span": [
+          59,
+          61
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "013",
+        "span": [
+          108,
+          110
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "015",
+        "span": [
+          4,
+          6
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "015",
+        "span": [
+          19,
+          34
+        ],
+        "text": "農林水産業・地域の活力創造本部",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "015",
+        "span": [
+          94,
+          96
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "015",
+        "span": [
+          110,
+          128
+        ],
+        "text": "食料安定供給・農林水産業基盤強化本部",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "015",
+        "span": [
+          141,
+          143
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "015",
+        "span": [
+          161,
+          163
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "016",
+        "span": [
+          14,
+          17
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "016",
+        "span": [
+          173,
+          175
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "017",
+        "span": [
+          4,
+          6
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "017",
+        "span": [
+          19,
+          24
+        ],
+        "text": "輸出促進法",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "017",
+        "span": [
+          102,
+          131
+        ],
+        "text": "株式会社日本政策金融公庫(にっぽんせいさくきんゆうこうこ)",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "018",
+        "span": [
+          14,
+          16
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "019",
+        "span": [
+          11,
+          13
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "020",
+        "span": [
+          8,
+          47
+        ],
+        "text": "農林漁業法人等に対する投資の円滑化に関する特別措置法(平成14年法律第52号)",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "021",
+        "span": [
+          187,
+          190
+        ],
+        "text": "FAO",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "021",
+        "span": [
+          191,
+          202
+        ],
+        "text": "世界保健機関(WHO)",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "021",
+        "span": [
+          210,
+          225
+        ],
+        "text": "食品規格(コーデックス)委員会",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "022",
+        "span": [
+          3,
+          13
+        ],
+        "text": "令和元年法律第57号",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "023",
+        "span": [
+          159,
+          161
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004",
+          "M006",
+          "M018",
+          "M031",
+          "M043"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M015",
+          "M023",
+          "M025",
+          "M027",
+          "M029",
+          "M030",
+          "M032",
+          "M033",
+          "M036",
+          "M037"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "coordinate": [
+          "43.681111111",
+          "87.331111111"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007",
+          "M011"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1364370",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%B2%BF%E6%98%93%E6%8C%AF%E8%88%88%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M012"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1364370",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%B2%BF%E6%98%93%E6%8C%AF%E8%88%88%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/913110",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "22.278333333",
+          "114.158611111"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/148838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "39.828175",
+          "-98.5795"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013",
+          "M038"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.shugiin.go.jp/internet/itdb_housei.nsf/html/housei/15420020529052.htm"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11544940",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E7%B1%B3"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M016",
+          "M017",
+          "M034",
+          "M042"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q85883950",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%89%A9%E5%8F%8A%E3%81%B3%E9%A3%9F%E5%93%81%E3%81%AE%E8%BC%B8%E5%87%BA%E3%81%AE%E4%BF%83%E9%80%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019",
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q108861433"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "other": "https://www.kantei.go.jp/jp/singi/nousui/yunyuukoku_kisei_kaigi/index.html"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "other": "https://www.kantei.go.jp/jp/singi/nousui/index.html"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.kantei.go.jp/jp/singi/nousui/index.html"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11508160",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%94%BF%E7%AD%96%E9%87%91%E8%9E%8D%E5%85%AC%E5%BA%AB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q82151",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E9%A3%9F%E7%B3%A7%E8%BE%B2%E6%A5%AD%E6%A9%9F%E9%96%A2"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7817",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BF%9D%E5%81%A5%E6%A9%9F%E9%96%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q668"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q88958793",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%A3%9F%E5%93%81%E8%A6%8F%E6%A0%BC%E5%A7%94%E5%93%A1%E4%BC%9A"
+        }
+      }
+    }
+  }
+}

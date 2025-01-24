@@ -1,0 +1,2054 @@
+{
+  "005": {
+    "metainfo": {
+      "src_date": "20170300",
+      "src_url": "https://www.mlit.go.jp/common/001270459.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/toshi/townscape/toshi_townscape_tk_000041.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "第2章　地域資源を活用した良好な景観の形成促進方策の検討",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "title",
+        "text": "1北海道函館市",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "市の概要",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "函館市は、渡島半島の南東部に位置し、東・南・北の三方を太平洋・津軽海峡に囲まれ、西は北斗市・七飯町・鹿部町と接している。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "005": {
+        "text": "函館は、かつて孤立した島であった函館山が砂の堆積によって陸地と結びつき、ほかに類のない独特の地形を生み出し、函館山の裾野から北へ扇状に広がる市街地が形成された。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "006": {
+        "text": "1859(安政6)年、函館は、横浜、長崎とともにいち早く海外に門戸を開いたことにより、外国人が市街地に居留することとなり、現在の元町地区を中心に教会や領事館などが建てられ、異国情緒豊かな町並みが形成された。",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "人口",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "265,159　人(平成　29　年1月)",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "009": {
+        "type": "heading",
+        "text": "景観施策の概要",
+        "mention_ids": []
+      },
+      "010": {
+        "type": "heading",
+        "text": "景観計画",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "函館市景観計画、平成　20　年　10　月策定",
+        "mention_ids": [
+          "M020",
+          "M021"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "重点地区",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "都市景観形成地域の指定(伝統的建造物群保全地区を含む地域)",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "主な景観施策",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "元町末広町伝統的建造物群保存地区の指定",
+        "mention_ids": [
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "016": {
+        "text": "都市景観形成地域における景観デザイン指針と事前協議制度",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "都市景観形成地域の景観形成住宅等建築奨励金制度",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "屋外広告物整備地区の指定",
+        "mention_ids": []
+      },
+      "019": {
+        "type": "heading",
+        "text": "観光施策の概要",
+        "mention_ids": []
+      },
+      "020": {
+        "type": "heading",
+        "text": "観光基本計画",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "函館市観光基本計画、平成　26　年4月策定",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      },
+      "022": {
+        "text": "観光スポット　函館山・夜景、元町地区、函館駅前、大門地区、ウォーターフロント・赤レンガ倉庫群、朝市・自由市場、湯の川温泉、五稜郭等",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "text": "観光入込数",
+        "mention_ids": []
+      },
+      "024": {
+        "text": "4,947　千人(平成　27　年)",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "025": {
+        "type": "heading",
+        "text": "観光と景観の取組み概要",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "〇観光の概要",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "・函館市観光基本計画によると、訪問先は、「ウォーターフロント」、「元町周辺」、「函館山」の三つが極めて高い割合を示しており、ほとんどの観光客がこの三つのスポットを訪れている。",
+        "mention_ids": [
+          "M039",
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "028": {
+        "text": "これらは、それぞれの魅力とともに、徒歩移動も可能なコンパクトなエリアに集中しているためと考えられる。",
+        "mention_ids": []
+      },
+      "029": {
+        "text": "・次に人気のある「五稜郭」は、平成　18　年の五稜郭タワーの建て替え、平成　22　年の箱館奉行所のオープンにより、魅力が向上したためと想定できる。",
+        "mention_ids": [
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047"
+        ]
+      },
+      "030": {
+        "type": "supplement:legend",
+        "text": "五稜郭",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "031": {
+        "type": "supplement:legend",
+        "text": "ウォーターフロント",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "032": {
+        "type": "supplement:legend",
+        "text": "函館山からの夜景",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "033": {
+        "text": "〇景観の概要",
+        "mention_ids": []
+      },
+      "034": {
+        "text": "・景観計画では、伝統的建造物群保存地区の周辺を都市景観形成地域として指定しており、次のような景観施策を講じることにより、良好な景観形成を推進している。",
+        "mention_ids": [
+          "M051"
+        ]
+      },
+      "035": {
+        "text": "◇景観形成住宅等建築奨励金制度",
+        "mention_ids": []
+      },
+      "036": {
+        "text": "◇広告景観整備地区の指定",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "◇景観形成指定建築物等の指定",
+        "mention_ids": []
+      },
+      "038": {
+        "text": "◇景観デザイン指針等を活用した事前協議制度",
+        "mention_ids": []
+      },
+      "039": {
+        "text": "◇景観整備機構による土地・建物相談",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "040": {
+        "type": "heading",
+        "text": "○良好な景観の形成促進に向けて",
+        "mention_ids": []
+      },
+      "041": {
+        "text": "◇現在の景観・観光施策の継続・発展",
+        "mention_ids": []
+      },
+      "042": {
+        "text": "・景観資源が集積している都市景観形成地域では、伝統的建造物群保存地区とその周辺において、歴史的な町並みの保全・活用や屋外広告物の規制・誘導等に取り組んでいる。",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "043": {
+        "text": "・今後も、この取り組みを継続させ、良好な景観形成を持続的に取り組むことが大切である。",
+        "mention_ids": []
+      },
+      "044": {
+        "text": "◇市の玄関口の顔づくり",
+        "mention_ids": [
+          "M054"
+        ]
+      },
+      "045": {
+        "text": "・函館市の観光客は、バス、飛行機、鉄道、船舶などの多様な交通手段で訪問している。",
+        "mention_ids": [
+          "M055"
+        ]
+      },
+      "046": {
+        "text": "これらは、市の玄関口として来訪者に強い印象を与える重要な場所である。",
+        "mention_ids": [
+          "M056"
+        ]
+      },
+      "047": {
+        "text": "・各玄関口の顔づくりを進めるとともに、飛行場から中心市街地へのアクセス道路沿いの景観誘導等の取組みを行うことが考えられる。",
+        "mention_ids": [
+          "M057",
+          "M058"
+        ]
+      },
+      "048": {
+        "text": "◇主要な景観資源の魅力向上",
+        "mention_ids": []
+      },
+      "049": {
+        "text": "・函館市内には、市のシンボルともいえる歴史的な施設が点在しており、これらは、市の魅力や価値を高める貴重な資産であるといえる。",
+        "mention_ids": [
+          "M059",
+          "M060",
+          "M061"
+        ]
+      },
+      "050": {
+        "text": "・各施設の敷地や広場、建造物をできるだけ良い状態とするとともに、ロゴやサインの統一やアプローチの景観の質の向上など、総合的な価値向上に取り組むことが考えられる。",
+        "mention_ids": []
+      },
+      "051": {
+        "text": "◇回遊・ネットワークの向上",
+        "mention_ids": []
+      },
+      "052": {
+        "text": "・主要な景観資源は、都市景観形成地域内に集積しているが、五稜郭や温泉街等は、中心市街地から一定の距離がある。",
+        "mention_ids": [
+          "M062",
+          "M063",
+          "M064"
+        ]
+      },
+      "053": {
+        "text": "・都市景観形成地域内では、安全で快適な回遊性を確保するための道路空間の整備や案内サインシステムの構築を図るとともに、交通施策と連携した主要資源のネットワーク形成に取組むことが考えられる。",
+        "mention_ids": []
+      },
+      "054": {
+        "text": "◇夜間景観の保全や誘導",
+        "mention_ids": []
+      },
+      "055": {
+        "text": "・函館市の重要な観光資源の1つである函館山の夜間景観を保全、活用するため、必要に応じて周辺の市町村との調整や観光・イベントとの連携等に取り組みことが想定できる。",
+        "mention_ids": [
+          "M065",
+          "M066"
+        ]
+      },
+      "056": {
+        "text": "■都市景観形成地域の景観形成住宅等建築奨励金制度",
+        "mention_ids": []
+      },
+      "057": {
+        "text": "・函館西部地区には,和風・洋風・和洋折衷様式などの歴史的な建築様式を受け継ぐ建物が今も数多く建ち並び,坂道などと融け合いながら,函館らしい町並みが形成されています。",
+        "mention_ids": [
+          "M067",
+          "M068"
+        ]
+      },
+      "058": {
+        "text": "市では,このような函館らしい歴史と文化を形づくっている景観を有している地域を「都市景観形成地域」に指定して,歴史的な景観の保全に努めています。",
+        "mention_ids": [
+          "M069",
+          "M070"
+        ]
+      },
+      "059": {
+        "text": "・都市景観形成地域の歴史的な景観を維持していくために,地域内において函館らしい歴史的な景観に配慮した建物を新築または購入する場合,既存の建物を函館らしい歴史的な景観に配慮した建に改修する場合,奨励金を交付します。",
+        "mention_ids": [
+          "M071",
+          "M072"
+        ]
+      },
+      "060": {
+        "text": "■奨励の対象",
+        "mention_ids": []
+      },
+      "061": {
+        "text": "1都市景観形成地域(伝統的建造物群保存地区を除く。)内の公道に面する場所において建物を新築または購入する場合,既存建物を改修する場合。",
+        "mention_ids": [
+          "M073"
+        ]
+      },
+      "062": {
+        "text": "2建物については,　「函館らしい歴史的な景観への配慮基準」に適合している必要があり,配慮基準の適合については,景観アドバイザーと協議していただきます。",
+        "mention_ids": [
+          "M074"
+        ]
+      },
+      "063": {
+        "text": "3建物の用途は,住宅,店舗,事務所等であること。",
+        "mention_ids": []
+      },
+      "064": {
+        "text": "4建物の階数は2以下とし,地階を有しないものであること。",
+        "mention_ids": []
+      },
+      "065": {
+        "text": "5外構については,建物および周辺の景観と調和のとれたものであること。",
+        "mention_ids": []
+      },
+      "066": {
+        "text": "6屋外広告物を設置する場合は,建物および周辺の景観と調和のとれたものであること。",
+        "mention_ids": []
+      },
+      "067": {
+        "text": "■景観整備機構による土地・建物の利活用相談",
+        "mention_ids": [
+          "M075"
+        ]
+      },
+      "068": {
+        "text": "函館市より景観整備機構の指定を受けた特定非営利活動法人はこだて街なかプロジェクト(平成　27　年　8　月　10　日指定)は、都市景観形成地域内において、土地・建物の利活用相談(相談料は無料)を受けている。",
+        "mention_ids": [
+          "M076",
+          "M077",
+          "M078",
+          "M079"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          4
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          4,
+          7
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          1
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          5,
+          9
+        ],
+        "text": "渡島半島",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          27,
+          30
+        ],
+        "text": "太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          31,
+          35
+        ],
+        "text": "津軽海峡",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          42,
+          45
+        ],
+        "text": "北斗市",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          46,
+          49
+        ],
+        "text": "七飯町",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          50,
+          53
+        ],
+        "text": "鹿部町",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          2
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          16,
+          19
+        ],
+        "text": "函館山",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          54,
+          57
+        ],
+        "text": "函館山",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          5,
+          7
+        ],
+        "text": "安政",
+        "entity_type": "TIME",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "006",
+        "span": [
+          11,
+          13
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          15,
+          17
+        ],
+        "text": "横浜",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "006",
+        "span": [
+          18,
+          20
+        ],
+        "text": "長崎",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "006",
+        "span": [
+          64,
+          68
+        ],
+        "text": "元町地区",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "008",
+        "span": [
+          10,
+          12
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          3
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "011",
+        "span": [
+          8,
+          10
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "013",
+        "span": [
+          12,
+          23
+        ],
+        "text": "伝統的建造物群保全地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          2
+        ],
+        "text": "元町",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "015",
+        "span": [
+          2,
+          5
+        ],
+        "text": "末広町",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "015",
+        "span": [
+          5,
+          16
+        ],
+        "text": "伝統的建造物群保存地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "021",
+        "span": [
+          0,
+          3
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "021",
+        "span": [
+          10,
+          12
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "022",
+        "span": [
+          7,
+          10
+        ],
+        "text": "函館山",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "022",
+        "span": [
+          14,
+          18
+        ],
+        "text": "元町地区",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "022",
+        "span": [
+          19,
+          22
+        ],
+        "text": "函館駅",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "022",
+        "span": [
+          24,
+          28
+        ],
+        "text": "大門地区",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "022",
+        "span": [
+          29,
+          38
+        ],
+        "text": "ウォーターフロント",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "022",
+        "span": [
+          39,
+          46
+        ],
+        "text": "赤レンガ倉庫群",
+        "entity_type": "NOMINAL",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "022",
+        "span": [
+          47,
+          49
+        ],
+        "text": "朝市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "022",
+        "span": [
+          50,
+          54
+        ],
+        "text": "自由市場",
+        "entity_type": "NOMINAL",
+        "entity_id": "E023",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "022",
+        "span": [
+          55,
+          60
+        ],
+        "text": "湯の川温泉",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "022",
+        "span": [
+          61,
+          64
+        ],
+        "text": "五稜郭",
+        "entity_type": "FAC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "024",
+        "span": [
+          9,
+          11
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "027",
+        "span": [
+          1,
+          4
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "027",
+        "span": [
+          21,
+          30
+        ],
+        "text": "ウォーターフロント",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "027",
+        "span": [
+          33,
+          35
+        ],
+        "text": "元町",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "027",
+        "span": [
+          40,
+          43
+        ],
+        "text": "函館山",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "029",
+        "span": [
+          9,
+          12
+        ],
+        "text": "五稜郭",
+        "entity_type": "FAC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M044": {
+        "sentence_id": "029",
+        "span": [
+          15,
+          17
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "029",
+        "span": [
+          23,
+          29
+        ],
+        "text": "五稜郭タワー",
+        "entity_type": "FAC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "029",
+        "span": [
+          35,
+          37
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "029",
+        "span": [
+          43,
+          48
+        ],
+        "text": "箱館奉行所",
+        "entity_type": "FAC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          3
+        ],
+        "text": "五稜郭",
+        "entity_type": "FAC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "031",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ウォーターフロント",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "032",
+        "span": [
+          0,
+          3
+        ],
+        "text": "函館山",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M051": {
+        "sentence_id": "034",
+        "span": [
+          8,
+          19
+        ],
+        "text": "伝統的建造物群保存地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "039",
+        "span": [
+          1,
+          7
+        ],
+        "text": "景観整備機構",
+        "entity_type": "ORG",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "042",
+        "span": [
+          23,
+          34
+        ],
+        "text": "伝統的建造物群保存地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "044",
+        "span": [
+          1,
+          2
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M055": {
+        "sentence_id": "045",
+        "span": [
+          1,
+          4
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "046",
+        "span": [
+          5,
+          6
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M057": {
+        "sentence_id": "047",
+        "span": [
+          19,
+          22
+        ],
+        "text": "飛行場",
+        "entity_type": "NOMINAL",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M058": {
+        "sentence_id": "047",
+        "span": [
+          24,
+          29
+        ],
+        "text": "中心市街地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E030",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "049",
+        "span": [
+          1,
+          4
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M060": {
+        "sentence_id": "049",
+        "span": [
+          8,
+          9
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M061": {
+        "sentence_id": "049",
+        "span": [
+          38,
+          39
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M062": {
+        "sentence_id": "052",
+        "span": [
+          28,
+          31
+        ],
+        "text": "五稜郭",
+        "entity_type": "FAC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M063": {
+        "sentence_id": "052",
+        "span": [
+          32,
+          35
+        ],
+        "text": "温泉街",
+        "entity_type": "NOMINAL",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "052",
+        "span": [
+          38,
+          43
+        ],
+        "text": "中心市街地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E030",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M065": {
+        "sentence_id": "055",
+        "span": [
+          1,
+          4
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M066": {
+        "sentence_id": "055",
+        "span": [
+          18,
+          21
+        ],
+        "text": "函館山",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M067": {
+        "sentence_id": "057",
+        "span": [
+          1,
+          7
+        ],
+        "text": "函館西部地区",
+        "entity_type": "LOC",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "057",
+        "span": [
+          64,
+          66
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M069": {
+        "sentence_id": "058",
+        "span": [
+          0,
+          1
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M070": {
+        "sentence_id": "058",
+        "span": [
+          9,
+          11
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M071": {
+        "sentence_id": "059",
+        "span": [
+          34,
+          36
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M072": {
+        "sentence_id": "059",
+        "span": [
+          71,
+          73
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M073": {
+        "sentence_id": "061",
+        "span": [
+          10,
+          21
+        ],
+        "text": "伝統的建造物群保存地区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "062",
+        "span": [
+          11,
+          13
+        ],
+        "text": "函館",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M075": {
+        "sentence_id": "067",
+        "span": [
+          1,
+          7
+        ],
+        "text": "景観整備機構",
+        "entity_type": "ORG",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M076": {
+        "sentence_id": "068",
+        "span": [
+          0,
+          3
+        ],
+        "text": "函館市",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M077": {
+        "sentence_id": "068",
+        "span": [
+          5,
+          11
+        ],
+        "text": "景観整備機構",
+        "entity_type": "ORG",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M078": {
+        "sentence_id": "068",
+        "span": [
+          18,
+          40
+        ],
+        "text": "特定非営利活動法人はこだて街なかプロジェクト",
+        "entity_type": "ORG",
+        "entity_id": "E032",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M079": {
+        "sentence_id": "068",
+        "span": [
+          41,
+          43
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M011",
+          "M020",
+          "M026",
+          "M039",
+          "M054",
+          "M055",
+          "M056",
+          "M059",
+          "M060",
+          "M061",
+          "M065",
+          "M068",
+          "M069",
+          "M070",
+          "M071",
+          "M072",
+          "M074",
+          "M076"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q26418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4088019",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.768666666",
+          "140.728916666"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1370712",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E5%8D%8A%E5%B3%B6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.0",
+          "140.5"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q98",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E5%B9%B3%E6%B4%8B",
+          "openstreetmap": "https://www.openstreetmap.org/node/305640005"
+        },
+        "coordinate": [
+          "0.0",
+          "-160.0"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q271521",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B4%A5%E8%BB%BD%E6%B5%B7%E5%B3%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.33333",
+          "140.33333"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q842301",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.824111111",
+          "140.653027777"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1354276",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%83%E9%A3%AF%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.895694444",
+          "140.694388888"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q773727",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E9%83%A8%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.038583333",
+          "140.815916666"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012",
+          "M013",
+          "M028",
+          "M042",
+          "M050",
+          "M066"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3526214",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B1%B1",
+          "openstreetmap": "https://www.openstreetmap.org/node/263002494",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.758888888",
+          "140.704444444"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1327259",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%94%BF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q26418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4088019",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.768666666",
+          "140.728916666"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q38283",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2689482",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.450333333",
+          "139.634222222"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q38234",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4011885",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.749527777",
+          "129.879638888"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018",
+          "M023",
+          "M029",
+          "M041"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q26418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4088019",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.768666666",
+          "140.728916666"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019",
+          "M021",
+          "M027",
+          "M038",
+          "M044",
+          "M046",
+          "M079"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M022",
+          "M025",
+          "M051",
+          "M053",
+          "M073"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.hakodate.hokkaido.jp/docs/2014012200141/"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11093308",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%AB%E5%BA%83%E7%94%BA%E5%81%9C%E7%95%99%E5%A0%B4_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.7665",
+          "140.712"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1151274",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E9%A7%85",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.773736",
+          "140.726398"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11439819",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%96%80_(%E5%87%BD%E9%A4%A8%E5%B8%82)"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M032",
+          "M040",
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.hakonavi.ne.jp/site/course2/index.html"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11647285",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E8%B5%A4%E3%83%AC%E3%83%B3%E3%82%AC%E5%80%89%E5%BA%AB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.76614",
+          "140.71757"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q10896697",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E6%9C%9D%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.772555",
+          "140.725382"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://hakodate-jiyuichiba.com/"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M036",
+          "M063"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3916336",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B9%AF%E3%81%AE%E5%B7%9D%E6%B8%A9%E6%B3%89_(%E5%8C%97%E6%B5%B7%E9%81%93)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.77875",
+          "140.782583333"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M037",
+          "M043",
+          "M048",
+          "M062"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1196357",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD",
+          "openstreetmap": "https://www.openstreetmap.org/way/180806137",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.796944",
+          "140.756944"
+        ]
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M045"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17222936",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD%E3%82%BF%E3%83%AF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.794689",
+          "140.754003"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q123125845",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M052",
+          "M075",
+          "M077"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.pref.hokkaido.lg.jp/kn/tki/keikanseibikikou/top.html"
+        }
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1155685",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/57007999",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "41.77",
+          "140.821944444"
+        ]
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M058",
+          "M064"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.hakodate.hokkaido.jp/citizensvoice/docs/2021062400025/"
+        }
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M067"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11396030",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%87%BD%E9%A4%A8%E8%A5%BF%E9%83%A8%E5%9C%B0%E5%8C%BA%E3%81%AE%E7%94%BA%E4%B8%A6%E3%81%BF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M078"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.h-machi.com/index.html"
+        }
+      }
+    }
+  }
+}

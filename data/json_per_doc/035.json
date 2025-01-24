@@ -1,0 +1,2053 @@
+{
+  "035": {
+    "metainfo": {
+      "src_date": "20221213",
+      "src_url": "https://www.bousai.go.jp/kohou/kouhoubousai/r04/105/pdf/2022_vol105.pdf",
+      "src_parent_url": "https://www.bousai.go.jp/kohou/kouhoubousai/r04/105/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "広報誌「ぼうさい」　2022　No.105　防災の動き",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "「防災推進国民大会2022」の開催報告　未来につなぐ災害の経験と教訓~忘れない、伝える、活かす、備える~",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "　今回で7回目となる防災推進国民大会、通称「ぼうさいこくたい」は10月22日から23日にかけて、兵庫県神戸市で開催しました。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "004": {
+        "text": "近畿圏での開催は今回が初めてとなり、メイン会場となった「阪神・淡路大震災記念　人と防災未来センター」は、開設20年の節目の年にあたります。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "005": {
+        "text": "今大会は「未来につなぐ災害の経験と教訓~忘れない、伝える、活かす、備える~」をテーマに、災害の経験や教訓の伝承の重要性を再認識し、私たち一人ひとりが日頃から防災に取り組むことの大切さを訴える機会にするべく開催しました。",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "「ぼうさいこくたい」とは",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "007": {
+        "text": "　平成27年3月に開催された「第3回国連防災世界会議」で採択された国連の「仙台防災枠組2015−2030」では、自助・共助の重要性が国際的な共通認識とされました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "008": {
+        "text": "このため、平成27年9月、中央防災会議会長である内閣総理大臣の呼びかけにより、各界各層の有識者からなる「防災推進国民会議」が発足するとともに、この防災推進国民会議と、主に業界団体からなる「防災推進協議会」、そして内閣府の三者が主催者となって国民大会を開催することとなった。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "009": {
+        "text": "ぼうさいこくたいは、産官学、NPO、市民団体や国民の皆様が日頃から行っている防災活動を、全国的な規模で発表、交流する日本最大級の防災イベントとして、平成28年に第1回を開催し、これまでに7回開催しています。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026",
+          "M027"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "オープニングセッション・ハイレベルセッション",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "　22日朝のオープニングセッションでは、谷防災担当大臣から、27年前の阪神・淡路大震災は大災害への備えが十分できておらず、当時の国、地方自治体などに大きな衝撃を与えたこと、災害の多い我が国でその被害を最小限に抑えるためには、我々一人ひとりの努力が必要であること、そして、本大会がきっかけとなって新しい出会いやつながりが生まれ、防災の輪が全国各地に広がり、我が国の防災力強化に一層寄与して欲しいとの挨拶がありました。",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033"
+        ]
+      },
+      "012": {
+        "text": "　同じく主催者である清家防災推進国民会議議長(日本赤十字社社長)から挨拶があり、開催地の齋藤兵庫県知事及び久元神戸市長からも挨拶が行われました。",
+        "mention_ids": [
+          "M034",
+          "M035",
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040",
+          "M041"
+        ]
+      },
+      "013": {
+        "text": "　また、同日昼のハイレベルセッションでは、「大災害とわたし~トップリーダーがつなぐ災害の経験と教訓」をテーマに、兵庫県知事、神戸市長、国連防災機関(UNDRR)長であり国連事務総長特別代表(防災担当)を務める水鳥真美氏など、開催地及び国内外の各界を代表するトップリーダーから、災害にまつわる個人的な体験と、それぞれの立場から防災の取組の中で何を意識してきたかを語っていただき、国民一人ひとりが改めて災害への備えの大切さを見つめ直すきっかけとなりました。",
+        "mention_ids": [
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "セッション・ワークショップ・展示等",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "　今大会も防災の活動を実践する多様な団体が一堂に会し、さまざまな取組や知見を発信・共有する場となりました。",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "016": {
+        "text": "具体的には、講義型セッションや、来場者が楽しく学べる体験型ワークショップ、ブースやポスターで各団体の取組を発表するプレゼンテーション・ポスターセッション、今回初の試みとなった出展団体の取組をステージで発表するイグナイトステージ、車両などの屋外展示等、延べ300を超える団体に出展いただきました。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "また、前大会と同様に、会場での参加とオンラインでの参加を組み合わせたハイブリッド形式で行い、近畿圏での初めての開催に加えて、特に阪神・淡路大震災の被災地である兵庫県での開催ということもあり、来場者は2日間で約12,000人、オンライン視聴は約11,000回となり、多くの方にご参加いただきました。",
+        "mention_ids": [
+          "M050",
+          "M051",
+          "M052",
+          "M053",
+          "M054"
+        ]
+      },
+      "018": {
+        "text": "　今回の特色として、「人と防災未来センター」が中心となり地元有志と開催した会議(現地企画・情報共有会議)から生まれた共同企画の出展がなされるなど、これまで以上に地元の方々と一緒に作り上げた大会となりました。",
+        "mention_ids": [
+          "M055",
+          "M056"
+        ]
+      },
+      "019": {
+        "text": "　また、ぼうさいこくたいを盛り上げるために、二つのデジタルスタンプラリーも実施しました。",
+        "mention_ids": [
+          "M057"
+        ]
+      },
+      "020": {
+        "text": "第1弾は、阪神・淡路大震災当時の映像と現在の復興状況を自身の目で確かめながら、震災の教訓を学べるスタンプラリー(令和5年1月17日まで継続実施中)です。",
+        "mention_ids": [
+          "M058",
+          "M059",
+          "M060"
+        ]
+      },
+      "021": {
+        "text": "第2弾は、大会開催日限定で実施した、一般財団法人ポケモン・ウィズ・ユー財団の協力によるポケモンキャラクターを使ったスタンプラリーで、いずれも多くのご家族連れの方に好評をいただきました。",
+        "mention_ids": [
+          "M061",
+          "M062",
+          "M063"
+        ]
+      },
+      "022": {
+        "type": "heading",
+        "text": "ぼうさいこくたいの目指すもの",
+        "mention_ids": [
+          "M064"
+        ]
+      },
+      "023": {
+        "text": "　ぼうさいこくたいでは、国民の皆様が災害の経験や教訓の伝承の重要性を再認識し、日頃から防災に取り組むことの大切さを訴える機会にしたいと考えており、これは不朽のテーマであり、主催者としてこれからも継続していかなければならないと考えています。",
+        "mention_ids": [
+          "M065"
+        ]
+      },
+      "024": {
+        "text": "　ぼうさいこくたいの開催を通じて、「公助」の取組とともに、「できることは自分でやってみる」という「自助」、そして、「家族、地域でお互いに助け合う」という「共助」を組み合わせることにより地域全体で防災意識を高め、今後より一層あらゆる自然災害に備えていく必要があります。",
+        "mention_ids": [
+          "M066"
+        ]
+      },
+      "025": {
+        "type": "heading",
+        "text": "次回大会は来年9月17〜18日開催",
+        "mention_ids": [
+          "M067"
+        ]
+      },
+      "026": {
+        "text": "　第8回目となる「ぼうさいこくたい2023」は、関東大震災から100年の節目の年に当たることから、大震災の震源地である神奈川県において開催する予定です。",
+        "mention_ids": [
+          "M068",
+          "M069",
+          "M070",
+          "M071"
+        ]
+      },
+      "027": {
+        "text": "日程は令和5(2023)年9月17日(日)〜18日(月・祝)、会場は横浜市保土ケ谷区の横浜国立大学を予定しています。",
+        "mention_ids": [
+          "M072",
+          "M073",
+          "M074",
+          "M075"
+        ]
+      },
+      "028": {
+        "text": "関東大震災は、大正12年9月1日に発生し、近代日本の首都圏に未曾有の被害をもたらした、我が国の災害史において極めて重要な災害です。",
+        "mention_ids": [
+          "M076",
+          "M077",
+          "M078",
+          "M079",
+          "M080"
+        ]
+      },
+      "029": {
+        "text": "大会全体を通して、大震災の記憶の継承や首都圏住民に対する防災意識の啓発が行えるよう、地元自治体の協力も得ながら現在準備を進めています。",
+        "mention_ids": [
+          "M081",
+          "M082",
+          "M083",
+          "M084"
+        ]
+      },
+      "030": {
+        "type": "heading",
+        "text": "おわりに",
+        "mention_ids": []
+      },
+      "031": {
+        "text": "　近年、災害が頻発化、激甚化しているが、災害が起きたときに災害を自分のこととして捉え、自分たちの命は自分たちが守るという意識を一人ひとりが持っていただくことが重要です。",
+        "mention_ids": []
+      },
+      "032": {
+        "text": "　そのためには、国民の皆様が防災に主体的に参加できるようなきっかけづくりが非常に大切であり、そのきっかけづくりを内閣府防災　普及啓発・連携担当が主体となって担っていきたいと考えています。",
+        "mention_ids": [
+          "M085"
+        ]
+      },
+      "033": {
+        "text": "　今回のぼうさいこくたいが、多くの方にとって防災について考えるきっかけとなり、防災意識、防災力向上に寄与できたならば担当者として幸いです。",
+        "mention_ids": [
+          "M086"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          4,
+          8
+        ],
+        "text": "ぼうさい",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          13
+        ],
+        "text": "防災推進国民大会2022",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          18
+        ],
+        "text": "防災推進国民大会",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          22,
+          30
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          48,
+          51
+        ],
+        "text": "兵庫県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          51,
+          54
+        ],
+        "text": "神戸市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "近畿圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          28,
+          49
+        ],
+        "text": "阪神・淡路大震災記念　人と防災未来センター",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          3
+        ],
+        "text": "今大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          1,
+          9
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          1,
+          3
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "007",
+        "span": [
+          15,
+          26
+        ],
+        "text": "第3回国連防災世界会議",
+        "entity_type": "EVE",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          33,
+          35
+        ],
+        "text": "国連",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "007",
+        "span": [
+          37,
+          52
+        ],
+        "text": "仙台防災枠組2015−2030",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          5,
+          7
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "008",
+        "span": [
+          13,
+          19
+        ],
+        "text": "中央防災会議",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          24,
+          30
+        ],
+        "text": "内閣総理大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "008",
+        "span": [
+          52,
+          60
+        ],
+        "text": "防災推進国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "008",
+        "span": [
+          73,
+          81
+        ],
+        "text": "防災推進国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          94,
+          101
+        ],
+        "text": "防災推進協議会",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "008",
+        "span": [
+          106,
+          109
+        ],
+        "text": "内閣府",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "008",
+        "span": [
+          110,
+          112
+        ],
+        "text": "三者",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "008",
+        "span": [
+          120,
+          124
+        ],
+        "text": "国民大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          58,
+          60
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          74,
+          76
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          80,
+          83
+        ],
+        "text": "第1回",
+        "entity_type": "NOMINAL",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "011",
+        "span": [
+          20,
+          21
+        ],
+        "text": "谷",
+        "entity_type": "PER",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "011",
+        "span": [
+          35,
+          43
+        ],
+        "text": "阪神・淡路大震災",
+        "entity_type": "EVE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "011",
+        "span": [
+          64,
+          65
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "011",
+        "span": [
+          91,
+          94
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "011",
+        "span": [
+          135,
+          138
+        ],
+        "text": "本大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "011",
+        "span": [
+          177,
+          180
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "012",
+        "span": [
+          10,
+          12
+        ],
+        "text": "清家",
+        "entity_type": "PER",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "012",
+        "span": [
+          12,
+          20
+        ],
+        "text": "防災推進国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "012",
+        "span": [
+          23,
+          29
+        ],
+        "text": "日本赤十字社",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "012",
+        "span": [
+          40,
+          43
+        ],
+        "text": "開催地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "012",
+        "span": [
+          44,
+          46
+        ],
+        "text": "齋藤",
+        "entity_type": "PER",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "012",
+        "span": [
+          46,
+          49
+        ],
+        "text": "兵庫県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "012",
+        "span": [
+          53,
+          55
+        ],
+        "text": "久元",
+        "entity_type": "PER",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "012",
+        "span": [
+          55,
+          58
+        ],
+        "text": "神戸市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "013",
+        "span": [
+          56,
+          59
+        ],
+        "text": "兵庫県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "013",
+        "span": [
+          62,
+          65
+        ],
+        "text": "神戸市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M044": {
+        "sentence_id": "013",
+        "span": [
+          67,
+          80
+        ],
+        "text": "国連防災機関(UNDRR)",
+        "entity_type": "ORG",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "013",
+        "span": [
+          84,
+          86
+        ],
+        "text": "国連",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "013",
+        "span": [
+          104,
+          108
+        ],
+        "text": "水鳥真美",
+        "entity_type": "PER",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "013",
+        "span": [
+          112,
+          115
+        ],
+        "text": "開催地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "013",
+        "span": [
+          117,
+          118
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "015",
+        "span": [
+          1,
+          4
+        ],
+        "text": "今大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "017",
+        "span": [
+          3,
+          6
+        ],
+        "text": "前大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "017",
+        "span": [
+          11,
+          13
+        ],
+        "text": "会場",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "017",
+        "span": [
+          46,
+          49
+        ],
+        "text": "近畿圏",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "017",
+        "span": [
+          64,
+          72
+        ],
+        "text": "阪神・淡路大震災",
+        "entity_type": "EVE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "017",
+        "span": [
+          79,
+          82
+        ],
+        "text": "兵庫県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M055": {
+        "sentence_id": "018",
+        "span": [
+          11,
+          21
+        ],
+        "text": "人と防災未来センター",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "018",
+        "span": [
+          40,
+          51
+        ],
+        "text": "現地企画・情報共有会議",
+        "entity_type": "EVE",
+        "entity_id": "E029",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "019",
+        "span": [
+          4,
+          12
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "020",
+        "span": [
+          5,
+          13
+        ],
+        "text": "阪神・淡路大震災",
+        "entity_type": "EVE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "020",
+        "span": [
+          39,
+          41
+        ],
+        "text": "震災",
+        "entity_type": "NOMINAL",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "020",
+        "span": [
+          56,
+          58
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "021",
+        "span": [
+          5,
+          7
+        ],
+        "text": "大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "021",
+        "span": [
+          18,
+          37
+        ],
+        "text": "一般財団法人ポケモン・ウィズ・ユー財団",
+        "entity_type": "ORG",
+        "entity_id": "E031",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "021",
+        "span": [
+          43,
+          47
+        ],
+        "text": "ポケモン",
+        "entity_type": "PRO",
+        "entity_id": "E032",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M065": {
+        "sentence_id": "023",
+        "span": [
+          1,
+          9
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M066": {
+        "sentence_id": "024",
+        "span": [
+          1,
+          9
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E007",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          4
+        ],
+        "text": "次回大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E033",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "026",
+        "span": [
+          9,
+          21
+        ],
+        "text": "ぼうさいこくたい2023",
+        "entity_type": "EVE",
+        "entity_id": "E033",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M069": {
+        "sentence_id": "026",
+        "span": [
+          24,
+          29
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M070": {
+        "sentence_id": "026",
+        "span": [
+          49,
+          52
+        ],
+        "text": "大震災",
+        "entity_type": "NOMINAL",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "026",
+        "span": [
+          59,
+          63
+        ],
+        "text": "神奈川県",
+        "entity_type": "LOC",
+        "entity_id": "E035",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M072": {
+        "sentence_id": "027",
+        "span": [
+          3,
+          5
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "027",
+        "span": [
+          34,
+          37
+        ],
+        "text": "横浜市",
+        "entity_type": "LOC",
+        "entity_id": "E036",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M074": {
+        "sentence_id": "027",
+        "span": [
+          37,
+          42
+        ],
+        "text": "保土ケ谷区",
+        "entity_type": "LOC",
+        "entity_id": "E037",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M075": {
+        "sentence_id": "027",
+        "span": [
+          43,
+          49
+        ],
+        "text": "横浜国立大学",
+        "entity_type": "FAC",
+        "entity_id": "E038",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M076": {
+        "sentence_id": "028",
+        "span": [
+          0,
+          5
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M077": {
+        "sentence_id": "028",
+        "span": [
+          7,
+          9
+        ],
+        "text": "大正",
+        "entity_type": "TIME",
+        "entity_id": "E039",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M078": {
+        "sentence_id": "028",
+        "span": [
+          23,
+          25
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M079": {
+        "sentence_id": "028",
+        "span": [
+          26,
+          29
+        ],
+        "text": "首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M080": {
+        "sentence_id": "028",
+        "span": [
+          43,
+          46
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M081": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          2
+        ],
+        "text": "大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E033",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M082": {
+        "sentence_id": "029",
+        "span": [
+          9,
+          12
+        ],
+        "text": "大震災",
+        "entity_type": "NOMINAL",
+        "entity_id": "E034",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M083": {
+        "sentence_id": "029",
+        "span": [
+          19,
+          22
+        ],
+        "text": "首都圏",
+        "entity_type": "LOC",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M084": {
+        "sentence_id": "029",
+        "span": [
+          42,
+          47
+        ],
+        "text": "地元自治体",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M085": {
+        "sentence_id": "032",
+        "span": [
+          56,
+          59
+        ],
+        "text": "内閣府",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M086": {
+        "sentence_id": "033",
+        "span": [
+          4,
+          12
+        ],
+        "text": "ぼうさいこくたい",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M009",
+          "M032",
+          "M049",
+          "M057",
+          "M061",
+          "M086"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://bosai-kokutai.jp/2022/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M005",
+          "M039",
+          "M042",
+          "M054"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q130290",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/356912",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.69125",
+          "135.183083333"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006",
+          "M041",
+          "M043"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48320",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/900329",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.690166666",
+          "135.195444444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007",
+          "M052"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q164256",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "135.0"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M051",
+          "M055"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11375890",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E3%81%A8%E9%98%B2%E7%81%BD%E6%9C%AA%E6%9D%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.698087",
+          "135.214622"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010",
+          "M023",
+          "M024",
+          "M064",
+          "M065",
+          "M066"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://bosai-kokutai.jp/2022/about/"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011",
+          "M015",
+          "M026"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8035566",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%80%A3%E9%98%B2%E7%81%BD%E4%B8%96%E7%95%8C%E4%BC%9A%E8%AD%B0"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M013",
+          "M045"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1065",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q22907841",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E9%98%B2%E7%81%BD%E6%9E%A0%E7%B5%84"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11363818",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%98%B2%E7%81%BD%E4%BC%9A%E8%AD%B0"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018",
+          "M019",
+          "M035"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.bousai.go.jp/kaigirep/suishin/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.udri.net/portal/suisinkyou/suisinkyougi.htm"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M021",
+          "M085"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M022",
+          "M037",
+          "M047",
+          "M084"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M025",
+          "M030",
+          "M031",
+          "M033",
+          "M048",
+          "M078",
+          "M080"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.bousai.go.jp/kohou/kouhoubousai/h28/84/special_01.html"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6426240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%85%AC%E4%B8%80"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M029",
+          "M053",
+          "M058",
+          "M059"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11392882",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11560570",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B8%85%E5%AE%B6%E7%AF%A4"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4538440",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%B5%A4%E5%8D%81%E5%AD%97%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.659889722",
+          "139.75342"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107917854",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%8E%E8%97%A4%E5%85%83%E5%BD%A6"
+        }
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17229934",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%85%E5%85%83%E5%96%9C%E9%80%A0"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7888446",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%80%A3%E9%98%B2%E7%81%BD%E6%A9%9F%E9%96%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q39"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48763097",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%B3%A5%E7%9C%9F%E7%BE%8E"
+        }
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://bosai-kokutai.jp/2021/"
+        }
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M060",
+          "M072"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M062"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.pokemon-foundation.or.jp/"
+        }
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1156046",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3_(%E4%BC%81%E6%A5%AD)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M067",
+          "M068",
+          "M081"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://bosai-kokutai.jp/2023/"
+        }
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M069",
+          "M070",
+          "M076",
+          "M082"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3742341",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E5%A4%A7%E9%9C%87%E7%81%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M071"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127513",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2689487",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.44775",
+          "139.642527777"
+        ]
+      },
+      "E036": {
+        "member_mention_ids": [
+          "M073"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q38283",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2689482",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.450333333",
+          "139.634222222"
+        ]
+      },
+      "E037": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1192964",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%9C%9F%E3%82%B1%E8%B0%B7%E5%8C%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2689450",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.46",
+          "139.596111111"
+        ]
+      },
+      "E038": {
+        "member_mention_ids": [
+          "M075"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1192619",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.474",
+          "139.59"
+        ]
+      },
+      "E039": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q329174",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E040": {
+        "member_mention_ids": [
+          "M079",
+          "M083"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689722222",
+          "139.691666666"
+        ]
+      }
+    }
+  }
+}

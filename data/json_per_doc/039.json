@@ -1,0 +1,2036 @@
+{
+  "039-1": {
+    "metainfo": {
+      "src_date": "20230120",
+      "src_url": "https://www.moj.go.jp/content/001387343.pdf",
+      "src_parent_url": "https://www.moj.go.jp/housouken/housouken03_00118.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和4年版犯罪白書　第2編　犯罪者の処遇　第4章　成人矯正",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "第1節　概説",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "刑を言い渡した有罪の裁判が確定すると、全部執行猶予の場合を除き、検察官の指揮により刑が執行される。",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "懲役、禁錮及び拘留は、刑事施設において執行される。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "なお、拘禁刑の創設に係る刑法等の改正については、本編第1章1項(1)参照。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "罰金・科料を完納できない者は、刑事施設に附置された労役場に留置され、労役を課される(労役場留置)。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "法廷等の秩序維持に関する法律(昭和27年法律第286号)2条により監置に処せられた者は、監置場に留置される。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "008": {
+        "text": "売春防止法(昭和31年法律第118号)5条(勧誘等)の罪を犯して補導処分に付された満20歳以上の女性は、婦人補導院に収容される。",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "009": {
+        "text": "なお、令和4年5月に成立した困難な問題を抱える女性への支援に関する法律(令和4年法律第52号)により、売春防止法が改正されて補導処分の規定が削除され、婦人補導院は、6年4月1日に廃止される。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "1　刑事施設等",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "刑事施設には、刑務所、少年刑務所及び拘置所の3種類がある。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "刑務所及び少年刑務所は、主として受刑者を収容する施設であり、拘置所は、主として未決拘禁者を収容する施設である。",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "令和4年4月1日現在、刑事施設は、本所が73庁(刑務所59庁(社会復帰促進センター4庁を含む。)、少年刑務所6庁、拘置所8庁)、支所が105庁(刑務支所8庁、拘置支所97庁)である(法務省矯正局の資料による。)。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "014": {
+        "text": "刑事施設には、労役場が附置されているほか、監置場が一部の施設を除いて附置されている。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "現在、婦人補導院は、東京に1庁置かれている。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "016": {
+        "text": "令和3年には、婦人補導院への入院はなかった(矯正統計年報による。)。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "017": {
+        "type": "heading",
+        "text": "2　刑事施設における処遇",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "刑事施設に収容されている未決拘禁者、受刑者等の被収容者の処遇は、刑事収容施設法に基づいて行われている。",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "019": {
+        "text": "未決拘禁者の処遇は、未決の者としての地位を考慮し、その逃走及び罪証の隠滅の防止並びにその防御権の尊重に特に留意して行われる。",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "受刑者の処遇は、その者の資質及び環境に応じ、その自覚に訴え、改善更生の意欲の喚起及び社会生活に適応する能力の育成を図ることを旨として行われる。",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "受刑者には、矯正処遇として、作業を行わせるほか、改善指導及び教科指導が行われる。",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          9
+        ],
+        "text": "令和4年版犯罪白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          30
+        ],
+        "text": "法廷等の秩序維持に関する法律(昭和27年法律第286号)2条",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          26
+        ],
+        "text": "売春防止法(昭和31年法律第118号)5条(勧誘等)",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "008",
+        "span": [
+          52,
+          57
+        ],
+        "text": "婦人補導院",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "009",
+        "span": [
+          3,
+          5
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "009",
+        "span": [
+          14,
+          47
+        ],
+        "text": "困難な問題を抱える女性への支援に関する法律(令和4年法律第52号)",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "009",
+        "span": [
+          51,
+          56
+        ],
+        "text": "売春防止法",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "009",
+        "span": [
+          75,
+          80
+        ],
+        "text": "婦人補導院",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "013",
+        "span": [
+          20,
+          23
+        ],
+        "text": "73庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "013",
+        "span": [
+          27,
+          30
+        ],
+        "text": "59庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "013",
+        "span": [
+          41,
+          43
+        ],
+        "text": "4庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "013",
+        "span": [
+          54,
+          56
+        ],
+        "text": "6庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "013",
+        "span": [
+          60,
+          62
+        ],
+        "text": "8庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "013",
+        "span": [
+          67,
+          71
+        ],
+        "text": "105庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "013",
+        "span": [
+          76,
+          78
+        ],
+        "text": "8庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "013",
+        "span": [
+          83,
+          86
+        ],
+        "text": "97庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "013",
+        "span": [
+          91,
+          94
+        ],
+        "text": "法務省",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "013",
+        "span": [
+          94,
+          97
+        ],
+        "text": "矯正局",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "015",
+        "span": [
+          3,
+          8
+        ],
+        "text": "婦人補導院",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "015",
+        "span": [
+          10,
+          12
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "015",
+        "span": [
+          13,
+          15
+        ],
+        "text": "1庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "016",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "016",
+        "span": [
+          7,
+          12
+        ],
+        "text": "婦人補導院",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "016",
+        "span": [
+          22,
+          28
+        ],
+        "text": "矯正統計年報",
+        "entity_type": "PRO",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "018",
+        "span": [
+          32,
+          39
+        ],
+        "text": "刑事収容施設法",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11555128",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%BB%B7%E7%AD%89%E3%81%AE%E7%A7%A9%E5%BA%8F%E7%B6%AD%E6%8C%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11429668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A3%B2%E6%98%A5%E9%98%B2%E6%AD%A2%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M008",
+          "M019",
+          "M021",
+          "M023"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11447729",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A9%A6%E4%BA%BA%E8%A3%9C%E5%B0%8E%E9%99%A2"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M022"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q116913551",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%B0%E9%9B%A3%E3%81%AA%E5%95%8F%E9%A1%8C%E3%82%92%E6%8A%B1%E3%81%88%E3%82%8B%E5%A5%B3%E6%80%A7%E3%81%B8%E3%81%AE%E6%94%AF%E6%8F%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11429668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A3%B2%E6%98%A5%E9%98%B2%E6%AD%A2%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1031145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%8B%99%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.67635",
+          "139.753304"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11584719",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%AF%E6%AD%A3%E5%B1%80"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.moj.go.jp/housei/toukei/toukei_ichiran_kousei.html"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11396331",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%88%91%E4%BA%8B%E5%8F%8E%E5%AE%B9%E6%96%BD%E8%A8%AD%E5%8F%8A%E3%81%B3%E8%A2%AB%E5%8F%8E%E5%AE%B9%E8%80%85%E7%AD%89%E3%81%AE%E5%87%A6%E9%81%87%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "039-2": {
+    "metainfo": {
+      "src_date": "20230120",
+      "src_url": "https://www.moj.go.jp/content/001387343.pdf",
+      "src_parent_url": "https://www.moj.go.jp/housouken/housouken03_00118.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "第4節　刑事施設の運営等",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "1　刑事施設視察委員会",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "text": "刑事施設には、法務大臣が任命する10人以内の外部の委員で構成され、刑事施設を視察し、その運営に関し、刑事施設の長に対して意見を述べる刑事施設視察委員会が刑事施設(本所)ごとに置かれている。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "令和3年度の活動状況は、会議の開催417回、刑事施設の視察153回、被収容者との面接344件であり、委員会が刑事施設の長に対して提出した意見は408件であった(法務省矯正局の資料による。)。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "2　給養・医療・衛生等",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "被収容者には、食事及び飲料(湯茶等)が支給される。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "令和4年度の20歳以上の受刑者一人一日当たりの食費(予算額)は528.5円(主食費96.83円、副食費431.67円)である。",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "008": {
+        "text": "高齢者、妊産婦、体力の消耗が激しい作業に従事している者や、宗教上の理由等から通常の食事を摂取できない者等に対しては、食事の内容や支給量について配慮している。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "また、被収容者には、日常生活に必要な衣類、寝具、日用品等も貸与又は支給されるが、日用品等について自弁のものを使用することも認めている。",
+        "mention_ids": []
+      },
+      "010": {
+        "text": "なお、同年度の刑事施設の被収容者一人一日当たりの収容に直接必要な費用(予算額)は、2,179円である(法務省矯正局の資料による。)。",
+        "mention_ids": [
+          "M009",
+          "M010"
+        ]
+      },
+      "011": {
+        "text": "刑事施設には、医師その他の医療専門職員が配置されて医療及び衛生関係業務に従事している。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "さらに、専門的に医療を行う刑事施設として、医療専門施設4庁(東日本成人矯正医療センター並びに岡崎、大阪及び北九州の各医療刑務所)を設置しているほか、医療重点施設9庁(札幌、宮城、府中、名古屋、大阪、広島、高松及び福岡の各刑務所並びに東京拘置所)を指定し、これら13庁には、医療機器や医療専門職員を集中的に配置している。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "013": {
+        "text": "矯正医官の人員は、令和4年4月1日現在で295人(前年比4人減)であり、定員の約9割にとどまっている(法務省矯正局の資料による。)。",
+        "mention_ids": [
+          "M027",
+          "M028",
+          "M029"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          2,
+          11
+        ],
+        "text": "刑事施設視察委員会",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          7,
+          9
+        ],
+        "text": "法務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          66,
+          75
+        ],
+        "text": "刑事施設視察委員会",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          50,
+          53
+        ],
+        "text": "委員会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          80,
+          83
+        ],
+        "text": "法務省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          83,
+          86
+        ],
+        "text": "矯正局",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "010",
+        "span": [
+          51,
+          54
+        ],
+        "text": "法務省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "010",
+        "span": [
+          54,
+          57
+        ],
+        "text": "矯正局",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "012",
+        "span": [
+          21,
+          29
+        ],
+        "text": "医療専門施設4庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "012",
+        "span": [
+          30,
+          43
+        ],
+        "text": "東日本成人矯正医療センター",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "012",
+        "span": [
+          46,
+          48
+        ],
+        "text": "岡崎",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "012",
+        "span": [
+          49,
+          51
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "012",
+        "span": [
+          53,
+          56
+        ],
+        "text": "北九州",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          74,
+          82
+        ],
+        "text": "医療重点施設9庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "012",
+        "span": [
+          83,
+          85
+        ],
+        "text": "札幌",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "012",
+        "span": [
+          86,
+          88
+        ],
+        "text": "宮城",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "012",
+        "span": [
+          89,
+          91
+        ],
+        "text": "府中",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "012",
+        "span": [
+          92,
+          95
+        ],
+        "text": "名古屋",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "012",
+        "span": [
+          96,
+          98
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "012",
+        "span": [
+          99,
+          101
+        ],
+        "text": "広島",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "012",
+        "span": [
+          102,
+          104
+        ],
+        "text": "高松",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "012",
+        "span": [
+          106,
+          108
+        ],
+        "text": "福岡",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "012",
+        "span": [
+          116,
+          121
+        ],
+        "text": "東京拘置所",
+        "entity_type": "FAC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "012",
+        "span": [
+          130,
+          133
+        ],
+        "text": "13庁",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "013",
+        "span": [
+          9,
+          11
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "013",
+        "span": [
+          51,
+          54
+        ],
+        "text": "法務省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "013",
+        "span": [
+          54,
+          57
+        ],
+        "text": "矯正局",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M005"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11396338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%88%91%E4%BA%8B%E6%96%BD%E8%A8%AD%E8%A6%96%E5%AF%9F%E5%A7%94%E5%93%A1%E4%BC%9A"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M006",
+          "M009",
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1031145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%8B%99%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.67635",
+          "139.753304"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M008",
+          "M027"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M007",
+          "M010",
+          "M029"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11584719",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%AF%E6%AD%A3%E5%B1%80"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M011",
+          "M016",
+          "M026"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24869701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%8B%99%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.713858333",
+          "139.386580555"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11472826",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E5%8C%BB%E7%99%82%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.91",
+          "137.173556"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11440079",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%8C%BB%E7%99%82%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.582722",
+          "135.493806"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11400924",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%8C%BB%E7%99%82%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.840972",
+          "130.884528"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11521157",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9C%AD%E5%B9%8C%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.083389",
+          "141.398389"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11453600",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%9F%8E%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.237111",
+          "140.902389"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11486019",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%9C%E4%B8%AD%E5%88%91%E5%8B%99%E6%89%80",
+          "openstreetmap": "https://www.openstreetmap.org/node/1420779804",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.684333",
+          "139.473972"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11414878",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.117694",
+          "137.118056"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11440060",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.5795",
+          "135.492778"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11484467",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.377611",
+          "132.446611"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11670290",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.341414",
+          "134.064417"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11592178",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.558806",
+          "130.542417"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5359497",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%8B%98%E7%BD%AE%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.758758143",
+          "139.817642973"
+        ]
+      }
+    }
+  },
+  "039-3": {
+    "metainfo": {
+      "src_date": "20230120",
+      "src_url": "https://www.moj.go.jp/content/001387343.pdf",
+      "src_parent_url": "https://www.moj.go.jp/housouken/housouken03_00118.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "第6節　官民協働による刑事施設等の整備・運営",
+        "mention_ids": []
+      },
+      "002": {
+        "text": "民間資金等の活用による公共施設等の整備等の促進に関する法律(平成11年法律第117号)に基づき、刑事施設の整備・運営にPFI(Private　Finance　Initiative)手法(公共施設等の建築、維持管理、運営等を民間の資金・ノウハウを活用して行う手法)の活用が図られ、現在、美祢社会復帰促進センター(収容定員1,296人、うち女性796人)及び島根あさひ社会復帰促進センター(収容定員2,000人)がPFI手法により運営されている。",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "003": {
+        "text": "これらの社会復帰促進センターにおいては、民間のノウハウとアイデアを活用した各種の特色あるプログラムに基づく職業訓練や改善指導を実施している。",
+        "mention_ids": [
+          "M004"
+        ]
+      },
+      "004": {
+        "text": "このほか、競争の導入による公共サービスの改革に関する法律(平成18年法律第51号)に基づき、大阪拘置所、加古川刑務所及び高知刑務所では被収容者に対する給食業務の民間委託を、静岡刑務所、笠松刑務所、喜連川社会復帰促進センター及び播磨社会復帰促進センターでは刑事施設の運営業務の一部の民間委託を、それぞれ行っている。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "005": {
+        "text": "これらに加えて、矯正研修所、東日本成人矯正医療センター、東日本少年矯正医療・教育センター、東京西少年鑑別所等が集約されている国際法務総合センターでは、それらの維持管理及び運営業務の一部について、PFI手法を活用した民間委託を行っている。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          43
+        ],
+        "text": "民間資金等の活用による公共施設等の整備等の促進に関する法律(平成11年法律第117号)",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          142,
+          154
+        ],
+        "text": "美祢社会復帰促進センター",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          177,
+          192
+        ],
+        "text": "島根あさひ社会復帰促進センター",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          4,
+          14
+        ],
+        "text": "社会復帰促進センター",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          5,
+          41
+        ],
+        "text": "競争の導入による公共サービスの改革に関する法律(平成18年法律第51号)",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          46,
+          51
+        ],
+        "text": "大阪拘置所",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          52,
+          58
+        ],
+        "text": "加古川刑務所",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          60,
+          65
+        ],
+        "text": "高知刑務所",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          86,
+          91
+        ],
+        "text": "静岡刑務所",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          92,
+          97
+        ],
+        "text": "笠松刑務所",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          98,
+          111
+        ],
+        "text": "喜連川社会復帰促進センター",
+        "entity_type": "FAC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          113,
+          125
+        ],
+        "text": "播磨社会復帰促進センター",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          8,
+          13
+        ],
+        "text": "矯正研修所",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          14,
+          27
+        ],
+        "text": "東日本成人矯正医療センター",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          28,
+          44
+        ],
+        "text": "東日本少年矯正医療・教育センター",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          45,
+          53
+        ],
+        "text": "東京西少年鑑別所",
+        "entity_type": "FAC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          62,
+          72
+        ],
+        "text": "国際法務総合センター",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11547985",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%91%E9%96%93%E8%B3%87%E9%87%91%E7%AD%89%E3%81%AE%E6%B4%BB%E7%94%A8%E3%81%AB%E3%82%88%E3%82%8B%E5%85%AC%E5%85%B1%E6%96%BD%E8%A8%AD%E7%AD%89%E3%81%AE%E6%95%B4%E5%82%99%E7%AD%89%E3%81%AE%E4%BF%83%E9%80%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11609309",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E7%A5%A2%E7%A4%BE%E4%BC%9A%E5%BE%A9%E5%B8%B0%E4%BF%83%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.198444",
+          "131.133556"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11476418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E6%A0%B9%E3%81%82%E3%81%95%E3%81%B2%E7%A4%BE%E4%BC%9A%E5%BE%A9%E5%B8%B0%E4%BF%83%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.877861",
+          "132.257444"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11598530",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AB%B6%E4%BA%89%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AB%E3%82%88%E3%82%8B%E5%85%AC%E5%85%B1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E6%94%B9%E9%9D%A9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11441436",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E6%8B%98%E7%BD%AE%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.715028",
+          "135.524028"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11398506",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%8F%A4%E5%B7%9D%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.773667",
+          "134.868167"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11672333",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%AB%98%E7%9F%A5%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.589167",
+          "133.599417"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11662931",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.004",
+          "138.402833"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11599910",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%A0%E6%9D%BE%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.373361",
+          "136.756556"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11419261",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%96%9C%E9%80%A3%E5%B7%9D%E7%A4%BE%E4%BC%9A%E5%BE%A9%E5%B8%B0%E4%BF%83%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.723083",
+          "140.042611"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11498743",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%92%AD%E7%A3%A8%E7%A4%BE%E4%BC%9A%E5%BE%A9%E5%B8%B0%E4%BF%83%E9%80%B2%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.783",
+          "134.928639"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11584720",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%AF%E6%AD%A3%E7%A0%94%E4%BF%AE%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M014",
+          "M015",
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24869701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%8B%99%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.713858333",
+          "139.386580555"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24869701",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%B3%95%E5%8B%99%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.713858333",
+          "139.386580555"
+        ]
+      }
+    }
+  }
+}

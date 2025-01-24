@@ -1,0 +1,1417 @@
+{
+  "054": {
+    "metainfo": {
+      "src_date": "20220916",
+      "src_url": "https://www.meti.go.jp/press/2022/09/20220916004/20220916004.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "循環経済パートナーシップ(J4CE)「注目事例集2022発表式」を開催しました",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "2022年9月16日",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "同時発表:環境省・日本経済団体連合会",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "004": {
+        "text": "令和4年9月15日、環境省、経済産業省及び(一社)日本経済団体連合会(以下、「経団連」という。)は共同で、「循環経済パートナーシップ(J4CE)注目事例集2022発表式」を開催しました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "005": {
+        "text": "発表式には、小林環境副大臣、里見経済産業大臣政務官、野田経団連審議員会副議長・環境委員長が出席し、J4CE参加企業による循環経済への先進的な取組の事例集である「注目事例集2022年度版」を発表しました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "006": {
+        "text": "また、オランダ王国のハイネン環境大臣とUNIDOのミュラー事務局長より祝辞をいただきました。",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "007": {
+        "text": "循環経済パートナーシップ(J4CE)では、今後も企業が自社のビジネス戦略として資源循環に取り組むことを加速させると同時に、本邦企業の循環経済に関する技術や取組を世界に発信していきます。",
+        "mention_ids": [
+          "M027",
+          "M028"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "1.背景及び概要",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "令和4年9月15日、環境省、経済産業省、経団連が共同創設した循環経済パートナーシップ(J4CE:ジェイフォース)の「J4CE注目事例集2022発表式」を開催しました。",
+        "mention_ids": [
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "010": {
+        "text": "発表式には、小林環境副大臣、里見経済産業大臣政務官、野田経団連審議員会副議長・環境委員長が出席し、J4CE参加企業による循環経済への先進的な取組の事例集である「注目事例集2022年度版」を発表しました。",
+        "mention_ids": [
+          "M035",
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040",
+          "M041",
+          "M042",
+          "M043",
+          "M044"
+        ]
+      },
+      "011": {
+        "text": "また、オランダ王国のヴィヴィアネ・ハイネン環境大臣とUNIDOのゲルト・ミュラー事務局長よりオンラインで祝辞をいただきました。",
+        "mention_ids": [
+          "M045",
+          "M046",
+          "M047",
+          "M048",
+          "M049",
+          "M050"
+        ]
+      },
+      "012": {
+        "text": "さらに、発表式と併せて、OECDのDr.シャードゥル・アグラワラ環境総局環境経済統合部門長による講演や注目事例集に掲載された日本企業(旭化成株式会社、三菱ケミカル株式会社)を交えてのパネルディスカッションを行いました。",
+        "mention_ids": [
+          "M051",
+          "M052",
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057"
+        ]
+      },
+      "013": {
+        "type": "heading",
+        "text": "3.今後の予定",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "循環経済パートナーシップ(J4CE)では、取組事例の収集に加えて、引き続き、循環経済に関する情報共有やネットワーク形成などを進め、企業が自社のビジネス戦略として資源循環に取り組むことを加速させると同時に、本邦企業の循環経済に関する技術や取組を世界に発信していきます。",
+        "mention_ids": [
+          "M058",
+          "M059"
+        ]
+      },
+      "015": {
+        "text": "なお、今回発表した「注目事例集2022年度版」は令和4年11月にエジプトで開催される気候変動の国際会議COP27等で、日本企業の取組のPRに活用する予定です。",
+        "mention_ids": [
+          "M060",
+          "M061",
+          "M062",
+          "M063",
+          "M064"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          18
+        ],
+        "text": "循環経済パートナーシップ(J4CE)",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          19,
+          31
+        ],
+        "text": "注目事例集2022発表式",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          5,
+          8
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          9,
+          18
+        ],
+        "text": "日本経済団体連合会",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          10,
+          13
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          14,
+          19
+        ],
+        "text": "経済産業省",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          21,
+          34
+        ],
+        "text": "(一社)日本経済団体連合会",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          39,
+          42
+        ],
+        "text": "経団連",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          54,
+          84
+        ],
+        "text": "循環経済パートナーシップ(J4CE)注目事例集2022発表式",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          3
+        ],
+        "text": "発表式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          8
+        ],
+        "text": "小林",
+        "entity_type": "PER",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          8,
+          10
+        ],
+        "text": "環境",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          14,
+          16
+        ],
+        "text": "里見",
+        "entity_type": "PER",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          16,
+          20
+        ],
+        "text": "経済産業",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          26,
+          28
+        ],
+        "text": "野田",
+        "entity_type": "PER",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          28,
+          35
+        ],
+        "text": "経団連審議員会",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          39,
+          43
+        ],
+        "text": "環境委員",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          49,
+          53
+        ],
+        "text": "J4CE",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          80,
+          92
+        ],
+        "text": "注目事例集2022年度版",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          9
+        ],
+        "text": "オランダ王国",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "006",
+        "span": [
+          10,
+          14
+        ],
+        "text": "ハイネン",
+        "entity_type": "PER",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "006",
+        "span": [
+          14,
+          16
+        ],
+        "text": "環境",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "006",
+        "span": [
+          19,
+          24
+        ],
+        "text": "UNIDO",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "006",
+        "span": [
+          25,
+          29
+        ],
+        "text": "ミュラー",
+        "entity_type": "PER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "006",
+        "span": [
+          29,
+          32
+        ],
+        "text": "事務局",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          18
+        ],
+        "text": "循環経済パートナーシップ(J4CE)",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "007",
+        "span": [
+          61,
+          63
+        ],
+        "text": "本邦",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "009",
+        "span": [
+          10,
+          13
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "009",
+        "span": [
+          14,
+          19
+        ],
+        "text": "経済産業省",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "009",
+        "span": [
+          20,
+          23
+        ],
+        "text": "経団連",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "009",
+        "span": [
+          30,
+          56
+        ],
+        "text": "循環経済パートナーシップ(J4CE:ジェイフォース)",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "009",
+        "span": [
+          58,
+          74
+        ],
+        "text": "J4CE注目事例集2022発表式",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          3
+        ],
+        "text": "発表式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "010",
+        "span": [
+          6,
+          8
+        ],
+        "text": "小林",
+        "entity_type": "PER",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "010",
+        "span": [
+          8,
+          10
+        ],
+        "text": "環境",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "010",
+        "span": [
+          14,
+          16
+        ],
+        "text": "里見",
+        "entity_type": "PER",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "010",
+        "span": [
+          16,
+          20
+        ],
+        "text": "経済産業",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "010",
+        "span": [
+          26,
+          28
+        ],
+        "text": "野田",
+        "entity_type": "PER",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "010",
+        "span": [
+          28,
+          35
+        ],
+        "text": "経団連審議員会",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "010",
+        "span": [
+          39,
+          43
+        ],
+        "text": "環境委員",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "010",
+        "span": [
+          49,
+          53
+        ],
+        "text": "J4CE",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "010",
+        "span": [
+          80,
+          92
+        ],
+        "text": "注目事例集2022年度版",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "011",
+        "span": [
+          3,
+          9
+        ],
+        "text": "オランダ王国",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M046": {
+        "sentence_id": "011",
+        "span": [
+          10,
+          21
+        ],
+        "text": "ヴィヴィアネ・ハイネン",
+        "entity_type": "PER",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "011",
+        "span": [
+          21,
+          23
+        ],
+        "text": "環境",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "011",
+        "span": [
+          26,
+          31
+        ],
+        "text": "UNIDO",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "011",
+        "span": [
+          32,
+          40
+        ],
+        "text": "ゲルト・ミュラー",
+        "entity_type": "PER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "011",
+        "span": [
+          40,
+          43
+        ],
+        "text": "事務局",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "012",
+        "span": [
+          4,
+          7
+        ],
+        "text": "発表式",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "012",
+        "span": [
+          12,
+          16
+        ],
+        "text": "OECD",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "012",
+        "span": [
+          17,
+          32
+        ],
+        "text": "Dr.シャードゥル・アグラワラ",
+        "entity_type": "PER",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "012",
+        "span": [
+          32,
+          44
+        ],
+        "text": "環境総局環境経済統合部門",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "012",
+        "span": [
+          62,
+          64
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "012",
+        "span": [
+          67,
+          74
+        ],
+        "text": "旭化成株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "012",
+        "span": [
+          75,
+          85
+        ],
+        "text": "三菱ケミカル株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          18
+        ],
+        "text": "循環経済パートナーシップ(J4CE)",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "014",
+        "span": [
+          102,
+          104
+        ],
+        "text": "本邦",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M060": {
+        "sentence_id": "015",
+        "span": [
+          10,
+          22
+        ],
+        "text": "注目事例集2022年度版",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "015",
+        "span": [
+          24,
+          26
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "015",
+        "span": [
+          32,
+          36
+        ],
+        "text": "エジプト",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M063": {
+        "sentence_id": "015",
+        "span": [
+          47,
+          56
+        ],
+        "text": "国際会議COP27",
+        "entity_type": "EVE",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "015",
+        "span": [
+          59,
+          61
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M019",
+          "M027",
+          "M033",
+          "M043",
+          "M058"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://j4ce.env.go.jp/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M010",
+          "M011",
+          "M034",
+          "M035",
+          "M051"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/press/2022/09/20220916004/20220916004.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M006",
+          "M013",
+          "M030",
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1125558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M008",
+          "M009",
+          "M032"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q967832",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E5%9B%A3%E4%BD%93%E9%80%A3%E5%90%88%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.688666666",
+          "139.7635"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M029",
+          "M061"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M015",
+          "M031",
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1197264",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M012",
+          "M036"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11461866",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E8%8C%82%E6%A8%B9"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M014",
+          "M038"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q26045720",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8C%E8%A6%8B%E9%9A%86%E6%B2%BB"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M016",
+          "M040"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q110403846",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E7%94%B1%E7%BE%8E%E5%AD%90"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017",
+          "M018",
+          "M041",
+          "M042"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q967832",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E5%9B%A3%E4%BD%93%E9%80%A3%E5%90%88%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.688666666",
+          "139.7635"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M020",
+          "M044",
+          "M060"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M021",
+          "M045"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q29999",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2323309"
+        },
+        "coordinate": [
+          "52.366666666",
+          "4.883333333"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M022",
+          "M046"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28857931"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M023",
+          "M047"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2188136",
+          "wikidata_country": "http://www.wikidata.org/entity/Q55"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M024",
+          "M048"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q386120",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E5%B7%A5%E6%A5%AD%E9%96%8B%E7%99%BA%E6%A9%9F%E9%96%A2"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M025",
+          "M049"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q85516"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M026",
+          "M050"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q386120",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E5%B7%A5%E6%A5%AD%E9%96%8B%E7%99%BA%E6%A9%9F%E9%96%A2"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M028",
+          "M055",
+          "M059",
+          "M064"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q41550",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E5%8D%94%E5%8A%9B%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        },
+        "coordinate": [
+          "48.861673888",
+          "2.269235555"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q112406200"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q41550",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E5%8D%94%E5%8A%9B%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        },
+        "coordinate": [
+          "48.861673888",
+          "2.269235555"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q720489",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%AD%E5%8C%96%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30929948",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.685125",
+          "139.76161389"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M062"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q79",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1473947",
+          "wikidata_country": "http://www.wikidata.org/entity/Q79"
+        },
+        "coordinate": [
+          "27.0",
+          "29.0"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q109614454",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AC%AC27%E5%9B%9E%E6%B0%97%E5%80%99%E5%A4%89%E5%8B%95%E6%9E%A0%E7%B5%84%E6%9D%A1%E7%B4%84%E7%B7%A0%E7%B4%84%E5%9B%BD%E4%BC%9A%E8%AD%B0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q79"
+        },
+        "coordinate": [
+          "27.945",
+          "34.363333333"
+        ]
+      }
+    }
+  }
+}

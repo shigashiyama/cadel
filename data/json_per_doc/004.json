@@ -1,0 +1,1983 @@
+{
+  "004-1": {
+    "metainfo": {
+      "src_date": "20200611",
+      "src_url": "https://www.mlit.go.jp/common/001347545.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/report/press/toshi10_hh_000343.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和2年度「都市景観大賞」各賞の選定~良好な景観に資する地区・活動について、特に優れたものを表彰~",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "大賞　国土交通大臣賞　南町田グランベリーパーク地区",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "header_name": "所在地",
+        "text": "東京都町田市",
+        "mention_ids": [
+          "M005",
+          "M006"
+        ]
+      },
+      "004": {
+        "type": "supplement:header",
+        "header_name": "地区面積",
+        "text": "約　20ha",
+        "mention_ids": []
+      },
+      "005": {
+        "type": "supplement:header",
+        "header_name": "応募者",
+        "text": "町田市、東急株式会社、東急電鉄株式会社、株式会社東急レクリエーション、株式会社ソニー・クリエイティブプロダクツ、株式会社東急設計コンサルタント、LAGUARDA.LOW　ARCHITECTS、Fd　Landscape、ティーハウス建築設計事務所、株式会社森緑地設計事務所、株式会社レジファインクリエイト",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "地区概要",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "007": {
+        "text": "「南町田グランベリーパーク」は、東京都町田市の端にある東急田園都市線「南町田グランベリーパーク駅」(2019　年　10　月　1　日に「南町田駅」から改称)南側の約20ha　のエリアで、地元自治体と鉄道事業者の強力なパートナーシップのもと、都市基盤・商業施設・都市公園などを一体的に再整備・再構築し「新しい暮らしの拠点」の創出に取り組んできた。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "008": {
+        "text": "「鉄道駅と都市公園と商業施設が隣接している」という南町田ならではのまちの資源を最大限に生かし、既存道路等の再配置を行って商業街区と公園をスーパーブロック化した上に、駅・商業施設から公園、そして周辺の住宅市街地まで、歩車分離かつバリアフリーでつながる歩行者ネットワークを配置、さらに　14　の広場空間を地区全体に散りばめ、歩いて楽しいまちを構成した。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "009": {
+        "text": "これにより、駅と商業施設、公園がシームレスにつながり、まちびらき後、まるでひとつの「パーク」のようなこの新しいまちにおいて、人々が思い思いにパークライフを満喫する光景が日々更新されている。",
+        "mention_ids": []
+      },
+      "010": {
+        "text": "多世代がいきいきと暮らし、魅力あふれる持続可能なまち「南町田」は、次世代へとつなぐ選ばれるまちへと生まれ変わった。",
+        "mention_ids": [
+          "M028"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "審査講評",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "当地区は、既存の商業施設の再整備に伴い、街の構造を全面的に見直し官民一体となってシームレスな街を創った画期的計画である。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "013": {
+        "text": "従前は、ごく一般的な民間鉄道駅に接したアウトレットモールやシネコンなどであり、ショッピング目的の自動車による来街者も多い反面、周辺街区や隣接する都市公園などとの関連性は皆無に近かった。",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "014": {
+        "text": "こうした状況に対して、既存道路によって大きく分断されていた街区構造を抜本的に見直し、道路の付け替えによって各街区一体的につなげたことは特筆に値する。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "特に商業と都市公園の間に「パークライフ・サイト」と名付けられた高品質な接続空間を整備したたことが、今回の大臣賞評価につながるものとなった。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "016": {
+        "text": "「パークライフ・サイト」はもともと大きな法面と道路によって分断されていた場を、文化施設や市民施設などを整備し連続的な空間としたものである。",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "017": {
+        "text": "これによって、従来は訪れる人も稀であった都市公園に活力を与えた。",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "また、これとつながる商業施設においても、周辺街区と平面的に分断されていた駐車場を立体的に再配置し、回遊型ショッピングモールの中に封じ込めた計画は巧みである。",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "今後整備される予定の都市型住宅や複合利用ゾーンの完成によって、更に質の高い都市空間が形成されることを期待したい。",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "(■■)",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "021": {
+        "type": "supplement:legend",
+        "text": "地区全景官民連携・共同でスーパーブロック化し駅直結で商業街区と都市公園が融合した",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "022": {
+        "type": "supplement:legend",
+        "text": "グランベリーパークへ向かう大階段と植栽・水景エリアでまちの高揚感を演出した駅のホーム",
+        "mention_ids": [
+          "M037",
+          "M038"
+        ]
+      },
+      "023": {
+        "type": "supplement:legend",
+        "text": "商業施設の屋上緑化から公園と融合するパークプラザと鶴間公園を眺める",
+        "mention_ids": [
+          "M039",
+          "M040"
+        ]
+      },
+      "024": {
+        "type": "supplement:legend",
+        "text": "個々に特徴のあるファサードを背に、シンボルツリーを象徴としたグランベリープラザ",
+        "mention_ids": [
+          "M041"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          6,
+          12
+        ],
+        "text": "都市景観大賞",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          3,
+          10
+        ],
+        "text": "国土交通大臣賞",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          11,
+          25
+        ],
+        "text": "南町田グランベリーパーク地区",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          3
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          3,
+          6
+        ],
+        "text": "町田市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          3
+        ],
+        "text": "町田市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          4,
+          10
+        ],
+        "text": "東急株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          11,
+          19
+        ],
+        "text": "東急電鉄株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          20,
+          34
+        ],
+        "text": "株式会社東急レクリエーション",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          35,
+          55
+        ],
+        "text": "株式会社ソニー・クリエイティブプロダクツ",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          56,
+          71
+        ],
+        "text": "株式会社東急設計コンサルタント",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          72,
+          95
+        ],
+        "text": "LAGUARDA.LOW　ARCHITECTS",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          96,
+          108
+        ],
+        "text": "Fd　Landscape",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          109,
+          122
+        ],
+        "text": "ティーハウス建築設計事務所",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          123,
+          135
+        ],
+        "text": "株式会社森緑地設計事務所",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          136,
+          151
+        ],
+        "text": "株式会社レジファインクリエイト",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          1,
+          13
+        ],
+        "text": "南町田グランベリーパーク",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "007",
+        "span": [
+          16,
+          19
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "007",
+        "span": [
+          19,
+          22
+        ],
+        "text": "町田市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "007",
+        "span": [
+          27,
+          34
+        ],
+        "text": "東急田園都市線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "007",
+        "span": [
+          35,
+          48
+        ],
+        "text": "南町田グランベリーパーク駅",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "007",
+        "span": [
+          67,
+          71
+        ],
+        "text": "南町田駅",
+        "entity_type": "FAC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "007",
+        "span": [
+          92,
+          97
+        ],
+        "text": "地元自治体",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "007",
+        "span": [
+          98,
+          103
+        ],
+        "text": "鉄道事業者",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "008",
+        "span": [
+          25,
+          28
+        ],
+        "text": "南町田",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "010",
+        "span": [
+          27,
+          30
+        ],
+        "text": "南町田",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          3
+        ],
+        "text": "当地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "013",
+        "span": [
+          10,
+          15
+        ],
+        "text": "民間鉄道駅",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "015",
+        "span": [
+          13,
+          23
+        ],
+        "text": "パークライフ・サイト",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "015",
+        "span": [
+          52,
+          55
+        ],
+        "text": "大臣賞",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "016",
+        "span": [
+          1,
+          11
+        ],
+        "text": "パークライフ・サイト",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "020",
+        "span": [
+          1,
+          3
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "021",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "021",
+        "span": [
+          22,
+          23
+        ],
+        "text": "駅",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          9
+        ],
+        "text": "グランベリーパーク",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "022",
+        "span": [
+          37,
+          38
+        ],
+        "text": "駅",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "023",
+        "span": [
+          18,
+          24
+        ],
+        "text": "パークプラザ",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "023",
+        "span": [
+          25,
+          29
+        ],
+        "text": "鶴間公園",
+        "entity_type": "FAC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "024",
+        "span": [
+          30,
+          39
+        ],
+        "text": "グランベリープラザ",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M032"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11643668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E6%99%AF%E8%A6%B3100%E9%81%B8"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M018",
+          "M019",
+          "M029",
+          "M035",
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q10877865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%94%BA%E7%94%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.509972",
+          "139.470722"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M007",
+          "M021",
+          "M025"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q210628",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%94%BA%E7%94%B0%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/5100276",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.546666666",
+          "139.438611111"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1332242",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009",
+          "M026"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80229029",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E9%9B%BB%E9%89%84",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9479939",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11527011",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E3%83%AC%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11315203",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%84",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11527026",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E8%A8%AD%E8%A8%88%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.laguardalow.com/"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.fd-landscape.net/"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.teehouse.com/jp/"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://moriryokuchi.co.jp/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.resifinecreate.jp/"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190086",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%80%A5%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9341816",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.531944444",
+          "139.494444444"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M023",
+          "M036",
+          "M038"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6862943",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%94%BA%E7%94%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E9%A7%85",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.511388888",
+          "139.47075"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M024",
+          "M030"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6862943",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%94%BA%E7%94%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF%E9%A7%85",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.511388888",
+          "139.47075"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M027",
+          "M028"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q10877865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%94%BA%E7%94%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.509972",
+          "139.470722"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M031",
+          "M033",
+          "M039",
+          "M041"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q10877865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%94%BA%E7%94%B0%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.509972",
+          "139.470722"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24899122",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E9%96%93%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.51027778",
+          "139.46833333"
+        ]
+      }
+    }
+  },
+  "004-2": {
+    "metainfo": {
+      "src_date": "20200611",
+      "src_url": "https://www.mlit.go.jp/common/001347545.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/report/press/toshi10_hh_000343.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "優秀賞　「都市景観の日」実行委員会　会長賞　尾道市景観地区(尾道・向島歴史的風致地区)",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "header_name": "所在地",
+        "text": "広島県尾道市",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "header_name": "地区面積",
+        "text": "約　200ha",
+        "mention_ids": []
+      },
+      "004": {
+        "type": "supplement:header",
+        "header_name": "応募者",
+        "text": "尾道市",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "地区概要",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "本地区は、港町・商都として発展し、豪商により多くの寺社仏閣が寄進営造された。",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "007": {
+        "text": "現在においても、旧家、路地の家並みなど地域特有のまちなみが色濃く残る斜面市街地、商店街には多くの歴史的建造物が点在している。",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "対岸の向島は、情緒ある渡船が行き交う尾道水道を形成する地域であり、現在は瀬戸内しまなみ海道へ向かう多くのサイクリストで賑わいが生まれている。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "009": {
+        "text": "日本遺産にも認定されたこの地区は、国内外の多くの観光客が訪れる本市を代表する景観地区を形成し、近年では、空き家再生の取組、移住者、若い世代によるエリアリノベーションの取組により、まちなみ、歴史・文化資源を活かした地域再生の流れが活発化されている。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "010": {
+        "text": "港エリアの開発や尾道駅のリニューアル等の追い風の中、瀬戸内しまなみ海道の玄関口にふさわしい景観を形成するため、海辺のプロムナードを軸として、舗装整備された小路など、既存の歩行者空間の回遊性を高めるとともに、当地区の代表的な観光スポットである千光寺公園の頂上エリアのリニューアルを進め、新たな視点場整備と連携した歩行者空間の創出等により、一層の魅力向上に取り組んでいる。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "審査講評",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "天与の地形、地の利の上に刻まれた人々の暮らしは変化しながらも続き、今のまちがある。",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "そう考えた時に、「視線の抜け」と「時の蓄積」、この二つが尾道のまちづくりを支える価値として共有されてきたように感じた。",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "014": {
+        "text": "展望台とされた場所からの眺めはもちろん、急な上り下りで足元に縛られた目線が解放された時、密集した建物のあわい、駅に降り立った瞬間、視線は抜けてその先にある海、空、山が見える。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "この感覚が、私は今尾道にいる、という安心と幸せとなる。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "016": {
+        "text": "2　度にわたるマンション開発を市民の力が押し留めたことはその証左であり、それを引き継いで景観法による景観地区指定による建物高さ制限や、屋上看板の撤去が進む。",
+        "mention_ids": [
+          "M021",
+          "M022"
+        ]
+      },
+      "017": {
+        "text": "これらまちの骨格を整える方策とともに、随所に残る時の蓄積としての歴史的建物、小道の保全と活用がきめ細かく進む。",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "民間の力が発揮される場面である。",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "メニューとしてみれば特段新しくはない。",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "しかしそれらを今、ここでできることとして積み重ねてきた。",
+        "mention_ids": [
+          "M023"
+        ]
+      },
+      "021": {
+        "text": "その成果は尾道の景観に確実に現れている。",
+        "mention_ids": [
+          "M024"
+        ]
+      },
+      "022": {
+        "text": "願わくば、多くの市民に支えられてきたこの景観まちづくりの意思と成果を明示的に記述し、価値の継承と今後の戦略をより確かなものとして欲しい。",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "023": {
+        "text": "(■■■)",
+        "mention_ids": [
+          "M026"
+        ]
+      },
+      "024": {
+        "type": "supplement:legend",
+        "text": "向島から見た尾道市街地の山手斜面地",
+        "mention_ids": [
+          "M027",
+          "M028"
+        ]
+      },
+      "025": {
+        "type": "supplement:legend",
+        "text": "浄土寺山からの夕景",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "026": {
+        "type": "supplement:legend",
+        "text": "尾道駅前の緑地広場ウッドデッキ整備",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "027": {
+        "type": "supplement:legend",
+        "text": "尾道旧家路地",
+        "mention_ids": [
+          "M031"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          4,
+          21
+        ],
+        "text": "「都市景観の日」実行委員会　会長賞",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          22,
+          29
+        ],
+        "text": "尾道市景観地区",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          30,
+          42
+        ],
+        "text": "尾道・向島歴史的風致地区",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          3
+        ],
+        "text": "広島県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          3,
+          6
+        ],
+        "text": "尾道市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "尾道市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "本地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "008",
+        "span": [
+          3,
+          5
+        ],
+        "text": "向島",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "008",
+        "span": [
+          18,
+          22
+        ],
+        "text": "尾道水道",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "008",
+        "span": [
+          36,
+          45
+        ],
+        "text": "瀬戸内しまなみ海道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          4
+        ],
+        "text": "日本遺産",
+        "entity_type": "PRO",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "009",
+        "span": [
+          13,
+          15
+        ],
+        "text": "地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "009",
+        "span": [
+          17,
+          18
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "009",
+        "span": [
+          31,
+          33
+        ],
+        "text": "本市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "010",
+        "span": [
+          8,
+          11
+        ],
+        "text": "尾道駅",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "010",
+        "span": [
+          26,
+          35
+        ],
+        "text": "瀬戸内しまなみ海道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "010",
+        "span": [
+          103,
+          106
+        ],
+        "text": "当地区",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "010",
+        "span": [
+          120,
+          125
+        ],
+        "text": "千光寺公園",
+        "entity_type": "FAC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "013",
+        "span": [
+          28,
+          30
+        ],
+        "text": "尾道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "015",
+        "span": [
+          9,
+          11
+        ],
+        "text": "尾道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "016",
+        "span": [
+          15,
+          17
+        ],
+        "text": "市民",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "016",
+        "span": [
+          44,
+          47
+        ],
+        "text": "景観法",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "020",
+        "span": [
+          9,
+          11
+        ],
+        "text": "ここ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "021",
+        "span": [
+          5,
+          7
+        ],
+        "text": "尾道",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "022",
+        "span": [
+          8,
+          10
+        ],
+        "text": "市民",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "023",
+        "span": [
+          1,
+          4
+        ],
+        "text": "■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          2
+        ],
+        "text": "向島",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "024",
+        "span": [
+          6,
+          11
+        ],
+        "text": "尾道市街地",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          4
+        ],
+        "text": "浄土寺山",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "026",
+        "span": [
+          0,
+          3
+        ],
+        "text": "尾道駅",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "027",
+        "span": [
+          0,
+          6
+        ],
+        "text": "尾道旧家路地",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11643668",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%83%BD%E5%B8%82%E6%99%AF%E8%A6%B3100%E9%81%B8"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M007",
+          "M012",
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24887789",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.41667",
+          "133.2"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q617375",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3218753",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.396388888",
+          "132.459722222"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M006",
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q696694",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.409111111",
+          "133.205444444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008",
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11415952",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%91%E5%B3%B6_(%E5%BA%83%E5%B3%B6%E7%9C%8C)",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4741290",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.383333333",
+          "133.2"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11465491",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93%E6%B0%B4%E9%81%93",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.398611111",
+          "133.183888888"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010",
+          "M016"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1799184",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%80%AC%E6%88%B8%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3338195",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q18382798",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%81%BA%E7%94%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M015",
+          "M030"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q861547",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93%E9%A7%85",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.404833333",
+          "133.193666666"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11405378",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E5%85%89%E5%AF%BA%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.41027778",
+          "133.19666667"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019",
+          "M020",
+          "M023",
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24887789",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.41667",
+          "133.2"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M021",
+          "M025"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11514692",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%99%AF%E8%A6%B3%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q696694",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%81%93%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.409111111",
+          "133.205444444"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  }
+}

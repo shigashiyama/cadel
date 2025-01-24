@@ -1,0 +1,1311 @@
+{
+  "085": {
+    "metainfo": {
+      "src_date": "20220600",
+      "src_url": "https://www.mhlw.go.jp/stf/houdou_kouhou/kouhou_shuppan/magazine/202206_00002.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "新型コロナウイルス最前線",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "新型コロナウイルス最前線　第20回",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "title",
+        "text": "日本への入国手続きを円滑に　入国前検疫WEB手続き「ファストトラック」",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "世界中で流行している新型コロナウイルス感染症。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "本連載では、その動向や対策などを取り上げています。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "今回は、入国前検疫WEB手続き「ファストトラック」について紹介します。",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "●検疫手続きの一部が入国前に完了",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "「ファストトラック」を利用することで、日本入国時の検疫手続きで紙の書類の記入や提出がなくなるなど、手続きが簡素になり、スムーズな入国が可能となります。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "009": {
+        "text": "ファストトラックを利用する方が増えるほど、空港での混雑解消につながるため、日本に入国予定の方に利用していただきたいと考えています。",
+        "mention_ids": [
+          "M006",
+          "M007"
+        ]
+      },
+      "010": {
+        "text": "――ファストトラックとは何ですか。",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "011": {
+        "text": "海外から日本へ入国する前に、スマートフォンの入国者健康居所確認アプリ(MySOS)を使うことで、あらかじめ検疫手続きの一部を済ませておくことができるものです。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "012": {
+        "text": "ファストトラックで実施できる入国手続きは、1質問票の記入、2誓約書の記入、3出国前72時間以内の検査証明書の登録、4ワクチン接種証明書の登録(任意)です。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "013": {
+        "text": "これらの手続きを日本入国前に済ませることで、入国時の検疫手続きが簡素になり、スムーズな入国が可能となります。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "014": {
+        "text": "――利用可能な空港を教えてください。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "成田国際空港、羽田空港、中部国際空港、関西国際空港、福岡空港の5つの空港に到着する入国者の方々は、「ファストトラック」をご利用いただけます。(今年5月17日現在)",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "016": {
+        "text": "今後、対象となる空港は追加される見込みです。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "最新情報はファストトラックの特設サイトをご覧ください。",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "018": {
+        "text": "――ファストトラックは、どのような人が利用できますか。",
+        "mention_ids": [
+          "M023"
+        ]
+      },
+      "019": {
+        "text": "スマートフォンをお持ちでMySOSをインストールできるすべての方がご利用いただけます(対応OSはAndroidとiOSです)。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "020": {
+        "text": "スマートフォン等をお持ちでない方は、通常の検疫手続きとなります。",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "あらかじめご了承ください。",
+        "mention_ids": []
+      },
+      "022": {
+        "text": "今後、アプリだけでなく、ブラウザでのご利用も可能となる見込みです。",
+        "mention_ids": [
+          "M027"
+        ]
+      },
+      "023": {
+        "text": "最新の情報はHPをご覧ください。",
+        "mention_ids": []
+      },
+      "024": {
+        "text": "――ファストトラックを利用した場合、どの程度短縮されるのでしょうか。",
+        "mention_ids": [
+          "M028"
+        ]
+      },
+      "025": {
+        "text": "紙の書類による場合と比較して、短い時間で手続きを終えることができます。",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "なお、ファストトラックをご利用いただいた場合でも、到着空港の混雑状況などにより検疫手続きに時間を要することがあります。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "027": {
+        "text": "あらかじめご了承ください。",
+        "mention_ids": []
+      },
+      "028": {
+        "text": "――WEB登録手続きはいつまでに行えば良いのでしょうか。",
+        "mention_ids": []
+      },
+      "029": {
+        "text": "搭乗便到着予定日時の6時間前までにアプリ上での事前登録を完了させてください。",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "030": {
+        "text": "なお、アプリ上の質問票への入力を済ませると、アプリの画面に登録手続きの締切時間が表示されますので、締切時間までに登録を完了させてください。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "031": {
+        "text": "すべての必要事項を入力し、「審査完了」という青色または緑色の画面が表示されれば、必要書類の登録は完了となります。",
+        "mention_ids": []
+      },
+      "032": {
+        "type": "heading",
+        "text": "●インストール方法と登録時に必要なもの",
+        "mention_ids": []
+      },
+      "033": {
+        "text": "――MySOSはどこでインストールすることができますか。",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "034": {
+        "text": "専用のQRコードまたはGoogle　playストア、Apple　Storeよりインストールすることができます。",
+        "mention_ids": [
+          "M034",
+          "M035",
+          "M036"
+        ]
+      },
+      "035": {
+        "text": "インストール方法は厚生労働省HPの【利用方法】を参考にしてください。",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "036": {
+        "text": "――MySOSは多言語対応をしていますか。",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "037": {
+        "text": "日本語、英語、中国語、ベトナム語、インドネシア語に対応しています。",
+        "mention_ids": []
+      },
+      "038": {
+        "text": "――MySOS登録時に必要なものや情報を教えてください。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "039": {
+        "text": "MySOSがインストールされたスマートフォン、パスポート番号、検査証明書、ワクチン接種証明書(任意)をご用意ください。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "040": {
+        "text": "ワクチン接種証明書は日本政府が認めたものが必要となります。",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "041": {
+        "text": "また、検査証明書は出国前72時間以内のものが必要となります。",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "042": {
+        "text": "――デジタル庁が提供しているVisit　Japan　Webサービスを利用している場合、ファストトラックと一緒に利用できますか。",
+        "mention_ids": [
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "043": {
+        "text": "Visit　Japan　Webサービスと、MySOSを利用したファストトラックは、どちらも任意でご利用いただけます。",
+        "mention_ids": [
+          "M049",
+          "M050",
+          "M051"
+        ]
+      },
+      "044": {
+        "text": "データの連携はないため、ご利用の際は、Visit　Japan　WebサービスとMySOSアプリでの事前申請をそれぞれに行う必要があります。",
+        "mention_ids": [
+          "M052",
+          "M053"
+        ]
+      },
+      "045": {
+        "text": "同じ情報や証明書をそれぞれにご登録いただく必要がありますので、ご注意ください。",
+        "mention_ids": []
+      },
+      "046": {
+        "text": "(今年5月20日時点)",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          26,
+          34
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "006",
+        "span": [
+          16,
+          24
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "008",
+        "span": [
+          1,
+          9
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "008",
+        "span": [
+          19,
+          21
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "009",
+        "span": [
+          37,
+          39
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "010",
+        "span": [
+          2,
+          10
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "011",
+        "span": [
+          4,
+          6
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "011",
+        "span": [
+          22,
+          34
+        ],
+        "text": "入国者健康居所確認アプリ",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "011",
+        "span": [
+          35,
+          40
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          8
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "012",
+        "span": [
+          48,
+          53
+        ],
+        "text": "検査証明書",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "012",
+        "span": [
+          58,
+          67
+        ],
+        "text": "ワクチン接種証明書",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "013",
+        "span": [
+          8,
+          10
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          6
+        ],
+        "text": "成田国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          11
+        ],
+        "text": "羽田空港",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "015",
+        "span": [
+          12,
+          18
+        ],
+        "text": "中部国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "015",
+        "span": [
+          19,
+          25
+        ],
+        "text": "関西国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "015",
+        "span": [
+          26,
+          30
+        ],
+        "text": "福岡空港",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "015",
+        "span": [
+          50,
+          58
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "017",
+        "span": [
+          5,
+          13
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "018",
+        "span": [
+          2,
+          10
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "019",
+        "span": [
+          12,
+          17
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "019",
+        "span": [
+          48,
+          55
+        ],
+        "text": "Android",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "019",
+        "span": [
+          56,
+          59
+        ],
+        "text": "iOS",
+        "entity_type": "PRO",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "022",
+        "span": [
+          3,
+          6
+        ],
+        "text": "アプリ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "024",
+        "span": [
+          2,
+          10
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "026",
+        "span": [
+          3,
+          11
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "029",
+        "span": [
+          17,
+          20
+        ],
+        "text": "アプリ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "030",
+        "span": [
+          3,
+          6
+        ],
+        "text": "アプリ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "030",
+        "span": [
+          22,
+          25
+        ],
+        "text": "アプリ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "033",
+        "span": [
+          2,
+          7
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "034",
+        "span": [
+          3,
+          8
+        ],
+        "text": "QRコード",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "034",
+        "span": [
+          11,
+          25
+        ],
+        "text": "Google　playストア",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "034",
+        "span": [
+          26,
+          37
+        ],
+        "text": "Apple　Store",
+        "entity_type": "PRO",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "035",
+        "span": [
+          9,
+          14
+        ],
+        "text": "厚生労働省",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "036",
+        "span": [
+          2,
+          7
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "038",
+        "span": [
+          2,
+          7
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "039",
+        "span": [
+          0,
+          5
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "039",
+        "span": [
+          31,
+          36
+        ],
+        "text": "検査証明書",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "039",
+        "span": [
+          37,
+          46
+        ],
+        "text": "ワクチン接種証明書",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "040",
+        "span": [
+          0,
+          9
+        ],
+        "text": "ワクチン接種証明書",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "040",
+        "span": [
+          10,
+          14
+        ],
+        "text": "日本政府",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "041",
+        "span": [
+          3,
+          8
+        ],
+        "text": "検査証明書",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "042",
+        "span": [
+          2,
+          7
+        ],
+        "text": "デジタル庁",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "042",
+        "span": [
+          14,
+          33
+        ],
+        "text": "Visit　Japan　Webサービス",
+        "entity_type": "PRO",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "042",
+        "span": [
+          43,
+          51
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "043",
+        "span": [
+          0,
+          19
+        ],
+        "text": "Visit　Japan　Webサービス",
+        "entity_type": "PRO",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "043",
+        "span": [
+          21,
+          26
+        ],
+        "text": "MySOS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "043",
+        "span": [
+          31,
+          39
+        ],
+        "text": "ファストトラック",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "044",
+        "span": [
+          19,
+          38
+        ],
+        "text": "Visit　Japan　Webサービス",
+        "entity_type": "PRO",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "044",
+        "span": [
+          39,
+          47
+        ],
+        "text": "MySOSアプリ",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M005",
+          "M007",
+          "M009",
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M006",
+          "M008",
+          "M012",
+          "M021",
+          "M022",
+          "M023",
+          "M028",
+          "M029",
+          "M048",
+          "M051"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mhlw.go.jp/stf/newpage_24332.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M010",
+          "M011",
+          "M024",
+          "M027",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M038",
+          "M039",
+          "M040",
+          "M050",
+          "M053"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.allm.net/mysos/"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M013",
+          "M041",
+          "M045"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.jcl.co.jp/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E9%99%B0%E6%80%A7%E8%A8%BC%E6%98%8E%E6%9B%B8"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M014",
+          "M042",
+          "M043"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_certificate.html"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q36454",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3182579",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.7649",
+          "140.38845"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q204853",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/322815282",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.553333333",
+          "139.781111111"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q679345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.858333333",
+          "136.805277777"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q193682",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9436735",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.430555555",
+          "135.230277777"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1137465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/529445584",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.584444444",
+          "130.451666666"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q94",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48493",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/IOS"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q12203",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/QR%E3%82%B3%E3%83%BC%E3%83%89"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q79576",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Google_Play"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q373611",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Apple_Online_Store"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1191238",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107291492",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6799926",
+          "139.7357476"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M047",
+          "M049",
+          "M052"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q117031881",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Visit_Japan_Web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2136 @@
+{
+  "063-1": {
+    "metainfo": {
+      "src_date": "20220527",
+      "src_url": "https://www.mod.go.jp/rdb/okinawa/pr/haisai/images/pdf/187.pdf",
+      "src_parent_url": "https://www.mod.go.jp/rdb/okinawa/pr/haisai/"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "沖縄防衛局広報「はいさい」　第187号　令和4年5月27日",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "松野内閣官房長官訪沖",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "003": {
+        "text": "松野内閣官房長官が、令和4年4月2日から3日の日程で沖縄を訪れました。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "004": {
+        "text": "4月2日、国道58号拡幅の視察、泡瀬地区埋立事業の視察、キャンプ瑞慶覧(ロウワー・プラザ住宅地区)の視察及び沖縄市長との面談を行いました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "005": {
+        "text": "翌3日には、名護東道路の視察、名護市長との面談、キャンプ・シュワブの視察、辺野古区長との面談、豊原区長との面談及び久志区長との面談を行いました。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          5
+        ],
+        "text": "沖縄防衛局",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          8,
+          12
+        ],
+        "text": "はいさい",
+        "entity_type": "PRO",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          20,
+          22
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          2
+        ],
+        "text": "松野",
+        "entity_type": "PER",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          2,
+          6
+        ],
+        "text": "内閣官房",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          9,
+          10
+        ],
+        "text": "沖",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          2
+        ],
+        "text": "松野",
+        "entity_type": "PER",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          2,
+          6
+        ],
+        "text": "内閣官房",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          12
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          26,
+          28
+        ],
+        "text": "沖縄",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          5,
+          10
+        ],
+        "text": "国道58号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          16,
+          20
+        ],
+        "text": "泡瀬地区",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          28,
+          35
+        ],
+        "text": "キャンプ瑞慶覧",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          36,
+          48
+        ],
+        "text": "ロウワー・プラザ住宅地区",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          54,
+          57
+        ],
+        "text": "沖縄市",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          11
+        ],
+        "text": "名護東道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          15,
+          18
+        ],
+        "text": "名護市",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          24,
+          33
+        ],
+        "text": "キャンプ・シュワブ",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          37,
+          41
+        ],
+        "text": "辺野古区",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          47,
+          50
+        ],
+        "text": "豊原区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "005",
+        "span": [
+          57,
+          60
+        ],
+        "text": "久志区",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11553020",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E9%98%B2%E8%A1%9B%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M009"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M007"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5770251",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E9%87%8E%E5%8D%9A%E4%B8%80"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1142254",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%AE%98%E6%88%BF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q766445",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795635",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.212222222",
+          "127.680833333"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6157743",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%9358%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2972065",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "31.595011111",
+          "130.553736111"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328615",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4556086",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.334277777",
+          "127.805722222"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4419750",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BB%E3%83%95%E3%82%A9%E3%82%B9%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.30138889",
+          "127.77972222"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4419750",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BB%E3%83%95%E3%82%A9%E3%82%B9%E3%82%BF%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.30138889",
+          "127.77972222"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328615",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4556086",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.334277777",
+          "127.805722222"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11415623",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E6%9D%B1%E9%81%93%E8%B7%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/8369985",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q117604",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4538671",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.591555555",
+          "127.977555555"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4419959",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AF%E3%83%96",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.524612",
+          "128.044324"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11638070",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%BA%E9%87%8E%E5%8F%A4",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.52319444",
+          "128.03241667"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M020",
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q117604",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E8%AD%B7%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4538671",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.591555555",
+          "127.977555555"
+        ]
+      }
+    }
+  },
+  "063-2": {
+    "metainfo": {
+      "src_date": "20220527",
+      "src_url": "https://www.mod.go.jp/rdb/okinawa/pr/haisai/images/pdf/187.pdf",
+      "src_parent_url": "https://www.mod.go.jp/rdb/okinawa/pr/haisai/"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "嘉手納弾薬庫地区の一部土地の返還",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "平成8年3月の日米合同委員会合意に基づき、嘉手納弾薬庫地区(旧東恩納弾薬庫地区)の一部土地について、本年3月31日に返還が実現しました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "003": {
+        "text": "土地所有者、うるま市長及び沖縄市長をはじめとする地元の方々のご理解、ご協力、また、返還実現のために尽力いただいた在日米軍及び現地米軍の関係者の皆様に対して感謝いたします。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "004": {
+        "text": "返還に先立ち、本年3月10日、うるま市石川保健相談センターにおいて、返還に係る地権者説明会を開催し、当局から返還に係る経緯や返還後に実施する支障除去措置等について説明、また、うるま市から返還後における道路整備事業について説明を行い、参加された方々から様々なご質問等を承りました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "005": {
+        "text": "今般の返還地の大部分については、本年4月以降、隣接する陸上自衛隊沖縄訓練場用地として使用することになります。",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "006": {
+        "text": "今後、支障除去措置を実施する箇所については適切に実施し、早期の土地の引き渡しに向けて着実に進めてまいります。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "この度の嘉手納弾薬庫地区(旧東恩納弾薬庫地区)の一部土地の返還により、平成8年3月の日米合同委員会合意に基づく返還は最後になりますが、引き続き、沖縄の負担軽減のため、嘉手納以南の土地の早期返還に向けて全力で取り組んでまいります。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          8
+        ],
+        "text": "嘉手納弾薬庫地区",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          7,
+          16
+        ],
+        "text": "日米合同委員会合意",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          21,
+          29
+        ],
+        "text": "嘉手納弾薬庫地区",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          30,
+          39
+        ],
+        "text": "旧東恩納弾薬庫地区",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          6,
+          10
+        ],
+        "text": "うるま市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          13,
+          16
+        ],
+        "text": "沖縄市",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          56,
+          60
+        ],
+        "text": "在日米軍",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          62,
+          64
+        ],
+        "text": "現地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          64,
+          66
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          15,
+          19
+        ],
+        "text": "うるま市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          19,
+          29
+        ],
+        "text": "石川保健相談センター",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          39,
+          45
+        ],
+        "text": "地権者説明会",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          50,
+          52
+        ],
+        "text": "当局",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          87,
+          91
+        ],
+        "text": "うるま市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          27,
+          32
+        ],
+        "text": "陸上自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          32,
+          37
+        ],
+        "text": "沖縄訓練場",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "007",
+        "span": [
+          4,
+          12
+        ],
+        "text": "嘉手納弾薬庫地区",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          13,
+          22
+        ],
+        "text": "旧東恩納弾薬庫地区",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "007",
+        "span": [
+          35,
+          37
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "007",
+        "span": [
+          42,
+          51
+        ],
+        "text": "日米合同委員会合意",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "007",
+        "span": [
+          72,
+          74
+        ],
+        "text": "沖縄",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "007",
+        "span": [
+          83,
+          86
+        ],
+        "text": "嘉手納",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4391871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%98%89%E6%89%8B%E7%B4%8D%E5%BC%BE%E8%96%AC%E5%BA%AB%E5%9C%B0%E5%8C%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.3945",
+          "127.784389"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M020"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M021"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28684577",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%B1%B3%E5%90%88%E5%90%8C%E5%A7%94%E5%93%A1%E4%BC%9A"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4391871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%98%89%E6%89%8B%E7%B4%8D%E5%BC%BE%E8%96%AC%E5%BA%AB%E5%9C%B0%E5%8C%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.3945",
+          "127.784389"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M011",
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q694313",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%86%E3%82%8B%E3%81%BE%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4542217",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.379166666",
+          "127.857416666"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328615",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4556086",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.334277777",
+          "127.805722222"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062935",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E7%B1%B3%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11211",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.uruma.lg.jp/1006002000/shisetsu/p000285.html"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11553020",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E9%98%B2%E8%A1%9B%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q889751",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11658511",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E3%81%AE%E6%BC%94%E7%BF%92%E5%A0%B4%E4%B8%80%E8%A6%A7"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q766445",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795635",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.212222222",
+          "127.680833333"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1205469",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%98%89%E6%89%8B%E7%B4%8D%E7%94%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4545426",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.361555555",
+          "127.75525"
+        ]
+      }
+    }
+  },
+  "063-3": {
+    "metainfo": {
+      "src_date": "20220527",
+      "src_url": "https://www.mod.go.jp/rdb/okinawa/pr/haisai/images/pdf/187.pdf",
+      "src_parent_url": "https://www.mod.go.jp/rdb/okinawa/pr/haisai/"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "那覇港湾施設移設に関する協議会(第28回)について",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "令和4年3月30日、国(防衛省、内閣府及び国土交通省)と沖縄県、那覇市、浦添市及び那覇港管理組合で構成する「那覇港湾施設移設に関する協議会(第28回)」がオンラインで開催されました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "003": {
+        "text": "本協議会は、那覇港湾施設の移設を円滑に進めるため、関係機関において、那覇港湾施設の移設に関連する諸措置を協議するために設置されたものであり、平成13年度から開催されているものです。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "004": {
+        "text": "今回の第28回移設協議会においては、防衛省から、第27回移設協議会において那覇港管理組合から報告のあった「浦添ふ頭地区における民港の形状案」を踏まえ、これと整合を図る形で、日米間で調整を行い得られた約49haの代替施設の位置及び形状案(下図「那覇港湾施設代替施設」参照)について説明を行い、那覇港管理組合から那覇港長期構想に係る状況等について説明がありました。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "005": {
+        "text": "それらを踏まえ、各構成員は、今回防衛省から報告を受けた代替施設の位置及び形状案について確認を行った上で、今後の作業の方向性を確認する第29回移設協議会に向けて同案について検討を行うことを確認しました。",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      },
+      "006": {
+        "text": "また、同協議会の日程については、民港の港湾計画改訂に向けた検討に影響のないよう早期に開催することについて一部の構成員から要望がありました。",
+        "mention_ids": [
+          "M028"
+        ]
+      },
+      "007": {
+        "text": "さらに、移設を円滑に進められるよう、引き続き協議会の構成員の間で密接な調整を行っていくこととしました。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "008": {
+        "text": "このように那覇港湾施設の移設を着実に進めていくためにも、国と地元の方々が参加する移設協議会の場で議論を深めていくことは重要と考えています。",
+        "mention_ids": [
+          "M030",
+          "M031",
+          "M032"
+        ]
+      },
+      "009": {
+        "text": "防衛省としては、那覇港港湾計画との整合を図りつつ進めることとしており、早期に港湾計画の結論が得られるよう地元の関係機関と協力していく立場です。",
+        "mention_ids": [
+          "M033",
+          "M034"
+        ]
+      },
+      "010": {
+        "text": "第29回移設協議会についても、早期に開催できるよう取り組んでまいります。",
+        "mention_ids": [
+          "M035"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          21
+        ],
+        "text": "那覇港湾施設移設に関する協議会(第28回)",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          10,
+          11
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          12,
+          15
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          16,
+          19
+        ],
+        "text": "内閣府",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          21,
+          26
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "002",
+        "span": [
+          28,
+          31
+        ],
+        "text": "沖縄県",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "002",
+        "span": [
+          32,
+          35
+        ],
+        "text": "那覇市",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "002",
+        "span": [
+          36,
+          39
+        ],
+        "text": "浦添市",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "002",
+        "span": [
+          41,
+          48
+        ],
+        "text": "那覇港管理組合",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "002",
+        "span": [
+          54,
+          75
+        ],
+        "text": "那覇港湾施設移設に関する協議会(第28回)",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          4
+        ],
+        "text": "本協議会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "003",
+        "span": [
+          6,
+          12
+        ],
+        "text": "那覇港湾施設",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "003",
+        "span": [
+          34,
+          40
+        ],
+        "text": "那覇港湾施設",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "003",
+        "span": [
+          70,
+          72
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "004",
+        "span": [
+          3,
+          12
+        ],
+        "text": "第28回移設協議会",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "004",
+        "span": [
+          18,
+          21
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "004",
+        "span": [
+          24,
+          33
+        ],
+        "text": "第27回移設協議会",
+        "entity_type": "EVE",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "004",
+        "span": [
+          37,
+          44
+        ],
+        "text": "那覇港管理組合",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "004",
+        "span": [
+          53,
+          59
+        ],
+        "text": "浦添ふ頭地区",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "004",
+        "span": [
+          86,
+          87
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "004",
+        "span": [
+          87,
+          88
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "004",
+        "span": [
+          121,
+          127
+        ],
+        "text": "那覇港湾施設",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "004",
+        "span": [
+          145,
+          152
+        ],
+        "text": "那覇港管理組合",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "004",
+        "span": [
+          154,
+          157
+        ],
+        "text": "那覇港",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "005",
+        "span": [
+          16,
+          19
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "005",
+        "span": [
+          66,
+          75
+        ],
+        "text": "第29回移設協議会",
+        "entity_type": "EVE",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          7
+        ],
+        "text": "同協議会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "007",
+        "span": [
+          22,
+          25
+        ],
+        "text": "協議会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "008",
+        "span": [
+          5,
+          11
+        ],
+        "text": "那覇港湾施設",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "008",
+        "span": [
+          28,
+          29
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "008",
+        "span": [
+          40,
+          45
+        ],
+        "text": "移設協議会",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          3
+        ],
+        "text": "防衛省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          11
+        ],
+        "text": "那覇港",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          9
+        ],
+        "text": "第29回移設協議会",
+        "entity_type": "EVE",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M011",
+          "M016"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mod.go.jp/j/press/news/2022/03/29a.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M021",
+          "M031"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M017",
+          "M026",
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%B2%E8%A1%9B%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.693",
+          "139.728"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q766445",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795635",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.212222222",
+          "127.680833333"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q181966",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4556097",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.212222222",
+          "127.679166666"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q695895",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%A6%E6%B7%BB%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4556096",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.245694444",
+          "127.721861111"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010",
+          "M019",
+          "M024"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://nahaport.jp/"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M012",
+          "M029",
+          "M032"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "other": "https://www.mod.go.jp/j/press/news/2022/03/29a.html"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M013",
+          "M014",
+          "M023",
+          "M030"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4367395",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E6%B8%AF%E6%B9%BE%E6%96%BD%E8%A8%AD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.20833333",
+          "127.66666667"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.urasoe.lg.jp/article?articleId=60d1a4a73d59ae1ac00c6b52"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11642847",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.21065",
+          "127.67028"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48525",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M025",
+          "M034"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11642847",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%82%A3%E8%A6%87%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.21065",
+          "127.67028"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M027",
+          "M028",
+          "M035"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mod.go.jp/j/press/news/2022/10/24a.html"
+        }
+      }
+    }
+  }
+}

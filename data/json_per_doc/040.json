@@ -1,0 +1,1344 @@
+{
+  "040": {
+    "metainfo": {
+      "src_date": "20220930",
+      "src_url": "https://www.mofa.go.jp/mofaj/gaiko/bluebook/2022/pdf/pdfs/3_1.pdf",
+      "src_parent_url": "https://www.mofa.go.jp/mofaj/gaiko/bluebook/2022/pdf/index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "令和4年版外交青書　第3章　第1節　日本と国際社会の平和と安定に向けた取組　特集　平和安全法制施行5周年",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "text": "いかなる事態においても国民の命や平和な暮らしを守り抜くことは、政府が担う最も重い責任の一つです。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "003": {
+        "text": "2016年3月に平和安全法制が施行されてから、2021年3月に5周年を迎えました。",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "004": {
+        "text": "平和安全法制の施行後、米国を始めとする関係国との間で様々な協力が行われており、日米同盟はかつてないほど強固になり、日本は地域や国際社会の平和と安定に一層寄与するようになりました。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "005": {
+        "text": "例えば、平和安全法制に新設された自衛隊法第95条の2により、自衛隊と連携して日本の防衛に資する活動に現に従事する米軍等の部隊の武器等を武力攻撃に至らない侵害から防護することが可能となりました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "006": {
+        "text": "米軍に対しては2017年から2020年末までの間、弾道ミサイルの警戒を含む情報収集・警戒監視活動や共同訓練の機会に、計57回の警護を実施しました。",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "007": {
+        "text": "2021年11月には、共同訓練の機会に、オーストラリア軍に対して初めてとなる同様の警護も行われました。",
+        "mention_ids": [
+          "M018",
+          "M019"
+        ]
+      },
+      "008": {
+        "text": "また、平和安全法制施行を踏まえ、2017年には、日米間のより広範で円滑な安全保障協力の実施のため、新たな日・米物品役務相互提供協定(略称:日米ACSA)[*1]が発効しました。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "009": {
+        "text": "新たな日米ACSAの発効により、平和安全法制を受け自衛隊から米軍に対して追加的に提供可能となった物品役務(例:自衛隊及び米軍の双方が参加する多数国間訓練のための物品役務)の提供に対しても、それまでの日米ACSA(1996年発効、2004年に第二次改正発効)の決済手続と同様の枠組みを適用させることが可能となり協力の実効性が一層高まりました。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031"
+        ]
+      },
+      "010": {
+        "text": "さらに、国連平和維持活動(PKO)などの国際的な平和協力活動への協力についても活動が拡充されました。",
+        "mention_ids": [
+          "M032"
+        ]
+      },
+      "011": {
+        "text": "2012年1月から2017年5月まで行われた国連南スーダン共和国ミッション(UNMISS)[*2]に従事する南スーダン派遣施設隊の活動に対し、2016年11月に新しい任務が付与されました。",
+        "mention_ids": [
+          "M033",
+          "M034"
+        ]
+      },
+      "012": {
+        "text": "この任務には、自衛隊が外国でPKO活動に従事する際、付近で活動するNGOなどが暴徒などに襲撃されたときに、襲撃されたNGOなどの緊急の要請を受けて、自衛隊が駆け付けてその保護に当たるいわゆる「駆け付け警護」や、他国の部隊との間での宿営地の共同防護を行うことが含まれました。",
+        "mention_ids": [
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "013": {
+        "text": "多国籍部隊・監視団(MFO)[*3]への司令部要員の派遣も、法律施行に伴い可能となった非国連統括型の活動です。",
+        "mention_ids": [
+          "M038",
+          "M039"
+        ]
+      },
+      "014": {
+        "text": "MFOは、1982年からエジプト・シナイ半島でエジプト・イスラエル間の停戦監視活動、対話・信頼醸成の促進支援などを実施する国際機関で、日本は2019年4月からシナイ半島国際平和協力隊員の派遣を開始し、現在2人の司令部要員を派遣しています。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046"
+        ]
+      },
+      "015": {
+        "text": "MFOへの司令部要員の派遣は、日本の「平和と繁栄の土台」である中東地域の平和と安定に資するのみならず、今後の国際平和協力の推進にとって有益な知見の蓄積にもつながる活動です。",
+        "mention_ids": [
+          "M047",
+          "M048",
+          "M049"
+        ]
+      },
+      "016": {
+        "text": "このように、平和安全法制の施行以来、米国のみならず様々な国との協力が深化しています。",
+        "mention_ids": [
+          "M050",
+          "M051"
+        ]
+      },
+      "017": {
+        "text": "今後も、国民の命や平和な暮らしを守り抜くべく、外務省としても、各国との相互協力の更なる進展に資する外交関係の維持・発展に努めていく考えです。",
+        "mention_ids": [
+          "M052",
+          "M053"
+        ]
+      },
+      "018": {
+        "type": "supplement:footnote",
+        "text": "*1　ACSA:Acquisition　and　Cross　Servicing　Agreement",
+        "mention_ids": [
+          "M054"
+        ]
+      },
+      "019": {
+        "type": "supplement:footnote",
+        "text": "*2　UNMISS:United　Nations　Mission　in　the　Republic　of　South　Sudan",
+        "mention_ids": [
+          "M055"
+        ]
+      },
+      "020": {
+        "type": "supplement:footnote",
+        "text": "*3　MFO:Multinational　Force　and　Observers",
+        "mention_ids": [
+          "M056"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          9
+        ],
+        "text": "令和4年版外交青書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          18,
+          20
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          41,
+          47
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          11,
+          13
+        ],
+        "text": "国民",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          31,
+          33
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          8,
+          14
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          6
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          11,
+          13
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          39,
+          43
+        ],
+        "text": "日米同盟",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          57,
+          59
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          4,
+          10
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          16,
+          26
+        ],
+        "text": "自衛隊法第95条の2",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          30,
+          33
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          38,
+          40
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          56,
+          58
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          2
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "006",
+        "span": [
+          49,
+          53
+        ],
+        "text": "共同訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "007",
+        "span": [
+          11,
+          15
+        ],
+        "text": "共同訓練",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          20,
+          28
+        ],
+        "text": "オーストラリア軍",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          3,
+          9
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "008",
+        "span": [
+          24,
+          25
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "008",
+        "span": [
+          25,
+          26
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "008",
+        "span": [
+          52,
+          76
+        ],
+        "text": "日・米物品役務相互提供協定(略称:日米ACSA)",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          3,
+          9
+        ],
+        "text": "日米ACSA",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          16,
+          22
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          25,
+          28
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          30,
+          32
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "009",
+        "span": [
+          55,
+          58
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "009",
+        "span": [
+          60,
+          62
+        ],
+        "text": "米軍",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "009",
+        "span": [
+          99,
+          105
+        ],
+        "text": "日米ACSA",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "009",
+        "span": [
+          120,
+          125
+        ],
+        "text": "第二次改正",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "010",
+        "span": [
+          4,
+          17
+        ],
+        "text": "国連平和維持活動(PKO)",
+        "entity_type": "EVE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "011",
+        "span": [
+          22,
+          45
+        ],
+        "text": "国連南スーダン共和国ミッション(UNMISS)",
+        "entity_type": "EVE",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "011",
+        "span": [
+          54,
+          64
+        ],
+        "text": "南スーダン派遣施設隊",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "012",
+        "span": [
+          7,
+          10
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "012",
+        "span": [
+          14,
+          19
+        ],
+        "text": "PKO活動",
+        "entity_type": "EVE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "012",
+        "span": [
+          74,
+          77
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          14
+        ],
+        "text": "多国籍部隊・監視団(MFO)",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "013",
+        "span": [
+          44,
+          46
+        ],
+        "text": "国連",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          3
+        ],
+        "text": "MFO",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "014",
+        "span": [
+          12,
+          16
+        ],
+        "text": "エジプト",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "014",
+        "span": [
+          17,
+          22
+        ],
+        "text": "シナイ半島",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "014",
+        "span": [
+          23,
+          27
+        ],
+        "text": "エジプト",
+        "entity_type": "LOC",
+        "entity_id": "E022",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "014",
+        "span": [
+          28,
+          33
+        ],
+        "text": "イスラエル",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "014",
+        "span": [
+          67,
+          69
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "014",
+        "span": [
+          79,
+          91
+        ],
+        "text": "シナイ半島国際平和協力隊",
+        "entity_type": "ORG",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          3
+        ],
+        "text": "MFO",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "015",
+        "span": [
+          15,
+          17
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "015",
+        "span": [
+          31,
+          35
+        ],
+        "text": "中東地域",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "016",
+        "span": [
+          6,
+          12
+        ],
+        "text": "平和安全法制",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "016",
+        "span": [
+          18,
+          20
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "017",
+        "span": [
+          4,
+          6
+        ],
+        "text": "国民",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "017",
+        "span": [
+          23,
+          26
+        ],
+        "text": "外務省",
+        "entity_type": "ORG",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "018",
+        "span": [
+          3,
+          49
+        ],
+        "text": "ACSA:Acquisition　and　Cross　Servicing　Agreement",
+        "entity_type": "PRO",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "019",
+        "span": [
+          3,
+          63
+        ],
+        "text": "UNMISS:United　Nations　Mission　in　the　Republic　of　South　Sudan",
+        "entity_type": "EVE",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "020",
+        "span": [
+          3,
+          40
+        ],
+        "text": "MFO:Multinational　Force　and　Observers",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11430314",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%96%E4%BA%A4%E9%9D%92%E6%9B%B8"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M005",
+          "M010",
+          "M014",
+          "M021",
+          "M045",
+          "M048"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M006",
+          "M007",
+          "M011",
+          "M020",
+          "M025",
+          "M050"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q20725275",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%92%8C%E5%AE%89%E5%85%A8%E6%B3%95%E5%88%B6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M052"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q58893412",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008",
+          "M022",
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48525",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q104862276",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://elaws.e-gov.go.jp/document?lawid=329AC0000000165"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M013",
+          "M026",
+          "M028",
+          "M035",
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q275488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015",
+          "M016",
+          "M027",
+          "M029"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11211",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q625657",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%9B%BD%E9%98%B2%E8%BB%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q408"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M023",
+          "M024",
+          "M030"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4674781",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%89%A9%E5%93%81%E5%BD%B9%E5%8B%99%E7%9B%B8%E4%BA%92%E6%8F%90%E4%BE%9B%E5%8D%94%E5%AE%9A"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M032",
+          "M036"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q219575",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E5%B9%B3%E5%92%8C%E7%B6%AD%E6%8C%81%E6%B4%BB%E5%8B%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q31"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mofa.go.jp/mofaj/files/000060703.pdf"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11613053",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%8D%97%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3%E6%B4%BE%E9%81%A3"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M038",
+          "M040",
+          "M047",
+          "M056"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1069653",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%9B%BD%E7%B1%8D%E8%BB%8D%E7%9B%A3%E8%A6%96%E5%9B%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q38"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1065",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q79",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1473947",
+          "wikidata_country": "http://www.wikidata.org/entity/Q79"
+        },
+        "coordinate": [
+          "27.0",
+          "29.0"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q36755",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%82%A4%E5%8D%8A%E5%B3%B6",
+          "openstreetmap": "https://www.openstreetmap.org/relation/5632534",
+          "wikidata_country": "http://www.wikidata.org/entity/Q79"
+        },
+        "coordinate": [
+          "29.5",
+          "33.833333333"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M043"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q68177931",
+          "wikidata_country": "http://www.wikidata.org/entity/Q79"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2578249",
+          "wikidata_country": "http://www.wikidata.org/entity/Q801"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7204",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%B1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q851"
+        },
+        "coordinate": [
+          "28.0",
+          "45.0"
+        ]
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q222241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%96%E5%8B%99%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.674",
+          "139.749"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4674781",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%89%A9%E5%93%81%E5%BD%B9%E5%8B%99%E7%9B%B8%E4%BA%92%E6%8F%90%E4%BE%9B%E5%8D%94%E5%AE%9A"
+        }
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q670434",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E5%8D%97%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3%E6%B4%BE%E9%81%A3%E5%9B%A3"
+        }
+      }
+    }
+  }
+}

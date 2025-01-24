@@ -1,0 +1,3256 @@
+{
+  "080": {
+    "metainfo": {
+      "src_date": "20230428",
+      "src_url": "https://www.mofa.go.jp/mofaj/press/kaiken/kaiken22_000076.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "林外務大臣会見記録",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "(令和5年6月9日(金曜日)10時37分　於:本省会見室)",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "ウクライナのダム決壊",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "004": {
+        "type": "heading",
+        "text": "【共同通信　桂田記者】",
+        "mention_ids": [
+          "M008",
+          "M009"
+        ]
+      },
+      "005": {
+        "text": "ウクライナ南部ヘルソン州のダムの決壊による洪水について、現時点で、日本政府として把握されている被害状況と、今後の具体的な人道支援の検討状況をお伺いします。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "【林外務大臣】",
+        "mention_ids": [
+          "M013",
+          "M014"
+        ]
+      },
+      "007": {
+        "text": "ドニプロ川のカホフカ水力発電所のダム決壊によりまして、下流域に位置する街の多くの住民が、避難を強いられていると承知しております。",
+        "mention_ids": [
+          "M015",
+          "M016"
+        ]
+      },
+      "008": {
+        "text": "被害状況を確認中でありますが、国連によれば、少なくとも1万6,000人が家を失い、更に、数千人への飲料水の供給が脅かされていると承知しております。",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "009": {
+        "text": "本件ダム決壊が与える影響について、懸念を表明するとともに、ウクライナ国民に対するお見舞いと連帯を改めて表明いたします。",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "010": {
+        "text": "我が国として、ロシアの侵略により、ウクライナ各地において、多くの市民が犠牲になっておりまして、また、発電所を含む民間施設に被害が生じていることは、断じて正当化できないものであり、強く非難いたします。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "011": {
+        "text": "また、7日に開催されました安保理会合においては、我が国や欧米諸国は、ロシアによる侵略がなければ、今回の事態が起こることはなかった旨等を指摘しつつ、ロシアによる侵略の停止とウクライナからの撤退、これは改めて強く求めたところでございまして、引き続き、G7を始めとする国際社会と緊密に連携してまいりたいと考えております。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "012": {
+        "text": "我が国として、洪水の被害を受けた住民に対する緊急の人道支援を早急に実施すべく、鋭意調整を行っておるところでございます。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "013": {
+        "type": "heading",
+        "text": "東アジアにおける外交イニシアチブ",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "【パンオリエントニュース　アズハリ記者】",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "015": {
+        "text": "(以下は英語にて発言)",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "ありがとうございます。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "パン・オリエントニュース日本支局のアズハリです。",
+        "mention_ids": [
+          "M033",
+          "M034",
+          "M035"
+        ]
+      },
+      "018": {
+        "text": "先日前例のない中露による空海軍事演習が日本付近で行われたのに加え、米韓の核兵器についての協力に関する新たな合意、昨今の北朝鮮によるミサイル発射、そしてウクライナにおける戦争の激化と、さきほど言及されていましたダム決壊という惨事が発生しています。",
+        "mention_ids": [
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "019": {
+        "text": "これら全ては、軍事的エスカレーションが深刻化する中、東アジアにおいて軍拡競争が激化していることを示しており、これは潜在的な核戦争やそれと類似した状況が迫っていることを示唆しています。",
+        "mention_ids": [
+          "M043"
+        ]
+      },
+      "020": {
+        "text": "日本がこうした緊張を緩和するため、また、切迫しているように見受けられる戦争を避けるために、東アジアにおいて外交的なアプローチを開始する可能性はありますか。",
+        "mention_ids": [
+          "M044",
+          "M045"
+        ]
+      },
+      "021": {
+        "text": "以上です。",
+        "mention_ids": []
+      },
+      "022": {
+        "type": "heading",
+        "text": "【林外務大臣】",
+        "mention_ids": [
+          "M046",
+          "M047"
+        ]
+      },
+      "023": {
+        "text": "我が国としては、同盟国・同志国とも連携いたしまして、「自由で開かれたインド太平洋」の実現に向けた取組を戦略的に推進していくことで、地域の平和と繁栄に貢献していきたいと考えております。",
+        "mention_ids": [
+          "M048",
+          "M049"
+        ]
+      },
+      "024": {
+        "text": "また、国家安全保障戦略では、我が国が、戦後最も厳しく複雑な安全保障環境に直面する中で、同盟国・同志国間のネットワークを重層的に構築をするとともに、それを拡大し、抑止力を強化していく方針、これも明記しております。",
+        "mention_ids": [
+          "M050",
+          "M051"
+        ]
+      },
+      "025": {
+        "text": "その上で、アジアでは、ASEANが地域協力の中心として重要な役割を担っておりまして、東アジア首脳会議、ASEAN地域フォーラム、拡大ASEAN国防相会議など、多層的な地域協力の枠組みがあります。",
+        "mention_ids": [
+          "M052",
+          "M053",
+          "M054",
+          "M055",
+          "M056"
+        ]
+      },
+      "026": {
+        "text": "引き続き、こういった枠組みとの連携を図りつつ、FOIPを実現するための協力を一層強化をし、インド太平洋地域においても、法の支配に基づく自由で開かれた国際秩序を守り抜いてまいりたいと考えております。",
+        "mention_ids": [
+          "M057"
+        ]
+      },
+      "027": {
+        "type": "heading",
+        "text": "北朝鮮による「衛星」打ち上げ",
+        "mention_ids": [
+          "M058"
+        ]
+      },
+      "028": {
+        "type": "heading",
+        "text": "【NHK　岩澤記者】",
+        "mention_ids": [
+          "M059",
+          "M060"
+        ]
+      },
+      "029": {
+        "text": "北朝鮮の軍事偵察衛星の打ち上げについて伺います。",
+        "mention_ids": [
+          "M061"
+        ]
+      },
+      "030": {
+        "text": "北朝鮮は、人工衛星を打ち上げるとする通報期間を、明後日の11日までとしていて、その上で、2回目の打ち上げを可及的速やかに行うとしていますが、北朝鮮の最新の動向をどのように見ているか伺います。",
+        "mention_ids": [
+          "M062",
+          "M063"
+        ]
+      },
+      "031": {
+        "text": "また、北朝鮮への独自制裁の強化や、制裁の抜け穴対策についての、現在の検討状況もあわせてお願いします。",
+        "mention_ids": [
+          "M064"
+        ]
+      },
+      "032": {
+        "type": "heading",
+        "text": "【林外務大臣】",
+        "mention_ids": [
+          "M065",
+          "M066"
+        ]
+      },
+      "033": {
+        "text": "先月31日の、北朝鮮による弾道ミサイル技術を使用した発射を含めて、これまでの一連の北朝鮮の行動は、我が国、地域及び国際社会の平和と安全を脅かすものであり、断じて容認できないと考えております。",
+        "mention_ids": [
+          "M067",
+          "M068",
+          "M069"
+        ]
+      },
+      "034": {
+        "text": "このような発射は、「衛星」と称したとしても、北朝鮮による弾道ミサイル技術を使用した、いかなる発射を禁止している、関連する国連安保理決議に違反するものであります。",
+        "mention_ids": [
+          "M070",
+          "M071"
+        ]
+      },
+      "035": {
+        "text": "今後、北朝鮮が、「衛星」と称するものの発射を含め、更なる挑発行為に出る可能性があると考えております。",
+        "mention_ids": [
+          "M072"
+        ]
+      },
+      "036": {
+        "text": "その上で、我が国独自の措置も含めて、今後の対応については、予断を持ってお答えをすることは差し控えたいと思いますが、米国や韓国とも連携しつつ、検討してまいります。",
+        "mention_ids": [
+          "M073",
+          "M074",
+          "M075"
+        ]
+      },
+      "037": {
+        "text": "また、関連安保理決議の実効性を確保するとともに、我が国としてとっている措置の実施、これを徹底してまいりたいと考えております。",
+        "mention_ids": [
+          "M076",
+          "M077"
+        ]
+      },
+      "038": {
+        "type": "heading",
+        "text": "ALPS処理水(韓国の反応)",
+        "mention_ids": [
+          "M078"
+        ]
+      },
+      "039": {
+        "type": "heading",
+        "text": "【産経新聞　岡田記者】",
+        "mention_ids": [
+          "M079",
+          "M080"
+        ]
+      },
+      "040": {
+        "text": "東京電力の福島第一原発の処理水の放出について伺います。",
+        "mention_ids": [
+          "M081",
+          "M082"
+        ]
+      },
+      "041": {
+        "text": "5月下旬に、韓国の視察団が来日し、現地を視察しました。",
+        "mention_ids": [
+          "M083",
+          "M084",
+          "M085"
+        ]
+      },
+      "042": {
+        "text": "韓国の韓(ハン)首相は、視察結果について、「得たかった資料のほとんどを受け取った」「かなり満足した」と一定の評価を示す発言しています。",
+        "mention_ids": [
+          "M086",
+          "M087",
+          "M088"
+        ]
+      },
+      "043": {
+        "text": "韓国は、これまで、海洋放出について反発を繰り返してきましたが、今回の視察を受けて、日本への理解が進むとお考えでしょうか。",
+        "mention_ids": [
+          "M089",
+          "M090",
+          "M091"
+        ]
+      },
+      "044": {
+        "text": "また、夏の放出に向けて、中国や島嶼国の状況をどのようにご覧になっているでしょうか、大臣の受け止め、御所感をお願いします。",
+        "mention_ids": [
+          "M092",
+          "M093"
+        ]
+      },
+      "045": {
+        "type": "heading",
+        "text": "【林外務大臣】",
+        "mention_ids": [
+          "M094",
+          "M095"
+        ]
+      },
+      "046": {
+        "text": "韓国については、これまで、局長級の説明会等の機会を通じて、ALPS処理水の安全性について、科学的根拠に基づき、丁寧に情報提供や説明を行ってきている中、5月7日の日韓首脳会談を踏まえて、今般、韓国専門家現地視察団による視察が行われました。",
+        "mention_ids": [
+          "M096",
+          "M097",
+          "M098",
+          "M099"
+        ]
+      },
+      "047": {
+        "text": "視察団は、5月22日に日本側と会合を行っておりまして、23日から24日まで東電福島第一原発訪問し、ALPS処理水の海洋放出関連施設を視察しました。",
+        "mention_ids": [
+          "M100",
+          "M101",
+          "M102",
+          "M103"
+        ]
+      },
+      "048": {
+        "text": "そうした施設の中でも、韓国側に対して、日本側から丁寧な説明や情報提供を行っております。",
+        "mention_ids": [
+          "M104",
+          "M105"
+        ]
+      },
+      "049": {
+        "text": "その上で、25日には、総括的な会合を東京で行い、韓国側からの質問等に対して、日本側から科学的根拠に基づく丁寧な説明を行っております。",
+        "mention_ids": [
+          "M106",
+          "M107",
+          "M108",
+          "M109"
+        ]
+      },
+      "050": {
+        "text": "今回の視察を通じ、韓国側の理解促進につながることを期待しております。",
+        "mention_ids": [
+          "M110",
+          "M111"
+        ]
+      },
+      "051": {
+        "text": "政府としては、今回の韓国専門家現地視察団の受入れ等を通じて、引き続き、高い透明性をもって科学的根拠に基づく誠実な説明を行い、ALPS処理水の海洋放出の安全性について、韓国側の理解が一層深まるように、引き続き取り組んでおるところでございます。",
+        "mention_ids": [
+          "M112",
+          "M113",
+          "M114"
+        ]
+      },
+      "052": {
+        "text": "そして、この高い透明性を持って、科学的根拠に基づく誠実な説明、これは韓国のみならず、今ご指摘のあった各国にも、同様にしっかりと対応してまいりたいと思います。",
+        "mention_ids": [
+          "M115"
+        ]
+      },
+      "053": {
+        "type": "heading",
+        "text": "習近平中国国家主席による沖縄をめぐる発言",
+        "mention_ids": [
+          "M116",
+          "M117",
+          "M118"
+        ]
+      },
+      "054": {
+        "type": "heading",
+        "text": "【読売新聞　依田記者】",
+        "mention_ids": [
+          "M119",
+          "M120"
+        ]
+      },
+      "055": {
+        "text": "中国と沖縄の関係でお伺いしますが、6月4日付の中国共産党機関紙の人民日報の1面の記事によると、習近平(しゅう・きんぺい)国家主席が沖縄について、「私が福州で勤めていたとき、福州には琉球館と琉球人の墓、琉球墓があり、福州と琉球の縁が深いことを知った」などと言及しました。",
+        "mention_ids": [
+          "M121",
+          "M122",
+          "M123",
+          "M124",
+          "M125",
+          "M126",
+          "M127",
+          "M128",
+          "M129",
+          "M130",
+          "M131",
+          "M132",
+          "M133",
+          "M134"
+        ]
+      },
+      "056": {
+        "text": "この報道についての受け止めをお願いいたします。",
+        "mention_ids": []
+      },
+      "057": {
+        "type": "heading",
+        "text": "【林外務大臣】",
+        "mention_ids": [
+          "M135",
+          "M136"
+        ]
+      },
+      "058": {
+        "text": "御指摘の報道は承知しておりますが、中国国内の個別の報道の一つ一つにお答えをすることは、差し控えさせていただきたいと思います。",
+        "mention_ids": [
+          "M137"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          1
+        ],
+        "text": "林",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          1,
+          3
+        ],
+        "text": "外務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          5,
+          7
+        ],
+        "text": "会見",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          3
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          23,
+          25
+        ],
+        "text": "本省",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          25,
+          28
+        ],
+        "text": "会見室",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ウクライナ",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          1,
+          5
+        ],
+        "text": "共同通信",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          6,
+          8
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ウクライナ",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          7,
+          12
+        ],
+        "text": "ヘルソン州",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          33,
+          37
+        ],
+        "text": "日本政府",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "006",
+        "span": [
+          1,
+          2
+        ],
+        "text": "林",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          2,
+          4
+        ],
+        "text": "外務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          5
+        ],
+        "text": "ドニプロ川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "007",
+        "span": [
+          6,
+          15
+        ],
+        "text": "カホフカ水力発電所",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          15,
+          17
+        ],
+        "text": "国連",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          29,
+          36
+        ],
+        "text": "ウクライナ国民",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "010",
+        "span": [
+          7,
+          10
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "010",
+        "span": [
+          17,
+          22
+        ],
+        "text": "ウクライナ",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "011",
+        "span": [
+          13,
+          18
+        ],
+        "text": "安保理会合",
+        "entity_type": "EVE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "011",
+        "span": [
+          24,
+          27
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "011",
+        "span": [
+          28,
+          32
+        ],
+        "text": "欧米諸国",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "011",
+        "span": [
+          34,
+          37
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "011",
+        "span": [
+          73,
+          76
+        ],
+        "text": "ロシア",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "011",
+        "span": [
+          85,
+          90
+        ],
+        "text": "ウクライナ",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "011",
+        "span": [
+          123,
+          125
+        ],
+        "text": "G7",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          4
+        ],
+        "text": "東アジア",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "014",
+        "span": [
+          1,
+          12
+        ],
+        "text": "パンオリエントニュース",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "014",
+        "span": [
+          13,
+          17
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          12
+        ],
+        "text": "パン・オリエントニュース",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "017",
+        "span": [
+          12,
+          16
+        ],
+        "text": "日本支局",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "017",
+        "span": [
+          17,
+          21
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "018",
+        "span": [
+          7,
+          8
+        ],
+        "text": "中",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "018",
+        "span": [
+          8,
+          9
+        ],
+        "text": "露",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "018",
+        "span": [
+          19,
+          21
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M039": {
+        "sentence_id": "018",
+        "span": [
+          33,
+          34
+        ],
+        "text": "米",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "018",
+        "span": [
+          34,
+          35
+        ],
+        "text": "韓",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "018",
+        "span": [
+          59,
+          62
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "018",
+        "span": [
+          75,
+          80
+        ],
+        "text": "ウクライナ",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "019",
+        "span": [
+          26,
+          30
+        ],
+        "text": "東アジア",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "020",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "020",
+        "span": [
+          45,
+          49
+        ],
+        "text": "東アジア",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "022",
+        "span": [
+          1,
+          2
+        ],
+        "text": "林",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "022",
+        "span": [
+          2,
+          4
+        ],
+        "text": "外務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "023",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "023",
+        "span": [
+          34,
+          40
+        ],
+        "text": "インド太平洋",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "024",
+        "span": [
+          14,
+          17
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M051": {
+        "sentence_id": "024",
+        "span": [
+          19,
+          21
+        ],
+        "text": "戦後",
+        "entity_type": "TIME",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "025",
+        "span": [
+          5,
+          8
+        ],
+        "text": "アジア",
+        "entity_type": "LOC",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "025",
+        "span": [
+          11,
+          16
+        ],
+        "text": "ASEAN",
+        "entity_type": "ORG",
+        "entity_id": "E031",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M054": {
+        "sentence_id": "025",
+        "span": [
+          42,
+          50
+        ],
+        "text": "東アジア首脳会議",
+        "entity_type": "EVE",
+        "entity_id": "E032",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "025",
+        "span": [
+          51,
+          63
+        ],
+        "text": "ASEAN地域フォーラム",
+        "entity_type": "EVE",
+        "entity_id": "E033",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "025",
+        "span": [
+          64,
+          76
+        ],
+        "text": "拡大ASEAN国防相会議",
+        "entity_type": "EVE",
+        "entity_id": "E034",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "026",
+        "span": [
+          45,
+          53
+        ],
+        "text": "インド太平洋地域",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "027",
+        "span": [
+          0,
+          3
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "028",
+        "span": [
+          1,
+          4
+        ],
+        "text": "NHK",
+        "entity_type": "ORG",
+        "entity_id": "E035",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "028",
+        "span": [
+          5,
+          7
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E036",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          3
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          3
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "030",
+        "span": [
+          70,
+          73
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "031",
+        "span": [
+          3,
+          6
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M065": {
+        "sentence_id": "032",
+        "span": [
+          1,
+          2
+        ],
+        "text": "林",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M066": {
+        "sentence_id": "032",
+        "span": [
+          2,
+          4
+        ],
+        "text": "外務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "033",
+        "span": [
+          7,
+          10
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "033",
+        "span": [
+          41,
+          44
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M069": {
+        "sentence_id": "033",
+        "span": [
+          49,
+          52
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M070": {
+        "sentence_id": "034",
+        "span": [
+          22,
+          25
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "034",
+        "span": [
+          60,
+          67
+        ],
+        "text": "国連安保理決議",
+        "entity_type": "PRO",
+        "entity_id": "E037",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M072": {
+        "sentence_id": "035",
+        "span": [
+          3,
+          6
+        ],
+        "text": "北朝鮮",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "036",
+        "span": [
+          5,
+          8
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "036",
+        "span": [
+          57,
+          59
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "036",
+        "span": [
+          60,
+          62
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M076": {
+        "sentence_id": "037",
+        "span": [
+          5,
+          10
+        ],
+        "text": "安保理決議",
+        "entity_type": "PRO",
+        "entity_id": "E037",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M077": {
+        "sentence_id": "037",
+        "span": [
+          24,
+          27
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M078": {
+        "sentence_id": "038",
+        "span": [
+          8,
+          10
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M079": {
+        "sentence_id": "039",
+        "span": [
+          1,
+          5
+        ],
+        "text": "産経新聞",
+        "entity_type": "ORG",
+        "entity_id": "E038",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M080": {
+        "sentence_id": "039",
+        "span": [
+          6,
+          8
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E039",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M081": {
+        "sentence_id": "040",
+        "span": [
+          0,
+          4
+        ],
+        "text": "東京電力",
+        "entity_type": "ORG",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M082": {
+        "sentence_id": "040",
+        "span": [
+          5,
+          11
+        ],
+        "text": "福島第一原発",
+        "entity_type": "FAC",
+        "entity_id": "E041",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M083": {
+        "sentence_id": "041",
+        "span": [
+          6,
+          8
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E042",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M084": {
+        "sentence_id": "041",
+        "span": [
+          9,
+          12
+        ],
+        "text": "視察団",
+        "entity_type": "NOMINAL",
+        "entity_id": "E043",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M085": {
+        "sentence_id": "041",
+        "span": [
+          14,
+          15
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M086": {
+        "sentence_id": "042",
+        "span": [
+          0,
+          2
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E042",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M087": {
+        "sentence_id": "042",
+        "span": [
+          3,
+          8
+        ],
+        "text": "韓(ハン)",
+        "entity_type": "PER",
+        "entity_id": "E044",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M088": {
+        "sentence_id": "042",
+        "span": [
+          12,
+          14
+        ],
+        "text": "視察",
+        "entity_type": "NOMINAL",
+        "entity_id": "E045",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M089": {
+        "sentence_id": "043",
+        "span": [
+          0,
+          2
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M090": {
+        "sentence_id": "043",
+        "span": [
+          34,
+          36
+        ],
+        "text": "視察",
+        "entity_type": "NOMINAL",
+        "entity_id": "E045",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M091": {
+        "sentence_id": "043",
+        "span": [
+          41,
+          43
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M092": {
+        "sentence_id": "044",
+        "span": [
+          12,
+          14
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E046",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M093": {
+        "sentence_id": "044",
+        "span": [
+          41,
+          43
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M094": {
+        "sentence_id": "045",
+        "span": [
+          1,
+          2
+        ],
+        "text": "林",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M095": {
+        "sentence_id": "045",
+        "span": [
+          2,
+          4
+        ],
+        "text": "外務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M096": {
+        "sentence_id": "046",
+        "span": [
+          0,
+          2
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M097": {
+        "sentence_id": "046",
+        "span": [
+          80,
+          86
+        ],
+        "text": "日韓首脳会談",
+        "entity_type": "EVE",
+        "entity_id": "E047",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M098": {
+        "sentence_id": "046",
+        "span": [
+          95,
+          105
+        ],
+        "text": "韓国専門家現地視察団",
+        "entity_type": "ORG",
+        "entity_id": "E043",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M099": {
+        "sentence_id": "046",
+        "span": [
+          108,
+          110
+        ],
+        "text": "視察",
+        "entity_type": "NOMINAL",
+        "entity_id": "E045",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M100": {
+        "sentence_id": "047",
+        "span": [
+          0,
+          3
+        ],
+        "text": "視察団",
+        "entity_type": "NOMINAL",
+        "entity_id": "E043",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M101": {
+        "sentence_id": "047",
+        "span": [
+          11,
+          13
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M102": {
+        "sentence_id": "047",
+        "span": [
+          37,
+          39
+        ],
+        "text": "東電",
+        "entity_type": "ORG",
+        "entity_id": "E040",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M103": {
+        "sentence_id": "047",
+        "span": [
+          39,
+          45
+        ],
+        "text": "福島第一原発",
+        "entity_type": "FAC",
+        "entity_id": "E041",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M104": {
+        "sentence_id": "048",
+        "span": [
+          11,
+          13
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M105": {
+        "sentence_id": "048",
+        "span": [
+          19,
+          21
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M106": {
+        "sentence_id": "049",
+        "span": [
+          15,
+          17
+        ],
+        "text": "会合",
+        "entity_type": "NOMINAL",
+        "entity_id": "E048",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M107": {
+        "sentence_id": "049",
+        "span": [
+          18,
+          20
+        ],
+        "text": "東京",
+        "entity_type": "LOC",
+        "entity_id": "E049",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M108": {
+        "sentence_id": "049",
+        "span": [
+          24,
+          26
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M109": {
+        "sentence_id": "049",
+        "span": [
+          38,
+          40
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M110": {
+        "sentence_id": "050",
+        "span": [
+          3,
+          5
+        ],
+        "text": "視察",
+        "entity_type": "NOMINAL",
+        "entity_id": "E045",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M111": {
+        "sentence_id": "050",
+        "span": [
+          9,
+          11
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M112": {
+        "sentence_id": "051",
+        "span": [
+          0,
+          2
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M113": {
+        "sentence_id": "051",
+        "span": [
+          10,
+          20
+        ],
+        "text": "韓国専門家現地視察団",
+        "entity_type": "ORG",
+        "entity_id": "E043",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M114": {
+        "sentence_id": "051",
+        "span": [
+          83,
+          85
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M115": {
+        "sentence_id": "052",
+        "span": [
+          34,
+          36
+        ],
+        "text": "韓国",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M116": {
+        "sentence_id": "053",
+        "span": [
+          0,
+          3
+        ],
+        "text": "習近平",
+        "entity_type": "PER",
+        "entity_id": "E050",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M117": {
+        "sentence_id": "053",
+        "span": [
+          3,
+          5
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E046",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M118": {
+        "sentence_id": "053",
+        "span": [
+          12,
+          14
+        ],
+        "text": "沖縄",
+        "entity_type": "LOC",
+        "entity_id": "E051",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M119": {
+        "sentence_id": "054",
+        "span": [
+          1,
+          5
+        ],
+        "text": "読売新聞",
+        "entity_type": "ORG",
+        "entity_id": "E052",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M120": {
+        "sentence_id": "054",
+        "span": [
+          6,
+          8
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E053",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M121": {
+        "sentence_id": "055",
+        "span": [
+          0,
+          2
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E046",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M122": {
+        "sentence_id": "055",
+        "span": [
+          3,
+          5
+        ],
+        "text": "沖縄",
+        "entity_type": "LOC",
+        "entity_id": "E051",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M123": {
+        "sentence_id": "055",
+        "span": [
+          23,
+          28
+        ],
+        "text": "中国共産党",
+        "entity_type": "ORG",
+        "entity_id": "E054",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M124": {
+        "sentence_id": "055",
+        "span": [
+          32,
+          36
+        ],
+        "text": "人民日報",
+        "entity_type": "PRO",
+        "entity_id": "E055",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M125": {
+        "sentence_id": "055",
+        "span": [
+          47,
+          60
+        ],
+        "text": "習近平(しゅう・きんぺい)",
+        "entity_type": "PER",
+        "entity_id": "E050",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M126": {
+        "sentence_id": "055",
+        "span": [
+          65,
+          67
+        ],
+        "text": "沖縄",
+        "entity_type": "LOC",
+        "entity_id": "E051",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M127": {
+        "sentence_id": "055",
+        "span": [
+          73,
+          74
+        ],
+        "text": "私",
+        "entity_type": "NOMINAL",
+        "entity_id": "E050",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M128": {
+        "sentence_id": "055",
+        "span": [
+          75,
+          77
+        ],
+        "text": "福州",
+        "entity_type": "LOC",
+        "entity_id": "E056",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M129": {
+        "sentence_id": "055",
+        "span": [
+          86,
+          88
+        ],
+        "text": "福州",
+        "entity_type": "LOC",
+        "entity_id": "E056",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M130": {
+        "sentence_id": "055",
+        "span": [
+          90,
+          93
+        ],
+        "text": "琉球館",
+        "entity_type": "FAC",
+        "entity_id": "E057",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M131": {
+        "sentence_id": "055",
+        "span": [
+          94,
+          97
+        ],
+        "text": "琉球人",
+        "entity_type": "ORG",
+        "entity_id": "E058",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M132": {
+        "sentence_id": "055",
+        "span": [
+          100,
+          103
+        ],
+        "text": "琉球墓",
+        "entity_type": "FAC",
+        "entity_id": "E059",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M133": {
+        "sentence_id": "055",
+        "span": [
+          107,
+          109
+        ],
+        "text": "福州",
+        "entity_type": "LOC",
+        "entity_id": "E056",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M134": {
+        "sentence_id": "055",
+        "span": [
+          110,
+          112
+        ],
+        "text": "琉球",
+        "entity_type": "LOC",
+        "entity_id": "E060",
+        "has_vague_ref": true,
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M135": {
+        "sentence_id": "057",
+        "span": [
+          1,
+          2
+        ],
+        "text": "林",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M136": {
+        "sentence_id": "057",
+        "span": [
+          2,
+          4
+        ],
+        "text": "外務",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M137": {
+        "sentence_id": "058",
+        "span": [
+          17,
+          19
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E046",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M013",
+          "M046",
+          "M065",
+          "M093",
+          "M094",
+          "M135"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1141271",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9E%97%E8%8A%B3%E6%AD%A3"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M005",
+          "M014",
+          "M047",
+          "M066",
+          "M095",
+          "M136"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q222241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%96%E5%8B%99%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.674",
+          "139.749"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q222241",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%96%E5%8B%99%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.674",
+          "139.749"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M010",
+          "M021",
+          "M027",
+          "M042"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q212",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/60199",
+          "wikidata_country": "http://www.wikidata.org/entity/Q212"
+        },
+        "coordinate": [
+          "49.0",
+          "32.0"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q779730",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q163271",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%82%BD%E3%83%B3%E5%B7%9E",
+          "openstreetmap": "https://www.openstreetmap.org/relation/71022",
+          "wikidata_country": "http://www.wikidata.org/entity/Q212"
+        },
+        "coordinate": [
+          "46.5",
+          "34.0"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012",
+          "M019",
+          "M023",
+          "M029",
+          "M044",
+          "M048",
+          "M073",
+          "M077",
+          "M091",
+          "M101",
+          "M105",
+          "M109",
+          "M112"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q40855",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8B%E3%82%A8%E3%83%97%E3%83%AB%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2086905",
+          "wikidata_country": "http://www.wikidata.org/entity/Q159"
+        },
+        "coordinate": [
+          "55.8721",
+          "33.7239"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3379049",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9B%E3%83%95%E3%82%AB%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q212"
+        },
+        "coordinate": [
+          "46.776111111",
+          "33.371666666"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1065",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q44806",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E4%BA%BA"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M020",
+          "M025",
+          "M026",
+          "M037"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1140115",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q159"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q37470",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E7%90%86%E4%BA%8B%E4%BC%9A"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11544940",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E7%B1%B3"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1764511",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%BB%E8%A6%81%E5%9B%BD%E9%A6%96%E8%84%B3%E4%BC%9A%E8%AD%B0"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M030",
+          "M043",
+          "M045"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q27231",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "47.210277777",
+          "102.847777777"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.panorientnews.com/jp/"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M032",
+          "M035"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.panorientnews.com/jp/"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q936190",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M038",
+          "M050",
+          "M069",
+          "M085"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M039",
+          "M074"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48525",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M040",
+          "M075",
+          "M078",
+          "M089",
+          "M096",
+          "M104",
+          "M108",
+          "M111",
+          "M114",
+          "M115"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q626814",
+          "wikidata_country": "http://www.wikidata.org/entity/Q884"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M041",
+          "M058",
+          "M061",
+          "M062",
+          "M063",
+          "M064",
+          "M067",
+          "M068",
+          "M070",
+          "M072"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4375957",
+          "wikidata_country": "http://www.wikidata.org/entity/Q423"
+        }
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M049",
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1547309",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E5%A4%AA%E5%B9%B3%E6%B4%8B"
+        }
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1201472",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%BE%8C"
+        }
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "coordinate": [
+          "43.681111111",
+          "87.331111111"
+        ]
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7768",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2%E8%AB%B8%E5%9B%BD%E9%80%A3%E5%90%88",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11600068"
+        }
+      },
+      "E032": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q542549",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88"
+        }
+      },
+      "E033": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7886981",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2%E8%AB%B8%E5%9B%BD%E9%80%A3%E5%90%88%E5%9C%B0%E5%9F%9F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0"
+        }
+      },
+      "E034": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "other": "https://www.mod.go.jp/j/approach/exchange/dialogue/j-asean/admm_plus_ewg.html"
+        }
+      },
+      "E035": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q212128",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%94%BE%E9%80%81%E5%8D%94%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E036": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E037": {
+        "member_mention_ids": [
+          "M071",
+          "M076"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q4121812"
+        }
+      },
+      "E038": {
+        "member_mention_ids": [
+          "M079"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11575035",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E039": {
+        "member_mention_ids": [
+          "M080"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E040": {
+        "member_mention_ids": [
+          "M081",
+          "M102"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q333894",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%8A%9B%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E041": {
+        "member_mention_ids": [
+          "M082",
+          "M103"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q114295",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%AC%AC%E4%B8%80%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.42138889",
+          "141.0325"
+        ]
+      },
+      "E042": {
+        "member_mention_ids": [
+          "M083",
+          "M086"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q884",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/307756",
+          "wikidata_country": "http://www.wikidata.org/entity/Q884"
+        },
+        "coordinate": [
+          "36.0",
+          "128.0"
+        ]
+      },
+      "E043": {
+        "member_mention_ids": [
+          "M084",
+          "M098",
+          "M100",
+          "M113"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/press/2023/05/20230525004/20230525004.html"
+        }
+      },
+      "E044": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q356666",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9F%93%E6%82%B3%E6%B4%99"
+        }
+      },
+      "E045": {
+        "member_mention_ids": [
+          "M088",
+          "M090",
+          "M099",
+          "M110"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/press/2023/05/20230525004/20230525004.html"
+        }
+      },
+      "E046": {
+        "member_mention_ids": [
+          "M092",
+          "M117",
+          "M121",
+          "M137"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q148",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/270056",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "35.844722222",
+          "103.451944444"
+        ]
+      },
+      "E047": {
+        "member_mention_ids": [
+          "M097"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mofa.go.jp/mofaj/a_o/na/kr/page6_000851_00001.html"
+        }
+      },
+      "E048": {
+        "member_mention_ids": [
+          "M106"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.meti.go.jp/press/2023/05/20230525004/20230525004.html"
+        }
+      },
+      "E049": {
+        "member_mention_ids": [
+          "M107"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E050": {
+        "member_mention_ids": [
+          "M116",
+          "M125",
+          "M127"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q15031",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%BF%92%E8%BF%91%E5%B9%B3"
+        }
+      },
+      "E051": {
+        "member_mention_ids": [
+          "M118",
+          "M122",
+          "M126"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q766445",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795635",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "26.212222222",
+          "127.680833333"
+        ]
+      },
+      "E052": {
+        "member_mention_ids": [
+          "M119"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11101101",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%AA%AD%E5%A3%B2%E6%96%B0%E8%81%9E%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E053": {
+        "member_mention_ids": [
+          "M120"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E054": {
+        "member_mention_ids": [
+          "M123"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17427",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%85%B1%E7%94%A3%E5%85%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        }
+      },
+      "E055": {
+        "member_mention_ids": [
+          "M124"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q54340",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        }
+      },
+      "E056": {
+        "member_mention_ids": [
+          "M128",
+          "M129",
+          "M133"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q68481",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B7%9E%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3263977",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "26.076944444",
+          "119.291666666"
+        ]
+      },
+      "E057": {
+        "member_mention_ids": [
+          "M130"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11108795",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9F%94%E9%81%A0%E9%A7%85",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "26.069198",
+          "119.3125155"
+        ]
+      },
+      "E058": {
+        "member_mention_ids": [
+          "M131"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1208167",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E6%B0%91%E6%97%8F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E059": {
+        "member_mention_ids": [
+          "M132"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E060": {
+        "member_mention_ids": [
+          "M134"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28025",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E7%8E%8B%E5%9B%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q28025"
+        },
+        "coordinate": [
+          "26.2",
+          "127.68333333"
+        ]
+      }
+    }
+  }
+}

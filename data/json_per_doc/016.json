@@ -1,0 +1,1804 @@
+{
+  "016": {
+    "metainfo": {
+      "src_date": "20220900",
+      "src_url": "https://www.maff.go.jp/j/pr/aff/2209/regeneration04.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "aff　2022　SEPTEMBER　9月号",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "農山漁村を元気にする　廃校再生プロジェクト",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "農山漁村の新たな拠点として注目されている廃校活用事例を紹介します。",
+        "mention_ids": []
+      },
+      "004": {
+        "type": "supplement:header",
+        "text": "第4回　若狭町みさき漁村体験施設　みさきち　[福井県三方上中郡若狭町]",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "005": {
+        "type": "supplement:header",
+        "text": "地域と大学が連携し　若者や子どもを呼び込む交流拠点に",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "006": {
+        "text": "福井県若狭町の旧岬小学校・三方中学校岬分校は、廃校の翌2018年、「若狭町みさき漁村体験施設」、愛称「みさきち」に生まれ変わりました。",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "007": {
+        "text": "地域外から多くの若者や子どもが訪れるようになり、漁村にかつてない活気が生まれています。",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "海と山がすぐそこにある抜群のロケーション",
+        "mention_ids": []
+      },
+      "009": {
+        "type": "supplement:legend",
+        "text": "定置網漁が盛んな若狭湾に面している",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "010": {
+        "text": "旧岬小学校・三方中学校岬分校があるのは、若狭湾の中ほどに突き出た常神(つねがみ)半島の西浦地区。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "011": {
+        "text": "美しい海と山に囲まれた自然豊かなエリアです。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "地域住民の多くが営んでいるのは漁業や民宿業。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "013": {
+        "text": "新鮮な海の幸が楽しめるのも魅力です。",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "そんな恵まれた環境を活かし、廃校を漁村体験施設に活用する構想が生まれました。",
+        "mention_ids": [
+          "M021",
+          "M022"
+        ]
+      },
+      "015": {
+        "type": "supplement:legend",
+        "text": "目の前の山は、県の名勝「神子(みこ)の山桜」で知られる",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "016": {
+        "text": "次世代を担う若者や子どもを呼び込み、過疎化が進む西浦地区に元気と賑わいを創出したい。",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "017": {
+        "text": "そんな想いから、若狭町が協力を要請することにしたのは、福井工業大学などを擁する学校法人金井学園です。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "018": {
+        "text": "2017年6月の廃校から3カ月後の同年9月、若狭町と金井学園が相互連携協定を締結、さらに西浦地域づくり協議会を含めた3者で西浦地区交流促進協定を締結し、廃校再生プロジェクトがスタートしました。",
+        "mention_ids": [
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033"
+        ]
+      },
+      "019": {
+        "type": "heading",
+        "text": "学生のアイデアを取り入れてリノベーション",
+        "mention_ids": []
+      },
+      "020": {
+        "type": "supplement:legend",
+        "text": "学生が黒板アート(上)や施設内のサイン(右)を制作",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "教室や職員室などを食堂、宿泊室、浴室、洗濯・乾燥・ロッカー室、談話室、セミナー室、体験調理場、バーベキュー施設などにリノベーションしました。",
+        "mention_ids": []
+      },
+      "022": {
+        "text": "総事業費は1億119万2000円(うち農林水産省による支援　農山漁村振興交付金3,815万円)。",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "023": {
+        "text": "基本設計を担当したのは、福井工業大学環境情報学部デザイン学科の藤田大輔准教授とその研究室の学生たちです。",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "024": {
+        "text": "地域住民の学校への愛着に配慮し、できるだけ元の学校の雰囲気を残しました。",
+        "mention_ids": [
+          "M037",
+          "M038",
+          "M039"
+        ]
+      },
+      "025": {
+        "text": "施設内のサインをデザインするなど、学生のアイデアが随所に取り入れられています。",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "026": {
+        "type": "supplement:legend",
+        "text": "竣工式で風船飛ばし",
+        "mention_ids": []
+      },
+      "027": {
+        "type": "supplement:legend",
+        "text": "オープン記念イベントの1つ、科学実験キャラバン",
+        "mention_ids": []
+      },
+      "028": {
+        "text": "オープンは2018年4月。",
+        "mention_ids": []
+      },
+      "029": {
+        "text": "竣工式には地域住民と福井工業大学の教職員・学生が多数参加し、オープン記念イベントを繰り広げるなかで、大いに交流・親睦を深めました。",
+        "mention_ids": [
+          "M041",
+          "M042"
+        ]
+      },
+      "030": {
+        "text": "協議を重ねて決定した施設の愛称「みさきち」が発表されたのは、この日のこと。",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "031": {
+        "text": "「旧岬小学校・三方中学校岬分校を多彩なイベントや情報の発信基地に」という想いを込めて名付けたそうです。",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "032": {
+        "text": "金井学園が指定管理者となり、福井工業大学の社会連携推進課を窓口に、運営がスタートしました。",
+        "mention_ids": [
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "033": {
+        "type": "heading",
+        "text": "忘れられない体験ができる",
+        "mention_ids": []
+      },
+      "034": {
+        "type": "supplement:legend",
+        "text": "魚さばき体験",
+        "mention_ids": []
+      },
+      "035": {
+        "type": "supplement:legend",
+        "text": "SUP(サップ)体験",
+        "mention_ids": []
+      },
+      "036": {
+        "type": "supplement:legend",
+        "text": "キャンプ体験",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "「遊んで・学んで・泊まれる体験施設」を標榜する「みさきち」には、さまざまな体験プログラムがあります。",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "038": {
+        "text": "たとえば、地元の若手漁師が丁寧に指導してくれる魚さばき体験や、SUP(=スタンドアップパドル)、シーカヤック、シュノーケリングといった水上アクティビティ体験。",
+        "mention_ids": []
+      },
+      "039": {
+        "text": "波音を聞き、星空を見上げながらグラウンドでキャンプするのもおすすめです。",
+        "mention_ids": []
+      },
+      "040": {
+        "type": "supplement:legend",
+        "text": "福井工業大学生の合宿風景",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "041": {
+        "text": "元教室を畳敷きにした宿泊室は6つあり、合計50名まで宿泊できます。",
+        "mention_ids": []
+      },
+      "042": {
+        "text": "このため学校のクラブやセミナー、スポーツ少年団、子ども会の合宿など、大人数の利用が多いのが特徴です。",
+        "mention_ids": []
+      },
+      "043": {
+        "text": "映画のロケ隊が滞在したこともあるとか。",
+        "mention_ids": []
+      },
+      "044": {
+        "text": "新型コロナウイルス感染症の影響が出る前のサマーシーズンは、平日を含め毎日数十人規模の予約で埋まっていたそうです。",
+        "mention_ids": []
+      },
+      "045": {
+        "text": "利用者は福井県内に限らず、岐阜、大阪、京都、石川など他県からも来訪。",
+        "mention_ids": [
+          "M051",
+          "M052",
+          "M053",
+          "M054",
+          "M055"
+        ]
+      },
+      "046": {
+        "text": "利用人数(延べ人数)は2018年2,739人、2019年2,724人に上りました。",
+        "mention_ids": []
+      },
+      "047": {
+        "type": "heading",
+        "text": "地域を盛り上げる祭りを開催",
+        "mention_ids": [
+          "M056"
+        ]
+      },
+      "048": {
+        "type": "supplement:legend",
+        "text": "第2回みさき祭の実行委員メンバー",
+        "mention_ids": [
+          "M057"
+        ]
+      },
+      "049": {
+        "type": "supplement:legend",
+        "text": "豚汁のふるまい屋台",
+        "mention_ids": []
+      },
+      "050": {
+        "type": "supplement:legend",
+        "text": "留学生による自国紹介スタンプラリー",
+        "mention_ids": []
+      },
+      "051": {
+        "text": "これまでの「みさきち」最大のイベントといえば、みさき祭です。",
+        "mention_ids": [
+          "M058",
+          "M059"
+        ]
+      },
+      "052": {
+        "text": "2018年11月に第1回、2019年11月に第2回が開催され、各回とも大盛況でした。",
+        "mention_ids": [
+          "M060",
+          "M061"
+        ]
+      },
+      "053": {
+        "text": "実行委員を務めた福井工業大学の学生たちが、地域の子どもたちに喜んでもらいたいと、ユニークな企画をいろいろ発案。",
+        "mention_ids": [
+          "M062",
+          "M063"
+        ]
+      },
+      "054": {
+        "text": "第2回みさき祭では、レゴブロックを使ったロボットプログラミング教室や、留学生による自国紹介スタンプラリーなどが行われました。",
+        "mention_ids": [
+          "M064",
+          "M065"
+        ]
+      },
+      "055": {
+        "text": "若狭町、西浦地域づくり協議会の関係者と、企画段階から密接に連携して成し遂げた思い出深い祭りです。",
+        "mention_ids": [
+          "M066",
+          "M067"
+        ]
+      },
+      "056": {
+        "text": "新型コロナウイルス感染症が収束し、再び開催される日が待ち望まれています。",
+        "mention_ids": []
+      },
+      "057": {
+        "type": "supplement:legend",
+        "text": "夏休みこども教室",
+        "mention_ids": []
+      },
+      "058": {
+        "type": "supplement:legend",
+        "text": "海岸清掃",
+        "mention_ids": []
+      },
+      "059": {
+        "text": "福井工業大学と地域の絆は、「みさきち」を通して一層深まっています。",
+        "mention_ids": [
+          "M068",
+          "M069",
+          "M070"
+        ]
+      },
+      "060": {
+        "text": "大学が地域の子ども向けイベントを企画・開催したり、学生と地域住民が一緒に海岸清掃を行ったり。",
+        "mention_ids": [
+          "M071",
+          "M072",
+          "M073"
+        ]
+      },
+      "061": {
+        "text": "インバウンドの増加に向け、留学生たちが外国人目線で若狭町の観光資源を発掘調査し、それぞれの母国語で観光パンフレットや観光動画を制作するといったことも行いました。",
+        "mention_ids": [
+          "M074"
+        ]
+      },
+      "062": {
+        "text": "地域に喜ばれるこうした活動は、学生たちにとっても、通常の学生生活では得られない貴重な社会勉強になっています。",
+        "mention_ids": [
+          "M075"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          3
+        ],
+        "text": "aff",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "004",
+        "span": [
+          4,
+          16
+        ],
+        "text": "若狭町みさき漁村体験施設",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          17,
+          21
+        ],
+        "text": "みさきち",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          23,
+          26
+        ],
+        "text": "福井県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          26,
+          31
+        ],
+        "text": "三方上中郡",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          31,
+          34
+        ],
+        "text": "若狭町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          3,
+          5
+        ],
+        "text": "大学",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "福井県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          3,
+          6
+        ],
+        "text": "若狭町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          7,
+          21
+        ],
+        "text": "旧岬小学校・三方中学校岬分校",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          34,
+          46
+        ],
+        "text": "若狭町みさき漁村体験施設",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "006",
+        "span": [
+          51,
+          55
+        ],
+        "text": "みさきち",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          11
+        ],
+        "text": "若狭湾",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          14
+        ],
+        "text": "旧岬小学校・三方中学校岬分校",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "010",
+        "span": [
+          20,
+          23
+        ],
+        "text": "若狭湾",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "010",
+        "span": [
+          32,
+          42
+        ],
+        "text": "常神(つねがみ)半島",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "010",
+        "span": [
+          43,
+          47
+        ],
+        "text": "西浦地区",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "014",
+        "span": [
+          14,
+          16
+        ],
+        "text": "廃校",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "014",
+        "span": [
+          17,
+          23
+        ],
+        "text": "漁村体験施設",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          8
+        ],
+        "text": "県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "015",
+        "span": [
+          12,
+          21
+        ],
+        "text": "神子(みこ)の山桜",
+        "entity_type": "LIV",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "016",
+        "span": [
+          24,
+          28
+        ],
+        "text": "西浦地区",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "017",
+        "span": [
+          8,
+          11
+        ],
+        "text": "若狭町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "017",
+        "span": [
+          27,
+          33
+        ],
+        "text": "福井工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "017",
+        "span": [
+          39,
+          47
+        ],
+        "text": "学校法人金井学園",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "018",
+        "span": [
+          22,
+          25
+        ],
+        "text": "若狭町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "018",
+        "span": [
+          26,
+          30
+        ],
+        "text": "金井学園",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "018",
+        "span": [
+          31,
+          37
+        ],
+        "text": "相互連携協定",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "018",
+        "span": [
+          44,
+          54
+        ],
+        "text": "西浦地域づくり協議会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "018",
+        "span": [
+          61,
+          71
+        ],
+        "text": "西浦地区交流促進協定",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "022",
+        "span": [
+          19,
+          24
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "023",
+        "span": [
+          12,
+          30
+        ],
+        "text": "福井工業大学環境情報学部デザイン学科",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "023",
+        "span": [
+          31,
+          35
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "024",
+        "span": [
+          5,
+          7
+        ],
+        "text": "学校",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "024",
+        "span": [
+          23,
+          25
+        ],
+        "text": "学校",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          2
+        ],
+        "text": "施設",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "029",
+        "span": [
+          5,
+          7
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "029",
+        "span": [
+          10,
+          16
+        ],
+        "text": "福井工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "030",
+        "span": [
+          10,
+          12
+        ],
+        "text": "施設",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "030",
+        "span": [
+          16,
+          20
+        ],
+        "text": "みさきち",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "031",
+        "span": [
+          1,
+          15
+        ],
+        "text": "旧岬小学校・三方中学校岬分校",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "032",
+        "span": [
+          0,
+          4
+        ],
+        "text": "金井学園",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "032",
+        "span": [
+          14,
+          20
+        ],
+        "text": "福井工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "032",
+        "span": [
+          21,
+          28
+        ],
+        "text": "社会連携推進課",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "037",
+        "span": [
+          24,
+          28
+        ],
+        "text": "みさきち",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "040",
+        "span": [
+          0,
+          6
+        ],
+        "text": "福井工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M051": {
+        "sentence_id": "045",
+        "span": [
+          4,
+          7
+        ],
+        "text": "福井県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "045",
+        "span": [
+          13,
+          15
+        ],
+        "text": "岐阜",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M053": {
+        "sentence_id": "045",
+        "span": [
+          16,
+          18
+        ],
+        "text": "大阪",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M054": {
+        "sentence_id": "045",
+        "span": [
+          19,
+          21
+        ],
+        "text": "京都",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M055": {
+        "sentence_id": "045",
+        "span": [
+          22,
+          24
+        ],
+        "text": "石川",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "047",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "048",
+        "span": [
+          0,
+          7
+        ],
+        "text": "第2回みさき祭",
+        "entity_type": "EVE",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "051",
+        "span": [
+          6,
+          10
+        ],
+        "text": "みさきち",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "051",
+        "span": [
+          23,
+          27
+        ],
+        "text": "みさき祭",
+        "entity_type": "EVE",
+        "entity_id": "E023",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "052",
+        "span": [
+          9,
+          12
+        ],
+        "text": "第1回",
+        "entity_type": "NOMINAL",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "052",
+        "span": [
+          22,
+          25
+        ],
+        "text": "第2回",
+        "entity_type": "NOMINAL",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "053",
+        "span": [
+          8,
+          14
+        ],
+        "text": "福井工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M063": {
+        "sentence_id": "053",
+        "span": [
+          21,
+          23
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "054",
+        "span": [
+          0,
+          7
+        ],
+        "text": "第2回みさき祭",
+        "entity_type": "EVE",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M065": {
+        "sentence_id": "054",
+        "span": [
+          10,
+          16
+        ],
+        "text": "レゴブロック",
+        "entity_type": "PRO",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M066": {
+        "sentence_id": "055",
+        "span": [
+          0,
+          3
+        ],
+        "text": "若狭町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "055",
+        "span": [
+          4,
+          14
+        ],
+        "text": "西浦地域づくり協議会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "059",
+        "span": [
+          0,
+          6
+        ],
+        "text": "福井工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M069": {
+        "sentence_id": "059",
+        "span": [
+          7,
+          9
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M070": {
+        "sentence_id": "059",
+        "span": [
+          14,
+          18
+        ],
+        "text": "みさきち",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "060",
+        "span": [
+          0,
+          2
+        ],
+        "text": "大学",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M072": {
+        "sentence_id": "060",
+        "span": [
+          3,
+          5
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "060",
+        "span": [
+          28,
+          30
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "061",
+        "span": [
+          25,
+          28
+        ],
+        "text": "若狭町",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "062",
+        "span": [
+          0,
+          2
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M012",
+          "M013",
+          "M022",
+          "M040",
+          "M043",
+          "M044",
+          "M049",
+          "M058",
+          "M070"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.misakichi.jp/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M009",
+          "M023",
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q133879",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/357112",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.065194444",
+          "136.221666666"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1204541",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%96%B9%E4%B8%8A%E4%B8%AD%E9%83%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.521",
+          "135.891"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M010",
+          "M026",
+          "M029",
+          "M066",
+          "M074"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1349039",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E7%8B%AD%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.548944444",
+          "135.908166666"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M014",
+          "M019",
+          "M020",
+          "M025",
+          "M037",
+          "M041",
+          "M056",
+          "M063",
+          "M069",
+          "M072",
+          "M073",
+          "M075"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17174293",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%B5%A6%E6%9D%91_(%E7%A6%8F%E4%BA%95%E7%9C%8C)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008",
+          "M027",
+          "M042",
+          "M047",
+          "M050",
+          "M062",
+          "M068",
+          "M071"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5507658",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+          "openstreetmap": "https://www.openstreetmap.org/node/1420949220",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.069085",
+          "136.19607"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011",
+          "M016",
+          "M021",
+          "M038",
+          "M039",
+          "M045"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015",
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11616636",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E7%8B%AD%E6%B9%BE",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.75",
+          "135.66667"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11481601",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A5%9E%E5%8D%8A%E5%B3%B6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.628333333",
+          "135.839166666"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "LIV",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.wakasa-mikatagoko.jp/search/entry/tourism-007.html"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M028",
+          "M030",
+          "M046"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "CONTAINS",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5507658",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+          "openstreetmap": "https://www.openstreetmap.org/node/1420949220",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.069085",
+          "136.19607"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.kanaigakuen.jp/press/gakuen/entry-1463.html"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M032",
+          "M067"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M035",
+          "M048"
+        ],
+        "entity_type_merged": "MIX",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5507658",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+          "openstreetmap": "https://www.openstreetmap.org/node/1420949220",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.069085",
+          "136.19607"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q131277",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/760746",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.391194444",
+          "136.722194444"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M053"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q122723",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/341906",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.686333333",
+          "135.519861111"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q120730",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%BA%9C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2137477",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.021027777",
+          "135.755583333"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q131281",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3794726",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.595",
+          "136.625"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M057",
+          "M061",
+          "M064"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M059"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M065"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q170484"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5016 @@
+{
+  "011-1": {
+    "metainfo": {
+      "src_date": "20220000",
+      "src_url": "http://www.mlit.go.jp/kankocho/shisaku/kankochi/content/001422934.pdf",
+      "src_parent_url": "http://www.mlit.go.jp/kankocho/shisaku/kankochi/ikiiki.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和2年度重点支援DMO取組事例",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "(特非)阿寒観光協会まちづくり推進機構",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "[地域DMO]",
+        "mention_ids": []
+      },
+      "004": {
+        "type": "supplement:header",
+        "text": "マネジメント区域:【北海道】釧路市",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "DMOの特徴",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "006": {
+        "text": "「イランカラプテ!」",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "007": {
+        "text": "阿寒湖温泉では2002年に地域住民が主体となって地域のビジョン「阿寒湖温泉再生プラン2010」を策定し、観光地域として目指す姿を地域全体で共有し、ビジョンに基づいた地道な観光まちづくりの取組を行って参りました。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "008": {
+        "text": "2004年にその実行組織として観光協会と温泉まちづくり協議会を統合し、NPO法人として当機構は設立しました。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "009": {
+        "text": "自然を守り、楽しみ、ともに生きるまちづくりと観光振興に向け、アイヌ文化の継承や自然との共生の地域文化をアドベンチャーツーリズム等を中心に取組み、「世界・日本を代表する阿寒摩周国立公園の温泉観光地」を目指しています。",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "▶地域のあらゆる主体が参画",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "011": {
+        "text": "•　設立当初から旅館、商店街、アイヌ工芸協同組合、漁協、住民有志、自治会等が参画し、これまで住民が築いてきた国立公園の自然を守り、またアイヌ文化を継承しながら、観光客、阿寒湖温泉の事業者、住民がともに幸せになる観光地域づくりを目指しています。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "▶地域のアイヌ文化、明治期から続く自然保護文化を守り、活かし、広める",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "013": {
+        "text": "•　1959年に生まれた「アイヌコタン」は観光を通じて自然と共に暮らすアイヌ民族の文化と歴史を継承し広めています。",
+        "mention_ids": [
+          "M025",
+          "M026"
+        ]
+      },
+      "014": {
+        "text": "阿寒湖畔の子供たちは、釣り、カヌー、トレッキング、スキー・スノーボードなど、国立公園の自然を楽しみながら育ちます。",
+        "mention_ids": [
+          "M027",
+          "M028"
+        ]
+      },
+      "015": {
+        "text": "•　こうした地域の文化を活かす観光として「アドベンチャーツーリズム」に着目し、温泉街を整備し、体験・アクティビティやガイドの質を高め、住民とともに観光客が阿寒湖の自然やアイヌ文化を守り、楽しみ、ともに生きる観光まちづくりに取り組んでいます。",
+        "mention_ids": [
+          "M029",
+          "M030"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "▶地域発案の入湯税かさ上げによる財源確保",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "017": {
+        "text": "•　阿寒湖の観光まちづくりの独自財源については、旧阿寒町の時代から行政とともに研究・議論してきました。",
+        "mention_ids": [
+          "M032",
+          "M033"
+        ]
+      },
+      "018": {
+        "text": "2014年に全国に先駆けて入湯税超過課税を導入しました。",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "019": {
+        "text": "入湯税を150円から250円とし、その差額分を観光振興を推進する財源に充当する条例を制定しました。",
+        "mention_ids": []
+      },
+      "020": {
+        "type": "heading",
+        "text": "▶国立公園満喫プロジェクト、観光立国ショーケースなど、行政との連携",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "•　「阿寒摩周国立公園」は国立公園満喫プロジェクトの対象地に北海道としては唯一選定されています。",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "022": {
+        "text": "また釧路市は金沢市、長崎市とともに「観光立国ショーケース」として、観光立国を体現する観光地域を作り、訪日外国人旅行者を地方へ誘客するモデルケースに選ばれました。",
+        "mention_ids": [
+          "M037",
+          "M038",
+          "M039",
+          "M040"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "text": "DMOの取組における優先課題",
+        "mention_ids": [
+          "M041"
+        ]
+      },
+      "024": {
+        "text": "▶高度な専門・マネジメント人材の確保",
+        "mention_ids": []
+      },
+      "025": {
+        "text": "▶収支構造改革",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "▶国立公園にふさわしい受け入れ環境整備",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "▶二次、三次交通(ラストマイル)の整備",
+        "mention_ids": []
+      },
+      "028": {
+        "type": "heading",
+        "text": "課題解決に向けた取組",
+        "mention_ids": []
+      },
+      "029": {
+        "type": "heading",
+        "text": "▶支援メニューを活用した多様な人材登用",
+        "mention_ids": []
+      },
+      "030": {
+        "text": "•　これまで地方創生推進交付金、釧路市補助金、民間企業協力を活用して人材強化を図っており、現在は観光庁「広域周遊観光促進のための専門家派遣事業」を活用しています。",
+        "mention_ids": [
+          "M042",
+          "M043"
+        ]
+      },
+      "031": {
+        "text": "今後、地域おこし協力隊や地域おこし企業人事業等、より広い視野で人材の確保とその財源を確保を図ります。",
+        "mention_ids": []
+      },
+      "032": {
+        "type": "heading",
+        "text": "▶安定的な収益体制の構築",
+        "mention_ids": []
+      },
+      "033": {
+        "text": "•　釧路市の厳しい財務状況も鑑み、一定の自走可能な事業の確立の必要があります。",
+        "mention_ids": [
+          "M044"
+        ]
+      },
+      "034": {
+        "text": "特にアドベンチャーツーリズムの質の向上につながるガイド事業を中心に収益事業の拡充を検討します。",
+        "mention_ids": []
+      },
+      "035": {
+        "text": "入湯税財源を含めた市補助金については、中長期的な視野とともに機動的な運用等を含めて検討・協議を行います。",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "036": {
+        "type": "heading",
+        "text": "▶受け入れ環境のさらなる整備とシビックプライドの醸成",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "•　温泉街の電線地中化やバリアフリー化、多言語対応、SDGsを踏まえたサスティナビリティ対応、指定管理で運営するスキー場等の大規模なリニューアルなど、受入環境整備はDMO単体では実現出来ず、国や地方自治体及び多岐に渡る地域のステークホルダーと連携し、中長期的な視点での検討・協議が必要となります。",
+        "mention_ids": [
+          "M046",
+          "M047"
+        ]
+      },
+      "038": {
+        "text": "着実な整備実施を進めることで、阿寒湖温泉が変わっていくことを住民に示し、観光まちづくりのモチベーション、シビックプライドの醸成につなげて参ります。",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "039": {
+        "type": "heading",
+        "text": "▶安全・快適に歩ける温泉街の実現に向けた二次、三次交通の検討",
+        "mention_ids": []
+      },
+      "040": {
+        "text": "•　SDGs達成やサスティナビリティを実現する交通ビジョンの策定と財源を含めた実施プランを検討し、継続して運営する仕組みづくりに取組みます。",
+        "mention_ids": []
+      },
+      "041": {
+        "type": "heading",
+        "text": "DMOからのコメント",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "042": {
+        "text": "当地が重点的に取り組んでいる4本柱(マリモ、アイヌ文化、カムイルミナ事業、AT)の1本1本を太くし、当地のファンを1人でも増やすことが我々の使命と考えております。",
+        "mention_ids": [
+          "M050",
+          "M051",
+          "M052",
+          "M053"
+        ]
+      },
+      "043": {
+        "text": "そのための環境整備(財政、人材、街並み整備、インフラの充実など)には国の支援が必須であると感じています。",
+        "mention_ids": [
+          "M054"
+        ]
+      },
+      "044": {
+        "text": "現在当地にて策定中の“阿寒湖温泉2030世界・日本を代表する国立公園の温泉観光地を目指して”の実現のために、国と我々が車の両輪となって取り組んで参りたいと思います。",
+        "mention_ids": [
+          "M055",
+          "M056",
+          "M057",
+          "M058",
+          "M059"
+        ]
+      },
+      "045": {
+        "type": "heading",
+        "text": "お問い合わせ先",
+        "mention_ids": []
+      },
+      "046": {
+        "text": "NPO法人阿寒観光協会まちづくり推進機構",
+        "mention_ids": [
+          "M060"
+        ]
+      },
+      "047": {
+        "text": "TEL:0154‐67‐3200",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          19
+        ],
+        "text": "(特非)阿寒観光協会まちづくり推進機構",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          8
+        ],
+        "text": "マネジメント区域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          10,
+          13
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          14,
+          17
+        ],
+        "text": "釧路市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          1,
+          8
+        ],
+        "text": "イランカラプテ",
+        "entity_type": "EVE",
+        "entity_id": "E006",
+        "feature": "Unspecified_Time",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          5
+        ],
+        "text": "阿寒湖温泉",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "007",
+        "span": [
+          13,
+          15
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "007",
+        "span": [
+          24,
+          26
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          32,
+          37
+        ],
+        "text": "阿寒湖温泉",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "007",
+        "span": [
+          64,
+          66
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          15,
+          19
+        ],
+        "text": "観光協会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          20,
+          30
+        ],
+        "text": "温泉まちづくり協議会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          43,
+          46
+        ],
+        "text": "当機構",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "009",
+        "span": [
+          76,
+          78
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          83,
+          91
+        ],
+        "text": "阿寒摩周国立公園",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "010",
+        "span": [
+          1,
+          3
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "011",
+        "span": [
+          15,
+          24
+        ],
+        "text": "アイヌ工芸協同組合",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "011",
+        "span": [
+          25,
+          27
+        ],
+        "text": "漁協",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "011",
+        "span": [
+          54,
+          58
+        ],
+        "text": "国立公園",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "011",
+        "span": [
+          84,
+          89
+        ],
+        "text": "阿寒湖温泉",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "012",
+        "span": [
+          1,
+          3
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "012",
+        "span": [
+          10,
+          13
+        ],
+        "text": "明治期",
+        "entity_type": "TIME",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "013",
+        "span": [
+          13,
+          19
+        ],
+        "text": "アイヌコタン",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "013",
+        "span": [
+          35,
+          40
+        ],
+        "text": "アイヌ民族",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          3
+        ],
+        "text": "阿寒湖",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "014",
+        "span": [
+          38,
+          42
+        ],
+        "text": "国立公園",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "015",
+        "span": [
+          6,
+          8
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "015",
+        "span": [
+          77,
+          80
+        ],
+        "text": "阿寒湖",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "016",
+        "span": [
+          1,
+          3
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "017",
+        "span": [
+          2,
+          5
+        ],
+        "text": "阿寒湖",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "017",
+        "span": [
+          24,
+          28
+        ],
+        "text": "旧阿寒町",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "018",
+        "span": [
+          6,
+          8
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "021",
+        "span": [
+          3,
+          11
+        ],
+        "text": "阿寒摩周国立公園",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "021",
+        "span": [
+          30,
+          33
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "022",
+        "span": [
+          2,
+          5
+        ],
+        "text": "釧路市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "022",
+        "span": [
+          6,
+          9
+        ],
+        "text": "金沢市",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M039": {
+        "sentence_id": "022",
+        "span": [
+          10,
+          13
+        ],
+        "text": "長崎市",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "022",
+        "span": [
+          51,
+          52
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M041": {
+        "sentence_id": "023",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "030",
+        "span": [
+          16,
+          19
+        ],
+        "text": "釧路市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "030",
+        "span": [
+          48,
+          51
+        ],
+        "text": "観光庁",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "033",
+        "span": [
+          2,
+          5
+        ],
+        "text": "釧路市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "035",
+        "span": [
+          9,
+          10
+        ],
+        "text": "市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "037",
+        "span": [
+          82,
+          85
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "037",
+        "span": [
+          95,
+          96
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "038",
+        "span": [
+          15,
+          20
+        ],
+        "text": "阿寒湖温泉",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "041",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "042",
+        "span": [
+          0,
+          2
+        ],
+        "text": "当地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "042",
+        "span": [
+          28,
+          34
+        ],
+        "text": "カムイルミナ",
+        "entity_type": "EVE",
+        "entity_id": "E022",
+        "feature": "Unspecified_Time",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "042",
+        "span": [
+          50,
+          52
+        ],
+        "text": "当地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "042",
+        "span": [
+          67,
+          69
+        ],
+        "text": "我々",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "043",
+        "span": [
+          34,
+          35
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "044",
+        "span": [
+          2,
+          4
+        ],
+        "text": "当地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "044",
+        "span": [
+          11,
+          16
+        ],
+        "text": "阿寒湖温泉",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "044",
+        "span": [
+          23,
+          25
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M058": {
+        "sentence_id": "044",
+        "span": [
+          54,
+          55
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "044",
+        "span": [
+          56,
+          58
+        ],
+        "text": "我々",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "046",
+        "span": [
+          0,
+          20
+        ],
+        "text": "NPO法人阿寒観光協会まちづくり推進機構",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M006",
+          "M015",
+          "M041",
+          "M046",
+          "M049",
+          "M053",
+          "M059",
+          "M060"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.npo-homepage.go.jp/npoportal/detail/001000454"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M036"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M037",
+          "M042",
+          "M044",
+          "M045"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q271917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.984888888",
+          "144.381722222"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.irankarapte.com/"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M018",
+          "M022",
+          "M023",
+          "M029",
+          "M031",
+          "M048",
+          "M050",
+          "M052",
+          "M055",
+          "M056"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11657382",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%AF%92%E6%B9%96%E6%B8%A9%E6%B3%89",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.432916666",
+          "144.092555555"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M013",
+          "M014"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "other": "https://www.npo-homepage.go.jp/npoportal/detail/001000454"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M016",
+          "M034",
+          "M040",
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017",
+          "M021",
+          "M028",
+          "M035"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q415672",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%AF%92%E6%91%A9%E5%91%A8%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.51666667",
+          "144.26666667"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://akan-gyokyo.com/"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3125096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.akanainu.jp/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q101828",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M027",
+          "M030",
+          "M032"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q429402",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%AF%92%E6%B9%96",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.451666666",
+          "144.098611111"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3916258",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%AF%92%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.11258333",
+          "144.1235833"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q191130",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%B2%A2%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4800041",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.561055555",
+          "136.6565"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q38234",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4011885",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.749527777",
+          "129.879638888"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M043"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6157871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A6%B3%E5%85%89%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M047",
+          "M054",
+          "M058"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.kamuylumina.jp/"
+        }
+      }
+    }
+  },
+  "011-2": {
+    "metainfo": {
+      "src_date": "20220000",
+      "src_url": "http://www.mlit.go.jp/kankocho/shisaku/kankochi/content/001422934.pdf",
+      "src_parent_url": "http://www.mlit.go.jp/kankocho/shisaku/kankochi/ikiiki.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "(一社)ひがし北海道自然美への道DMO",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "[地域連携DMO]",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "マネジメント区域:【北海道】釧路市、網走市、帯広市、北見市、紋別市、中標津町、別海町、弟子屈町、斜里町、新得町、鹿追町、大空町、鶴居村、上川町",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "004": {
+        "type": "heading",
+        "text": "DMOの特徴",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "005": {
+        "text": "北海道の東側5市10町をカバーするマネジメントエリア内には、世界自然遺産の知床や国立公園の阿寒・摩周国立公園、釧路湿原国立公園を有し、冬にはオホーツク海沿岸に接岸する「流氷」の他、阿寒湖や網走湖、然別湖の結氷した湖上を活かしたコンテンツなどの豊かな資源を誇る。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030"
+        ]
+      },
+      "006": {
+        "text": "また、漁業や農業も盛んで食の資源も豊かであることから、自然と食の両方を楽しみに観光客が訪れるエリアである。",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "007": {
+        "text": "地域連携DMOである我々は、この広大なエリアをカバーするため、エリア内の地域DMO、観光関係者との連携を密に行い、豊富な観光資源をアクセスで繋ぎ、自然ブランドの確立を目指して取り組んでいる。",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "▶観光資源の磨き上げ・受入環境の整備",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "•　観光資源の磨き上げは観光協会や協議会が主体となって取組み、当DMOはマーケティング調査を実施し「現状のトレンド」「現状のデータ」「未来の予想」のアドバイスを行うことで役割分担をしている。",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "010": {
+        "text": "•　2次交通の整備についても当DMOが担い、道路条件が悪い冬期は2次交通の運行主体となりエリア内の交通環境整備の役割を果たしている。",
+        "mention_ids": [
+          "M036",
+          "M037"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "▶プロモーション・流通環境整備",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "•　観光資源と2次交通を組み合わせ「体験コンテンツ×アクセス(×宿)」の商品として、海外市場に展開する役割も当DMOで担っている。",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "013": {
+        "text": "OTAに商品を登録することでOTAシステムに接続する旅行会社でも同時に取扱いが可能となる仕組みを用いて、各国でタイムリーに販売可能な流通環境を整備している。",
+        "mention_ids": []
+      },
+      "014": {
+        "type": "heading",
+        "text": "DMOの取組における優先課題",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "015": {
+        "type": "heading",
+        "text": "▶訪日外国人旅行者獲得に向けた商品・環境整備",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "016": {
+        "text": "•　マネジメントエリアの訪日外国人宿泊者数は北海道全体の6%程度と大変少ない。",
+        "mention_ids": [
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "017": {
+        "text": "個々のコンテンツは外国人旅行者目線でも高い評価を受けている一方で、「目的地に行くまでの交通手段が複雑」「コンテンツ・アクセスを別々に手配するのが手間」といった課題が指摘されており、商品化段階の課題により、訪日外国人旅行者の獲得に至っていないと考える。",
+        "mention_ids": [
+          "M044"
+        ]
+      },
+      "018": {
+        "type": "heading",
+        "text": "課題解決に向けた取組",
+        "mention_ids": []
+      },
+      "019": {
+        "type": "heading",
+        "text": "▶地域内2次交通フリーパスの販売(予約・決済システムの導入)",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "020": {
+        "text": "•　主に民間事業者が運行する2次交通の共通フリーパスの企画・販売を実施。",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "訪日外国人旅行者にとって障壁となっているアクセスの課題解消に資するとともに、観光地間のアクセス性向上により周遊観光の促進に繋がると期待している。",
+        "mention_ids": [
+          "M046"
+        ]
+      },
+      "022": {
+        "type": "heading",
+        "text": "▶体験コンテンツ×アクセス(×宿)の商品化",
+        "mention_ids": []
+      },
+      "023": {
+        "text": "•　広域に広がる観光地を結んで周遊旅程を自身で企画することは特に訪日外国人旅行者にとっては容易ではない。",
+        "mention_ids": [
+          "M047"
+        ]
+      },
+      "024": {
+        "text": "コンテンツ単体のばら売りではなくパッケージ化して流通させることで海外の旅行会社での取扱いの拡大が見込まれ、さらに消費単価の向上にも期待が出来る。",
+        "mention_ids": []
+      },
+      "025": {
+        "type": "heading",
+        "text": "各種取組は観光庁の支援事業を活用して実施をしている。",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "026": {
+        "text": "・世界に誇る観光地を形成するためのDMO体制整備事業",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "・広域周遊観光促進のための観光地域支援事業",
+        "mention_ids": []
+      },
+      "028": {
+        "text": "・誘客多角化実証調査事業",
+        "mention_ids": []
+      },
+      "029": {
+        "type": "heading",
+        "text": "DMOからのコメント",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "030": {
+        "text": "当DMOは財政基盤がとても不安定で、重点支援DMOとして認定していただいた事によりDMOのコンセプトにあった支援事業を実施する事ができた。",
+        "mention_ids": [
+          "M050"
+        ]
+      },
+      "031": {
+        "text": "しかし、新型コロナウイルス感染症の影響で「事業の検証」ができない状況となっている。",
+        "mention_ids": []
+      },
+      "032": {
+        "text": "事業の検証ができて初めて次年度以降に繋がると考えており、2021年度は少しでも訪日外国人旅行者が来ていただき、事業の検証をしていきたいと考えている。",
+        "mention_ids": [
+          "M051"
+        ]
+      },
+      "033": {
+        "text": "また、新型コロナウイルスの影響で各市場のニーズにどのような変化をもたらしたのかを見極め事業を実施していく。",
+        "mention_ids": []
+      },
+      "034": {
+        "type": "heading",
+        "text": "お問い合わせ先",
+        "mention_ids": []
+      },
+      "035": {
+        "text": "(一社)ひがし北海道自然美への道DMO　",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "036": {
+        "text": "TEL:0154‐67‐3200",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          19
+        ],
+        "text": "(一社)ひがし北海道自然美への道DMO",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          8
+        ],
+        "text": "マネジメント区域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          13
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          14,
+          17
+        ],
+        "text": "釧路市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          18,
+          21
+        ],
+        "text": "網走市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          22,
+          25
+        ],
+        "text": "帯広市",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          26,
+          29
+        ],
+        "text": "北見市",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          30,
+          33
+        ],
+        "text": "紋別市",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          34,
+          38
+        ],
+        "text": "中標津町",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          39,
+          42
+        ],
+        "text": "別海町",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          43,
+          47
+        ],
+        "text": "弟子屈町",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "003",
+        "span": [
+          48,
+          51
+        ],
+        "text": "斜里町",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "003",
+        "span": [
+          52,
+          55
+        ],
+        "text": "新得町",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "003",
+        "span": [
+          56,
+          59
+        ],
+        "text": "鹿追町",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "003",
+        "span": [
+          60,
+          63
+        ],
+        "text": "大空町",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "003",
+        "span": [
+          64,
+          67
+        ],
+        "text": "鶴居村",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "003",
+        "span": [
+          68,
+          71
+        ],
+        "text": "上川町",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          3
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          8
+        ],
+        "text": "5市",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "005",
+        "span": [
+          8,
+          11
+        ],
+        "text": "10町",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "005",
+        "span": [
+          17,
+          26
+        ],
+        "text": "マネジメントエリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "005",
+        "span": [
+          30,
+          36
+        ],
+        "text": "世界自然遺産",
+        "entity_type": "PRO",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "005",
+        "span": [
+          37,
+          39
+        ],
+        "text": "知床",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "005",
+        "span": [
+          45,
+          54
+        ],
+        "text": "阿寒・摩周国立公園",
+        "entity_type": "FAC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "005",
+        "span": [
+          55,
+          63
+        ],
+        "text": "釧路湿原国立公園",
+        "entity_type": "FAC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "005",
+        "span": [
+          70,
+          76
+        ],
+        "text": "オホーツク海",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "005",
+        "span": [
+          90,
+          93
+        ],
+        "text": "阿寒湖",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "005",
+        "span": [
+          94,
+          97
+        ],
+        "text": "網走湖",
+        "entity_type": "LOC",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "005",
+        "span": [
+          98,
+          101
+        ],
+        "text": "然別湖",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "006",
+        "span": [
+          46,
+          49
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "007",
+        "span": [
+          10,
+          12
+        ],
+        "text": "我々",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "007",
+        "span": [
+          19,
+          22
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "007",
+        "span": [
+          31,
+          34
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "009",
+        "span": [
+          31,
+          35
+        ],
+        "text": "当DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "010",
+        "span": [
+          14,
+          18
+        ],
+        "text": "当DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "010",
+        "span": [
+          44,
+          47
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "012",
+        "span": [
+          54,
+          58
+        ],
+        "text": "当DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "015",
+        "span": [
+          2,
+          3
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M041": {
+        "sentence_id": "016",
+        "span": [
+          2,
+          11
+        ],
+        "text": "マネジメントエリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "016",
+        "span": [
+          13,
+          14
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "016",
+        "span": [
+          22,
+          25
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M044": {
+        "sentence_id": "017",
+        "span": [
+          103,
+          104
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M045": {
+        "sentence_id": "019",
+        "span": [
+          1,
+          3
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "021",
+        "span": [
+          1,
+          2
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "023",
+        "span": [
+          33,
+          34
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "025",
+        "span": [
+          5,
+          8
+        ],
+        "text": "観光庁",
+        "entity_type": "ORG",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          4
+        ],
+        "text": "当DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "032",
+        "span": [
+          40,
+          41
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M052": {
+        "sentence_id": "035",
+        "span": [
+          0,
+          19
+        ],
+        "text": "(一社)ひがし北海道自然美への道DMO",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M018",
+          "M032",
+          "M035",
+          "M036",
+          "M038",
+          "M039",
+          "M049",
+          "M050",
+          "M052"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://info.eastern-hokkaido-style.jp/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M022",
+          "M031",
+          "M033",
+          "M034",
+          "M037",
+          "M041",
+          "M045"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M019",
+          "M043"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q271917",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.984888888",
+          "144.381722222"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q305640",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B6%B2%E8%B5%B0%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4069203",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "44.020638888",
+          "144.273555555"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q177149",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%AF%E5%BA%83%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "42.923972222",
+          "143.196111111"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q265555",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%A6%8B%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.803055555",
+          "143.894722222"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q692745",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B4%8B%E5%88%A5%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "44.356444444",
+          "143.354416666"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q514324",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%A8%99%E6%B4%A5%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.555222222",
+          "144.971361111"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q657530",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%88%A5%E6%B5%B7%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.393805555",
+          "145.117472222"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1186104",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BC%9F%E5%AD%90%E5%B1%88%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.485277777",
+          "144.459277777"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1365478",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%9C%E9%87%8C%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.911472222",
+          "144.670833333"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1210175",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%BE%97%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.079777777",
+          "142.838861111"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1357679",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B9%BF%E8%BF%BD%E7%94%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4066900",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.098916666",
+          "142.989"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1208839",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A9%BA%E7%94%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4069201",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.911944444",
+          "144.172555555"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1186097",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B1%85%E6%9D%91",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.229944444",
+          "144.321083333"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1348798",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%B7%9D%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.84725",
+          "142.770416666"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M020",
+          "M021"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q386426",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E9%81%BA%E7%94%A3_(%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3)"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17208861",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%A5%E5%BA%8A_(%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3)",
+          "openstreetmap": "https://www.openstreetmap.org/node/2479710251",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.933333333",
+          "144.95"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q415672",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%AF%92%E6%91%A9%E5%91%A8%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.51666667",
+          "144.26666667"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1156690",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%A7%E8%B7%AF%E6%B9%BF%E5%8E%9F%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.108",
+          "144.401"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q41602",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E6%B5%B7",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "55.0",
+          "150.0"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q429402",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%98%BF%E5%AF%92%E6%B9%96",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.451666666",
+          "144.098611111"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q572825",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B6%B2%E8%B5%B0%E6%B9%96",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1341592",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.97167",
+          "144.175"
+        ]
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11567611",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%84%B6%E5%88%A5%E6%B9%96",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.274167",
+          "143.116667"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M040",
+          "M042",
+          "M044",
+          "M046",
+          "M047",
+          "M051"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M048"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6157871",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A6%B3%E5%85%89%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "011-3": {
+    "metainfo": {
+      "src_date": "20220000",
+      "src_url": "http://www.mlit.go.jp/kankocho/shisaku/kankochi/content/001422934.pdf",
+      "src_parent_url": "http://www.mlit.go.jp/kankocho/shisaku/kankochi/ikiiki.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "(一社)HAKUBAVALLEY　TOURISM",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "[地域連携DMO]",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "マネジメント区域:【長野県】大町市、白馬村、小谷村",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "004": {
+        "type": "heading",
+        "text": "DMOの特徴",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "【取組体制】",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "長野県北西部、北アルプスの麓に位置するHAKUBAVALLEY(長野県大町市、白馬村、小谷村)は、エリア内に10スキー場を抱える日本有数のスノーリゾート。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "007": {
+        "text": "一般社団法人HAKUBAVALLEY　TOURISM(以下HVT)は、平成31年に三市村、三市村観光団体、大北地区索道事業者協議会によって設立。",
+        "mention_ids": [
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "008": {
+        "text": "『世界から選ばれる山岳観光地の構築』のコンセプトのもと、外国人観光客の滞在環境の整備やプロモーションの更なる強化、通年にわたる安定した顧客の確保を目指し、観光地づくりを推進している。",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "観光関連事業の取組体制として、地域内の主要な観光関連事業者の集合体である観光三団体と索道事業者、三市村がDMOの構成員になっており、月一回定期的にHVT役員会を開催し協議の上、戦略を共有している。",
+        "mention_ids": [
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027"
+        ]
+      },
+      "010": {
+        "text": "また、長野県の重点支援DMOとなっており県との連携も強化するために定期的にアドバイザリーボードを開催し意見交換を実施している。",
+        "mention_ids": [
+          "M028",
+          "M029"
+        ]
+      },
+      "011": {
+        "text": "また、具体的な行動組織として、集客・接客合同専門委員会を立ち上げ、毎月、課題の掘り起こし、その解決のために、テーマ別に7つの小委員会を中心に、毎月協議検討を行っている。",
+        "mention_ids": [
+          "M030",
+          "M031"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "【R2の取組】",
+        "mention_ids": [
+          "M032"
+        ]
+      },
+      "013": {
+        "text": "令和2年はコロナ問題対応を優先して実施しました。",
+        "mention_ids": [
+          "M033",
+          "M034"
+        ]
+      },
+      "014": {
+        "text": "エリア一体で感染防止対策を実施するためHAKUBAVALLEYクリーン認証を実施。",
+        "mention_ids": [
+          "M035",
+          "M036"
+        ]
+      },
+      "015": {
+        "text": "3市村宿泊、飲食、小売等関係事業者491社に登録をいただきました。",
+        "mention_ids": [
+          "M037"
+        ]
+      },
+      "016": {
+        "text": "また冬期のスキー場従業員の感染対策を防止すため感染症対策の統一ルールも策定いたしました。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "他に各小委員会で検討を進めた以下の事業を実施しています。",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "018": {
+        "text": "滞在するだけでも楽しい「まち」の実現のために景観デザインコードを作成。",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "3市村6か所に総合案内看板を設置、10スキー場内に案内、誘導サインを400点設置しました。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "020": {
+        "text": "世界からの顧客を受け入れる環境の実現のためスキー場のバックカントリー統一ルールを制定、エリア統一のパンフレット、ホームページを作成しました。",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "021": {
+        "text": "他にはサスティナブルツーリズムの実践としてSDGs小委員会ではエリア一体での持続可能な観光地域づくりへの取組としてHAKUBAVALLEYビジョンと中長期の目標を策定しました。",
+        "mention_ids": [
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "022": {
+        "text": "また、サイクルトレイル小委員会では夏期のインバウンド集客に向けた取組としてHAKUBAVALLEY内で新規開発が可能なサイクルトレイルを計画し既存のトレイルと結合するマスタープランを作成しており将来的には3市村をつなぐサイクルトレイル「新塩の道」の実現を目指しています。",
+        "mention_ids": [
+          "M044",
+          "M045",
+          "M046",
+          "M047"
+        ]
+      },
+      "023": {
+        "type": "heading",
+        "text": "DMOの取組における優先課題",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "024": {
+        "text": "HVTの取組は設立時に目標とした形成計画に沿った事業を推進することで進めてきたが、新型コロナウイルスにより外国人、日本人の入込は大きく減少した。",
+        "mention_ids": [
+          "M049",
+          "M050"
+        ]
+      },
+      "025": {
+        "text": "今後はこの入込の回復状況を予測することでそれに沿った具体的な対応策を検討することが最優先の課題となる。",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "そして、回復状況を見据えた具体的な活動方針を立案し実行する事となります。",
+        "mention_ids": []
+      },
+      "027": {
+        "type": "heading",
+        "text": "課題解決に向けた取組",
+        "mention_ids": []
+      },
+      "028": {
+        "type": "heading",
+        "text": "(1)活動方針の前提(国際航空運送協会(IATA)の予測を参考に回復予測を実施)",
+        "mention_ids": [
+          "M051"
+        ]
+      },
+      "029": {
+        "text": "外国人来場者の回復は冬期は2025年、夏期は24年に19年(コロナ以前)の水準まで回復すると予想。",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "030": {
+        "text": "日本人来場客数の回復は冬期と夏期共に2025年に19年(コロナ以前)のレベルに回復すると予想、2021‐22通年の回復速度が外国人来場客より早いと考えられます。",
+        "mention_ids": [
+          "M053",
+          "M054"
+        ]
+      },
+      "031": {
+        "type": "heading",
+        "text": "(2)新型コロナウイルスへの対応",
+        "mention_ids": []
+      },
+      "032": {
+        "type": "heading",
+        "text": "攻めの事業",
+        "mention_ids": []
+      },
+      "033": {
+        "text": "国内・海外への営業活動",
+        "mention_ids": [
+          "M055"
+        ]
+      },
+      "034": {
+        "text": "●国内在住Expatsへ向けて媒体誌、SNSを使った誘客宣伝のより一層の強化(夏・冬)",
+        "mention_ids": [
+          "M056"
+        ]
+      },
+      "035": {
+        "text": "●JNTO・長野県と連携して海外開催のBtoCイベントにWeb参加",
+        "mention_ids": [
+          "M057",
+          "M058"
+        ]
+      },
+      "036": {
+        "text": "●SNSを活用した海外への情報発信",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "●開国後の海外セールスへの積極的参加の為の準備",
+        "mention_ids": [
+          "M059"
+        ]
+      },
+      "038": {
+        "text": "●国内日本人客誘客強化に向けて専門誌、SNS等で誘客宣伝の強化(夏・冬)",
+        "mention_ids": [
+          "M060",
+          "M061"
+        ]
+      },
+      "039": {
+        "type": "heading",
+        "text": "守りの事業",
+        "mention_ids": []
+      },
+      "040": {
+        "text": "コロナウイルス対策強化",
+        "mention_ids": []
+      },
+      "041": {
+        "text": "●HAKUBAVALLEYクリーン認証制度のブラッシュアップと地域へのより一層の普及",
+        "mention_ids": [
+          "M062",
+          "M063"
+        ]
+      },
+      "042": {
+        "text": "●専門家を活用した講習会の開催",
+        "mention_ids": []
+      },
+      "043": {
+        "text": "●10スキー場統一ルールのより一層の徹底",
+        "mention_ids": []
+      },
+      "044": {
+        "text": "●感染対策動画を作成し事業者への対策を普及",
+        "mention_ids": []
+      },
+      "045": {
+        "text": "●北アルプス圏域の病床確保に向けた要望書の提出",
+        "mention_ids": [
+          "M064"
+        ]
+      },
+      "046": {
+        "type": "heading",
+        "text": "(3)具体的な活動方針",
+        "mention_ids": []
+      },
+      "047": {
+        "type": "heading",
+        "text": "1周遊観光アルペンルート・塩の道との連携",
+        "mention_ids": [
+          "M065",
+          "M066"
+        ]
+      },
+      "048": {
+        "text": "当エリアはアルペンルートを経由して富山県・塩の道経由で糸魚川と隣接しており、両ルートとの連携強化による相互送客を実施",
+        "mention_ids": [
+          "M067",
+          "M068",
+          "M069",
+          "M070",
+          "M071",
+          "M072"
+        ]
+      },
+      "049": {
+        "type": "heading",
+        "text": "2大町市イベントを基軸とした連携強化",
+        "mention_ids": [
+          "M073"
+        ]
+      },
+      "050": {
+        "text": "今年度開催の北アルプス国際芸術祭、全線開通50周年を迎えるアルペンルートとの連携強化",
+        "mention_ids": [
+          "M074",
+          "M075"
+        ]
+      },
+      "051": {
+        "type": "heading",
+        "text": "3滞在するだけでも楽しい「まち」の実現",
+        "mention_ids": []
+      },
+      "052": {
+        "text": "エリア内周遊バスの効率化・多言語化に向けた交通サイン統一",
+        "mention_ids": [
+          "M076"
+        ]
+      },
+      "053": {
+        "text": "景観デザインコードモデル地区八方区街路灯整備、HAKUBAVALLEY八景の設定",
+        "mention_ids": [
+          "M077",
+          "M078"
+        ]
+      },
+      "054": {
+        "text": "八方MTBトレイルコース整備に参画、ガストロノミーツーリズム小委員会立上げと研究開始",
+        "mention_ids": [
+          "M079",
+          "M080"
+        ]
+      },
+      "055": {
+        "type": "heading",
+        "text": "4世界から顧客を受け入れる環境整備",
+        "mention_ids": []
+      },
+      "056": {
+        "text": "キャッシュレス、Wi‐Fi環境整備、夏期アンケートの実施、ワンストップで予約・決済できるWEBサイト構築準備",
+        "mention_ids": [
+          "M081"
+        ]
+      },
+      "057": {
+        "type": "heading",
+        "text": "5サスティナブルツーリズムのブランドづくり",
+        "mention_ids": []
+      },
+      "058": {
+        "text": "SDGs地域への普及・啓発チェックシートの作成、感染症対策の推進",
+        "mention_ids": []
+      },
+      "059": {
+        "type": "heading",
+        "text": "DMOからのコメント",
+        "mention_ids": [
+          "M082"
+        ]
+      },
+      "060": {
+        "text": "HAKUBAVALLEYを「世界から選ばれる山岳観光リゾート」にするため「観光の3市村統合」を通して国内外からの通年集客を目指しております。",
+        "mention_ids": [
+          "M083",
+          "M084",
+          "M085"
+        ]
+      },
+      "061": {
+        "text": "今年度は新型コロナウイルスの感染からの回復状況を見据えながらプロモーション計画を策定しインバウンドの集客を進めます。",
+        "mention_ids": []
+      },
+      "062": {
+        "text": "(事務局長　藤澤正広)",
+        "mention_ids": [
+          "M086",
+          "M087"
+        ]
+      },
+      "063": {
+        "type": "heading",
+        "text": "お問い合わせ先",
+        "mention_ids": []
+      },
+      "064": {
+        "text": "(一社)HAKUBAVALLEY　TOURISM",
+        "mention_ids": [
+          "M088"
+        ]
+      },
+      "065": {
+        "text": "TEL:0261‐71‐1898",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          24
+        ],
+        "text": "(一社)HAKUBAVALLEY　TOURISM",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          8
+        ],
+        "text": "マネジメント区域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          13
+        ],
+        "text": "長野県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          14,
+          17
+        ],
+        "text": "大町市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          18,
+          21
+        ],
+        "text": "白馬村",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          22,
+          25
+        ],
+        "text": "小谷村",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "長野県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "006",
+        "span": [
+          7,
+          12
+        ],
+        "text": "北アルプス",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          19,
+          31
+        ],
+        "text": "HAKUBAVALLEY",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          32,
+          35
+        ],
+        "text": "長野県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          35,
+          38
+        ],
+        "text": "大町市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "006",
+        "span": [
+          39,
+          42
+        ],
+        "text": "白馬村",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          43,
+          46
+        ],
+        "text": "小谷村",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "006",
+        "span": [
+          49,
+          52
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          64,
+          66
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          26
+        ],
+        "text": "一般社団法人HAKUBAVALLEY　TOURISM",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "007",
+        "span": [
+          29,
+          32
+        ],
+        "text": "HVT",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          35,
+          37
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "007",
+        "span": [
+          41,
+          44
+        ],
+        "text": "三市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "007",
+        "span": [
+          45,
+          48
+        ],
+        "text": "三市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "007",
+        "span": [
+          53,
+          65
+        ],
+        "text": "大北地区索道事業者協議会",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          15,
+          17
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          48,
+          51
+        ],
+        "text": "三市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          52,
+          55
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          73,
+          76
+        ],
+        "text": "HVT",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          76,
+          79
+        ],
+        "text": "役員会",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "metonymic_entity_type": "EVE",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "010",
+        "span": [
+          3,
+          6
+        ],
+        "text": "長野県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "010",
+        "span": [
+          20,
+          21
+        ],
+        "text": "県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "011",
+        "span": [
+          15,
+          27
+        ],
+        "text": "集客・接客合同専門委員会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "011",
+        "span": [
+          62,
+          66
+        ],
+        "text": "小委員会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "012",
+        "span": [
+          1,
+          2
+        ],
+        "text": "R",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "013",
+        "span": [
+          5,
+          10
+        ],
+        "text": "コロナ問題",
+        "entity_type": "EVE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          3
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "014",
+        "span": [
+          19,
+          31
+        ],
+        "text": "HAKUBAVALLEY",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          3
+        ],
+        "text": "3市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "017",
+        "span": [
+          3,
+          7
+        ],
+        "text": "小委員会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          3
+        ],
+        "text": "3市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "020",
+        "span": [
+          43,
+          46
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "021",
+        "span": [
+          21,
+          29
+        ],
+        "text": "SDGs小委員会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "021",
+        "span": [
+          31,
+          34
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "021",
+        "span": [
+          57,
+          69
+        ],
+        "text": "HAKUBAVALLEY",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "022",
+        "span": [
+          3,
+          15
+        ],
+        "text": "サイクルトレイル小委員会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "022",
+        "span": [
+          37,
+          49
+        ],
+        "text": "HAKUBAVALLEY",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "022",
+        "span": [
+          102,
+          105
+        ],
+        "text": "3市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "022",
+        "span": [
+          118,
+          122
+        ],
+        "text": "新塩の道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "023",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "024",
+        "span": [
+          0,
+          3
+        ],
+        "text": "HVT",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "024",
+        "span": [
+          57,
+          60
+        ],
+        "text": "日本人",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "028",
+        "span": [
+          11,
+          25
+        ],
+        "text": "国際航空運送協会(IATA)",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "029",
+        "span": [
+          30,
+          33
+        ],
+        "text": "コロナ",
+        "entity_type": "EVE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          3
+        ],
+        "text": "日本人",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "030",
+        "span": [
+          28,
+          31
+        ],
+        "text": "コロナ",
+        "entity_type": "EVE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "033",
+        "span": [
+          0,
+          1
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M056": {
+        "sentence_id": "034",
+        "span": [
+          1,
+          2
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M057": {
+        "sentence_id": "035",
+        "span": [
+          1,
+          5
+        ],
+        "text": "JNTO",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "035",
+        "span": [
+          6,
+          9
+        ],
+        "text": "長野県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M059": {
+        "sentence_id": "037",
+        "span": [
+          2,
+          3
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M060": {
+        "sentence_id": "038",
+        "span": [
+          1,
+          2
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M061": {
+        "sentence_id": "038",
+        "span": [
+          3,
+          6
+        ],
+        "text": "日本人",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "041",
+        "span": [
+          1,
+          13
+        ],
+        "text": "HAKUBAVALLEY",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "041",
+        "span": [
+          31,
+          33
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "045",
+        "span": [
+          1,
+          8
+        ],
+        "text": "北アルプス圏域",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M065": {
+        "sentence_id": "047",
+        "span": [
+          5,
+          12
+        ],
+        "text": "アルペンルート",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M066": {
+        "sentence_id": "047",
+        "span": [
+          13,
+          16
+        ],
+        "text": "塩の道",
+        "entity_type": "NOMINAL",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M067": {
+        "sentence_id": "048",
+        "span": [
+          0,
+          4
+        ],
+        "text": "当エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M068": {
+        "sentence_id": "048",
+        "span": [
+          5,
+          12
+        ],
+        "text": "アルペンルート",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M069": {
+        "sentence_id": "048",
+        "span": [
+          17,
+          20
+        ],
+        "text": "富山県",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M070": {
+        "sentence_id": "048",
+        "span": [
+          21,
+          24
+        ],
+        "text": "塩の道",
+        "entity_type": "NOMINAL",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M071": {
+        "sentence_id": "048",
+        "span": [
+          27,
+          30
+        ],
+        "text": "糸魚川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M072": {
+        "sentence_id": "048",
+        "span": [
+          38,
+          42
+        ],
+        "text": "両ルート",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M073": {
+        "sentence_id": "049",
+        "span": [
+          1,
+          4
+        ],
+        "text": "大町市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M074": {
+        "sentence_id": "050",
+        "span": [
+          6,
+          16
+        ],
+        "text": "北アルプス国際芸術祭",
+        "entity_type": "EVE",
+        "entity_id": "E026",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M075": {
+        "sentence_id": "050",
+        "span": [
+          29,
+          36
+        ],
+        "text": "アルペンルート",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M076": {
+        "sentence_id": "052",
+        "span": [
+          0,
+          3
+        ],
+        "text": "エリア",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M077": {
+        "sentence_id": "053",
+        "span": [
+          14,
+          17
+        ],
+        "text": "八方区",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M078": {
+        "sentence_id": "053",
+        "span": [
+          23,
+          37
+        ],
+        "text": "HAKUBAVALLEY八景",
+        "entity_type": "LOC",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M079": {
+        "sentence_id": "054",
+        "span": [
+          0,
+          12
+        ],
+        "text": "八方MTBトレイルコース",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E029",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M080": {
+        "sentence_id": "054",
+        "span": [
+          18,
+          34
+        ],
+        "text": "ガストロノミーツーリズム小委員会",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M081": {
+        "sentence_id": "056",
+        "span": [
+          8,
+          13
+        ],
+        "text": "Wi‐Fi",
+        "entity_type": "PRO",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M082": {
+        "sentence_id": "059",
+        "span": [
+          0,
+          3
+        ],
+        "text": "DMO",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M083": {
+        "sentence_id": "060",
+        "span": [
+          0,
+          12
+        ],
+        "text": "HAKUBAVALLEY",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M084": {
+        "sentence_id": "060",
+        "span": [
+          40,
+          43
+        ],
+        "text": "3市村",
+        "entity_type": "NOMINAL",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M085": {
+        "sentence_id": "060",
+        "span": [
+          50,
+          51
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M086": {
+        "sentence_id": "062",
+        "span": [
+          1,
+          4
+        ],
+        "text": "事務局",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M087": {
+        "sentence_id": "062",
+        "span": [
+          6,
+          10
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E031",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M088": {
+        "sentence_id": "064",
+        "span": [
+          0,
+          24
+        ],
+        "text": "(一社)HAKUBAVALLEY　TOURISM",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M007",
+          "M017",
+          "M018",
+          "M025",
+          "M026",
+          "M048",
+          "M049",
+          "M082",
+          "M088"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.vill.hakuba.lg.jp/gyosei/keikan_kankyo_kanko/kanko/hakubavalleytourism.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M008",
+          "M011",
+          "M028",
+          "M029",
+          "M058"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127877",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3560284",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.651277777",
+          "138.180944444"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M012",
+          "M073"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q385375",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%94%BA%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.503",
+          "137.851111111"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1011157",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%A6%AC%E6%9D%91",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.698055555",
+          "137.861916666"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1204497",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%B0%B7%E6%9D%91",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4759284",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.779055555",
+          "137.90825"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1072070",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A3%9B%E9%A8%A8%E5%B1%B1%E8%84%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.5",
+          "137.6"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010",
+          "M015",
+          "M023",
+          "M035",
+          "M036",
+          "M040",
+          "M042",
+          "M043",
+          "M045",
+          "M062",
+          "M063",
+          "M067",
+          "M076",
+          "M083"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.hakubavalley.jp/"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M016",
+          "M055",
+          "M056",
+          "M059",
+          "M060",
+          "M085"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M020",
+          "M021",
+          "M024",
+          "M031",
+          "M037",
+          "M038",
+          "M039",
+          "M046",
+          "M072",
+          "M084"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M030",
+          "M041",
+          "M044",
+          "M080",
+          "M086"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://www.vill.hakuba.lg.jp/gyosei/keikan_kankyo_kanko/kanko/hakubavalleytourism.html"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M032",
+          "M033"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M034",
+          "M052",
+          "M054"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q97311638",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M050",
+          "M053",
+          "M061"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q115861446",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q19755",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%88%AA%E7%A9%BA%E9%81%8B%E9%80%81%E5%8D%94%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q55"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11086315",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E8%A6%B3%E5%85%89%E6%8C%AF%E8%88%88%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M064"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11433085",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E5%9C%B0%E5%9F%9F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M065",
+          "M068",
+          "M075"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6425988",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%AB%8B%E5%B1%B1%E9%BB%92%E9%83%A8%E3%82%A2%E3%83%AB%E3%83%9A%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M066",
+          "M070"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24895676",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E5%9B%BD%E8%A1%97%E9%81%93",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M069"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132929",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3793529",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.695305555",
+          "137.211305555"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M071"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q857208",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B3%B8%E9%AD%9A%E5%B7%9D%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.039027777",
+          "137.862666666"
+        ]
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M074"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.culture.nagano.jp/artists/7176/"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M077"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1011157",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%A6%AC%E6%9D%91",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.698055555",
+          "137.861916666"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M078"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.hakubavalley.com/hakubahakkei/?fbclid=IwAR2Nvy5lwGE6R_J0qPeik_vk6diYLdKalb1PfCEOy9IvnDt1IQdjm1h2DUw"
+        }
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M079"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.happo-one.jp/news-association/24950/"
+        }
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M081"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q29643",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Wi-Fi"
+        }
+      },
+      "E031": {
+        "member_mention_ids": [
+          "M087"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  }
+}

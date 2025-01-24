@@ -1,0 +1,908 @@
+{
+  "006": {
+    "metainfo": {
+      "src_date": "20230325",
+      "src_url": "https://www.mlit.go.jp/report/press/content/001472428.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/report/press/toshi05_hh_000375.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "「旧奈良監獄」を上質な「文化財ホテル」として整備~旧奈良監獄の保存及び活用に係る公共施設等運営事業を国土交通大臣が認定~",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "text": "国土交通大臣は、旧奈良監獄の保存及び活用に係る公共施設等運営事業を優良な民間都市再生整備事業計画として認定しました。これにより、民間都市開発推進機構の金融支援が受けられます。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "003": {
+        "text": "本事業では、国の重要文化財に指定された歴史的・学術的価値が高い建築物である「旧奈良監獄」の保存・維持管理を行いながら、文化財ホテルとして上質な宿泊施設を整備し、地産地消レストランやイベント広場などを整備することで、旧奈良監獄・鴻ノ池運動公園周辺地区の地域活性化に貢献します。",
+        "mention_ids": [
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "004": {
+        "text": "本計画は、以下を中心に、奈良市の都市再生に貢献します。",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "005": {
+        "text": "○　重要文化財である本施設の魅力を保全・活用し、上質な宿泊施設として整備。",
+        "mention_ids": [
+          "M013",
+          "M014"
+        ]
+      },
+      "006": {
+        "text": "○　史料館を奈良エリアにおける観光の目的地として整備し、滞在時間の長期化を図る。",
+        "mention_ids": [
+          "M015",
+          "M016"
+        ]
+      },
+      "007": {
+        "text": "○　地産地消レストラン、チャレンジショップ、イベント広場等の整備により、地域の産業や文化、新事業者の発掘等も含め地域活性化に貢献。",
+        "mention_ids": []
+      },
+      "008": {
+        "type": "heading",
+        "text": "民間都市再生整備事業計画の内容の公表事項",
+        "mention_ids": []
+      },
+      "009": {
+        "text": "1.申請事業者の名称　旧奈良監獄保存活用株式会社、株式会社星野リゾート",
+        "mention_ids": [
+          "M017",
+          "M018"
+        ]
+      },
+      "010": {
+        "text": "2.誘導施設等整備事業の名称　旧奈良監獄の保存及び活用に係る公共施設等運営事業",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "011": {
+        "text": "3.民間都市再生整備事業の目的",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "「旧奈良監獄」は明治政府により建設された5　大監獄の　1　つで、ほぼ当時のまま現存する唯一の刑務所として、2016　年国の重要文化財に指定された歴史的・学術的価値が高い建築物である。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "013": {
+        "text": "本事業は同施設における、法務省が実施するコンセッション方式(施設の所有権を公共主体が有したまま、公共施設等運営権を設定する)の　PFI　事業である。",
+        "mention_ids": [
+          "M024",
+          "M025"
+        ]
+      },
+      "014": {
+        "text": "事業者は独立採算により耐震改修を行うとともに、旧奈良監獄の保存、史料館の維持管理及び運営を行う。",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      },
+      "015": {
+        "text": "また、付帯事業として「文化財ホテル」として活用を予定しており、併せて「上質な宿泊施設」としての整備運営が行われ、地産地消レストランやイベント広場などを整備することで旧奈良監獄・鴻ノ池運動公園周辺地区の地域活性化に寄与する。",
+        "mention_ids": [
+          "M028",
+          "M029"
+        ]
+      },
+      "016": {
+        "text": "4.事業施行期間　平成　30　年　11　月　1　日　~　令和　7　年　3　月　31　日(予定)",
+        "mention_ids": [
+          "M030",
+          "M031"
+        ]
+      },
+      "017": {
+        "text": "5.事業区域",
+        "mention_ids": []
+      },
+      "018": {
+        "text": "(1)位置　奈良県奈良市般若寺町　18-1,18-4",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "019": {
+        "text": "(2)面積　100,478.80　m2",
+        "mention_ids": []
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          1,
+          6
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          25,
+          30
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          50,
+          54
+        ],
+        "text": "国土交通",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          4
+        ],
+        "text": "国土交通",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          8,
+          13
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          64,
+          74
+        ],
+        "text": "民間都市開発推進機構",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          6,
+          7
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          8,
+          13
+        ],
+        "text": "重要文化財",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          38,
+          43
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          107,
+          112
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          113,
+          120
+        ],
+        "text": "鴻ノ池運動公園",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          12,
+          15
+        ],
+        "text": "奈良市",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          2,
+          7
+        ],
+        "text": "重要文化財",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          10,
+          13
+        ],
+        "text": "本施設",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "006",
+        "span": [
+          2,
+          5
+        ],
+        "text": "史料館",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          6,
+          11
+        ],
+        "text": "奈良エリア",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_vague_ref": true,
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          11,
+          24
+        ],
+        "text": "旧奈良監獄保存活用株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          25,
+          35
+        ],
+        "text": "株式会社星野リゾート",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "010",
+        "span": [
+          15,
+          20
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "012",
+        "span": [
+          1,
+          6
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "012",
+        "span": [
+          8,
+          12
+        ],
+        "text": "明治政府",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "012",
+        "span": [
+          20,
+          25
+        ],
+        "text": "5　大監獄",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "012",
+        "span": [
+          61,
+          66
+        ],
+        "text": "重要文化財",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "013",
+        "span": [
+          4,
+          7
+        ],
+        "text": "同施設",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "013",
+        "span": [
+          12,
+          15
+        ],
+        "text": "法務省",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "014",
+        "span": [
+          23,
+          28
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "014",
+        "span": [
+          32,
+          35
+        ],
+        "text": "史料館",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "015",
+        "span": [
+          82,
+          87
+        ],
+        "text": "旧奈良監獄",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "015",
+        "span": [
+          88,
+          95
+        ],
+        "text": "鴻ノ池運動公園",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "016",
+        "span": [
+          9,
+          11
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "016",
+        "span": [
+          28,
+          30
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "018",
+        "span": [
+          6,
+          9
+        ],
+        "text": "奈良県",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "018",
+        "span": [
+          9,
+          12
+        ],
+        "text": "奈良市",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "018",
+        "span": [
+          12,
+          26
+        ],
+        "text": "般若寺町　18-1,18-4",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M005",
+          "M009",
+          "M010",
+          "M014",
+          "M019",
+          "M020",
+          "M024",
+          "M026",
+          "M028"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "DIACHRONIC",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11445053",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.698472222",
+          "135.833361111"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M003",
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%91%E9%96%93%E9%83%BD%E5%B8%82%E9%96%8B%E7%99%BA%E6%8E%A8%E9%80%B2%E6%A9%9F%E6%A7%8B"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008",
+          "M013",
+          "M023"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1188622",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E8%B2%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M011",
+          "M029"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q109360245",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82%E9%B4%BB%E3%83%8E%E6%B1%A0%E9%81%8B%E5%8B%95%E5%85%AC%E5%9C%92",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.69514",
+          "135.82803"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M012",
+          "M033"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q169134",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3227707",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.685",
+          "135.804777777"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M015",
+          "M027"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11445053",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.698472222",
+          "135.833361111"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://yamatoji.nara-kankou.or.jp/006course/?area=01"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "OTHER",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11445053",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B0%91%E5%B9%B4%E5%88%91%E5%8B%99%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.698472222",
+          "135.833361111"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11513060",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1322181",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q20042692",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%8E%E6%B2%BB%E3%81%AE%E4%BA%94%E5%A4%A7%E7%9B%A3%E7%8D%84"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1031145",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B3%95%E5%8B%99%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.67635",
+          "139.753304"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q131287",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/358631",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.685194444",
+          "135.832944444"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q169134",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3227707",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.685",
+          "135.804777777"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,3423 @@
+{
+  "036-1": {
+    "metainfo": {
+      "src_date": "20230727",
+      "src_url": "https://www.gsi.go.jp/common/000251126.pdf",
+      "src_parent_url": "https://www.gsi.go.jp/kohokocho/koho661-top_00001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "国土地理院広報　第661号",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "2023年7月発行",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "title",
+        "text": "領土・主権展示館の企画展「日本の島と海と空を守る仕事」",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "004": {
+        "text": "「領土・主権展示館」(東京都千代田区霞が関)における夏の企画展「日本の島と海と空を守る仕事」において、領土や離島に関する国土地理院の仕事が紹介されています。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "005": {
+        "text": "7月25日~9月24日(日)の期間、「領土・主権展示館」(東京都千代田区霞が関)で、夏の企画展「日本の島と海と空を守る仕事」が開催されています。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "006": {
+        "text": "陸上自衛隊・海上自衛隊・航空自衛隊・海上保安庁・警察・水産庁(漁業監督官)・環境省(自然保護官)と並び、領土や離島に関する国土地理院の仕事が紹介されています。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "007": {
+        "text": "具体的には離島での測量作業や離島の地図作成を紹介したパネル展示のほか、標旗、金属標、沖ノ鳥島の三角点標示板、西之島の岩などを展示しています。",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "008": {
+        "text": "内閣府領土問題担当大臣が主宰する「領土・主権をめぐる内外発信に関する総合調整会議」(事務局:内閣官房領土・主権対策企画調整室)が設置されており、国土地理院も構成員となっていることから、展示に協力をしています。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029"
+        ]
+      },
+      "009": {
+        "text": "夏休みを中心に、主に児童生徒を対象に行う積極的な広報活動の一環として、本企画展が実施されており、今後、領土・主権対策企画調整室と協力し、国土地理院「地図と測量の科学館」(茨城県つくば市)において、展示館巡回展として領土・主権に関する国土地理院の取り組みを紹介する予定です。",
+        "mention_ids": [
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036"
+        ]
+      },
+      "010": {
+        "text": "(総務部)",
+        "mention_ids": [
+          "M037"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          7
+        ],
+        "text": "国土地理院広報",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          8
+        ],
+        "text": "領土・主権展示館",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          13,
+          26
+        ],
+        "text": "日本の島と海と空を守る仕事",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          1,
+          9
+        ],
+        "text": "領土・主権展示館",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          11,
+          14
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          14,
+          18
+        ],
+        "text": "千代田区",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          18,
+          21
+        ],
+        "text": "霞が関",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          32,
+          45
+        ],
+        "text": "日本の島と海と空を守る仕事",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          60,
+          65
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          19,
+          27
+        ],
+        "text": "領土・主権展示館",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          29,
+          32
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          32,
+          36
+        ],
+        "text": "千代田区",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          36,
+          39
+        ],
+        "text": "霞が関",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          48,
+          61
+        ],
+        "text": "日本の島と海と空を守る仕事",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          5
+        ],
+        "text": "陸上自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "006",
+        "span": [
+          6,
+          11
+        ],
+        "text": "海上自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "006",
+        "span": [
+          12,
+          17
+        ],
+        "text": "航空自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "006",
+        "span": [
+          18,
+          23
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "006",
+        "span": [
+          24,
+          26
+        ],
+        "text": "警察",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "006",
+        "span": [
+          27,
+          30
+        ],
+        "text": "水産庁",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "006",
+        "span": [
+          38,
+          41
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "006",
+        "span": [
+          61,
+          66
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "007",
+        "span": [
+          42,
+          46
+        ],
+        "text": "沖ノ鳥島",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "007",
+        "span": [
+          54,
+          57
+        ],
+        "text": "西之島",
+        "entity_type": "LOC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          3
+        ],
+        "text": "内閣府",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "008",
+        "span": [
+          17,
+          40
+        ],
+        "text": "領土・主権をめぐる内外発信に関する総合調整会議",
+        "entity_type": "EVE",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "008",
+        "span": [
+          42,
+          45
+        ],
+        "text": "事務局",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "008",
+        "span": [
+          46,
+          62
+        ],
+        "text": "内閣官房領土・主権対策企画調整室",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "008",
+        "span": [
+          72,
+          77
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "009",
+        "span": [
+          35,
+          39
+        ],
+        "text": "本企画展",
+        "entity_type": "NOMINAL",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "009",
+        "span": [
+          51,
+          63
+        ],
+        "text": "領土・主権対策企画調整室",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "009",
+        "span": [
+          68,
+          73
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "009",
+        "span": [
+          74,
+          83
+        ],
+        "text": "地図と測量の科学館",
+        "entity_type": "FAC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "009",
+        "span": [
+          85,
+          88
+        ],
+        "text": "茨城県",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "009",
+        "span": [
+          88,
+          92
+        ],
+        "text": "つくば市",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "009",
+        "span": [
+          116,
+          121
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "010",
+        "span": [
+          1,
+          4
+        ],
+        "text": "総務部",
+        "entity_type": "ORG",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004",
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q47495157",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A0%98%E5%9C%9F%E3%83%BB%E4%B8%BB%E6%A8%A9%E5%B1%95%E7%A4%BA%E9%A4%A8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.671416944",
+          "139.7555"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M008",
+          "M014",
+          "M030"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/ryodo/tenjikan/event/kikaku_230725.html"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q214051",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1761742",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.693944444",
+          "139.753611111"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1268102",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9C%9E%E3%81%8C%E9%96%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3788300",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.675172222",
+          "139.752997222"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009",
+          "M022",
+          "M029",
+          "M032",
+          "M036"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2986578",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E5%9C%B0%E7%90%86%E9%99%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.142064",
+          "140.043175"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q889751",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q731647",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.311111111",
+          "139.636111111"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q830305",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q565418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q203343",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%AD%A6%E5%AF%9F",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11548989",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%94%A3%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1125558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q908529",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B2%96%E3%83%8E%E9%B3%A5%E5%B3%B6",
+          "openstreetmap": "https://www.openstreetmap.org/way/130971315",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "20.4225",
+          "136.09"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1187278",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E4%B9%8B%E5%B3%B6",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4541924",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "27.24694444",
+          "140.87444444"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/ryodo/torikumi/ryodoshitsu/ryodoshitsu-ini.html"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.cas.go.jp/jp/ryodo/index.html"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q24863121",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A0%98%E5%9C%9F%E3%83%BB%E4%B8%BB%E6%A8%A9%E5%AF%BE%E7%AD%96%E4%BC%81%E7%94%BB%E8%AA%BF%E6%95%B4%E5%AE%A4",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11424135",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9B%B3%E3%81%A8%E6%B8%AC%E9%87%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8",
+          "openstreetmap": "https://www.openstreetmap.org/node/335886120",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.103953",
+          "140.085583"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q83273",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2682940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.341722222",
+          "140.446833333"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q273863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2682891",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.083472222",
+          "140.076444444"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2986578",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E5%9C%B0%E7%90%86%E9%99%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.142064",
+          "140.043175"
+        ]
+      }
+    }
+  },
+  "036-2": {
+    "metainfo": {
+      "src_date": "20230727",
+      "src_url": "https://www.gsi.go.jp/common/000251126.pdf",
+      "src_parent_url": "https://www.gsi.go.jp/kohokocho/koho661-top_00001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "国内初!衛星測位分野の国際事業にJAXAと共同で参画~高精度な軌道情報の提供を通じた測位基盤の強化へ~",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "国土地理院は、国立研究開発法人宇宙航空研究開発機構(JAXA)とGNSS衛星の精密な軌道情報を我が国独自で算出する体制を構築し、国内では初めて国際GNSS事業(IGS)([*1])に軌道情報を定常的に提供することとなりました。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "■測位衛星の軌道情報(暦)",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "GNSSは衛星の軌道情報(暦:れき)を基にして地上の位置決定を行うシステムで、地殻変動が激しい我が国では、位置の基準の維持・管理に活用されています。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "005": {
+        "text": "精度の高い測位には、高品質な軌道情報(精密暦:せいみつれき)が必要不可欠で、現在はIGSが提供するIGS暦が最も高い精度を有するとされています。",
+        "mention_ids": [
+          "M009",
+          "M010"
+        ]
+      },
+      "006": {
+        "text": "IGS暦は、IGSが高い技術力を有すると認めた北米、欧州、中国の限られた国家機関・研究機関・大学等の精密暦を基に算出されています。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "007": {
+        "text": "このため、我が国の位置の基準は海外機関に大きく依存しているという課題がありました。",
+        "mention_ids": [
+          "M016"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "■JAXAと連携したIGSへの参画",
+        "mention_ids": [
+          "M017",
+          "M018"
+        ]
+      },
+      "009": {
+        "text": "これまで国土地理院は、全国約1,300か所の電子基準点におけるGNSSデータ解析を25年以上にわたって安定的に実施してきました。",
+        "mention_ids": [
+          "M019",
+          "M020"
+        ]
+      },
+      "010": {
+        "text": "また、JAXAは、国産のGNSS軌道計算ソフトウェアであるMADOCA([*2])を開発し、精密暦の精度改善に関する技術開発を長年行ってきました。",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "011": {
+        "text": "今般、両機関が連携し、国土地理院がMADOCAを用いて精密暦を算出し、JAXAがその運用結果に基づきMADOCAを改良する協力体制を構築することで、精密暦の安定的な算出が国内で可能となりました。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026",
+          "M027"
+        ]
+      },
+      "012": {
+        "text": "この取組がIGSにも認められ、我が国では初めてIGSに精密暦を定常的に提供することとなりました。",
+        "mention_ids": [
+          "M028",
+          "M029",
+          "M030"
+        ]
+      },
+      "013": {
+        "type": "heading",
+        "text": "■自律的・安定的な位置の基準の維持・管理",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "今回の取組により、精密暦を国内で独自に算出できるようになります。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "また、提供する精密暦の品質がIGSによって定常的に評価されることで、精密暦の品質を継続的に維持、改善することができます。",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "016": {
+        "text": "さらに、より自律的・安定的な位置の基準の維持・管理が見込まれるほか、測地・測位分野の研究活動の促進が期待されます。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "今後は我が国の準天頂衛星システム「みちびき」を含むGNSSの精密暦の公開環境を整備し、高精度測位時代における位置情報の基盤の整備・更新を着実に進めていきます。",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "018": {
+        "text": "(測地観測センター)",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "019": {
+        "type": "supplement:footnote",
+        "text": "*1　国際GNSS事業(IGS:　International　GNSS　Service)測地学・地球物理学等の研究活動の支援及び社会一般でのGNSSの利用促進を目的として、国際測地学協会(IAG)の下で参加機関の国際協力により運営されている国際組織です。国土地理院、JAXAは観測データの提供を通じ、これまでもIGSに貢献してきました。",
+        "mention_ids": [
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040",
+          "M041"
+        ]
+      },
+      "020": {
+        "type": "supplement:footnote",
+        "text": "*2　複数GNSS対応高精度軌道時刻推定ツール(MADOCA:　Multi-GNSS　Advanced　Demonstration　tool　for　Orbit　and　Clock　Analysis)電子基準点やIGSの観測点等のGNSS観測点で取得した情報を基に、GNSSの正確な軌道情報(精密暦)や衛星時刻、GNSS観測点の座標値等を計算するためのソフトウェアです。",
+        "mention_ids": [
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          16,
+          20
+        ],
+        "text": "JAXA",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          5
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          7,
+          31
+        ],
+        "text": "国立研究開発法人宇宙航空研究開発機構(JAXA)",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          32,
+          36
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          47,
+          50
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          71,
+          84
+        ],
+        "text": "国際GNSS事業(IGS)",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          4
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          47,
+          50
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          41,
+          44
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          49,
+          52
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          3
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "006",
+        "span": [
+          6,
+          9
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "006",
+        "span": [
+          23,
+          25
+        ],
+        "text": "北米",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "006",
+        "span": [
+          26,
+          28
+        ],
+        "text": "欧州",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "006",
+        "span": [
+          29,
+          31
+        ],
+        "text": "中国",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "007",
+        "span": [
+          5,
+          8
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          1,
+          5
+        ],
+        "text": "JAXA",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "008",
+        "span": [
+          10,
+          13
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "009",
+        "span": [
+          4,
+          9
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          31,
+          35
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "010",
+        "span": [
+          3,
+          7
+        ],
+        "text": "JAXA",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "010",
+        "span": [
+          12,
+          16
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "010",
+        "span": [
+          29,
+          35
+        ],
+        "text": "MADOCA",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "011",
+        "span": [
+          11,
+          16
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "011",
+        "span": [
+          17,
+          23
+        ],
+        "text": "MADOCA",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "011",
+        "span": [
+          35,
+          39
+        ],
+        "text": "JAXA",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "011",
+        "span": [
+          50,
+          56
+        ],
+        "text": "MADOCA",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "012",
+        "span": [
+          5,
+          8
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "012",
+        "span": [
+          15,
+          18
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "012",
+        "span": [
+          23,
+          26
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "015",
+        "span": [
+          14,
+          17
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "017",
+        "span": [
+          3,
+          6
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "017",
+        "span": [
+          17,
+          21
+        ],
+        "text": "みちびき",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "017",
+        "span": [
+          25,
+          29
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "018",
+        "span": [
+          1,
+          9
+        ],
+        "text": "測地観測センター",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "019",
+        "span": [
+          3,
+          44
+        ],
+        "text": "国際GNSS事業(IGS:　International　GNSS　Service)",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "019",
+        "span": [
+          70,
+          74
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "019",
+        "span": [
+          86,
+          98
+        ],
+        "text": "国際測地学協会(IAG)",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "019",
+        "span": [
+          127,
+          132
+        ],
+        "text": "国土地理院",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "019",
+        "span": [
+          133,
+          137
+        ],
+        "text": "JAXA",
+        "entity_type": "ORG",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "019",
+        "span": [
+          155,
+          158
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "020",
+        "span": [
+          3,
+          100
+        ],
+        "text": "複数GNSS対応高精度軌道時刻推定ツール(MADOCA:　Multi-GNSS　Advanced　Demonstration　tool　for　Orbit　and　Clock　Analysis)",
+        "entity_type": "PRO",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "020",
+        "span": [
+          106,
+          109
+        ],
+        "text": "IGS",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "020",
+        "span": [
+          115,
+          119
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "020",
+        "span": [
+          133,
+          137
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "020",
+        "span": [
+          156,
+          160
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M017",
+          "M021",
+          "M026",
+          "M040"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q179103",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E8%88%AA%E7%A9%BA%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M019",
+          "M024",
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2986578",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E5%9C%B0%E7%90%86%E9%99%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.142064",
+          "140.043175"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M007",
+          "M020",
+          "M022",
+          "M034",
+          "M037",
+          "M044",
+          "M045",
+          "M046"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q179435",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A1%9B%E6%98%9F%E6%B8%AC%E4%BD%8D%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M018",
+          "M028",
+          "M030",
+          "M031",
+          "M036",
+          "M041",
+          "M043"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1666597",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9BGNSS%E4%BA%8B%E6%A5%AD"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M016",
+          "M029",
+          "M032"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q49",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB",
+          "openstreetmap": "https://www.openstreetmap.org/node/36966063"
+        },
+        "coordinate": [
+          "47.0",
+          "-105.0"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q46",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91"
+        },
+        "coordinate": [
+          "48.690959",
+          "9.14062"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q936190",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M023",
+          "M025",
+          "M027",
+          "M042"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.magellan.jp/fundamental/117"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q45977933",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%A1%E3%81%B3%E3%81%8D3%E5%8F%B7%E6%A9%9F"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.t-borderislands.metro.tokyo.lg.jp/interview/interview10.html"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1639820",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E6%B8%AC%E5%9C%B0%E5%AD%A6%E5%8D%94%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q33"
+        }
+      }
+    }
+  },
+  "036-3": {
+    "metainfo": {
+      "src_date": "20230727",
+      "src_url": "https://www.gsi.go.jp/common/000251126.pdf",
+      "src_parent_url": "https://www.gsi.go.jp/kohokocho/koho661-top_00001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "「測量の日」関連行事を実施　●「第29回くらしと測量・地図展」で関東大震災時における陸地測量部の調査図等を公開",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004"
+        ]
+      },
+      "002": {
+        "text": "「測量の日」東京地区実行委員会(事務局:関東地方測量部)(以下、実行委員会)は6月7日から9日までの3日間、新宿駅西口イベントコーナーにおいて「くらしと測量・地図展」(共催:東京都、後援:新宿区)を開催しました。",
+        "mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012",
+          "M013"
+        ]
+      },
+      "003": {
+        "text": "「くらしと測量・地図展」は、「測量の日」関連行事として開催し、今回は関東大震災から100年特設コーナーやミニ講演会を開催し、約7,500人の来場者がありました。",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "004": {
+        "text": "今年は、「楽しみながら地図を読み大地を測る~過去を知り未来を作る~」をテーマに実行委員会の各団体が展示等を行いました。",
+        "mention_ids": [
+          "M017"
+        ]
+      },
+      "005": {
+        "text": "関東大震災から100年の節目になることから特設コーナーを設けるとともに、4年ぶりとなるミニ講演会も実施しました。",
+        "mention_ids": [
+          "M018"
+        ]
+      },
+      "006": {
+        "text": "ミニ講演会では、関東大震災関連、地形・土地の成り立ち、地震・火山・洪水の災害関係、土地登記に関する講演を行いました。",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "007": {
+        "text": "3回の講演を連続して聴講する方、防災に関して身近な質問や自宅周辺の災害リスクを確認する方など、災害に関する意識の高さがうかがえました。",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "関東地方測量部からは、「測る、描く、守る、伝える」のパネル展示と東日本地方の余色立体図の床展示、関東大震災から100年として震災地応急測図原図、大正12年関東震災地垂直変動要図、自然災害伝承碑等のパネルを展示しました。",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "009": {
+        "text": "ミニ講演会では、坂部真一関東地方測量部長が「くらしの中の測量・地図~地面が動く~」と題して発表しました。",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "010": {
+        "text": "「くらしと測量・地図展」には、連日通われる熱心な方やミニ講演会を楽しみにしていた方、サラリーマン、家族連れの方、また、現地見学の高校生、ゼミの課題として来た大学生の方などが来場し、測量・地図に親しんでいただきました。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "011": {
+        "text": "来場者からは、「飛行機からの景色みたい」「地図って楽しいですね」「過去を知って記憶をつなげることは大切」「大正関東地震後の調査、測量は大変でしたね」などの声がよせられました。",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "012": {
+        "text": "関東地方測量部では、今後とも「測量の日」関連行事として、測量・地図等の重要性について理解が深まるように本取り組みを継続してまいります。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "013": {
+        "text": "(関東地方測量部)",
+        "mention_ids": [
+          "M033"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          1,
+          5
+        ],
+        "text": "測量の日",
+        "entity_type": "TIME",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          16,
+          30
+        ],
+        "text": "第29回くらしと測量・地図展",
+        "entity_type": "EVE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          32,
+          37
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "001",
+        "span": [
+          42,
+          47
+        ],
+        "text": "陸地測量部",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          1,
+          5
+        ],
+        "text": "測量の日",
+        "entity_type": "TIME",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          6,
+          15
+        ],
+        "text": "東京地区実行委員会",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "002",
+        "span": [
+          16,
+          19
+        ],
+        "text": "事務局",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "002",
+        "span": [
+          20,
+          27
+        ],
+        "text": "関東地方測量部",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "002",
+        "span": [
+          32,
+          37
+        ],
+        "text": "実行委員会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "002",
+        "span": [
+          54,
+          67
+        ],
+        "text": "新宿駅西口イベントコーナー",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "002",
+        "span": [
+          72,
+          82
+        ],
+        "text": "くらしと測量・地図展",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "002",
+        "span": [
+          87,
+          90
+        ],
+        "text": "東京都",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "002",
+        "span": [
+          94,
+          97
+        ],
+        "text": "新宿区",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "003",
+        "span": [
+          1,
+          11
+        ],
+        "text": "くらしと測量・地図展",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "003",
+        "span": [
+          15,
+          19
+        ],
+        "text": "測量の日",
+        "entity_type": "TIME",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "003",
+        "span": [
+          34,
+          39
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "004",
+        "span": [
+          39,
+          44
+        ],
+        "text": "実行委員会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          5
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "006",
+        "span": [
+          8,
+          13
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          7
+        ],
+        "text": "関東地方測量部",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "008",
+        "span": [
+          32,
+          37
+        ],
+        "text": "東日本地方",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "008",
+        "span": [
+          48,
+          53
+        ],
+        "text": "関東大震災",
+        "entity_type": "EVE",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "008",
+        "span": [
+          62,
+          65
+        ],
+        "text": "震災地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "008",
+        "span": [
+          72,
+          74
+        ],
+        "text": "大正",
+        "entity_type": "TIME",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "008",
+        "span": [
+          77,
+          82
+        ],
+        "text": "関東震災地",
+        "entity_type": "NOMINAL",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          12
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          12,
+          19
+        ],
+        "text": "関東地方測量部",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "009",
+        "span": [
+          22,
+          40
+        ],
+        "text": "くらしの中の測量・地図~地面が動く~",
+        "entity_type": "EVE",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "010",
+        "span": [
+          1,
+          11
+        ],
+        "text": "くらしと測量・地図展",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "011",
+        "span": [
+          53,
+          59
+        ],
+        "text": "大正関東地震",
+        "entity_type": "EVE",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          7
+        ],
+        "text": "関東地方測量部",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "012",
+        "span": [
+          15,
+          19
+        ],
+        "text": "測量の日",
+        "entity_type": "TIME",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "013",
+        "span": [
+          1,
+          8
+        ],
+        "text": "関東地方測量部",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M005",
+          "M015",
+          "M032"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11562993",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B8%AC%E9%87%8F%E3%81%AE%E6%97%A5",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M016",
+          "M018",
+          "M019",
+          "M022"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3742341",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E5%A4%A7%E9%9C%87%E7%81%BD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11658575",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%99%B8%E5%9C%B0%E6%B8%AC%E9%87%8F%E9%83%A8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M008",
+          "M020",
+          "M027",
+          "M031",
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.gsi.go.jp/kanto/"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.tmpc.or.jp/06_info/event.html"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M011",
+          "M014",
+          "M029"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.gsi.go.jp/common/000249735.pdf"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1490",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1543125",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.689444444",
+          "139.691666666"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q179645",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%BF%E5%8C%BA",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1758858",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.693888888",
+          "139.703416666"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "SHARE",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1063689",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q329174",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%AD%A3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M026"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q274498",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E5%9C%B0%E9%9C%87",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.33",
+          "139.135"
+        ]
+      }
+    }
+  },
+  "036-4": {
+    "metainfo": {
+      "src_date": "20230727",
+      "src_url": "https://www.gsi.go.jp/common/000251126.pdf",
+      "src_parent_url": "https://www.gsi.go.jp/kohokocho/koho661-top_00001.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "第239回地震予知連絡会の開催概要",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "5月31日関東地方測量部において第239回地震予知連絡会がオンライン併用で開催され、全国の地震活動、地殻変動等のモニタリング、地殻活動の予測についての報告のほか、重点検討課題として「群発地震」に関する報告・議論が行われました。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "003": {
+        "text": "地震予知連絡会では、地震予知研究にとって特に検討すべき課題を「重点検討課題」として選定し、報告とそれを基にした議論を行っています。",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "今回は「群発地震」を課題として、以下の1~5の5つの報告が行われました。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "また、総合討論では、現在発生している石川県能登半島地方の地震活動やそれ以外の群発地震等についての議論が行われました。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "1能登半島北東部で長期間継続する地震活動",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "007": {
+        "text": "能登半島北部珠洲市周辺で継続する地震活動は主に4つの領域で起こっていること、北部、東部の活動域では、地震が複数の面で発生し、深部側から浅部側に震源が移動していること、地震観測、測地観測、電磁気観測等で得られたデータの解析結果から、一連の地殻活動は流体が駆動している可能性が考えられることが報告されました。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "008": {
+        "type": "heading",
+        "text": "2奥能登での群発的地震活動発生域周辺の3次元比抵抗構造解析の現状",
+        "mention_ids": [
+          "M009"
+        ]
+      },
+      "009": {
+        "text": "一連の地震活動が開始した南側クラスタから、現在最も活動的な北側クラスタに沿って電気を通しやすい領域(良導域)が存在すること、地震の集中域は、良導域の縁辺部に位置し、深部より供給された流体が一連の地震活動の要因である可能性を示唆することが報告されました。",
+        "mention_ids": []
+      },
+      "010": {
+        "type": "heading",
+        "text": "32020年長野・岐阜県境付近の群発地震活動",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "011": {
+        "text": "深層学習モデルによる走時データを用いてイベントを検出し、高精度な震源決定を実施したこと、再決定震源の波形記録をテンプレートとして用いて、連続波形記録からイベントを再検出したこと、その結果、群発地震は主に東西走向もしくは北西-南東走向の高角傾斜の多数の断層面で発生していることが報告されました。",
+        "mention_ids": []
+      },
+      "012": {
+        "type": "heading",
+        "text": "4北海道北部の群発地震活動と稠密GNSS観測から推定された浅部ゆっくりすべり",
+        "mention_ids": [
+          "M011",
+          "M012"
+        ]
+      },
+      "013": {
+        "text": "道北地域の内陸で、2012年の群発地震の発生時期に非定常な地殻変動を検出したこと、ゆっくりすべり(SSE)を仮定すると、観測値を概ね説明できるが、沈み込み帯でのSSEとは異なるメカニズムが考えられること、また、2022年にも近くで群発地震が発生したが、顕著な非定常変動は見られなかったことが報告されました。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "014": {
+        "type": "heading",
+        "text": "5室内実験における流体圧入で誘発される微小破壊の研究",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "紫外線をあてると発光する樹脂を用いて水圧破砕を行い、それによって生じる微小破壊を測定する室内実験を行ったこと、機械学習を利用して、既存亀裂と流体の相互作用がどのような微小破壊活動を起こすのかを明らかにしたこと、水圧破砕実験では低周波イベントが多発しており、震源域の高い間隙圧が原因である可能性があることが報告されました。",
+        "mention_ids": []
+      },
+      "016": {
+        "type": "heading",
+        "text": "○次回の会議開催予定",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "第240回地震予知連絡会は、8月31日(木)に開催予定です。",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "018": {
+        "text": "また、次回の重点検討課題は、「関東地震100周年」です。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "019": {
+        "type": "heading",
+        "text": "○会議資料の公開",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "本会議の資料は、地震予知連絡会ホームページから公開されています。",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "021": {
+        "text": "(地理地殻活動研究センター)",
+        "mention_ids": [
+          "M018"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          12
+        ],
+        "text": "第239回地震予知連絡会",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          5,
+          12
+        ],
+        "text": "関東地方測量部",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          16,
+          28
+        ],
+        "text": "第239回地震予知連絡会",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "005",
+        "span": [
+          18,
+          21
+        ],
+        "text": "石川県",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "005",
+        "span": [
+          21,
+          27
+        ],
+        "text": "能登半島地方",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          1,
+          5
+        ],
+        "text": "能登半島",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "007",
+        "span": [
+          0,
+          4
+        ],
+        "text": "能登半島",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          6,
+          9
+        ],
+        "text": "珠洲市",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "008",
+        "span": [
+          1,
+          4
+        ],
+        "text": "奥能登",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "010",
+        "span": [
+          6,
+          12
+        ],
+        "text": "長野・岐阜県",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "feature": "Parallel_Modif",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "012",
+        "span": [
+          1,
+          4
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "012",
+        "span": [
+          16,
+          20
+        ],
+        "text": "GNSS",
+        "entity_type": "PRO",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          4
+        ],
+        "text": "道北地域",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          12
+        ],
+        "text": "第240回地震予知連絡会",
+        "entity_type": "EVE",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "018",
+        "span": [
+          15,
+          19
+        ],
+        "text": "関東地震",
+        "entity_type": "EVE",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "020",
+        "span": [
+          0,
+          3
+        ],
+        "text": "本会議",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "020",
+        "span": [
+          8,
+          21
+        ],
+        "text": "地震予知連絡会ホームページ",
+        "entity_type": "PRO",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "021",
+        "span": [
+          1,
+          13
+        ],
+        "text": "地理地殻活動研究センター",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://cais.gsi.go.jp/YOCHIREN/activity/239/239.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.gsi.go.jp/kanto/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q131281",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3794726",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.595",
+          "136.625"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M006",
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q691151",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.2",
+          "136.9"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q846345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%8F%A0%E6%B4%B2%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "37.436333333",
+          "137.260472222"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11446096",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E8%83%BD%E7%99%BB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q179435",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A1%9B%E6%98%9F%E6%B8%AC%E4%BD%8D%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8017899",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%81%93%E5%8C%97",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "44.47",
+          "142.16"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://cais.gsi.go.jp/YOCHIREN/activity/240/240.html"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q274498",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E5%9C%B0%E9%9C%87",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.33",
+          "139.135"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://cais.gsi.go.jp/YOCHIREN/activity.html"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://cais.gsi.go.jp/YOCHIREN/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.gsi.go.jp/cais/"
+        }
+      }
+    }
+  }
+}

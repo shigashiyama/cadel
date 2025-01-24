@@ -1,0 +1,1480 @@
+{
+  "002": {
+    "metainfo": {
+      "src_date": "20220113",
+      "src_url": "https://www.maff.go.jp/j/press/kanbo/anpo/230113.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "「食から日本を考える。NIPPON　FOOD　SHIFT　FES.山梨」を開催!",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "heading",
+        "text": "~~八ヶ岳から、ニッポンフードシフト。~~",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "003": {
+        "text": "農林水産省では、食と農のつながりの深化に着目した国民運動「食から日本を考える。ニッポンフードシフト」を実施しています。",
+        "mention_ids": [
+          "M004",
+          "M005"
+        ]
+      },
+      "004": {
+        "text": "この取組の一環として、令和5年1月22日(日曜日)、山梨県　八ヶ岳南麓の旧北杜市立高根北小学校において、消費者と生産者、食品事業者が出会い、交わることで、日本の「食」が抱える課題や目指す未来について、ともに考えるきっかけとするイベント「食から日本を考える。NIPPON　FOOD　SHIFT　FES.山梨」を開催します。",
+        "mention_ids": [
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "005": {
+        "type": "heading",
+        "text": "1.開催趣旨",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "「毎日食べたいものを、食べられる」、そんな日常を支えているのは食に携わる人々のたゆまぬ努力のおかげです。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "近年、食の外部化・簡便化が進み、食とその背景にある農業や農村との繋がりを意識する機会がかつてより減っているのではないでしょうか。",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "将来にわたり日本の、食を確かなものとするために、消費者と生産者や事業者とが出会い、交わることで、食への新たな気づきや発見を促し、意識や行動を変えていくためのきっかけづくりを目指すイベント「NIPPON　FOOD　SHIFT　FES.山梨」を開催します。",
+        "mention_ids": [
+          "M012",
+          "M013"
+        ]
+      },
+      "009": {
+        "type": "heading",
+        "text": "2.開催日時・場所",
+        "mention_ids": []
+      },
+      "010": {
+        "text": "開催日時:令和5年1月22日(日曜日)10時30分~16時30分(開場・受付開始10時)",
+        "mention_ids": [
+          "M014"
+        ]
+      },
+      "011": {
+        "text": "開催場所:旧北杜市立高根北小学校(山梨県北杜市高根町長澤2141)",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "012": {
+        "type": "heading",
+        "text": "3.主な開催内容",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "八ヶ岳南麓の山梨県北杜市は、大消費地から近い立地条件を持ち、日本一長い日照時間、清らかで豊富な水資源など、豊かな自然環境を有しています。この北杜市にある旧高根北小学校跡を会場に、地元生産者・食品事業者、生産現場を体験したZ世代の若者等が交わり、北杜市と農業の魅力などを語り合うイベントを「授業形式」で開催します。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026"
+        ]
+      },
+      "014": {
+        "text": "また、北杜市で農業を行っている俳優の工藤阿須加氏がイベントにゲスト参加します。",
+        "mention_ids": [
+          "M027",
+          "M028",
+          "M029"
+        ]
+      },
+      "015": {
+        "text": "【プログラム】",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "■オープニングセレモニー　　10時30分~10時55分(25分)",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "017": {
+        "text": "■トークセッション「北杜市と農業に魅せられて」　　10時55分~11時20分(25分)",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "018": {
+        "text": "北杜市で本格的に農業に取り組んでいる俳優の工藤阿須加氏が、北杜市での「半農半X」の生活や農業の魅力・こだわりなどを、工藤氏の農業研修先である地元農業者　ファーマン井上農場の■■■■氏とともに語ります。",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "019": {
+        "text": "■1限目「有機農業・新規就農・半農半X」　11時20分~12時10分(50分)",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "020": {
+        "text": "有機農業や移住新規就農の生産者(3名)、Z世代の若者(2名)をパネラーとして、北杜市と農業の魅力、体験を通じた学びや気づきについてディスカッションを行います。",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "021": {
+        "text": "■給食の時間「地域食材を活用した八ヶ岳地産地消カレー」　　12時10分~12時40分(30分)",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "022": {
+        "text": "日本の食に関する様々な課題を知り、考えるきっかけとして、「カレーの日」の1月22日に、北杜市の食材を活用した「八ヶ岳地産地消カレー」の試食(数量限定のため先着順)を行います。",
+        "mention_ids": [
+          "M041",
+          "M042",
+          "M043",
+          "M044"
+        ]
+      },
+      "023": {
+        "text": "■2限目「ジビエ・害獣駆除」~八ヶ岳ジビエの取組~　　12時40分~13時20分(40分)",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "024": {
+        "text": "単に捕獲するのではなく、頂いた命を無駄なく美味しい肉に仕上げることまで念頭に置いた八ケ岳ジビエの取組や山梨県の獣害対策に関する発表及びディスカッションをZ世代の若者を交えて行います。",
+        "mention_ids": [
+          "M046",
+          "M047"
+        ]
+      },
+      "025": {
+        "text": "※　3限目から5限目も同様にZ世代の若者を交えたディスカッションを行います。",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "■3限目「酒・地域連携」~山梨銘醸の取組~13時30分~14時10分(40分)",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "027": {
+        "text": "日本酒造りで重要な水を維持するために地域との関係性を重視する山梨銘醸の取組に関する発表及びディスカッションを行います。",
+        "mention_ids": [
+          "M049",
+          "M050"
+        ]
+      },
+      "028": {
+        "text": "■4限目「内水面漁業・農福連携」",
+        "mention_ids": [
+          "M051"
+        ]
+      },
+      "029": {
+        "text": "~富士ジネンテックファーム・シミックウエルの取組~14時20分~15時00分(40分)",
+        "mention_ids": [
+          "M052"
+        ]
+      },
+      "030": {
+        "text": "八ケ岳の湧水を利用し、地元の葡萄粕をエサとして活用したブランド鱒養殖や、障がい者支援としての農福連携に関する取組の発表及びディスカッションを行います。",
+        "mention_ids": [
+          "M053"
+        ]
+      },
+      "031": {
+        "text": "■5限目「ビール・肥料」~宇宙カンパニーの取組~15時10分~15時50分(40分)",
+        "mention_ids": [
+          "M054"
+        ]
+      },
+      "032": {
+        "text": "アメリカ西海岸のクラフトビール文化に影響を受けた宇宙カンパニーがホップの自家栽培まで手掛けたビール造り、更にはビールの搾りかすの肥料への活用などの地域連携の取組発表及びディスカッションを行います。",
+        "mention_ids": [
+          "M055",
+          "M056"
+        ]
+      },
+      "033": {
+        "text": "■クロージング　16時00分~16時30分(30分)",
+        "mention_ids": []
+      },
+      "034": {
+        "text": "※詳細は別添資料またはニッポンフードシフト公式WEBサイトをご覧下さい。",
+        "mention_ids": [
+          "M057"
+        ]
+      },
+      "035": {
+        "text": "URL:https://nippon-food-shift.maff.go.jp/fes/yamanashi20230122/",
+        "mention_ids": []
+      },
+      "036": {
+        "type": "heading",
+        "text": "4.留意事項",
+        "mention_ids": []
+      },
+      "037": {
+        "text": "※来場者多数の場合は入場制限をさせていただく場合があります。現地スタッフの指示に従っていただきますようお願いいたします。",
+        "mention_ids": []
+      },
+      "038": {
+        "text": "※本イベントは、新型コロナウイルス感染拡大防止対策や行政機関等からの要請、方針等により、内容が変更となることがあります。",
+        "mention_ids": [
+          "M058"
+        ]
+      },
+      "039": {
+        "type": "heading",
+        "text": "5.主な開催内容",
+        "mention_ids": []
+      },
+      "040": {
+        "text": "「食から日本を考える。NIPPON　FOOD　SHIFT　FES.山梨」の詳細及び取材については、株式会社地域力活性化研究室にお問い合わせ下さい。",
+        "mention_ids": [
+          "M059",
+          "M060"
+        ]
+      },
+      "041": {
+        "text": "株式会社地域力活性化研究室TEL:076-224-1019(担当:■■、■■)",
+        "mention_ids": [
+          "M061",
+          "M063",
+          "M064"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          1,
+          35
+        ],
+        "text": "食から日本を考える。NIPPON　FOOD　SHIFT　FES.山梨",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          2,
+          5
+        ],
+        "text": "八ヶ岳",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          8,
+          12
+        ],
+        "text": "ニッポン",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          29,
+          49
+        ],
+        "text": "食から日本を考える。ニッポンフードシフト",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "feature": "Unspecified_Time",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          11,
+          13
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          26,
+          29
+        ],
+        "text": "山梨県",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          30,
+          35
+        ],
+        "text": "八ヶ岳南麓",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          36,
+          47
+        ],
+        "text": "旧北杜市立高根北小学校",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          77,
+          79
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          118,
+          152
+        ],
+        "text": "食から日本を考える。NIPPON　FOOD　SHIFT　FES.山梨",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          6,
+          8
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          94,
+          118
+        ],
+        "text": "NIPPON　FOOD　SHIFT　FES.山梨",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "010",
+        "span": [
+          5,
+          7
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "011",
+        "span": [
+          5,
+          16
+        ],
+        "text": "旧北杜市立高根北小学校",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "011",
+        "span": [
+          17,
+          20
+        ],
+        "text": "山梨県",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "011",
+        "span": [
+          20,
+          23
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "011",
+        "span": [
+          23,
+          32
+        ],
+        "text": "高根町長澤2141",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          5
+        ],
+        "text": "八ヶ岳南麓",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "013",
+        "span": [
+          6,
+          9
+        ],
+        "text": "山梨県",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "013",
+        "span": [
+          9,
+          12
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "013",
+        "span": [
+          30,
+          32
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "013",
+        "span": [
+          70,
+          73
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "013",
+        "span": [
+          76,
+          84
+        ],
+        "text": "旧高根北小学校跡",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "013",
+        "span": [
+          122,
+          125
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "013",
+        "span": [
+          138,
+          142
+        ],
+        "text": "イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "014",
+        "span": [
+          3,
+          6
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "014",
+        "span": [
+          18,
+          23
+        ],
+        "text": "工藤阿須加",
+        "entity_type": "PER",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "014",
+        "span": [
+          25,
+          29
+        ],
+        "text": "イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "016",
+        "span": [
+          1,
+          12
+        ],
+        "text": "オープニングセレモニー",
+        "entity_type": "NOMINAL",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "017",
+        "span": [
+          10,
+          22
+        ],
+        "text": "北杜市と農業に魅せられて",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "018",
+        "span": [
+          0,
+          3
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "018",
+        "span": [
+          21,
+          26
+        ],
+        "text": "工藤阿須加",
+        "entity_type": "PER",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "018",
+        "span": [
+          29,
+          32
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "018",
+        "span": [
+          58,
+          60
+        ],
+        "text": "工藤",
+        "entity_type": "PER",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "018",
+        "span": [
+          76,
+          85
+        ],
+        "text": "ファーマン井上農場",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "018",
+        "span": [
+          86,
+          90
+        ],
+        "text": "■■■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E015",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "019",
+        "span": [
+          5,
+          19
+        ],
+        "text": "有機農業・新規就農・半農半X",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "020",
+        "span": [
+          39,
+          42
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "021",
+        "span": [
+          7,
+          26
+        ],
+        "text": "地域食材を活用した八ヶ岳地産地消カレー",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "022",
+        "span": [
+          29,
+          34
+        ],
+        "text": "カレーの日",
+        "entity_type": "TIME",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "022",
+        "span": [
+          43,
+          46
+        ],
+        "text": "北杜市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "022",
+        "span": [
+          55,
+          65
+        ],
+        "text": "八ヶ岳地産地消カレー",
+        "entity_type": "PRO",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "023",
+        "span": [
+          4,
+          25
+        ],
+        "text": "「ジビエ・害獣駆除」~八ヶ岳ジビエの取組~",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "024",
+        "span": [
+          41,
+          47
+        ],
+        "text": "八ケ岳ジビエ",
+        "entity_type": "PRO",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "024",
+        "span": [
+          51,
+          54
+        ],
+        "text": "山梨県",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "026",
+        "span": [
+          4,
+          21
+        ],
+        "text": "「酒・地域連携」~山梨銘醸の取組~",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "027",
+        "span": [
+          0,
+          2
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M050": {
+        "sentence_id": "027",
+        "span": [
+          30,
+          34
+        ],
+        "text": "山梨銘醸",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "028",
+        "span": [
+          5,
+          15
+        ],
+        "text": "内水面漁業・農福連携",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "029",
+        "span": [
+          1,
+          24
+        ],
+        "text": "富士ジネンテックファーム・シミックウエルの取組",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          3
+        ],
+        "text": "八ケ岳",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "031",
+        "span": [
+          4,
+          24
+        ],
+        "text": "「ビール・肥料」~宇宙カンパニーの取組~",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "032",
+        "span": [
+          0,
+          7
+        ],
+        "text": "アメリカ西海岸",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "032",
+        "span": [
+          24,
+          31
+        ],
+        "text": "宇宙カンパニー",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "034",
+        "span": [
+          11,
+          21
+        ],
+        "text": "ニッポンフードシフト",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "feature": "Unspecified_Time",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "038",
+        "span": [
+          1,
+          6
+        ],
+        "text": "本イベント",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "040",
+        "span": [
+          1,
+          35
+        ],
+        "text": "食から日本を考える。NIPPON　FOOD　SHIFT　FES.山梨",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "040",
+        "span": [
+          49,
+          62
+        ],
+        "text": "株式会社地域力活性化研究室",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "041",
+        "span": [
+          0,
+          13
+        ],
+        "text": "株式会社地域力活性化研究室",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "041",
+        "span": [
+          33,
+          35
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M064": {
+        "sentence_id": "041",
+        "span": [
+          36,
+          38
+        ],
+        "text": "■■",
+        "entity_type": "PER_MASKED",
+        "entity_id": "E025",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M011",
+          "M013",
+          "M026",
+          "M029",
+          "M058",
+          "M059"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://nippon-food-shift.maff.go.jp/fes/yamanashi20230122/"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M053"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q905588",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E3%83%B6%E5%B2%B3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.970833333",
+          "138.37"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M010",
+          "M012",
+          "M022",
+          "M041",
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M057"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://nippon-food-shift.maff.go.jp/"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006",
+          "M014"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M016",
+          "M020",
+          "M047"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132720",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A2%A8%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3578391",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.664138888",
+          "138.568416666"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008",
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q905588",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E3%83%B6%E5%B2%B3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.970833333",
+          "138.37"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009",
+          "M015",
+          "M024"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.hokuto.yamanashi.jp/fc/location/22440.html"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017",
+          "M021",
+          "M023",
+          "M025",
+          "M027",
+          "M032",
+          "M034",
+          "M039",
+          "M043"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q825272",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%9C%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.776472222",
+          "138.423638888"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q825272",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%9C%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.776472222",
+          "138.423638888"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M028",
+          "M033",
+          "M035"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11479641",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B7%A5%E8%97%A4%E9%98%BF%E9%A0%88%E5%8A%A0"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M030",
+          "M031",
+          "M038",
+          "M040",
+          "M045",
+          "M048",
+          "M051",
+          "M052",
+          "M054"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://nippon-food-shift.maff.go.jp/fes/yamanashi20230122/"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "other": "https://farman.jp/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/1%E6%9C%8822%E6%97%A5#%E8%A8%98%E5%BF%B5%E6%97%A5%E3%83%BB%E5%B9%B4%E4%B8%AD%E8%A1%8C%E4%BA%8B"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M044"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://8gibier.jp/"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q107412064",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%A2%A8%E9%8A%98%E9%86%B8"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M055"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q12606",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E8%A5%BF%E6%B5%B7%E5%B2%B8",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://uchubrewing.com/"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M060",
+          "M061"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q43237826",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9F%9F%E5%8A%9B%E6%B4%BB%E6%80%A7%E5%8C%96%E7%A0%94%E7%A9%B6%E5%AE%A4"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M063"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M064"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  }
+}

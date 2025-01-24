@@ -1,0 +1,1505 @@
+{
+  "059": {
+    "metainfo": {
+      "src_date": "20180300",
+      "src_url": "https://warp.da.ndl.go.jp/info:ndljp/pid/11678807/www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/mail_magazine/pdf/009.pdf",
+      "src_parent_url": "https://warp.da.ndl.go.jp/info:ndljp/pid/11678807/www.enecho.meti.go.jp/category/resources_and_fuel/geothermal/mail_magazine/"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "地熱発電メールマガジン~あの町この町いろんな地熱~　第09号平成30年03月発行",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "九州電力株式会社の取組のご紹介1　地熱発電に対するこれまでの取組",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "003": {
+        "type": "heading",
+        "text": "地熱事業への参入",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "第二次世界大戦後、復興期の深刻な電力不足解消に向け、多くの電源開発が進められる中、昭和23年、当時の商工省工業技術庁に、地熱開発審議会が設置され、地質調査所による地熱調査が日本各地で開始されました。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "005": {
+        "text": "昭和24年に九州電力(株)の前身である九州配電(株)は、九州各地で地熱地帯の予備調査を開始し、昭和25年からは、最も有望と目された大岳地区に絞って調査を進めました。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "006": {
+        "text": "昭和26年の電力再編成に伴い、九州電力(株)に再編された後も、地熱調査を電源開発の一環と捉え、地熱事業に本格的に取り組むことになりました。",
+        "mention_ids": [
+          "M017",
+          "M018"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "開発初期の苦労",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "昭和25~27年にかけて、大岳地区で調査を重ね、調査井4本の噴出に成功しました。",
+        "mention_ids": [
+          "M019",
+          "M020"
+        ]
+      },
+      "009": {
+        "text": "しかし、当時唯一の地熱発電だったイタリアのラルデレロ発電所では、過熱蒸気を発電に利用したものの、大岳では全ての調査井から、熱水混じりの蒸気しか噴出しませんでした。",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023"
+        ]
+      },
+      "010": {
+        "text": "さらに、昭和31年に電力中央研究所の依頼で来日したフランスのC.G.G社(ゼネラル・ド・ゼオフィジック社)の技師が、大岳地区を視察した結果、過熱蒸気の大規模な貯留層発見の可能性は少ないとコメントしたこともあり、大岳地区での地熱調査は一時中断しました。",
+        "mention_ids": [
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "大岳発電所が運転開始",
+        "mention_ids": [
+          "M031"
+        ]
+      },
+      "012": {
+        "text": "そのような中、昭和33年にニュージーランドから「熱水分離方式」による発電成功のニュースが伝えられ、大岳でも調査が再開されることとなりました。",
+        "mention_ids": [
+          "M032",
+          "M033",
+          "M034"
+        ]
+      },
+      "013": {
+        "text": "併せて、熱水分離型による10MWの地熱発電を目標に、三菱重工業(株)との共同研究を開始し、坑井特性の計測を始め、汽水分離器等の諸設備の設計など、地熱発電所の設計に取り組みました。",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "014": {
+        "text": "また、テストプラント的な位置づけながらも、旧火力発電所の発電機を改造して流用するなど、常に経済性を念頭に置いて設計が進められました。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "こうして昭和42年8月に、事業用及び熱水分離型として、日本で最初の地熱発電所である大岳発電所(大分県九重町)が運転を開始しました。",
+        "mention_ids": [
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040"
+        ]
+      },
+      "016": {
+        "type": "heading",
+        "text": "たゆまぬ技術開発と事業拡大",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "大岳発電所では、運転開始以降も、シリカスケールの付着や熱水の地下還元による貯留層への影響などの課題解決のため、多くの対策を講じてきました。",
+        "mention_ids": [
+          "M041"
+        ]
+      },
+      "018": {
+        "text": "これらの経験を通じて得られた知見・技術・ノウハウを活かし、昭和52年に八丁原1号機の運転を開始しました。",
+        "mention_ids": [
+          "M042",
+          "M043"
+        ]
+      },
+      "019": {
+        "text": "ここでは引き続き、三菱重工業(株)と共同で、熱水の熱エネルギーの有効活用を図る「ダブルフラッシュ方式」の開発や、蒸気井から汽水混合流体を分離せずに発電所まで長距離輸送する「二相流体輸送方式」の採用にも踏み切りました。",
+        "mention_ids": [
+          "M044",
+          "M045"
+        ]
+      },
+      "020": {
+        "text": "これらの技術は、その後、諸外国でも採用される画期的な技術でした。",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "昭和53年に、地熱発電は研究段階を抜け出し、実用化段階に入ったとして、従来、総合研究所が行っていた業務の全てを火力部に移管しました。",
+        "mention_ids": [
+          "M046",
+          "M047",
+          "M048"
+        ]
+      },
+      "022": {
+        "text": "同時に、グループ会社の西日本技術開発(株)にも地熱部が設置され、計画、調査、掘削から発電所建設、運営までの一貫開発体制が整いました。",
+        "mention_ids": [
+          "M049",
+          "M050"
+        ]
+      },
+      "023": {
+        "text": "この体制のもと、平成2年には八丁原2号機、平成7年には山川発電所、平成8年には大霧発電所・滝上発電所の運転を順次開始し、現在では全国の地熱発電所の設備容量の約4割を保有するに至りました。",
+        "mention_ids": [
+          "M051",
+          "M052",
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057",
+          "M058"
+        ]
+      },
+      "024": {
+        "text": "また、平成18年には、更なる地熱資源の発電利用を目的として「バイナリー方式」の発電設備を導入し、八丁原バイナリー発電所の運転を開始しました。",
+        "mention_ids": [
+          "M059",
+          "M060"
+        ]
+      },
+      "025": {
+        "text": "九州電力(株)は約70年の経験と実績をもとに、今後も地熱発電の普及・拡大に積極的に取り組んでいきます。",
+        "mention_ids": [
+          "M061"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          25
+        ],
+        "text": "地熱発電メールマガジン~あの町この町いろんな地熱~",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          30,
+          32
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          8
+        ],
+        "text": "九州電力株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          8
+        ],
+        "text": "第二次世界大戦後",
+        "entity_type": "TIME",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          41,
+          43
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          50,
+          53
+        ],
+        "text": "商工省",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          53,
+          58
+        ],
+        "text": "工業技術庁",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          60,
+          67
+        ],
+        "text": "地熱開発審議会",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          73,
+          78
+        ],
+        "text": "地質調査所",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          86,
+          88
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          2
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          13
+        ],
+        "text": "九州電力(株)",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "005",
+        "span": [
+          19,
+          26
+        ],
+        "text": "九州配電(株)",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          28,
+          30
+        ],
+        "text": "九州",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          47,
+          49
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          65,
+          69
+        ],
+        "text": "大岳地区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          2
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "006",
+        "span": [
+          15,
+          22
+        ],
+        "text": "九州電力(株)",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          2
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          13,
+          17
+        ],
+        "text": "大岳地区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          16,
+          20
+        ],
+        "text": "イタリア",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          21,
+          29
+        ],
+        "text": "ラルデレロ発電所",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          48,
+          50
+        ],
+        "text": "大岳",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "010",
+        "span": [
+          4,
+          6
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "010",
+        "span": [
+          10,
+          17
+        ],
+        "text": "電力中央研究所",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "010",
+        "span": [
+          22,
+          23
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "010",
+        "span": [
+          25,
+          29
+        ],
+        "text": "フランス",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "010",
+        "span": [
+          30,
+          53
+        ],
+        "text": "C.G.G社(ゼネラル・ド・ゼオフィジック社)",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "010",
+        "span": [
+          58,
+          62
+        ],
+        "text": "大岳地区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "010",
+        "span": [
+          105,
+          109
+        ],
+        "text": "大岳地区",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          5
+        ],
+        "text": "大岳発電所",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "012",
+        "span": [
+          7,
+          9
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "012",
+        "span": [
+          13,
+          21
+        ],
+        "text": "ニュージーランド",
+        "entity_type": "LOC",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "012",
+        "span": [
+          49,
+          51
+        ],
+        "text": "大岳",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "013",
+        "span": [
+          26,
+          34
+        ],
+        "text": "三菱重工業(株)",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "015",
+        "span": [
+          4,
+          6
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "015",
+        "span": [
+          27,
+          29
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "015",
+        "span": [
+          41,
+          46
+        ],
+        "text": "大岳発電所",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "015",
+        "span": [
+          47,
+          50
+        ],
+        "text": "大分県",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "015",
+        "span": [
+          50,
+          53
+        ],
+        "text": "九重町",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          5
+        ],
+        "text": "大岳発電所",
+        "entity_type": "FAC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "018",
+        "span": [
+          29,
+          31
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "018",
+        "span": [
+          35,
+          41
+        ],
+        "text": "八丁原1号機",
+        "entity_type": "FAC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          2
+        ],
+        "text": "ここ",
+        "entity_type": "NOMINAL",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "019",
+        "span": [
+          9,
+          17
+        ],
+        "text": "三菱重工業(株)",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "021",
+        "span": [
+          0,
+          2
+        ],
+        "text": "昭和",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "021",
+        "span": [
+          38,
+          43
+        ],
+        "text": "総合研究所",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "021",
+        "span": [
+          55,
+          58
+        ],
+        "text": "火力部",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "022",
+        "span": [
+          11,
+          21
+        ],
+        "text": "西日本技術開発(株)",
+        "entity_type": "ORG",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "022",
+        "span": [
+          23,
+          26
+        ],
+        "text": "地熱部",
+        "entity_type": "ORG",
+        "entity_id": "E025",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "023",
+        "span": [
+          8,
+          10
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "023",
+        "span": [
+          14,
+          20
+        ],
+        "text": "八丁原2号機",
+        "entity_type": "FAC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "023",
+        "span": [
+          21,
+          23
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "023",
+        "span": [
+          27,
+          32
+        ],
+        "text": "山川発電所",
+        "entity_type": "FAC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "023",
+        "span": [
+          33,
+          35
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "023",
+        "span": [
+          39,
+          44
+        ],
+        "text": "大霧発電所",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "023",
+        "span": [
+          45,
+          50
+        ],
+        "text": "滝上発電所",
+        "entity_type": "FAC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "023",
+        "span": [
+          64,
+          66
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M059": {
+        "sentence_id": "024",
+        "span": [
+          3,
+          5
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "024",
+        "span": [
+          48,
+          59
+        ],
+        "text": "八丁原バイナリー発電所",
+        "entity_type": "FAC",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "025",
+        "span": [
+          0,
+          7
+        ],
+        "text": "九州電力(株)",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M051",
+          "M053",
+          "M055",
+          "M059"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M012",
+          "M018",
+          "M061"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q694507",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1201472",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%BE%8C"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M011",
+          "M015",
+          "M017",
+          "M019",
+          "M024",
+          "M032",
+          "M036",
+          "M042",
+          "M046"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q327567",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3315486",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%95%86%E5%B7%A5%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M008",
+          "M009"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3315486",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%95%86%E5%B7%A5%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q188712"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M010",
+          "M026",
+          "M037",
+          "M058"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48743731",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E9%85%8D%E9%9B%BB",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q13987",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6667566",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.0",
+          "131.0"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M016",
+          "M020",
+          "M023",
+          "M029",
+          "M030",
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q106570377",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A3%AF%E7%94%B0%E6%9D%91_(%E5%A4%A7%E5%88%86%E7%9C%8C)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.158055555",
+          "131.220777777"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q38",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2",
+          "openstreetmap": "https://www.openstreetmap.org/relation/365331",
+          "wikidata_country": "http://www.wikidata.org/entity/Q38"
+        },
+        "coordinate": [
+          "42.5",
+          "12.5"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q100705202",
+          "wikidata_country": "http://www.wikidata.org/entity/Q38"
+        },
+        "coordinate": [
+          "43.231888",
+          "10.884598"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2944428",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E5%8A%9B%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.686278",
+          "139.764194"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q142",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2202162",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        },
+        "coordinate": [
+          "47.0",
+          "2.0"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q2931412",
+          "wikidata_country": "http://www.wikidata.org/entity/Q142"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M031",
+          "M038",
+          "M041"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11434785",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B2%B3%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.121734",
+          "131.190217"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q664",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+          "openstreetmap": "https://www.openstreetmap.org/relation/556706",
+          "wikidata_country": "http://www.wikidata.org/entity/Q664"
+        },
+        "coordinate": [
+          "-41.2",
+          "174.0"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M035",
+          "M045"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q648280",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%87%8D%E5%B7%A5%E6%A5%AD",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q133924",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%88%86%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/356911",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.238055555",
+          "131.6125"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M040"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1184672",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%87%8D%E7%94%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.228444444",
+          "131.188777777"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M043",
+          "M044",
+          "M052",
+          "M060"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11390439",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%85%AB%E4%B8%81%E5%8E%9F%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.10633053",
+          "131.18773448"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M047",
+          "M048"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q694507",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E9%9B%BB%E5%8A%9B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11628378",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M050"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11628378",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11468308",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B7%9D%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "31.190833",
+          "130.614222"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M056"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11441820",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9C%A7%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "31.930861",
+          "130.794944"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11565060",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%BB%9D%E4%B8%8A%E7%99%BA%E9%9B%BB%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.211534",
+          "131.273071"
+        ]
+      }
+    }
+  }
+}

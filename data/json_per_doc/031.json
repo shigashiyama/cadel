@@ -1,0 +1,2358 @@
+{
+  "031-1": {
+    "metainfo": {
+      "src_date": "20210528",
+      "src_url": "https://www.maff.go.jp/j/syokuiku/wpaper/attach/pdf/r2_index-5.pdf",
+      "src_parent_url": "https://www.maff.go.jp/j/syokuiku/wpaper/r2_index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和2年度食育白書　第2部　食育推進施策の具体的取組",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "第5章　生産者と消費者との交流の促進、環境と調和のとれた農林漁業の活性化等",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "heading",
+        "text": "(農林漁業体験等の推進)",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "○　農林水産省では、教育ファーム等農林漁業体験活動への支援等を実施。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "005": {
+        "text": "○　農山漁村地域に宿泊し、滞在中に地域資源を活用した食事や体験を楽しむ農山漁村滞在型旅行である「農泊」を推進。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "○　2020年度は「農泊施設における新型コロナウイルス対応ガイドライン」等の周知・徹底を実施。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "○　子供の農山漁村での宿泊による農林漁業体験等を行う「子ども農山漁村交流プロジェクト」を通じ、食育等に資する都市農村交流の取組を推進。",
+        "mention_ids": []
+      },
+      "008": {
+        "type": "supplement:legend",
+        "text": "農山漁村地域にて、宿泊・食事・体験を通した交流を図るのが「農泊」",
+        "mention_ids": []
+      },
+      "009": {
+        "type": "heading",
+        "text": "(地産地消の推進)",
+        "mention_ids": []
+      },
+      "010": {
+        "text": "○　農林水産省では、地産地消や国産農林水産物の消費拡大に資する取組の表彰、学校給食等におけるメニュー開発・導入実証等への支援や、学校給食等への地場産農産物の利用拡大を促進するため、専門的知見をもつ地産地消コーディネーターの派遣等への支援を実施。",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "事例　第2のふるさとで食の大切さを学ぶ~南島原市農林漁業体験民泊~　南島原ひまわり村(長崎県)",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "012": {
+        "text": "○　南島原ひまわり村では、約160軒の農家が所属し、国内外の修学旅行生等の受入れを実施。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "013": {
+        "text": "○　参加者は、各受入れ家庭で農林漁業を体験し、自分で収穫した野菜や地元で採れた食材を受入れ家庭の人々と一緒に調理し、食卓を囲む。",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "○　新型コロナウイルス感染症対策ガイドラインを策定するなど、「ウィズコロナ時代」に対応した受入れ体制を整備。",
+        "mention_ids": []
+      },
+      "015": {
+        "type": "supplement:legend",
+        "text": "受入れ家庭と食卓を囲んで「だんらん」",
+        "mention_ids": []
+      },
+      "016": {
+        "type": "heading",
+        "text": "事例　庄内浜の地魚のおいしさや食文化を伝える「庄内浜文化伝道師」　庄内浜文化伝道師協会(山形県)",
+        "mention_ids": [
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "017": {
+        "text": "○　山形県では、特に水産業の盛んな庄内浜(山形県庄内地域の沿岸域)において、水揚げされる地魚の「おいしさ」や食文化を伝える人を「庄内浜文化伝道師」として認定し、地魚の消費拡大につなげていく取組を実施。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017"
+        ]
+      },
+      "018": {
+        "text": "○　伝道師は、県などが実施する料理教室等で、地魚のさばき方や調理方法についての講師を務めるなど、庄内浜産の地魚の食べ方や風習などの文化等について一般の方への情報発信、普及啓発活動を行う。",
+        "mention_ids": [
+          "M018",
+          "M019"
+        ]
+      },
+      "019": {
+        "type": "supplement:legend",
+        "text": "中学校での伝道師食育教室",
+        "mention_ids": []
+      },
+      "020": {
+        "type": "heading",
+        "text": "(食品ロスの削減)",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "○　我が国の食料自給率は38%(カロリーベース)である一方、食品ロスが600万トン発生(食料自給率は2019年度、食品ロスは2018年度の値)。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "022": {
+        "text": "○　「持続可能な開発のための2030アジェンダ」では、持続可能な開発目標(SDGs)において、小売・消費レベルにおける世界全体の1人当たりの食料廃棄の半減をターゲットとして設定。",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "023": {
+        "text": "○　国民運動として食品ロスの削減を推進するため、「食品ロスの削減の推進に関する法律」(以下「食品ロス削減推進法」という。)が、2019年5月に成立、同年10月1日に施行。",
+        "mention_ids": [
+          "M022",
+          "M023"
+        ]
+      },
+      "024": {
+        "text": "○　生産・流通・消費等の過程で発生する未利用食品について、食品企業や生産現場等からの寄附を受けて、必要としている人や施設等に提供するフードバンク活動が広がりつつあり、2021年3月時点で国内で136団体が活動。",
+        "mention_ids": [
+          "M024"
+        ]
+      },
+      "025": {
+        "text": "○　新型コロナウイルス感染症に関する緊急対応策として、食品をフードバンクに寄附する食品関連事業者等に対して、輸配送費の支援や、フードバンクにおける食品の受入れ体制の確保のための保管倉庫の賃借料等を支援。",
+        "mention_ids": []
+      },
+      "026": {
+        "text": "○　「食品ロス削減月間(10月)」に、消費者庁、農林水産省、環境省が共同で普及啓発ポスターを作成し、地方公共団体等に配布するとともに、集中的な情報発信を実施。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "027": {
+        "text": "○　環境省では、食品ロスに関する情報を集約したポータルサイトを作成。",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "028": {
+        "text": "それぞれの主体が食品ロスに関して正確で分かりやすい情報を得ることができる環境を整備。",
+        "mention_ids": []
+      },
+      "029": {
+        "text": "また、「7日でチャレンジ!食品ロスダイアリー」等を利用し、食品ロスに関する啓発活動を実施。",
+        "mention_ids": [
+          "M030"
+        ]
+      },
+      "030": {
+        "text": "○　農林水産省では、10月の食品ロス削減月間の中で、食品小売事業者や外食事業者が店舗等で消費者に食品ロス削減の啓発を行うための各種ポスター資材を提供。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "031": {
+        "text": "これらポスターを活用して消費者への啓発に取り組む食品小売事業者及び外食事業者79事業者名を公表。",
+        "mention_ids": []
+      },
+      "032": {
+        "text": "○　消費者庁では、「食品ロス削減推進法」及び「食品ロス削減基本方針」に基づき、食品ロス削減の取組を広く国民運動として展開していくことを目的として、消費者等に対し広く普及し、波及効果が期待できる優れた取組を実施した者を表彰する「食品ロス削減推進大賞」を創設。",
+        "mention_ids": [
+          "M033",
+          "M034",
+          "M035"
+        ]
+      },
+      "033": {
+        "text": "○　新型コロナウイルス感染症の感染拡大を受け、消費者庁食品ロス削減特設サイト「めざせ!食品ロス・ゼロ」内に、「「新しい生活様式」での食品ロス削減の工夫」ページを設け、テイクアウトやインターネット販売等を活用することにより、「密」を避けつつ食品ロスを削減するための取組の実践を呼び掛け。",
+        "mention_ids": [
+          "M036",
+          "M037"
+        ]
+      },
+      "034": {
+        "text": "○　消費者庁、農林水産省、環境省では、全国おいしい食べきり運動ネットワーク協議会と共同で、「「おいしい食べきり」全国共同キャンペーン」を2020年12月から2021年1月にかけて実施。",
+        "mention_ids": [
+          "M038",
+          "M039",
+          "M040",
+          "M041",
+          "M042"
+        ]
+      },
+      "035": {
+        "type": "heading",
+        "text": "コラム　食品ロスの削減に関する取組",
+        "mention_ids": []
+      },
+      "036": {
+        "text": "○　消費者庁では、賞味期限の正しい理解を促進する観点から、「「賞味期限」の愛称・通称コンテスト」を実施。",
+        "mention_ids": [
+          "M043",
+          "M044"
+        ]
+      },
+      "037": {
+        "text": "計704件の応募の中から、審査の結果「おいしいめやす」が内閣府特命担当大臣(消費者及び食品安全)賞を受賞。",
+        "mention_ids": [
+          "M045"
+        ]
+      },
+      "038": {
+        "text": "○　あわせて、「私の食品ロス削減スローガン&amp;フォトコンテスト」も実施し、179件の応募の中から、「でこぼこやさいに魔法をかけて」が内閣府特命担当大臣(消費者及び食品安全)賞を受賞。",
+        "mention_ids": [
+          "M046",
+          "M047"
+        ]
+      },
+      "039": {
+        "text": "○　環境省では、消費者庁、農林水産省、ドギーバッグ普及委員会と共催して、飲食店等における食べ残し持ち帰り行為の名称等を公募する「Newドギーバッグアイデアコンテスト」を実施。",
+        "mention_ids": [
+          "M048",
+          "M049",
+          "M050",
+          "M051",
+          "M052"
+        ]
+      },
+      "040": {
+        "text": "○　ドギーバッグによる持ち帰りに代わる新たなネーミングとして「mottECO(モッテコ)」を大賞として選定。",
+        "mention_ids": [
+          "M053",
+          "M054"
+        ]
+      },
+      "041": {
+        "type": "supplement:legend",
+        "text": "「賞味期限」の愛称・通称コンテスト内閣府特命担当大臣(消費者及び食品安全)賞",
+        "mention_ids": [
+          "M055",
+          "M056"
+        ]
+      },
+      "042": {
+        "type": "supplement:legend",
+        "text": "私の食品ロス削減スローガン&フォトコンテスト内閣府特命担当大臣(消費者及び食品安全)賞",
+        "mention_ids": [
+          "M057",
+          "M058"
+        ]
+      },
+      "043": {
+        "type": "supplement:legend",
+        "text": "コンテストでネーミングの大賞を受賞した「mottECO」のロゴマーク",
+        "mention_ids": [
+          "M059",
+          "M060",
+          "M061"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          9
+        ],
+        "text": "令和2年度食育白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "004",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "010",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "011",
+        "span": [
+          20,
+          24
+        ],
+        "text": "南島原市",
+        "entity_type": "LOC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "011",
+        "span": [
+          34,
+          42
+        ],
+        "text": "南島原ひまわり村",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "011",
+        "span": [
+          43,
+          46
+        ],
+        "text": "長崎県",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "012",
+        "span": [
+          2,
+          10
+        ],
+        "text": "南島原ひまわり村",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "012",
+        "span": [
+          26,
+          27
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "016",
+        "span": [
+          3,
+          6
+        ],
+        "text": "庄内浜",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "016",
+        "span": [
+          23,
+          26
+        ],
+        "text": "庄内浜",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "016",
+        "span": [
+          33,
+          43
+        ],
+        "text": "庄内浜文化伝道師協会",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "016",
+        "span": [
+          44,
+          47
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "017",
+        "span": [
+          2,
+          5
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "017",
+        "span": [
+          17,
+          20
+        ],
+        "text": "庄内浜",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "017",
+        "span": [
+          21,
+          24
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "017",
+        "span": [
+          24,
+          28
+        ],
+        "text": "庄内地域",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "017",
+        "span": [
+          64,
+          67
+        ],
+        "text": "庄内浜",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "018",
+        "span": [
+          7,
+          8
+        ],
+        "text": "県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E009",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "018",
+        "span": [
+          48,
+          51
+        ],
+        "text": "庄内浜",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "021",
+        "span": [
+          2,
+          5
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "022",
+        "span": [
+          27,
+          42
+        ],
+        "text": "持続可能な開発目標(SDGs)",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "023",
+        "span": [
+          25,
+          41
+        ],
+        "text": "食品ロスの削減の推進に関する法律",
+        "entity_type": "PRO",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "023",
+        "span": [
+          46,
+          55
+        ],
+        "text": "食品ロス削減推進法",
+        "entity_type": "PRO",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "024",
+        "span": [
+          93,
+          94
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "026",
+        "span": [
+          3,
+          11
+        ],
+        "text": "食品ロス削減月間",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "026",
+        "span": [
+          19,
+          23
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "026",
+        "span": [
+          24,
+          29
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "026",
+        "span": [
+          30,
+          33
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "027",
+        "span": [
+          2,
+          5
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "029",
+        "span": [
+          4,
+          22
+        ],
+        "text": "7日でチャレンジ!食品ロスダイアリー",
+        "entity_type": "PRO",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "030",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "030",
+        "span": [
+          14,
+          22
+        ],
+        "text": "食品ロス削減月間",
+        "entity_type": "EVE",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "032",
+        "span": [
+          2,
+          6
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "032",
+        "span": [
+          10,
+          19
+        ],
+        "text": "食品ロス削減推進法",
+        "entity_type": "PRO",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "032",
+        "span": [
+          113,
+          123
+        ],
+        "text": "食品ロス削減推進大賞",
+        "entity_type": "PRO",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "033",
+        "span": [
+          23,
+          27
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "033",
+        "span": [
+          39,
+          50
+        ],
+        "text": "めざせ!食品ロス・ゼロ",
+        "entity_type": "PRO",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "034",
+        "span": [
+          2,
+          6
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "034",
+        "span": [
+          7,
+          12
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "034",
+        "span": [
+          13,
+          16
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "034",
+        "span": [
+          19,
+          40
+        ],
+        "text": "全国おいしい食べきり運動ネットワーク協議会",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "034",
+        "span": [
+          46,
+          66
+        ],
+        "text": "「おいしい食べきり」全国共同キャンペーン",
+        "entity_type": "EVE",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "036",
+        "span": [
+          2,
+          6
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "036",
+        "span": [
+          30,
+          47
+        ],
+        "text": "「賞味期限」の愛称・通称コンテスト",
+        "entity_type": "EVE",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "037",
+        "span": [
+          28,
+          49
+        ],
+        "text": "内閣府特命担当大臣(消費者及び食品安全)賞",
+        "entity_type": "PRO",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "038",
+        "span": [
+          8,
+          34
+        ],
+        "text": "私の食品ロス削減スローガン&amp;フォトコンテスト",
+        "entity_type": "EVE",
+        "entity_id": "E023",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "038",
+        "span": [
+          69,
+          90
+        ],
+        "text": "内閣府特命担当大臣(消費者及び食品安全)賞",
+        "entity_type": "PRO",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M048": {
+        "sentence_id": "039",
+        "span": [
+          2,
+          5
+        ],
+        "text": "環境省",
+        "entity_type": "ORG",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "039",
+        "span": [
+          8,
+          12
+        ],
+        "text": "消費者庁",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M050": {
+        "sentence_id": "039",
+        "span": [
+          13,
+          18
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "039",
+        "span": [
+          19,
+          30
+        ],
+        "text": "ドギーバッグ普及委員会",
+        "entity_type": "ORG",
+        "entity_id": "E024",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "039",
+        "span": [
+          64,
+          82
+        ],
+        "text": "Newドギーバッグアイデアコンテスト",
+        "entity_type": "EVE",
+        "entity_id": "E025",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "040",
+        "span": [
+          31,
+          44
+        ],
+        "text": "mottECO(モッテコ)",
+        "entity_type": "PRO",
+        "entity_id": "E026",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "040",
+        "span": [
+          46,
+          48
+        ],
+        "text": "大賞",
+        "entity_type": "NOMINAL",
+        "entity_id": "E027",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "041",
+        "span": [
+          0,
+          17
+        ],
+        "text": "「賞味期限」の愛称・通称コンテスト",
+        "entity_type": "EVE",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "041",
+        "span": [
+          17,
+          38
+        ],
+        "text": "内閣府特命担当大臣(消費者及び食品安全)賞",
+        "entity_type": "PRO",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "042",
+        "span": [
+          0,
+          22
+        ],
+        "text": "私の食品ロス削減スローガン&フォトコンテスト",
+        "entity_type": "EVE",
+        "entity_id": "E023",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M058": {
+        "sentence_id": "042",
+        "span": [
+          22,
+          43
+        ],
+        "text": "内閣府特命担当大臣(消費者及び食品安全)賞",
+        "entity_type": "PRO",
+        "entity_id": "E022",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M059": {
+        "sentence_id": "043",
+        "span": [
+          0,
+          5
+        ],
+        "text": "コンテスト",
+        "entity_type": "NOMINAL",
+        "entity_id": "E025",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "043",
+        "span": [
+          12,
+          14
+        ],
+        "text": "大賞",
+        "entity_type": "NOMINAL",
+        "entity_id": "E028",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "043",
+        "span": [
+          20,
+          27
+        ],
+        "text": "mottECO",
+        "entity_type": "PRO",
+        "entity_id": "E026",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M003",
+          "M027",
+          "M031",
+          "M039",
+          "M050"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q990376",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E5%B3%B6%E5%8E%9F%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.659805555",
+          "130.297777777"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M007"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://hkankou.exblog.jp/17415337/"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q169376",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1842151",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.75",
+          "129.8675"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M020",
+          "M024"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009",
+          "M010",
+          "M014",
+          "M017",
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q104858394",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.8453",
+          "139.784139"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://shonai-hama.net/info/"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M012",
+          "M013",
+          "M015",
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q125863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3790869",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.240444444",
+          "140.363555555"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11485804",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%86%85%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7649586",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E9%96%8B%E7%99%BA%E7%9B%AE%E6%A8%99"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M022",
+          "M023",
+          "M034"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q99472273",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A3%9F%E5%93%81%E3%83%AD%E3%82%B9%E3%81%AE%E5%89%8A%E6%B8%9B%E3%81%AE%E6%8E%A8%E9%80%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M025",
+          "M032"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.no-foodloss.caa.go.jp/nofoodloss-month.html"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M026",
+          "M033",
+          "M036",
+          "M038",
+          "M043",
+          "M049"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5164637",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B6%88%E8%B2%BB%E8%80%85%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M028",
+          "M029",
+          "M040",
+          "M048"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1125558",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.env.go.jp/content/000062442.pdf"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/efforts/food_loss_award/2021/"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.no-foodloss.caa.go.jp/"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M041"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.caa.go.jp/policies/policy/consumer_research/white_paper/2017/white_paper_column_09.html"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.env.go.jp/press/press_00881.html"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M044",
+          "M055"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/efforts/contest/assets/nofoodloss-kigen-con.pdf"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M045",
+          "M047",
+          "M056",
+          "M058"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M046",
+          "M057"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.caa.go.jp/policies/policy/consumer_policy/food_loss/efforts/contest/assets/nofoodloss-photo-con.pdf"
+        }
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.doggybag-japan.com/"
+        }
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M052",
+          "M059"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.env.go.jp/recycle/foodloss/contest.html"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M053",
+          "M061"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.env.go.jp/recycle/food/motteco.html"
+        }
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M054"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M060"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    }
+  },
+  "031-2": {
+    "metainfo": {
+      "src_date": "20210528",
+      "src_url": "https://www.maff.go.jp/j/syokuiku/wpaper/attach/pdf/r2_index-5.pdf",
+      "src_parent_url": "https://www.maff.go.jp/j/syokuiku/wpaper/r2_index.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "第6章　食文化の継承のための活動",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "(ボランティア活動等における取組)",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "○　食生活改善推進員は、郷土料理や食文化の継承を目的とした「おやこの食育教室」等を実施。",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "004": {
+        "text": "○　2020年度は家庭訪問活動に切り替え、家族で食事をする時間が増えた今を家庭における伝承料理の継承のチャンスと捉え、レシピの配布等を通して普及啓発。",
+        "mention_ids": []
+      },
+      "005": {
+        "type": "heading",
+        "text": "(専門調理師等の活用における取組)",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "○　一般社団法人全日本司厨士協会や公益社団法人日本調理師会では、様々なイベントやコンテスト等を通して子供や親子に対する食育の取組を実施。",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "(「和食」の保護と次世代への継承のための産学官一体となった取組)",
+        "mention_ids": []
+      },
+      "008": {
+        "text": "○　農林水産省では、「和食の日(11月24日)」を含む11月を「和ごはん月間」として、Let’s!和ごはんプロジェクトメンバー企業等と連携した和食の魅力や価値を学ぶ研修会を開催。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "009": {
+        "text": "内容をYouTubeで配信。",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "010": {
+        "text": "○　一般社団法人和食文化国民会議では、「和食の日」前後に、全国の小・中学校、保育所等を対象として和食給食の提供や和食文化に関する授業を実施する「だしで味わう和食の日」の取組を実施。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "011": {
+        "text": "○　農林水産省では、主に小学生を対象として、和食や郷土料理について写真や動画で競う「第5回全国子ども和食王選手権」をオンラインで開催。",
+        "mention_ids": [
+          "M011",
+          "M012"
+        ]
+      },
+      "012": {
+        "type": "supplement:legend",
+        "text": "「第5回全国子ども和食王選手権」　和食王受賞小学校の写真",
+        "mention_ids": [
+          "M013",
+          "M014"
+        ]
+      },
+      "013": {
+        "type": "heading",
+        "text": "コラム　和食文化の保護と継承のための取組",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "○　農林水産省では、各地域が選定する郷土料理の歴史や由来、関連行事、使用食材、レシピ等について調査。",
+        "mention_ids": [
+          "M015"
+        ]
+      },
+      "015": {
+        "text": "2020年度は17県の結果について農林水産省ウェブサイト「うちの郷土料理」で情報発信。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "016": {
+        "text": "○　2019年度から地域での和食文化を伝える中核的な人材「和食文化継承リーダー」を育成するための研修を各都道府県で実施。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "2019年度は、10都道府県で約200名の和食文化継承リーダーを育成。",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "018": {
+        "text": "2020年度も8府県で研修を実施している。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "019": {
+        "type": "heading",
+        "text": "コラム　国民の食生活における和食文化の実態調査について",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "○　農林水産省では、国民の和食文化に対する意識等を把握し、今後の和食文化の保護・継承の取組に資するためのアンケート調査を実施。",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "021": {
+        "text": "○　「和食」および「和食文化」に対するイメージとして、「健康に良い」「季節を感じられる」「旬のものがおいしく食べられる」というポジティブなイメージがある一方で、「調理が難しい」「準備や片付けに時間がかかる」等ネガティブなイメージもあることが明らかに。",
+        "mention_ids": []
+      },
+      "022": {
+        "type": "heading",
+        "text": "(地域の食文化の魅力を再発見する取組)",
+        "mention_ids": []
+      },
+      "023": {
+        "text": "○　地方公共団体、農林漁業者、食品関連事業者等が連携し、郷土料理や伝統野菜を始めとする伝統的食材等の魅力の再発見につながる取組を、継続して実施できるよう支援。",
+        "mention_ids": []
+      },
+      "024": {
+        "type": "heading",
+        "text": "事例　次世代を担う高校生が食に関する知識などを競い合う「全国高校生食育王選手権大会」",
+        "mention_ids": [
+          "M022"
+        ]
+      },
+      "025": {
+        "text": "○　福井県では、高校生の食に対する関心を高めるとともに、「食を選択する力」や望ましい食生活を身に付けてもらうこと等を目的として、2007年から「全国高校生食育王選手権大会」を開催。",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "026": {
+        "text": "○　全国の高校生が、地域の食文化など食に関するクイズやテーマに合わせた調理技術を競う。",
+        "mention_ids": []
+      },
+      "027": {
+        "text": "○　2020年度の第14回大会は新型コロナウイルス感染症の感染拡大に伴い、オンラインで開催し、過去最多となる345チームがエントリー。",
+        "mention_ids": [
+          "M025"
+        ]
+      },
+      "028": {
+        "text": "○　審査の結果、第14代高校生食育王に、かつろうキッチン(葛飾ろう学校)が決定",
+        "mention_ids": [
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "029": {
+        "type": "supplement:legend",
+        "text": "第14代高校生食育王　「かつろうキッチン(葛飾ろう学校)」",
+        "mention_ids": [
+          "M029",
+          "M030",
+          "M031"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "003",
+        "span": [
+          30,
+          38
+        ],
+        "text": "おやこの食育教室",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "006",
+        "span": [
+          2,
+          16
+        ],
+        "text": "一般社団法人全日本司厨士協会",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "006",
+        "span": [
+          17,
+          29
+        ],
+        "text": "公益社団法人日本調理師会",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "008",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "008",
+        "span": [
+          11,
+          15
+        ],
+        "text": "和食の日",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "008",
+        "span": [
+          32,
+          38
+        ],
+        "text": "和ごはん月間",
+        "entity_type": "EVE",
+        "entity_id": "E006",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "009",
+        "span": [
+          3,
+          10
+        ],
+        "text": "YouTube",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "010",
+        "span": [
+          2,
+          16
+        ],
+        "text": "一般社団法人和食文化国民会議",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "010",
+        "span": [
+          20,
+          24
+        ],
+        "text": "和食の日",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "010",
+        "span": [
+          72,
+          82
+        ],
+        "text": "だしで味わう和食の日",
+        "entity_type": "EVE",
+        "entity_id": "E009",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "011",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "011",
+        "span": [
+          42,
+          56
+        ],
+        "text": "第5回全国子ども和食王選手権",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "012",
+        "span": [
+          1,
+          15
+        ],
+        "text": "第5回全国子ども和食王選手権",
+        "entity_type": "EVE",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "012",
+        "span": [
+          17,
+          20
+        ],
+        "text": "和食王",
+        "entity_type": "PRO",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "014",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "015",
+        "span": [
+          7,
+          10
+        ],
+        "text": "17県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "015",
+        "span": [
+          17,
+          22
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "015",
+        "span": [
+          29,
+          36
+        ],
+        "text": "うちの郷土料理",
+        "entity_type": "PRO",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "017",
+        "span": [
+          8,
+          14
+        ],
+        "text": "10都道府県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "018",
+        "span": [
+          7,
+          10
+        ],
+        "text": "8府県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "020",
+        "span": [
+          2,
+          7
+        ],
+        "text": "農林水産省",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "024",
+        "span": [
+          28,
+          41
+        ],
+        "text": "全国高校生食育王選手権大会",
+        "entity_type": "EVE",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "025",
+        "span": [
+          2,
+          5
+        ],
+        "text": "福井県",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "025",
+        "span": [
+          72,
+          85
+        ],
+        "text": "全国高校生食育王選手権大会",
+        "entity_type": "EVE",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "027",
+        "span": [
+          9,
+          15
+        ],
+        "text": "第14回大会",
+        "entity_type": "NOMINAL",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "028",
+        "span": [
+          8,
+          18
+        ],
+        "text": "第14代高校生食育王",
+        "entity_type": "PRO",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "028",
+        "span": [
+          20,
+          28
+        ],
+        "text": "かつろうキッチン",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "028",
+        "span": [
+          29,
+          35
+        ],
+        "text": "葛飾ろう学校",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "029",
+        "span": [
+          0,
+          10
+        ],
+        "text": "第14代高校生食育王",
+        "entity_type": "PRO",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "029",
+        "span": [
+          12,
+          20
+        ],
+        "text": "かつろうキッチン",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "029",
+        "span": [
+          21,
+          27
+        ],
+        "text": "葛飾ろう学校",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/j/syokuiku/wpaper/r3/r3_h/book/part2/chap3/b2_c3_5_02.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "http://www.ajca.jp/"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11509163",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%BF%E7%90%86%E5%B8%AB%E4%BC%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M011",
+          "M015",
+          "M017",
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005",
+          "M009"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.gov-online.go.jp/data_room/calendar/202311/event-1872.html"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/j/press/shokuhin/wasyoku/221028.html"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q866",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/YouTube",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://washokujapan.jp/"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://washokujapan.jp/dashi-document/"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M012",
+          "M013"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016",
+          "M019",
+          "M020"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M022",
+          "M024"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.shokuikuo.com/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q133879",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E4%BA%95%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/357112",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.065194444",
+          "136.221666666"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M026",
+          "M029"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.maff.go.jp/j/syokuiku/wpaper/r2/r2_h/book/zoom/zoom_131.html"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M027",
+          "M030"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://katsushika-sd.metro.ed.jp/site/zen/entry_0000019_00001.html"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M028",
+          "M031"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://katsushika-sd.metro.ed.jp/site/zen/"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2617 @@
+{
+  "041-1": {
+    "metainfo": {
+      "src_date": "20230620",
+      "src_url": "https://www.mext.go.jp/content/20230620-mxt_kouhou02-000029752_4.pdf",
+      "src_parent_url": "https://www.mext.go.jp/b_menu/hakusho/html/hpaa202301/1421221_00013.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和5年版科学技術・イノベーション白書　第1部　地域から始まる科学技術・イノベーション　第3章　地域の特性や大学の強みを活かした様々な科学技術・イノベーション",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "第3節　山形県における鶴岡サイエンスパークの取組",
+        "mention_ids": [
+          "M002",
+          "M003"
+        ]
+      },
+      "003": {
+        "text": "山形県鶴岡市に位置する鶴岡サイエンスパーク(第1-3-5図)は、平成13年に設立された慶應義塾大学先端生命科学研究所を中心に発展してきました。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "004": {
+        "text": "山形県・鶴岡市・慶應義塾大学から成る3者協定に基づき、山形県と鶴岡市による手厚い行政支援の下、同研究所によって「統合システムバイオロジー」(最先端のバイオテクノロジーを駆使し、メタボローム1などの生物データを網羅的に解析して得られる大量のデータを、ITを用いて理解する新しい生命科学)の研究などが展開され、そこから生まれたスタートアップ企業によって新しい技術と製品が日々生み出されています。",
+        "mention_ids": [
+          "M010",
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "005": {
+        "text": "鶴岡サイエンスパークには、先端生命科学研究所の教員や学生、企業の研究者など600人ほどが所属しており、その家族を合わせると鶴岡市の人口の約1%(1,200人程度)が鶴岡サイエンスパークの関係者になっています。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "006": {
+        "type": "supplement:legend",
+        "supplement_id": "第１-３-６表",
+        "text": "■第1-3-6表/慶應義塾大学先端生命科学研究所関連スタートアップ一覧",
+        "mention_ids": [
+          "M020",
+          "M021"
+        ]
+      },
+      "007": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "設立年 スタートアップ企業名",
+        "mention_ids": []
+      },
+      "008": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成15年 ヒューマン・メタボローム・テクノロジーズ株式会社",
+        "mention_ids": [
+          "M022",
+          "M023"
+        ]
+      },
+      "009": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成19年 Spiber株式会社",
+        "mention_ids": [
+          "M024",
+          "M025"
+        ]
+      },
+      "010": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成25年 株式会社MOLCURE",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      },
+      "011": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成25年 株式会社サリバテック",
+        "mention_ids": [
+          "M028",
+          "M029"
+        ]
+      },
+      "012": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成26年 YAMAGATA DESIGN株式会社",
+        "mention_ids": [
+          "M030",
+          "M031"
+        ]
+      },
+      "013": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成27年 株式会社メタジェン",
+        "mention_ids": [
+          "M032",
+          "M033"
+        ]
+      },
+      "014": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "平成28年 株式会社メトセラ",
+        "mention_ids": [
+          "M034",
+          "M035"
+        ]
+      },
+      "015": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "令和３年 インセムズテクノロジーズ株式会社",
+        "mention_ids": [
+          "M036",
+          "M037"
+        ]
+      },
+      "016": {
+        "type": "line",
+        "in_table": true,
+        "supplement_id": "第１-３-６表",
+        "text": "令和３年 フェルメクテス株式会社",
+        "mention_ids": [
+          "M038",
+          "M039"
+        ]
+      },
+      "017": {
+        "text": "鶴岡サイエンスパークでは、平成19年に大学発スタートアップとして設立されたSpiber株式会社(微生物による発酵(ブリューイング)プロセスを用いた構造タンパク質素材「BrewedProteinTM(ブリュード・プロテインTM)」を開発)をはじめとして、第1-3-6表のように、特色ある技術を活かした数多くのスタートアップ企業が、地方にありながらも次々と生まれています。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "018": {
+        "text": "中でもSpiber株式会社は、鶴岡市以外にもタイ王国に量産拠点となる工場を建設して稼働させたり、米国にも更に大規模な工場の立ち上げ準備を進めたりするなど、その構造タンパク質素材の普及による循環型社会の実現に向けた取組は、今や日本のみならず世界中からも注目を浴びています。",
+        "mention_ids": [
+          "M044",
+          "M045",
+          "M046",
+          "M047",
+          "M048",
+          "M049"
+        ]
+      },
+      "019": {
+        "text": "また、慶應義塾大学先端生命科学研究所では、地元の高校生を、放課後に研究の手伝いをする「研究助手」としてアルバイト採用したり、自身のテーマを持って研究活動を行う「特別研究生」として受け入れたりと、地域と連携したユニークな教育事業が展開されています。",
+        "mention_ids": [
+          "M050",
+          "M051"
+        ]
+      },
+      "020": {
+        "text": "こうした取組は10年以上も前に開始され、当時の高校生が慶應義塾大学総合政策学部・環境情報学部及び同大学院政策・メディア研究科(神奈川県藤沢市)などに進学し、卒業・修了後に再び鶴岡市へ戻って就職するといった事例も現在では見られ始めています。",
+        "mention_ids": [
+          "M052",
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057",
+          "M058",
+          "M059"
+        ]
+      },
+      "021": {
+        "text": "さらに、生命科学を学ぶ全国の高校生が鶴岡市へ一挙に集い研究発表を行うイベントとして「高校生バイオサミットin鶴岡」を開催し、地域の活性化にも貢献しています。",
+        "mention_ids": [
+          "M060",
+          "M061"
+        ]
+      },
+      "022": {
+        "text": "鶴岡サイエンスパークで過ごす時間が、将来の研究者・技術者・経営者に対し、研究、起業、パートナーシップ形成など様々な面で鶴岡市への定住が選択肢になり得ることを示し、それによる相乗効果の発生が期待されています。",
+        "mention_ids": [
+          "M062",
+          "M063"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          19
+        ],
+        "text": "令和5年版科学技術・イノベーション白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          4,
+          7
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "002",
+        "span": [
+          11,
+          21
+        ],
+        "text": "鶴岡サイエンスパーク",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          3
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          3,
+          6
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          11,
+          21
+        ],
+        "text": "鶴岡サイエンスパーク",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          32,
+          34
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          43,
+          49
+        ],
+        "text": "慶應義塾大学",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          49,
+          58
+        ],
+        "text": "先端生命科学研究所",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "004",
+        "span": [
+          4,
+          7
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          8,
+          14
+        ],
+        "text": "慶應義塾大学",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          27,
+          30
+        ],
+        "text": "山形県",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          31,
+          34
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "004",
+        "span": [
+          47,
+          51
+        ],
+        "text": "同研究所",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          0,
+          10
+        ],
+        "text": "鶴岡サイエンスパーク",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          13,
+          22
+        ],
+        "text": "先端生命科学研究所",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          61,
+          64
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          82,
+          92
+        ],
+        "text": "鶴岡サイエンスパーク",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "006",
+        "span": [
+          9,
+          15
+        ],
+        "text": "慶應義塾大学",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "006",
+        "span": [
+          15,
+          24
+        ],
+        "text": "先端生命科学研究所",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "008",
+        "span": [
+          6,
+          30
+        ],
+        "text": "ヒューマン・メタボローム・テクノロジーズ株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          6,
+          16
+        ],
+        "text": "Spiber株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "010",
+        "span": [
+          6,
+          17
+        ],
+        "text": "株式会社MOLCURE",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "011",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "011",
+        "span": [
+          6,
+          16
+        ],
+        "text": "株式会社サリバテック",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "012",
+        "span": [
+          6,
+          25
+        ],
+        "text": "YAMAGATA DESIGN株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M033": {
+        "sentence_id": "013",
+        "span": [
+          6,
+          15
+        ],
+        "text": "株式会社メタジェン",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          2
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "014",
+        "span": [
+          6,
+          14
+        ],
+        "text": "株式会社メトセラ",
+        "entity_type": "ORG",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "015",
+        "span": [
+          5,
+          21
+        ],
+        "text": "インセムズテクノロジーズ株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E016",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "016",
+        "span": [
+          0,
+          2
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "016",
+        "span": [
+          5,
+          16
+        ],
+        "text": "フェルメクテス株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "017",
+        "span": [
+          0,
+          10
+        ],
+        "text": "鶴岡サイエンスパーク",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "017",
+        "span": [
+          13,
+          15
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "017",
+        "span": [
+          37,
+          47
+        ],
+        "text": "Spiber株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "017",
+        "span": [
+          83,
+          113
+        ],
+        "text": "BrewedProteinTM(ブリュード・プロテインTM)",
+        "entity_type": "PRO",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "018",
+        "span": [
+          3,
+          13
+        ],
+        "text": "Spiber株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "018",
+        "span": [
+          15,
+          18
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "018",
+        "span": [
+          22,
+          26
+        ],
+        "text": "タイ王国",
+        "entity_type": "LOC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "018",
+        "span": [
+          48,
+          50
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "018",
+        "span": [
+          79,
+          88
+        ],
+        "text": "構造タンパク質素材",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M049": {
+        "sentence_id": "018",
+        "span": [
+          112,
+          114
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M050": {
+        "sentence_id": "019",
+        "span": [
+          3,
+          9
+        ],
+        "text": "慶應義塾大学",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "019",
+        "span": [
+          9,
+          18
+        ],
+        "text": "先端生命科学研究所",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "020",
+        "span": [
+          27,
+          33
+        ],
+        "text": "慶應義塾大学",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "020",
+        "span": [
+          33,
+          39
+        ],
+        "text": "総合政策学部",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M054": {
+        "sentence_id": "020",
+        "span": [
+          40,
+          46
+        ],
+        "text": "環境情報学部",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M055": {
+        "sentence_id": "020",
+        "span": [
+          48,
+          52
+        ],
+        "text": "同大学院",
+        "entity_type": "NOMINAL",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M056": {
+        "sentence_id": "020",
+        "span": [
+          52,
+          62
+        ],
+        "text": "政策・メディア研究科",
+        "entity_type": "ORG",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M057": {
+        "sentence_id": "020",
+        "span": [
+          63,
+          67
+        ],
+        "text": "神奈川県",
+        "entity_type": "LOC",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M058": {
+        "sentence_id": "020",
+        "span": [
+          67,
+          70
+        ],
+        "text": "藤沢市",
+        "entity_type": "LOC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M059": {
+        "sentence_id": "020",
+        "span": [
+          87,
+          90
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M060": {
+        "sentence_id": "021",
+        "span": [
+          18,
+          21
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M061": {
+        "sentence_id": "021",
+        "span": [
+          42,
+          56
+        ],
+        "text": "高校生バイオサミットin鶴岡",
+        "entity_type": "EVE",
+        "entity_id": "E025",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M062": {
+        "sentence_id": "022",
+        "span": [
+          0,
+          10
+        ],
+        "text": "鶴岡サイエンスパーク",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M063": {
+        "sentence_id": "022",
+        "span": [
+          59,
+          62
+        ],
+        "text": "鶴岡市",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004",
+          "M010",
+          "M013"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q125863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3790869",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.240444444",
+          "140.363555555"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M006",
+          "M016",
+          "M019",
+          "M040",
+          "M062"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://tsuruoka-sp.jp/"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M011",
+          "M014",
+          "M018",
+          "M045",
+          "M059",
+          "M060",
+          "M063"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q734416",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E5%B2%A1%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.727222222",
+          "139.826666666"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007",
+          "M022",
+          "M024",
+          "M026",
+          "M028",
+          "M030",
+          "M032",
+          "M034",
+          "M041"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008",
+          "M012",
+          "M020",
+          "M050",
+          "M052"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q815432",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.649166666",
+          "139.742777777"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M009",
+          "M015",
+          "M017",
+          "M021",
+          "M051"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28693035",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6%E5%85%88%E7%AB%AF%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11330264",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%A1%E3%82%BF%E3%83%9C%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M025",
+          "M042",
+          "M044"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17219940",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%90%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://molcure.com/"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M029"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://salivatech.co.jp/"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.yamagata-design.com/"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://metagen.co.jp/"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.metcela.com/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M036",
+          "M038"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M037"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://incems.co.jp/"
+        }
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://fermecutes.com/"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M043",
+          "M048"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://spiber.inc/brewedprotein/"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M046"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q869",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2067731",
+          "wikidata_country": "http://www.wikidata.org/entity/Q869"
+        },
+        "coordinate": [
+          "14.0",
+          "101.0"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/148838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "39.828175",
+          "-98.5795"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M053",
+          "M054",
+          "M055",
+          "M056"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q815432",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.649166666",
+          "139.742777777"
+        ]
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M057"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127513",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2689487",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.44775",
+          "139.642527777"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M058"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q386661",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%B2%A2%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2689443",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.338833333",
+          "139.491111111"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M061"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_SERIES_OF",
+        "ref_urls": {
+          "other": "https://www.bio-summit.org"
+        }
+      }
+    }
+  },
+  "041-2": {
+    "metainfo": {
+      "src_date": "20230620",
+      "src_url": "https://www.mext.go.jp/content/20230620-mxt_kouhou02-000029752_4.pdf",
+      "src_parent_url": "https://www.mext.go.jp/b_menu/hakusho/html/hpaa202301/1421221_00013.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "第4節　熊本県等における半導体産業強化のための大学・地域の連携",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "text": "数十億以上の電子部品のつながりを一枚の基板の上に実装した半導体集積回路は、2050年までに二酸化炭素の排出量を実質ゼロにすることを目指す「カーボンニュートラル2050」の実現や、今後の更なるデジタル社会への発展のために重要な基盤技術となります。",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "半導体市場の長期的な拡大が見込まれる中、政府は、台湾セミコンダクター・マニュファクチャリング・カンパニー(TSMC)とソニー株式会社、株式会社デンソーが合弁で熊本県に設立したジャパン・アドバンスト・セミコンダクター・マニュファクチャリング株式会社への支援をはじめ、半導体産業基盤の強化に向けた取組を進めています。",
+        "mention_ids": [
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "004": {
+        "text": "また、次世代半導体集積回路の国際競争も転換期を迎えており、今後はこれまでのように回路を小さく作り込んで集積度を高めるといった二次元的な微細化技術とは全く異なる、新しい軸での研究開発が重要視されています。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "こうした状況の中、熊本県の「半導体産業の強化及びユーザー産業を含めた新たな産業エコシステムの形成」プロジェクトが、産学官連携による地域の中核的な産業の創出・振興と、特定分野に強みを持つ大学づくりとを一体的に行う取組に対して国が支援する「地方大学・地域産業創生交付金」(内閣府)に採択され、熊本県が半導体産業の分野で強みを持つ前工程・半導体製造装置の開発(半導体の回路を形成するまでの工程)における産学での共同研究を強化しながら、複数のチップを積み重ねて集積回路の性能を高める三次元積層実装技術を用いた半導体の、国内初の量産化を目指しています。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "006": {
+        "text": "加えて、半導体ユーザー産業との連携により新産業が創出されるという新たなエコシステムの形成に取り組んでいます。",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "また政府は、我が国半導体産業基盤の強化のため、人材育成・確保に向けた取組も推進しています。",
+        "mention_ids": [
+          "M013",
+          "M014"
+        ]
+      },
+      "008": {
+        "text": "産業界、教育機関、行政の個々の取組に加えて、産学官が連携しながら、地域単位での取組を進めるべく、令和4年3月には全国に先駆けて、ジャパン・アドバンスト・セミコンダクター・マニュファクチャリング株式会社、九州大学や熊本大学、熊本高等専門学校など76機関が参画する「九州半導体人材育成等コンソーシアム」が設立されました。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020"
+        ]
+      },
+      "009": {
+        "text": "これに続き、同年6月にはキオクシア岩手株式会社、東北大学、一関高等専門学校など71機関が参画する「東北半導体・エレクトロニクスデザイン研究会」、10月にはマイクロンメモリジャパン株式会社、広島大学、呉高等専門学校など95機関が参画する「中国地域半導体関連産業振興協議会」、令和5年3月にはキオクシア株式会社、名古屋大学、岐阜高等専門学校など25機関が参画する「中部地域半導体人材育成等連絡協議会」がこれまでに設立されています。",
+        "mention_ids": [
+          "M021",
+          "M022",
+          "M023",
+          "M024",
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033"
+        ]
+      },
+      "010": {
+        "text": "さらに今後は関東・北海道地域でも設立予定であり、取組は全国各地に展開されています。",
+        "mention_ids": [
+          "M034",
+          "M035"
+        ]
+      },
+      "011": {
+        "text": "次世代半導体集積回路の創生に向けては、「次世代X-nics半導体創生拠点形成事業」を実施し、東京大学、東北大学、東京工業大学の3つの拠点を新規に立ち上げ、豊橋技術科学大学や広島大学など国内有数の試作ラインを持つ大学等とも連携し、新たな切り口による研究開発と将来の半導体産業を牽引する人材の育成を進めています(第1-3-7図)。",
+        "mention_ids": [
+          "M036",
+          "M037",
+          "M038",
+          "M039",
+          "M040"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          4,
+          7
+        ],
+        "text": "熊本県",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          20,
+          22
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          24,
+          58
+        ],
+        "text": "台湾セミコンダクター・マニュファクチャリング・カンパニー(TSMC)",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          59,
+          66
+        ],
+        "text": "ソニー株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          67,
+          75
+        ],
+        "text": "株式会社デンソー",
+        "entity_type": "ORG",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          79,
+          82
+        ],
+        "text": "熊本県",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          87,
+          123
+        ],
+        "text": "ジャパン・アドバンスト・セミコンダクター・マニュファクチャリング株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "005",
+        "span": [
+          9,
+          12
+        ],
+        "text": "熊本県",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "005",
+        "span": [
+          111,
+          112
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "005",
+        "span": [
+          134,
+          137
+        ],
+        "text": "内閣府",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "005",
+        "span": [
+          144,
+          147
+        ],
+        "text": "熊本県",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "005",
+        "span": [
+          255,
+          256
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "007",
+        "span": [
+          2,
+          4
+        ],
+        "text": "政府",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "007",
+        "span": [
+          6,
+          9
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          48,
+          50
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "008",
+        "span": [
+          64,
+          100
+        ],
+        "text": "ジャパン・アドバンスト・セミコンダクター・マニュファクチャリング株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "008",
+        "span": [
+          101,
+          105
+        ],
+        "text": "九州大学",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "008",
+        "span": [
+          106,
+          110
+        ],
+        "text": "熊本大学",
+        "entity_type": "FAC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "008",
+        "span": [
+          111,
+          119
+        ],
+        "text": "熊本高等専門学校",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          131,
+          148
+        ],
+        "text": "九州半導体人材育成等コンソーシアム",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          12,
+          23
+        ],
+        "text": "キオクシア岩手株式会社",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          24,
+          28
+        ],
+        "text": "東北大学",
+        "entity_type": "FAC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          29,
+          37
+        ],
+        "text": "一関高等専門学校",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          49,
+          70
+        ],
+        "text": "東北半導体・エレクトロニクスデザイン研究会",
+        "entity_type": "ORG",
+        "entity_id": "E017",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "009",
+        "span": [
+          77,
+          93
+        ],
+        "text": "マイクロンメモリジャパン株式会社",
+        "entity_type": "ORG",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M026": {
+        "sentence_id": "009",
+        "span": [
+          94,
+          98
+        ],
+        "text": "広島大学",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "009",
+        "span": [
+          99,
+          106
+        ],
+        "text": "呉高等専門学校",
+        "entity_type": "FAC",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "009",
+        "span": [
+          118,
+          134
+        ],
+        "text": "中国地域半導体関連産業振興協議会",
+        "entity_type": "ORG",
+        "entity_id": "E021",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M029": {
+        "sentence_id": "009",
+        "span": [
+          136,
+          138
+        ],
+        "text": "令和",
+        "entity_type": "TIME",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "009",
+        "span": [
+          144,
+          153
+        ],
+        "text": "キオクシア株式会社",
+        "entity_type": "PRO",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "009",
+        "span": [
+          154,
+          159
+        ],
+        "text": "名古屋大学",
+        "entity_type": "FAC",
+        "entity_id": "E023",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "009",
+        "span": [
+          160,
+          168
+        ],
+        "text": "岐阜高等専門学校",
+        "entity_type": "FAC",
+        "entity_id": "E024",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "009",
+        "span": [
+          180,
+          197
+        ],
+        "text": "中部地域半導体人材育成等連絡協議会",
+        "entity_type": "ORG",
+        "entity_id": "E025",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "010",
+        "span": [
+          6,
+          8
+        ],
+        "text": "関東",
+        "entity_type": "LOC",
+        "entity_id": "E026",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "010",
+        "span": [
+          9,
+          14
+        ],
+        "text": "北海道地域",
+        "entity_type": "LOC",
+        "entity_id": "E027",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M036": {
+        "sentence_id": "011",
+        "span": [
+          46,
+          50
+        ],
+        "text": "東京大学",
+        "entity_type": "FAC",
+        "entity_id": "E028",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M037": {
+        "sentence_id": "011",
+        "span": [
+          51,
+          55
+        ],
+        "text": "東北大学",
+        "entity_type": "FAC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M038": {
+        "sentence_id": "011",
+        "span": [
+          56,
+          62
+        ],
+        "text": "東京工業大学",
+        "entity_type": "FAC",
+        "entity_id": "E029",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "011",
+        "span": [
+          77,
+          85
+        ],
+        "text": "豊橋技術科学大学",
+        "entity_type": "FAC",
+        "entity_id": "E030",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "011",
+        "span": [
+          86,
+          90
+        ],
+        "text": "広島大学",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M006",
+          "M008",
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q130308",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1842185",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.789722222",
+          "130.741388888"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M009",
+          "M013"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q713418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E7%A9%8D%E4%BD%93%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0",
+          "wikidata_country": "http://www.wikidata.org/entity/Q865"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q41187",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q176508",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%82%BD%E3%83%BC",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q111362867",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q6005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%86%85%E9%96%A3%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012",
+          "M014"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M015",
+          "M029"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q62609017",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%A4%E5%92%8C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1188786",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.595722222",
+          "130.217777777"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1148782",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.813888888",
+          "130.728055555"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11568631",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.876785",
+          "130.747897"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.kyushu.meti.go.jp/press/2203/220329_1.html"
+        }
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.kioxia-iwate.co.jp/"
+        }
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M022",
+          "M037"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1062129",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.254166666",
+          "140.873611111"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11353255",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%80%E9%96%A2%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+          "openstreetmap": "https://www.openstreetmap.org/way/463039258",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.925055",
+          "141.106947"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M024"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.tohoku.meti.go.jp/s_monozukuri/mono_hando.html"
+        }
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q21099505"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M026",
+          "M040"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q115220",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.382222222",
+          "132.458055555"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M027"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11416741",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%91%89%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+          "openstreetmap": "https://www.openstreetmap.org/way/608613521",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.232444",
+          "132.601043"
+        ]
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.chugoku.meti.go.jp/seisaku/tiiki/handoutaikanrensangyou.html"
+        }
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M030"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q28840043",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M031"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1191132",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.1525",
+          "136.968611111"
+        ]
+      },
+      "E024": {
+        "member_mention_ids": [
+          "M032"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11471338",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1",
+          "openstreetmap": "https://www.openstreetmap.org/way/582398171",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.446733",
+          "136.672408"
+        ]
+      },
+      "E025": {
+        "member_mention_ids": [
+          "M033"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.chubu.meti.go.jp/c31seizo/semicon/20230315/index.html"
+        }
+      },
+      "E026": {
+        "member_mention_ids": [
+          "M034"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q132480",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E6%9D%B1%E5%9C%B0%E6%96%B9",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1803923",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.166666666",
+          "139.783333333"
+        ]
+      },
+      "E027": {
+        "member_mention_ids": [
+          "M035"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E028": {
+        "member_mention_ids": [
+          "M036"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q7842",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.71339",
+          "139.76232"
+        ]
+      },
+      "E029": {
+        "member_mention_ids": [
+          "M038"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q587326",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.605",
+          "139.683888888"
+        ]
+      },
+      "E030": {
+        "member_mention_ids": [
+          "M039"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q3113694",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E6%A9%8B%E6%8A%80%E8%A1%93%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.701714",
+          "137.408639"
+        ]
+      }
+    }
+  }
+}

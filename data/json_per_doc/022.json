@@ -1,0 +1,1245 @@
+{
+  "022": {
+    "metainfo": {
+      "src_date": "20221100",
+      "src_url": "https://www.ktr.mlit.go.jp/ktr_content/content/000844739.pdf",
+      "src_parent_url": "https://www.ktr.mlit.go.jp/chiba/chiba_index046.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "第4回千葉北西連絡道路検討会　検討会資料",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "千葉北西連絡道路の概略計画検討に向けた基本方針(骨子)",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "国土交通省、千葉県、茨城県、野田市、柏市、我孫子市、印西市、白井市及び取手市は、千葉北西連絡道路の道路計画検討にあたっての基本方針を下記のとおり策定し、引き続き、連携を図りながら、道路計画の具体化に向けた検討を進める。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ]
+      },
+      "004": {
+        "text": "千葉県北西地域は、大規模商業施設や物流施設が多く立地するなど、経済活動が活発な地域であり、今後も交通需要の増大が見込まれている。",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "005": {
+        "text": "他方、柏市や千葉NT等の業務核都市と、隣接する埼玉県の業務核都市を連絡する環状道路機能が不足しており、核都市広域幹線道路の機能を兼ね備えた千葉北西連絡道路の計画の具体化が重要",
+        "mention_ids": [
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018"
+        ]
+      },
+      "006": {
+        "type": "heading",
+        "text": "1.起終点",
+        "mention_ids": []
+      },
+      "007": {
+        "text": "(1)起点:つくば野田線以北",
+        "mention_ids": [
+          "M019"
+        ]
+      },
+      "008": {
+        "text": "・国道16号のつくば野田線~柏市",
+        "mention_ids": [
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "009": {
+        "text": "・白井市境は、県内平均の4倍以上の渋滞が発生。",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "010": {
+        "text": "(2)終点:国道464号付近・千葉県北西地域のみならず、埼玉方面から成田空港へのアクセス向上を図る。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "011": {
+        "type": "heading",
+        "text": "2.求められるサービスレベル",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "(1)核都市広域幹線道路としての機能",
+        "mention_ids": [
+          "M029"
+        ]
+      },
+      "013": {
+        "text": "・千葉北西連絡道路は、核都市広域幹線道路の機能を兼ね備えるよう、業務核都市間や他の地域等との連絡性を考慮",
+        "mention_ids": [
+          "M030",
+          "M031"
+        ]
+      },
+      "014": {
+        "text": "(2)多車線の自動車専用道路・国道16号沿線は商業・物流施設が立地し、交通集中による慢性的渋滞が発生。",
+        "mention_ids": [
+          "M032"
+        ]
+      },
+      "015": {
+        "text": "・通過交通と地域交通が混在しており、中長距離トリップ交通の分散が必要。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "(3)常磐自動車道及び国道6号へのアクセス・千葉北西連絡道路の広域的な道路ネットワークとしての機能を最大限発揮するため、主要な幹線道路となる常磐自動車道及び国道6号へのアクセス性を考慮。",
+        "mention_ids": [
+          "M033",
+          "M034",
+          "M035",
+          "M036",
+          "M037"
+        ]
+      },
+      "017": {
+        "type": "heading",
+        "text": "3.地域への配慮事項",
+        "mention_ids": [
+          "M038"
+        ]
+      },
+      "018": {
+        "text": "(1)既存インフラへの影響考慮",
+        "mention_ids": []
+      },
+      "019": {
+        "text": "・防災の観点も踏まえ河川・鉄道等の既存インフラの機能に影響を与えないよう考慮。",
+        "mention_ids": []
+      },
+      "020": {
+        "text": "(2)地域への配慮",
+        "mention_ids": [
+          "M039"
+        ]
+      },
+      "021": {
+        "text": "・ルート・構造の検討にあたっては自然環境や地域の分断に配慮。",
+        "mention_ids": [
+          "M040"
+        ]
+      },
+      "022": {
+        "text": "(3)地域との合意形成",
+        "mention_ids": [
+          "M041"
+        ]
+      },
+      "023": {
+        "text": "・国、県、沿線自治体が連携し、千葉北西連絡道路の必要性等について地域住民の理解を得られるよう積極的に取り組む。",
+        "mention_ids": [
+          "M042",
+          "M043",
+          "M044",
+          "M045"
+        ]
+      },
+      "024": {
+        "text": "上記を踏まえつつ、地域とのコミュニケーションを行いながら概略計画の検討(計画段階評価)を進める。",
+        "mention_ids": [
+          "M046"
+        ]
+      },
+      "025": {
+        "text": "今後、千葉北西連絡道路検討会において、沿線自治体の意見を踏まえた基本方針を策定",
+        "mention_ids": [
+          "M047"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          14
+        ],
+        "text": "第4回千葉北西連絡道路検討会",
+        "entity_type": "EVE",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          8
+        ],
+        "text": "千葉北西連絡道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          6,
+          9
+        ],
+        "text": "千葉県",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "003",
+        "span": [
+          10,
+          13
+        ],
+        "text": "茨城県",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "003",
+        "span": [
+          14,
+          17
+        ],
+        "text": "野田市",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "003",
+        "span": [
+          18,
+          20
+        ],
+        "text": "柏市",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          21,
+          25
+        ],
+        "text": "我孫子市",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          26,
+          29
+        ],
+        "text": "印西市",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          30,
+          33
+        ],
+        "text": "白井市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          35,
+          38
+        ],
+        "text": "取手市",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "003",
+        "span": [
+          40,
+          48
+        ],
+        "text": "千葉北西連絡道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          7
+        ],
+        "text": "千葉県北西地域",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "005",
+        "span": [
+          3,
+          5
+        ],
+        "text": "柏市",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          6,
+          10
+        ],
+        "text": "千葉NT",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          23,
+          26
+        ],
+        "text": "埼玉県",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          51,
+          60
+        ],
+        "text": "核都市広域幹線道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          69,
+          77
+        ],
+        "text": "千葉北西連絡道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "007",
+        "span": [
+          6,
+          12
+        ],
+        "text": "つくば野田線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "008",
+        "span": [
+          1,
+          6
+        ],
+        "text": "国道16号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "008",
+        "span": [
+          7,
+          13
+        ],
+        "text": "つくば野田線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "008",
+        "span": [
+          14,
+          16
+        ],
+        "text": "柏市",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          1,
+          4
+        ],
+        "text": "白井市",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "009",
+        "span": [
+          7,
+          8
+        ],
+        "text": "県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "010",
+        "span": [
+          6,
+          12
+        ],
+        "text": "国道464号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "010",
+        "span": [
+          15,
+          22
+        ],
+        "text": "千葉県北西地域",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "010",
+        "span": [
+          28,
+          30
+        ],
+        "text": "埼玉",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "010",
+        "span": [
+          34,
+          38
+        ],
+        "text": "成田空港",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "012",
+        "span": [
+          3,
+          12
+        ],
+        "text": "核都市広域幹線道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "013",
+        "span": [
+          1,
+          9
+        ],
+        "text": "千葉北西連絡道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M031": {
+        "sentence_id": "013",
+        "span": [
+          11,
+          20
+        ],
+        "text": "核都市広域幹線道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M032": {
+        "sentence_id": "014",
+        "span": [
+          15,
+          20
+        ],
+        "text": "国道16号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "016",
+        "span": [
+          3,
+          9
+        ],
+        "text": "常磐自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M034": {
+        "sentence_id": "016",
+        "span": [
+          11,
+          15
+        ],
+        "text": "国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M035": {
+        "sentence_id": "016",
+        "span": [
+          22,
+          30
+        ],
+        "text": "千葉北西連絡道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "016",
+        "span": [
+          70,
+          76
+        ],
+        "text": "常磐自動車道",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E020",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "016",
+        "span": [
+          78,
+          82
+        ],
+        "text": "国道6号",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E021",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "017",
+        "span": [
+          2,
+          4
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M039": {
+        "sentence_id": "020",
+        "span": [
+          3,
+          5
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M040": {
+        "sentence_id": "021",
+        "span": [
+          21,
+          23
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M041": {
+        "sentence_id": "022",
+        "span": [
+          3,
+          5
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M042": {
+        "sentence_id": "023",
+        "span": [
+          1,
+          2
+        ],
+        "text": "国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E022",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M043": {
+        "sentence_id": "023",
+        "span": [
+          3,
+          4
+        ],
+        "text": "県",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M044": {
+        "sentence_id": "023",
+        "span": [
+          15,
+          23
+        ],
+        "text": "千葉北西連絡道路",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M045": {
+        "sentence_id": "023",
+        "span": [
+          32,
+          34
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M046": {
+        "sentence_id": "024",
+        "span": [
+          9,
+          11
+        ],
+        "text": "地域",
+        "entity_type": "NOMINAL",
+        "entity_id": "E012",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M047": {
+        "sentence_id": "025",
+        "span": [
+          3,
+          14
+        ],
+        "text": "千葉北西連絡道路検討会",
+        "entity_type": "ORG",
+        "entity_id": "E023",
+        "feature": "Periodic_Series",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.ktr.mlit.go.jp/kisha/chiba_00000484.html"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M012",
+          "M018",
+          "M030",
+          "M035",
+          "M044"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.city.kashiwa.lg.jp/kotsuseisaku/living_environment/bus_taxi/1598.html"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M004",
+          "M024",
+          "M043"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q80011",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2679957",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.604583333",
+          "140.123194444"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q83273",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2682940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.341722222",
+          "140.446833333"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q328619",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2679940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.955083333",
+          "139.874805555"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M007",
+          "M014",
+          "M022"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q319743",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9F%8F%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2679925",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.867583333",
+          "139.97575"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q243859",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%91%E5%AD%AB%E5%AD%90%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2679918",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.864222222",
+          "140.028388888"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q637901",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%B0%E8%A5%BF%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2679905",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.832305555",
+          "140.145722222"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M010",
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q519187",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%99%BD%E4%BA%95%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.791472222",
+          "140.056305555"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q638312",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8F%96%E6%89%8B%E5%B8%82",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.9115",
+          "140.050361111"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M013",
+          "M026",
+          "M038",
+          "M039",
+          "M040",
+          "M041",
+          "M045",
+          "M046"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://dic.pixiv.net/a/%E5%8D%83%E8%91%89%E7%9C%8C%E5%8C%97%E8%A5%BF%E9%83%A8"
+        }
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11405878",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.80031",
+          "140.11624"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M016",
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q128186",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1768185",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.857166666",
+          "139.649194444"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M017",
+          "M029",
+          "M031"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11536221",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%A0%B8%E9%83%BD%E5%B8%82%E5%BA%83%E5%9F%9F%E5%B9%B9%E7%B7%9A%E9%81%93%E8%B7%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M019",
+          "M021"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11617795",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E5%9F%8E%E7%9C%8C%E9%81%93%E3%83%BB%E5%8D%83%E8%91%89%E7%9C%8C%E9%81%933%E5%8F%B7%E3%81%A4%E3%81%8F%E3%81%B0%E9%87%8E%E7%94%B0%E7%B7%9A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "36.035083333",
+          "140.070333333"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M020",
+          "M032"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1058005",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%9316%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/18187",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.4594421",
+          "139.6235161"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M025"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q5367835",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%93464%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/11621854",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.762122222",
+          "140.306505555"
+        ]
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q36454",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3182579",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.7649",
+          "140.38845"
+        ]
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M033",
+          "M036"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1059875",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B8%B8%E7%A3%90%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1485270",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E021": {
+        "member_mention_ids": [
+          "M034",
+          "M037"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1038714",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%81%936%E5%8F%B7",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1521225",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.684111111",
+          "139.774472222"
+        ]
+      },
+      "E022": {
+        "member_mention_ids": [
+          "M042"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1190574",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E023": {
+        "member_mention_ids": [
+          "M047"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.ktr.mlit.go.jp/chiba/chiba_index046.html"
+        }
+      }
+    }
+  }
+}

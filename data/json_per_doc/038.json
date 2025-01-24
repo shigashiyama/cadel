@@ -1,0 +1,1887 @@
+{
+  "038-1": {
+    "metainfo": {
+      "src_date": "20230718",
+      "src_url": "https://www.mlit.go.jp/report/interview/daijin230718.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "大臣会見　斉藤大臣会見要旨",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "002": {
+        "type": "supplement:header",
+        "text": "2023年7月18日(火)　11:09　~　11:25",
+        "mention_ids": []
+      },
+      "003": {
+        "type": "supplement:header",
+        "text": "国土交通省会見室",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "004": {
+        "type": "supplement:header",
+        "text": "斉藤鉄夫　大臣",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "005": {
+        "type": "title",
+        "text": "冒頭発言",
+        "mention_ids": []
+      },
+      "006": {
+        "type": "heading",
+        "text": "(大臣から)トラックGメンの創設について",
+        "mention_ids": [
+          "M006",
+          "M007"
+        ]
+      },
+      "007": {
+        "text": "(大臣)",
+        "mention_ids": [
+          "M008"
+        ]
+      },
+      "008": {
+        "text": "本日の閣議案件で、特に私の方から報告するものはありません。",
+        "mention_ids": [
+          "M009",
+          "M010"
+        ]
+      },
+      "009": {
+        "text": "このほか、私から1点報告があります。",
+        "mention_ids": [
+          "M011"
+        ]
+      },
+      "010": {
+        "text": "トラックGメンの創設についてです。",
+        "mention_ids": [
+          "M012"
+        ]
+      },
+      "011": {
+        "text": "本日の閣議において、行政機関職員定員令の一部を改正する政令が閣議決定され、国土交通省において、年度途中での緊急的な措置として、80名の増員が行われることとなりました。",
+        "mention_ids": [
+          "M013",
+          "M014",
+          "M015"
+        ]
+      },
+      "012": {
+        "text": "これを受け、国土交通省では、先月とりまとめた「物流革新に向けた政策パッケージ」に基づき、適正な取引を阻害する疑いのある荷主企業・元請事業者の監視を強化するため、今月21日、本省及び地方運輸局に、162名体制の「トラックGメン」を設置します。",
+        "mention_ids": [
+          "M016",
+          "M017",
+          "M018",
+          "M019"
+        ]
+      },
+      "013": {
+        "text": "これにより、トラック事業者へのプッシュ型の情報収集を開始し、情報収集力を強化するとともに、貨物自動車運送事業法に基づく、荷主等への「働きかけ」、「要請」、「勧告・公表」制度の執行力を強化することにより、荷主側の事情による長時間の荷待ちや、運賃・料金の不当な据置きなどの是正に向け、一層強力に取り組んでいきたいと決意しています。",
+        "mention_ids": [
+          "M020"
+        ]
+      },
+      "014": {
+        "text": "国土交通省としては、引き続き、関係省庁・産業界と緊密に連携し、トラックドライバーの労働条件の改善と取引環境の適正化に向けた取組みを進めていきます。",
+        "mention_ids": [
+          "M021"
+        ]
+      },
+      "015": {
+        "text": "詳細は後ほど事務方から説明します。",
+        "mention_ids": []
+      },
+      "016": {
+        "text": "私からは以上です。",
+        "mention_ids": [
+          "M022"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          2
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          5,
+          7
+        ],
+        "text": "斉藤",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "metonymic_entity_type": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "003",
+        "span": [
+          5,
+          8
+        ],
+        "text": "会見室",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          4
+        ],
+        "text": "斉藤鉄夫",
+        "entity_type": "PER",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          1,
+          3
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "006",
+        "span": [
+          6,
+          13
+        ],
+        "text": "トラックGメン",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          1,
+          3
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "008",
+        "span": [
+          3,
+          5
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "008",
+        "span": [
+          11,
+          12
+        ],
+        "text": "私",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "009",
+        "span": [
+          5,
+          6
+        ],
+        "text": "私",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "010",
+        "span": [
+          0,
+          7
+        ],
+        "text": "トラックGメン",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "011",
+        "span": [
+          3,
+          5
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "011",
+        "span": [
+          30,
+          32
+        ],
+        "text": "閣議",
+        "entity_type": "EVE",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "011",
+        "span": [
+          37,
+          42
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "012",
+        "span": [
+          6,
+          11
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "012",
+        "span": [
+          86,
+          88
+        ],
+        "text": "本省",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "012",
+        "span": [
+          90,
+          95
+        ],
+        "text": "地方運輸局",
+        "entity_type": "ORG",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "012",
+        "span": [
+          105,
+          112
+        ],
+        "text": "トラックGメン",
+        "entity_type": "ORG",
+        "entity_id": "E004",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "013",
+        "span": [
+          45,
+          55
+        ],
+        "text": "貨物自動車運送事業法",
+        "entity_type": "PRO",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M021": {
+        "sentence_id": "014",
+        "span": [
+          0,
+          5
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "016",
+        "span": [
+          0,
+          1
+        ],
+        "text": "私",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M005",
+          "M006",
+          "M008",
+          "M010",
+          "M011",
+          "M022"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q926287",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E9%89%84%E5%A4%AB"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M003",
+          "M015",
+          "M016",
+          "M017",
+          "M021"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PART_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M007",
+          "M012",
+          "M019"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.mlit.go.jp/jidosha/jidosha_tk4_000116.html"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M009",
+          "M013",
+          "M014"
+        ],
+        "entity_type_merged": "EVE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": "PERIODIC_INSTANCE_OF",
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11656509",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A3%E8%AD%B0_(%E6%97%A5%E6%9C%AC)",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11424433",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E6%96%B9%E9%81%8B%E8%BC%B8%E5%B1%80",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11634686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%B2%A8%E7%89%A9%E8%87%AA%E5%8B%95%E8%BB%8A%E9%81%8B%E9%80%81%E4%BA%8B%E6%A5%AD%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      }
+    }
+  },
+  "038-2": {
+    "metainfo": {
+      "src_date": "20230718",
+      "src_url": "https://www.mlit.go.jp/report/interview/daijin230718.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "質疑応答",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "名古屋港のコンテナターミナル　システム障害について",
+        "mention_ids": [
+          "M001",
+          "M002"
+        ]
+      },
+      "003": {
+        "text": "(記者)",
+        "mention_ids": []
+      },
+      "004": {
+        "text": "2問お伺いします。",
+        "mention_ids": []
+      },
+      "005": {
+        "text": "まず、1点目。",
+        "mention_ids": []
+      },
+      "006": {
+        "text": "名古屋港で今月上旬に三日間にわたってコンテナの搬出入が停止した件についてです。",
+        "mention_ids": [
+          "M003"
+        ]
+      },
+      "007": {
+        "text": "原因はサイバー攻撃とみられていますけれども、国土交通省として再発防止に向けた対策をどう進めていかれるかということと、また、港湾に関して、サイバーセキュリティ基本法における重要インフラにも、経済安全保障推進法上の基幹インフラにも位置づけられていないということで、事業者はサイバー対策が課題と指摘されていますけれど、こうしたものに新たに指定するのかどうかというのを含めて、どのように対応していかれるかお聞かせください。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006"
+        ]
+      },
+      "008": {
+        "text": "(大臣)",
+        "mention_ids": [
+          "M007"
+        ]
+      },
+      "009": {
+        "text": "今般発生した名古屋港のコンテナターミナルのシステム障害を踏まえ、国土交通省では、港湾管理者、港湾運送事業者等に対し、改めてサイバーセキュリティ対策の徹底を図るよう、注意喚起を行いました。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010"
+        ]
+      },
+      "010": {
+        "text": "また、同種事案の再発防止に向けて、早期に有識者等からなる検討委員会を立ち上げ、今般事案の原因究明とともに、必要なセキュリティ対策の整理・検討を行う予定です。",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "制度面では、港湾機能の安定的な確保に向けて、御指摘の二つの法令、サイバーセキュリティ基本法、経済安全保障推進法、この二つの法令上の位置づけに港湾を追加するかも含めて、関係省庁等と連携し、必要な対応を検討していきたいと思います。",
+        "mention_ids": [
+          "M011",
+          "M012"
+        ]
+      },
+      "012": {
+        "text": "先ほどの有識者会議等でも是非、御議論いただきたいと思います。",
+        "mention_ids": []
+      },
+      "013": {
+        "text": "(記者)",
+        "mention_ids": []
+      },
+      "014": {
+        "text": "早期にとのお話しですけれど、いつまでにという目標等ありましたら、お願いします。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "(大臣)",
+        "mention_ids": [
+          "M013"
+        ]
+      },
+      "016": {
+        "text": "現時点で、具体的にいつまでにどういう体制でというのは、まだお示しできませんが、今、早期に設置できるよう鋭意、準備をしているところです。",
+        "mention_ids": []
+      },
+      "017": {
+        "text": "主な検討事項としては、名古屋港におけるシステム障害の原因及び対応策の分析、コンテナターミナルにおける基幹的な情報システムに必要な情報セキュリティ対策の検討、システム障害が発生した場合の対応策の検討、その他、必要な対応策の検討などを想定しています。",
+        "mention_ids": [
+          "M014",
+          "M015"
+        ]
+      },
+      "018": {
+        "text": "先ほどの御質問のような法令上の扱いについても、是非、御議論いただきたいと思っています。",
+        "mention_ids": []
+      },
+      "019": {
+        "type": "heading",
+        "text": "JR美祢線の復旧について",
+        "mention_ids": [
+          "M016",
+          "M017"
+        ]
+      },
+      "020": {
+        "text": "(問)",
+        "mention_ids": []
+      },
+      "021": {
+        "text": "もう1点。",
+        "mention_ids": []
+      },
+      "022": {
+        "text": "大雨で橋梁が流されたJR美祢(みね)線についてですけれど、先週の13日に山口県知事が大臣を訪ねてきて、復旧に向けた要望書を渡していますけれど、その時にどのようなやりとりがあったのか、お聞かせいただけないでしょうか。",
+        "mention_ids": [
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022"
+        ]
+      },
+      "023": {
+        "text": "　(答)",
+        "mention_ids": []
+      },
+      "024": {
+        "text": "6月29日(木)からの大雨により、JR美祢線では、橋梁倒壊や土砂流入等の被害が発生し、今、全線で不通となっています。",
+        "mention_ids": [
+          "M023",
+          "M024"
+        ]
+      },
+      "025": {
+        "text": "今回の被害を受けて、7月13日(木)に、山口県の村岡(むらおか)知事をはじめとする御地元の方々から、今回の被災が路線の存廃の議論に結び付くことがないようにすることや、早期完全復旧に向けた財政支援などの御要望がありました。",
+        "mention_ids": [
+          "M025",
+          "M026"
+        ]
+      },
+      "026": {
+        "text": "これを踏まえ、私からは、地域に寄り添った対応をするよう、JR西日本に指導している旨、お伝えしたところです。",
+        "mention_ids": [
+          "M027",
+          "M028"
+        ]
+      },
+      "027": {
+        "text": "いずれにしても、国土交通省としては、まずはJR西日本の被災状況の調査結果を把握した上で、適切に対応していきたいと考えています。",
+        "mention_ids": [
+          "M029",
+          "M030"
+        ]
+      },
+      "028": {
+        "type": "heading",
+        "text": "大雨の被害状況および今後の対応について",
+        "mention_ids": []
+      },
+      "029": {
+        "text": "(記者)",
+        "mention_ids": []
+      },
+      "030": {
+        "text": "秋田県では12日からの記録的な大雨で、秋田市(あきたし)中心部を含めて広い範囲で中小河川の氾濫や住宅浸水が相次ぎました。",
+        "mention_ids": [
+          "M031",
+          "M032"
+        ]
+      },
+      "031": {
+        "text": "このことに対する国土交通省としての受け止めと今後の対応についてお聞かせください。",
+        "mention_ids": [
+          "M033"
+        ]
+      },
+      "032": {
+        "text": "(大臣)",
+        "mention_ids": [
+          "M034"
+        ]
+      },
+      "033": {
+        "text": "まず、今般の豪雨により、お亡くなりになられた方とその御家族に対し、心よりお悔やみ申し上げます。",
+        "mention_ids": []
+      },
+      "034": {
+        "text": "また被災された方にお見舞いを申し上げます。",
+        "mention_ids": []
+      },
+      "035": {
+        "text": "梅雨前線の影響により、東北地方の北部を中心に記録的な大雨となっています。",
+        "mention_ids": [
+          "M035"
+        ]
+      },
+      "036": {
+        "text": "この影響により、河川については、国管理河川の雄物川(おものがわ)水系雄物川や米代川(よねしろがわ)水系米代川の無堤部で農地浸水を確認しています。",
+        "mention_ids": [
+          "M036",
+          "M037",
+          "M038",
+          "M039"
+        ]
+      },
+      "037": {
+        "text": "また、秋田県管理河川では、秋田市の市街地の近くを流れる雄物川水系太平(たいへい)川がわなど5水系15河川で氾濫による被害が発生しています。",
+        "mention_ids": [
+          "M040",
+          "M041",
+          "M042",
+          "M043"
+        ]
+      },
+      "038": {
+        "text": "また、秋田市を始め、内水被害が発生しています。",
+        "mention_ids": [
+          "M044"
+        ]
+      },
+      "039": {
+        "text": "現在被害状況を調査中です。",
+        "mention_ids": []
+      },
+      "040": {
+        "text": "土砂災害については、秋田県で2件発生しており、そのうち秋田市では、土砂崩れにより人的被害が発生したと報告を受けています。",
+        "mention_ids": [
+          "M045",
+          "M046"
+        ]
+      },
+      "041": {
+        "text": "現在、秋田県が全容把握にあたっているところです。",
+        "mention_ids": [
+          "M047"
+        ]
+      },
+      "042": {
+        "text": "道路については、本日午前7時時点で、被災により秋田県の県道では22区間で通行止めとなっています。",
+        "mention_ids": [
+          "M048"
+        ]
+      },
+      "043": {
+        "text": "今後、道路の早期復旧や支援に努めていきます。",
+        "mention_ids": []
+      },
+      "044": {
+        "text": "鉄道については、本日午前7時時点で、1事業者4路線で運転を見合わせています。",
+        "mention_ids": []
+      },
+      "045": {
+        "text": "秋田新幹線については、15日から終日運転を見合わせています。",
+        "mention_ids": [
+          "M049"
+        ]
+      },
+      "046": {
+        "text": "引き続き、事業者と連携し、まずは、施設の状況把握に努めていきます。",
+        "mention_ids": []
+      },
+      "047": {
+        "text": "国土交通省としては、防災ヘリ等による調査や海上保安庁巡視船による給水支援を行うとともに、自治体へのリエゾンやJETT(ジェット)、災害対策車両の派遣を行っています。",
+        "mention_ids": [
+          "M050",
+          "M051",
+          "M052"
+        ]
+      },
+      "048": {
+        "text": "そして被害の全容把握と被災自治体の支援にあたっているところです。",
+        "mention_ids": []
+      },
+      "049": {
+        "text": "引き続き、被災地の早期復旧・復興に向け、地域に寄り添いながら、現場力を最大限発揮し、全力で対応していきます。",
+        "mention_ids": []
+      },
+      "050": {
+        "text": "また、今日以降、再び梅雨前線の活動が活発となり、東北地方では大雨となる恐れがありますので、引き続き、地元自治体や気象台から発表される避難情報や気象情報に留意いただきますようお願いします。",
+        "mention_ids": [
+          "M053"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          4
+        ],
+        "text": "名古屋港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "002",
+        "span": [
+          5,
+          14
+        ],
+        "text": "コンテナターミナル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M003": {
+        "sentence_id": "006",
+        "span": [
+          0,
+          4
+        ],
+        "text": "名古屋港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "007",
+        "span": [
+          22,
+          27
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "007",
+        "span": [
+          68,
+          81
+        ],
+        "text": "サイバーセキュリティ基本法",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M006": {
+        "sentence_id": "007",
+        "span": [
+          94,
+          103
+        ],
+        "text": "経済安全保障推進法",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M007": {
+        "sentence_id": "008",
+        "span": [
+          1,
+          3
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "009",
+        "span": [
+          6,
+          10
+        ],
+        "text": "名古屋港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "009",
+        "span": [
+          11,
+          20
+        ],
+        "text": "コンテナターミナル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "009",
+        "span": [
+          32,
+          37
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "011",
+        "span": [
+          32,
+          45
+        ],
+        "text": "サイバーセキュリティ基本法",
+        "entity_type": "PRO",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "011",
+        "span": [
+          46,
+          55
+        ],
+        "text": "経済安全保障推進法",
+        "entity_type": "PRO",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "015",
+        "span": [
+          1,
+          3
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "017",
+        "span": [
+          11,
+          15
+        ],
+        "text": "名古屋港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "017",
+        "span": [
+          37,
+          46
+        ],
+        "text": "コンテナターミナル",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "019",
+        "span": [
+          0,
+          2
+        ],
+        "text": "JR",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "019",
+        "span": [
+          2,
+          5
+        ],
+        "text": "美祢線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "022",
+        "span": [
+          10,
+          12
+        ],
+        "text": "JR",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "022",
+        "span": [
+          12,
+          19
+        ],
+        "text": "美祢(みね)線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "022",
+        "span": [
+          36,
+          39
+        ],
+        "text": "山口県",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "022",
+        "span": [
+          39,
+          41
+        ],
+        "text": "知事",
+        "entity_type": "NOMINAL",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "022",
+        "span": [
+          42,
+          44
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "024",
+        "span": [
+          17,
+          19
+        ],
+        "text": "JR",
+        "entity_type": "ORG",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "024",
+        "span": [
+          19,
+          22
+        ],
+        "text": "美祢線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "025",
+        "span": [
+          20,
+          23
+        ],
+        "text": "山口県",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "025",
+        "span": [
+          24,
+          32
+        ],
+        "text": "村岡(むらおか)",
+        "entity_type": "PER",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M027": {
+        "sentence_id": "026",
+        "span": [
+          7,
+          8
+        ],
+        "text": "私",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M028": {
+        "sentence_id": "026",
+        "span": [
+          28,
+          33
+        ],
+        "text": "JR西日本",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "027",
+        "span": [
+          8,
+          13
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M030": {
+        "sentence_id": "027",
+        "span": [
+          21,
+          26
+        ],
+        "text": "JR西日本",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M031": {
+        "sentence_id": "030",
+        "span": [
+          0,
+          3
+        ],
+        "text": "秋田県",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M032": {
+        "sentence_id": "030",
+        "span": [
+          19,
+          28
+        ],
+        "text": "秋田市(あきたし)",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M033": {
+        "sentence_id": "031",
+        "span": [
+          8,
+          13
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M034": {
+        "sentence_id": "032",
+        "span": [
+          1,
+          3
+        ],
+        "text": "大臣",
+        "entity_type": "NOMINAL",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M035": {
+        "sentence_id": "035",
+        "span": [
+          11,
+          15
+        ],
+        "text": "東北地方",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M036": {
+        "sentence_id": "036",
+        "span": [
+          22,
+          32
+        ],
+        "text": "雄物川(おものがわ)",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M037": {
+        "sentence_id": "036",
+        "span": [
+          34,
+          37
+        ],
+        "text": "雄物川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M038": {
+        "sentence_id": "036",
+        "span": [
+          38,
+          49
+        ],
+        "text": "米代川(よねしろがわ)",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M039": {
+        "sentence_id": "036",
+        "span": [
+          51,
+          54
+        ],
+        "text": "米代川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M040": {
+        "sentence_id": "037",
+        "span": [
+          3,
+          6
+        ],
+        "text": "秋田県",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M041": {
+        "sentence_id": "037",
+        "span": [
+          13,
+          16
+        ],
+        "text": "秋田市",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M042": {
+        "sentence_id": "037",
+        "span": [
+          27,
+          30
+        ],
+        "text": "雄物川",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M043": {
+        "sentence_id": "037",
+        "span": [
+          32,
+          43
+        ],
+        "text": "太平(たいへい)川がわ",
+        "entity_type": "LOC-RIVER",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M044": {
+        "sentence_id": "038",
+        "span": [
+          3,
+          6
+        ],
+        "text": "秋田市",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M045": {
+        "sentence_id": "040",
+        "span": [
+          10,
+          13
+        ],
+        "text": "秋田県",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M046": {
+        "sentence_id": "040",
+        "span": [
+          27,
+          30
+        ],
+        "text": "秋田市",
+        "entity_type": "LOC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M047": {
+        "sentence_id": "041",
+        "span": [
+          3,
+          6
+        ],
+        "text": "秋田県",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M048": {
+        "sentence_id": "042",
+        "span": [
+          23,
+          26
+        ],
+        "text": "秋田県",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M049": {
+        "sentence_id": "045",
+        "span": [
+          0,
+          5
+        ],
+        "text": "秋田新幹線",
+        "entity_type": "FAC-LINE",
+        "entity_id": "E018",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M050": {
+        "sentence_id": "047",
+        "span": [
+          0,
+          5
+        ],
+        "text": "国土交通省",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M051": {
+        "sentence_id": "047",
+        "span": [
+          21,
+          26
+        ],
+        "text": "海上保安庁",
+        "entity_type": "ORG",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M052": {
+        "sentence_id": "047",
+        "span": [
+          54,
+          64
+        ],
+        "text": "JETT(ジェット)",
+        "entity_type": "ORG",
+        "entity_id": "E020",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M053": {
+        "sentence_id": "050",
+        "span": [
+          24,
+          28
+        ],
+        "text": "東北地方",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M003",
+          "M008",
+          "M014"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1189542",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.03333333",
+          "136.85"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M009",
+          "M015"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M004",
+          "M010",
+          "M029",
+          "M033",
+          "M050"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1376196",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.6759842",
+          "139.7502087"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M011"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q20044461",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%9F%BA%E6%9C%AC%E6%B3%95",
+          "wikidata_country": "http://www.wikidata.org/entity/Q951841"
+        }
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M006",
+          "M012"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q112784674",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88%E6%96%BD%E7%AD%96%E3%82%92%E4%B8%80%E4%BD%93%E7%9A%84%E3%81%AB%E8%AC%9B%E3%81%9A%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%82%88%E3%82%8B%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E3%81%AE%E7%A2%BA%E4%BF%9D%E3%81%AE%E6%8E%A8%E9%80%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M007",
+          "M013",
+          "M022",
+          "M027",
+          "M034"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q926287",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E9%89%84%E5%A4%AB"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M016",
+          "M018",
+          "M023"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q864495",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/JR",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M017",
+          "M019",
+          "M024"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q898907",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%BE%8E%E7%A5%A2%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/1843090",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M020",
+          "M025"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q127264",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4016543",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.186111111",
+          "131.470277777"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M021",
+          "M026"
+        ],
+        "entity_type_merged": "PER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q15830756",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%91%E5%B2%A1%E5%97%A3%E6%94%BF"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M028",
+          "M030"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q502125",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%97%A5%E6%9C%AC%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+          "openstreetmap": "https://www.openstreetmap.org/relation/6050653",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M031",
+          "M040",
+          "M045",
+          "M047",
+          "M048"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q81863",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E7%9C%8C",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3791413",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.718611111",
+          "140.1025"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M032",
+          "M041",
+          "M044",
+          "M046"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17139",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/4117549",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.719888888",
+          "140.102583333"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M035",
+          "M053"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q129465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.9",
+          "140.67"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M036",
+          "M037",
+          "M042"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1513968",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9B%84%E7%89%A9%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3880849",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.6914",
+          "140.0606"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M038",
+          "M039"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11603978",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%B1%B3%E4%BB%A3%E5%B7%9D",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3900432",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "40.222",
+          "140.0032"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M043"
+        ],
+        "entity_type_merged": "LOC-RIVER",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q34906404",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "39.704166666",
+          "140.107777777"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M049"
+        ],
+        "entity_type_merged": "FAC-LINE",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q220696",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E7%94%B0%E6%96%B0%E5%B9%B9%E7%B7%9A",
+          "openstreetmap": "https://www.openstreetmap.org/relation/5361971",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M051"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q565418",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E4%B8%8A%E4%BF%9D%E5%AE%89%E5%BA%81",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E020": {
+        "member_mention_ids": [
+          "M052"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "https://www.jma.go.jp/jma/kishou/intro/gyomu/index_jett.html"
+        }
+      }
+    }
+  }
+}

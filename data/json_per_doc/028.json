@@ -1,0 +1,2190 @@
+{
+  "028-1": {
+    "metainfo": {
+      "src_date": "20220831",
+      "src_url": "https://www.mlit.go.jp/sogoseisaku/transport/content/001485343.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000129.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "doc_title",
+        "text": "令和4年版交通政策白書　第I部　第3章　第4節　航空交通　(1)航空交通ネットワーク",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "002": {
+        "type": "title",
+        "text": "a.空港の整備状況",
+        "mention_ids": []
+      },
+      "003": {
+        "text": "我が国の空港は、拠点空港(国際航空輸送ネットワーク又は国内航空輸送ネットワークの拠点となる空港)、地方管理空港(国際航空輸送ネットワーク又は国内航空輸送ネットワークを形成する上で重要な役割を果たす空港)の大きく2類型に分類され、空港数の合計は82である。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "その他の空港や自衛隊等が設置・管理する共用空港も加えると、我が国全体の空港数は97である。",
+        "mention_ids": [
+          "M003",
+          "M004"
+        ]
+      },
+      "005": {
+        "text": "航空ネットワークの充実に向けて空港の整備が着実に進められてきた結果として、我が国の全人口のうち、最寄りの空港までのアクセス所要時間が2時間以内となっている人の割合はほぼ100%となっており、配置的な側面からは「整備」が概成している。",
+        "mention_ids": [
+          "M005"
+        ]
+      },
+      "006": {
+        "text": "地方部も含めて全国各地に空港が配置されていることは、ゴールデンルートに集中する訪日外国人旅行者の観光需要の地方への分散を図る上でも有意義である。",
+        "mention_ids": [
+          "M006"
+        ]
+      },
+      "007": {
+        "text": "その上で、東アジア地域における空港整備の進展による空港間競争の激化をはじめ、空港利用者のニーズの多様化や高質化等に伴い、我が国の空港政策は「整備」から「運営」へ方針をシフトし、更なる利便性の向上や効率的な空港運営を行うことが求められている。",
+        "mention_ids": [
+          "M007",
+          "M008"
+        ]
+      },
+      "008": {
+        "text": "こうした中、2013(平成25)年6月に成立した「民間の能力を活用した国管理空港等の運営等に関する法律(平成25年法律第67号。民活空港運営法)」等を活用し、地域の実情を踏まえつつ民間の能力の活用等を通じた空港経営改革を推進し、空港を活用した内外の交流人口拡大等による地域活性化を図っていくこととしている。",
+        "mention_ids": [
+          "M009",
+          "M010"
+        ]
+      },
+      "009": {
+        "text": "関西国際空港及び大阪国際空港については2016年4月から運営委託を開始しており、仙台空港については2016年7月から、高松空港、神戸空港については2018年4月から、鳥取空港については2018年7月から、福岡空港、静岡空港、南紀白浜空港については2019年4月から、熊本空港については2020年4月から、北海道内7空港については2020年6月から順次、広島空港については2021年7月から、それぞれコンセッション方式による運営委託を開始した。",
+        "mention_ids": [
+          "M011",
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          0,
+          11
+        ],
+        "text": "令和4年版交通政策白書",
+        "entity_type": "PRO",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          7,
+          10
+        ],
+        "text": "自衛隊",
+        "entity_type": "ORG",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          29,
+          32
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M005": {
+        "sentence_id": "005",
+        "span": [
+          37,
+          40
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "006",
+        "span": [
+          40,
+          41
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "007",
+        "span": [
+          5,
+          11
+        ],
+        "text": "東アジア地域",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M008": {
+        "sentence_id": "007",
+        "span": [
+          60,
+          63
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M009": {
+        "sentence_id": "008",
+        "span": [
+          11,
+          13
+        ],
+        "text": "平成",
+        "entity_type": "TIME",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M010": {
+        "sentence_id": "008",
+        "span": [
+          25,
+          72
+        ],
+        "text": "民間の能力を活用した国管理空港等の運営等に関する法律(平成25年法律第67号。民活空港運営法)",
+        "entity_type": "PRO",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "009",
+        "span": [
+          0,
+          6
+        ],
+        "text": "関西国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "009",
+        "span": [
+          8,
+          14
+        ],
+        "text": "大阪国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M013": {
+        "sentence_id": "009",
+        "span": [
+          40,
+          44
+        ],
+        "text": "仙台空港",
+        "entity_type": "FAC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "009",
+        "span": [
+          59,
+          63
+        ],
+        "text": "高松空港",
+        "entity_type": "FAC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M015": {
+        "sentence_id": "009",
+        "span": [
+          64,
+          68
+        ],
+        "text": "神戸空港",
+        "entity_type": "FAC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M016": {
+        "sentence_id": "009",
+        "span": [
+          83,
+          87
+        ],
+        "text": "鳥取空港",
+        "entity_type": "FAC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          102,
+          106
+        ],
+        "text": "福岡空港",
+        "entity_type": "FAC",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          107,
+          111
+        ],
+        "text": "静岡空港",
+        "entity_type": "FAC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "009",
+        "span": [
+          112,
+          118
+        ],
+        "text": "南紀白浜空港",
+        "entity_type": "FAC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M020": {
+        "sentence_id": "009",
+        "span": [
+          133,
+          137
+        ],
+        "text": "熊本空港",
+        "entity_type": "FAC",
+        "entity_id": "E016",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "009",
+        "span": [
+          152,
+          155
+        ],
+        "text": "北海道",
+        "entity_type": "LOC",
+        "entity_id": "E017",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "009",
+        "span": [
+          156,
+          159
+        ],
+        "text": "7空港",
+        "entity_type": "NOMINAL",
+        "entity_id": "E018",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "009",
+        "span": [
+          176,
+          180
+        ],
+        "text": "広島空港",
+        "entity_type": "FAC",
+        "entity_id": "E019",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M004",
+          "M005",
+          "M006",
+          "M008"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q275488",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%87%AA%E8%A1%9B%E9%9A%8A",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q27231",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%82%A2%E3%82%B8%E3%82%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "47.210277777",
+          "102.847777777"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M009"
+        ],
+        "entity_type_merged": "TIME",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q234510",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%88%90",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M010"
+        ],
+        "entity_type_merged": "PRO",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q100587985",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%B0%91%E9%96%93%E3%81%AE%E8%83%BD%E5%8A%9B%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%9B%BD%E7%AE%A1%E7%90%86%E7%A9%BA%E6%B8%AF%E7%AD%89%E3%81%AE%E9%81%8B%E5%96%B6%E7%AD%89%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%95%E5%BE%8B",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M011"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q193682",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9436735",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.430555555",
+          "135.230277777"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1046748",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/322793339",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.785527777",
+          "135.438222222"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M013"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1054857",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%BB%99%E5%8F%B0%E7%A9%BA%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "38.139722222",
+          "140.916944444"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1334603",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/223240147",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.214166666",
+          "134.015555555"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q741372",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/772669000",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.632777777",
+          "135.223888888"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1433078",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%8F%96%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/57010905",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.53",
+          "134.1625"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1137465",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/529445584",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.584444444",
+          "130.451666666"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1209993",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/57007443",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.796111111",
+          "138.189444444"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1064050",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8D%97%E7%B4%80%E7%99%BD%E6%B5%9C%E7%A9%BA%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "33.662222222",
+          "135.364444444"
+        ]
+      },
+      "E016": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1199773",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/57014851",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "32.837222222",
+          "130.855277777"
+        ]
+      },
+      "E017": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": false,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q1037393",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3795658",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "43.064333333",
+          "141.346888888"
+        ]
+      },
+      "E018": {
+        "member_mention_ids": [
+          "M022"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E019": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q82240",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/57010613",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.436111111",
+          "132.919444444"
+        ]
+      }
+    }
+  },
+  "028-2": {
+    "metainfo": {
+      "src_date": "20220831",
+      "src_url": "https://www.mlit.go.jp/sogoseisaku/transport/content/001485343.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000129.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "b.首都圏空港(東京国際空港及び成田国際空港)の航空ネットワーク",
+        "mention_ids": [
+          "M001",
+          "M002",
+          "M003"
+        ]
+      },
+      "002": {
+        "text": "首都圏空港は、訪日外国人の増加、産業・都市の競争力強化及び日本全国の地域活性化を図るため、機能向上が図られてきている。",
+        "mention_ids": [
+          "M004",
+          "M005",
+          "M006",
+          "M007"
+        ]
+      },
+      "003": {
+        "text": "首都圏空港は、国内線旅客数の31%、国内航空貨物の40%を占めており、国内航空輸送ネットワークの中核となっているとともに、我が国を発着する国際線旅客数の63%、国際航空貨物の73%を占めており、我が国最大の国際ゲートウェイとして役割を果たすなど、日本の経済活動に不可欠な社会基盤として機能している。",
+        "mention_ids": [
+          "M008",
+          "M009",
+          "M010",
+          "M011"
+        ]
+      },
+      "004": {
+        "text": "総発着回数について、首都圏空港は年間合計発着容量の83万回化の達成により、アジア諸国の主要空港と比較するとトップとなっているが、欧米の主要空港では年間合計発着回数が100万回を超えているところもある。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014"
+        ]
+      },
+      "005": {
+        "text": "国際線就航都市数について、新型コロナウイルス感染症の影響を受け、全世界的に減少しているところ、首都圏空港は69都市となっており、アジア諸国の主要空港のうち、香港(55都市)、北京(27都市)、上海(31都市)より多いが、ソウル(88都市)、シンガポール(74都市)より少ない。",
+        "mention_ids": [
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "006": {
+        "text": "国際航空旅客輸送量について、首都圏空港はアジアの主要4空港と比較すると、輸送量では3位である。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024"
+        ]
+      },
+      "007": {
+        "text": "国際航空貨物取扱量について、成田国際空港と世界の主要空港を比較すると、成田国際空港の取扱量は世界で7位(2020年)であり、ここ数年、上海、台湾等の空港が取扱量を伸ばしている中で、横ばいを続けている。",
+        "mention_ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028"
+        ]
+      },
+      "008": {
+        "text": "一方で、東京国際空港の取扱量は、成田国際空港に比べて少ないものの、近年は増加傾向にある。",
+        "mention_ids": [
+          "M029",
+          "M030"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "001",
+        "span": [
+          2,
+          7
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M002": {
+        "sentence_id": "001",
+        "span": [
+          8,
+          14
+        ],
+        "text": "東京国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "001",
+        "span": [
+          16,
+          22
+        ],
+        "text": "成田国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "002",
+        "span": [
+          0,
+          5
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "002",
+        "span": [
+          8,
+          9
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "002",
+        "span": [
+          29,
+          31
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "002",
+        "span": [
+          31,
+          33
+        ],
+        "text": "全国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "003",
+        "span": [
+          0,
+          5
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "003",
+        "span": [
+          61,
+          64
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "003",
+        "span": [
+          97,
+          100
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M011": {
+        "sentence_id": "003",
+        "span": [
+          123,
+          125
+        ],
+        "text": "日本",
+        "entity_type": "LOC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M012": {
+        "sentence_id": "004",
+        "span": [
+          10,
+          15
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "004",
+        "span": [
+          37,
+          42
+        ],
+        "text": "アジア諸国",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "004",
+        "span": [
+          64,
+          66
+        ],
+        "text": "欧米",
+        "entity_type": "LOC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "005",
+        "span": [
+          47,
+          52
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "005",
+        "span": [
+          64,
+          69
+        ],
+        "text": "アジア諸国",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "005",
+        "span": [
+          78,
+          80
+        ],
+        "text": "香港",
+        "entity_type": "LOC",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M018": {
+        "sentence_id": "005",
+        "span": [
+          87,
+          89
+        ],
+        "text": "北京",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M019": {
+        "sentence_id": "005",
+        "span": [
+          96,
+          98
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "005",
+        "span": [
+          110,
+          113
+        ],
+        "text": "ソウル",
+        "entity_type": "LOC",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "005",
+        "span": [
+          120,
+          126
+        ],
+        "text": "シンガポール",
+        "entity_type": "LOC",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M022": {
+        "sentence_id": "006",
+        "span": [
+          14,
+          19
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M023": {
+        "sentence_id": "006",
+        "span": [
+          20,
+          23
+        ],
+        "text": "アジア",
+        "entity_type": "LOC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "006",
+        "span": [
+          26,
+          29
+        ],
+        "text": "4空港",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M025": {
+        "sentence_id": "007",
+        "span": [
+          14,
+          20
+        ],
+        "text": "成田国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "007",
+        "span": [
+          35,
+          41
+        ],
+        "text": "成田国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "007",
+        "span": [
+          67,
+          69
+        ],
+        "text": "上海",
+        "entity_type": "LOC",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M028": {
+        "sentence_id": "007",
+        "span": [
+          70,
+          72
+        ],
+        "text": "台湾",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M029": {
+        "sentence_id": "008",
+        "span": [
+          4,
+          10
+        ],
+        "text": "東京国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M030": {
+        "sentence_id": "008",
+        "span": [
+          16,
+          22
+        ],
+        "text": "成田国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M004",
+          "M008",
+          "M012",
+          "M015",
+          "M022",
+          "M024"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M002",
+          "M029"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q204853",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/322815282",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.553333333",
+          "139.781111111"
+        ]
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M003",
+          "M025",
+          "M026",
+          "M030"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q36454",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3182579",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.7649",
+          "140.38845"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M005",
+          "M006",
+          "M007",
+          "M009",
+          "M010",
+          "M011"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M013",
+          "M016",
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "coordinate": [
+          "43.681111111",
+          "87.331111111"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11544940",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E7%B1%B3"
+        }
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M017"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8646",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/913110",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "22.278333333",
+          "114.158611111"
+        ]
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M018"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q956",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/912940",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "39.90403",
+          "116.407526"
+        ]
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M019",
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8686",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/913067",
+          "wikidata_country": "http://www.wikidata.org/entity/Q148"
+        },
+        "coordinate": [
+          "31.166666666",
+          "121.466666666"
+        ]
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8684",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6%E3%83%AB%E7%89%B9%E5%88%A5%E5%B8%82",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2297418",
+          "wikidata_country": "http://www.wikidata.org/entity/Q884"
+        },
+        "coordinate": [
+          "37.56",
+          "126.99"
+        ]
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q334",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB",
+          "openstreetmap": "https://www.openstreetmap.org/relation/536780",
+          "wikidata_country": "http://www.wikidata.org/entity/Q334"
+        },
+        "coordinate": [
+          "1.3",
+          "103.8"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M028"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q865",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/449220",
+          "wikidata_country": "http://www.wikidata.org/entity/Q865"
+        },
+        "coordinate": [
+          "24.0",
+          "121.0"
+        ]
+      }
+    }
+  },
+  "028-3": {
+    "metainfo": {
+      "src_date": "20220831",
+      "src_url": "https://www.mlit.go.jp/sogoseisaku/transport/content/001485343.pdf",
+      "src_parent_url": "https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000129.html"
+    },
+    "sentences": {
+      "001": {
+        "type": "title",
+        "text": "c.航空ネットワークの拡大",
+        "mention_ids": []
+      },
+      "002": {
+        "type": "heading",
+        "text": "1　航空自由化の戦略的推進による我が国の国際航空網の拡充",
+        "mention_ids": [
+          "M001"
+        ]
+      },
+      "003": {
+        "text": "　世界的な航空自由化[3]の動向に対応しつつ、我が国の国際航空網の拡充を図るため、航空自由化を推進中である。",
+        "mention_ids": [
+          "M002"
+        ]
+      },
+      "004": {
+        "text": "我が国の航空自由化は、首都圏空港の厳しい容量制約を背景に、成田空港からの第3国輸送と羽田空港を対象外とするほか一部制約が残るが、関西国際空港や中部国際空港における国際旅客便の大幅な伸びを背景に、我が国を発着する国際旅客便数は2010年から2019年までの間におよそ2倍に増加している。",
+        "mention_ids": [
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009"
+        ]
+      },
+      "005": {
+        "text": "一方で、2021年の国際旅客便数については、2020年に引き続き、新型コロナウイルス感染症の感染拡大の影響により大幅に減少しているところであり、国際航空網の更なる拡充を図る上で、まずは感染拡大防止と両立する形での国際航空網の回復を図る必要がある。",
+        "mention_ids": []
+      },
+      "006": {
+        "type": "supplement:footnote",
+        "text": "3　航空会社の新規参入や増便、航空会社間の競争促進による運賃低下等のサービス水準の向上を図るため、国際航空輸送における企業数、路線及び便数に係る制約を二カ国間で相互に撤廃することをいう。",
+        "mention_ids": [
+          "M010"
+        ]
+      },
+      "007": {
+        "type": "heading",
+        "text": "2　グローバルアライアンス",
+        "mention_ids": [
+          "M011"
+        ]
+      },
+      "008": {
+        "text": "アメリカが航空自由化の考え方を打ち出し、1つの定期航空便に複数の航空会社の便名を付与して運航するコードシェアが可能になったことを契機として、1990年代から2000年にかけて、現在の3つのグローバルアライアンス(スターアライアンス、スカイチーム、ワンワールド)が発足した。",
+        "mention_ids": [
+          "M012",
+          "M013",
+          "M014",
+          "M015",
+          "M016"
+        ]
+      },
+      "009": {
+        "text": "これらのアライアンスには、世界の主要な航空会社が多数参加しており、各アライアンスは、ターミナルの共通化、マイレージプログラムなどで戦略的な提携を深め、近年では提携の域を超えた共同事業も行うことにより、航空ネットワークを充実させるとともに、旅客利便性の向上と競争力強化を図ってきている。",
+        "mention_ids": [
+          "M017",
+          "M018"
+        ]
+      },
+      "010": {
+        "type": "heading",
+        "text": "3　LCC",
+        "mention_ids": []
+      },
+      "011": {
+        "text": "LCC(Low　Cost　Carrier)とは、低コストかつ高頻度の運航を行うことで低運賃の航空サービスを提供する航空会社のことである。",
+        "mention_ids": []
+      },
+      "012": {
+        "text": "米国及びEUでは、1970年代又は80年代に始まった航空規制緩和を契機に設立、東南アジアでは、2000年代の経済成長や個人所得上昇に伴う航空需要の増加を背景に成長するなど、世界各地でシェアを伸ばしてきた。",
+        "mention_ids": [
+          "M019",
+          "M020",
+          "M021"
+        ]
+      },
+      "013": {
+        "text": "我が国では、LCC元年と呼ばれる2012年以降、伸び悩みが予測される国内航空市場において、これまでに顕在しなかった旅客需要を開拓することや、アジア地域等をはじめとする海外からの訪日外国人旅行客を新たに喚起し、我が国の国際航空市場の成長に大きく貢献することが期待されている。",
+        "mention_ids": [
+          "M022",
+          "M023",
+          "M024",
+          "M025"
+        ]
+      },
+      "014": {
+        "text": "これらを踏まえて、LCCの新規参入促進を図るべく、航空自由化の推進やLCC用旅客ターミナルの整備等の環境整備が進められてきたが、2020年は新型コロナウイルス感染症の影響を受け、利用者数は大幅に減少した。",
+        "mention_ids": []
+      },
+      "015": {
+        "text": "我が国には以前より外国LCCが多数乗り入れているが、本邦LCCは、2012年から事業を開始しており、2021年冬ダイヤ当初計画時点では、4社により、国内線53路線、国際線14路線が運航されている。",
+        "mention_ids": [
+          "M026",
+          "M027"
+        ]
+      }
+    },
+    "mentions": {
+      "M001": {
+        "sentence_id": "002",
+        "span": [
+          16,
+          19
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M002": {
+        "sentence_id": "003",
+        "span": [
+          23,
+          26
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M003": {
+        "sentence_id": "004",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M004": {
+        "sentence_id": "004",
+        "span": [
+          11,
+          16
+        ],
+        "text": "首都圏空港",
+        "entity_type": "FAC",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M005": {
+        "sentence_id": "004",
+        "span": [
+          29,
+          33
+        ],
+        "text": "成田空港",
+        "entity_type": "FAC",
+        "entity_id": "E003",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M006": {
+        "sentence_id": "004",
+        "span": [
+          42,
+          46
+        ],
+        "text": "羽田空港",
+        "entity_type": "FAC",
+        "entity_id": "E004",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M007": {
+        "sentence_id": "004",
+        "span": [
+          64,
+          70
+        ],
+        "text": "関西国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E005",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M008": {
+        "sentence_id": "004",
+        "span": [
+          71,
+          77
+        ],
+        "text": "中部国際空港",
+        "entity_type": "FAC",
+        "entity_id": "E006",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M009": {
+        "sentence_id": "004",
+        "span": [
+          97,
+          100
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M010": {
+        "sentence_id": "006",
+        "span": [
+          75,
+          78
+        ],
+        "text": "二カ国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E002",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false
+      },
+      "M011": {
+        "sentence_id": "007",
+        "span": [
+          2,
+          13
+        ],
+        "text": "グローバルアライアンス",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M012": {
+        "sentence_id": "008",
+        "span": [
+          0,
+          4
+        ],
+        "text": "アメリカ",
+        "entity_type": "LOC",
+        "entity_id": "E008",
+        "metonymic_entity_type": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M013": {
+        "sentence_id": "008",
+        "span": [
+          94,
+          105
+        ],
+        "text": "グローバルアライアンス",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M014": {
+        "sentence_id": "008",
+        "span": [
+          106,
+          115
+        ],
+        "text": "スターアライアンス",
+        "entity_type": "ORG",
+        "entity_id": "E009",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M015": {
+        "sentence_id": "008",
+        "span": [
+          116,
+          122
+        ],
+        "text": "スカイチーム",
+        "entity_type": "ORG",
+        "entity_id": "E010",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M016": {
+        "sentence_id": "008",
+        "span": [
+          123,
+          129
+        ],
+        "text": "ワンワールド",
+        "entity_type": "ORG",
+        "entity_id": "E011",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M017": {
+        "sentence_id": "009",
+        "span": [
+          4,
+          10
+        ],
+        "text": "アライアンス",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M018": {
+        "sentence_id": "009",
+        "span": [
+          34,
+          40
+        ],
+        "text": "アライアンス",
+        "entity_type": "NOMINAL",
+        "entity_id": "E007",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M019": {
+        "sentence_id": "012",
+        "span": [
+          0,
+          2
+        ],
+        "text": "米国",
+        "entity_type": "LOC",
+        "entity_id": "E012",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M020": {
+        "sentence_id": "012",
+        "span": [
+          4,
+          6
+        ],
+        "text": "EU",
+        "entity_type": "ORG",
+        "entity_id": "E013",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M021": {
+        "sentence_id": "012",
+        "span": [
+          39,
+          44
+        ],
+        "text": "東南アジア",
+        "entity_type": "LOC",
+        "entity_id": "E014",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M022": {
+        "sentence_id": "013",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M023": {
+        "sentence_id": "013",
+        "span": [
+          70,
+          75
+        ],
+        "text": "アジア地域",
+        "entity_type": "LOC",
+        "entity_id": "E015",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false
+      },
+      "M024": {
+        "sentence_id": "013",
+        "span": [
+          89,
+          90
+        ],
+        "text": "日",
+        "entity_type": "LOC",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M025": {
+        "sentence_id": "013",
+        "span": [
+          104,
+          107
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M026": {
+        "sentence_id": "015",
+        "span": [
+          0,
+          3
+        ],
+        "text": "我が国",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      },
+      "M027": {
+        "sentence_id": "015",
+        "span": [
+          26,
+          28
+        ],
+        "text": "本邦",
+        "entity_type": "NOMINAL",
+        "entity_id": "E001",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true
+      }
+    },
+    "entities": {
+      "E001": {
+        "member_mention_ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M009",
+          "M022",
+          "M024",
+          "M025",
+          "M026",
+          "M027"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q17",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC",
+          "openstreetmap": "https://www.openstreetmap.org/relation/382313",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.0",
+          "136.0"
+        ]
+      },
+      "E002": {
+        "member_mention_ids": [
+          "M004",
+          "M010"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": false,
+        "has_jawiki_ref": false,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "other": "MULTI"
+        }
+      },
+      "E003": {
+        "member_mention_ids": [
+          "M005"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q36454",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/3182579",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.7649",
+          "140.38845"
+        ]
+      },
+      "E004": {
+        "member_mention_ids": [
+          "M006"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q204853",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/way/322815282",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "35.553333333",
+          "139.781111111"
+        ]
+      },
+      "E005": {
+        "member_mention_ids": [
+          "M007"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q193682",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "openstreetmap": "https://www.openstreetmap.org/relation/9436735",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.430555555",
+          "135.230277777"
+        ]
+      },
+      "E006": {
+        "member_mention_ids": [
+          "M008"
+        ],
+        "entity_type_merged": "FAC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q679345",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%83%A8%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF",
+          "wikidata_country": "http://www.wikidata.org/entity/Q17"
+        },
+        "coordinate": [
+          "34.858333333",
+          "136.805277777"
+        ]
+      },
+      "E007": {
+        "member_mention_ids": [
+          "M011",
+          "M013",
+          "M017",
+          "M018"
+        ],
+        "entity_type_merged": "NOMINAL",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q465909",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E9%80%A3%E5%90%88"
+        }
+      },
+      "E008": {
+        "member_mention_ids": [
+          "M012"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48525",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        }
+      },
+      "E009": {
+        "member_mention_ids": [
+          "M014"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q189709",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9"
+        }
+      },
+      "E010": {
+        "member_mention_ids": [
+          "M015"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q212282",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0"
+        }
+      },
+      "E011": {
+        "member_mention_ids": [
+          "M016"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q8787",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89"
+        },
+        "coordinate": [
+          "32.8186436",
+          "-97.0567231"
+        ]
+      },
+      "E012": {
+        "member_mention_ids": [
+          "M019"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q30",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD",
+          "openstreetmap": "https://www.openstreetmap.org/relation/148838",
+          "wikidata_country": "http://www.wikidata.org/entity/Q30"
+        },
+        "coordinate": [
+          "39.828175",
+          "-98.5795"
+        ]
+      },
+      "E013": {
+        "member_mention_ids": [
+          "M020"
+        ],
+        "entity_type_merged": "ORG",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": true,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q458",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88",
+          "openstreetmap": "https://www.openstreetmap.org/relation/2668952",
+          "wikidata_country": "http://www.wikidata.org/entity/Q1072012"
+        },
+        "coordinate": [
+          "50.116944444",
+          "9.247777777"
+        ]
+      },
+      "E014": {
+        "member_mention_ids": [
+          "M021"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q11708",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2",
+          "wikidata_country": "http://www.wikidata.org/entity/Q819"
+        },
+        "coordinate": [
+          "12.0",
+          "105.1"
+        ]
+      },
+      "E015": {
+        "member_mention_ids": [
+          "M023"
+        ],
+        "entity_type_merged": "LOC",
+        "has_wikidata_ref": true,
+        "has_jawiki_ref": true,
+        "has_osm_ref": false,
+        "ref_type": null,
+        "ref_urls": {
+          "wikidata": "https://www.wikidata.org/wiki/Q48",
+          "ja.wikipedia": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A2"
+        },
+        "coordinate": [
+          "43.681111111",
+          "87.331111111"
+        ]
+      }
+    }
+  }
+}
