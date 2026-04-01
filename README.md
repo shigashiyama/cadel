@@ -236,16 +236,30 @@ Academic Research Non-Commercial Limited CC-BY-NC-SA Reference-Type License (See
 
 ## Change Log
 
-- 2025/01/24: The Version 1.0 has been released.
+- 2026/04/01: Added the English Citation.
+- 2025/01/24: Released Version 1.0.
 
 ## Citation
 
-Please cite the following paper.
+Please cite either the [English paper](https://arxiv.org/abs/2603.29336) or the [Japanese paper](https://ipsj.ixsq.nii.ac.jp/records/235101).
 
-Japanese bibliography:
+### English
+~~~~
+@misc{higashiyama-etal-2026-cadel,
+    title={{CADEL}: A Corpus of Administrative Web Documents for {Japanese} Entity Linking},
+    author={Shohei Higashiyama and Masao Ideuchi and Masao Utiyama},
+    year={2026},
+    eprint={2603.29336},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2603.29336}, 
+}
+~~~~
+
+### Japanese
 ~~~~
 @article{higashiyama-etal-2024-cadel,
-    author  = "東山,翔平 and 出内,将夫 and 内山,将夫",
+    author  = "東山翔平 and 出内将夫 and 内山将夫",
     title   = "日本語エンティティリンキングのための行政機関ウェブ文書コーパスの構築",
     journal = "情報処理学会研究報告",
     volume  = "2024-NL-260",
@@ -253,21 +267,6 @@ Japanese bibliography:
     pages   = "1--15",   
     year    = "2024",
     month   = "jun"
-    url     = "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=235101&item_no=1",
-}
-~~~~
-
-English bibliography:
-~~~~
-@article{higashiyama-etal-2024-cadel,
-    author  = "Shohei Higashiyama and Masao Ideuchi and Masao Utiyama",
-    title   = "Construction of the Administrative Agency Web Document Corpus for {Japanese} Entity Linking [in {Japanese}]",
-    journal = "IPSJ SIG Technical Report",
-    volume  = "2024-NL-260",
-    number  = "10",
-    pages   = "1--15",   
-    year    = "2024",
-    month   = "jun",
-    url     = "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=235101&item_no=1",
+    url     = "https://ipsj.ixsq.nii.ac.jp/records/235101",
 }
 ~~~~
