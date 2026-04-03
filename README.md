@@ -270,3 +270,10 @@ Please cite either the [English paper](https://arxiv.org/abs/2603.29336) or the 
     url     = "https://ipsj.ixsq.nii.ac.jp/records/235101",
 }
 ~~~~
+
+## Acknowledgements
+The annotation data was created by [IR-Advanced Linguistic Technologies Inc](https://ir-alt.co.jp/).
+
+## Contact
+
+Shohei Higashiyama
